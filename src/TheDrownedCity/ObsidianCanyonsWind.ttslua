@@ -1,0 +1,204 @@
+local CoroutineLib               = require("util/CoroutineLib")
+local DeckLib                    = require("util/DeckLib")
+local PlayAreaApi                = require("playarea/PlayAreaApi")
+local LocationLib                = require("LocationLib")
+
+
+local WIND_CARD_GUID_EASTERN     = "682cd3"
+local WIND_CARD_GUID_WESTERN     = "82b859"
+
+local ACT1_RIGHTMOST_POSITIONS = {
+  { x = 2,  y = 1 },
+  { x = 2,  y = -1 }
+}
+
+local ACT1_LEFTMOST_POSITIONS     = {
+  { x = -1, y = 0 },
+}
+
+local ACT1_NotRIGHTMOST_POSITIONS = { -- this has to be sorted
+  { x = 1, y = 1 },
+  { x = 1, y = -1 },
+  { x = 0, y = 1 },
+  { x = 0, y = -1 },
+  { x = -1, y = 1 }
+}
+
+local ACT1_NotLEFTMOST_POSITIONS = { -- sorted
+  { x = -1,  y = 0 },
+  { x = 0,  y = 0 },
+  { x = 1, y = 0 }
+}
+
+function onSave()
+  return JSON.encode({
+    actObsidian = actObsidian,
+    expeditionDirection = expeditionDirection,
+    windDirection = windDirection
+  })
+end
+
+function loadFromSaveTable(savedData)
+  for var, val in pairs(JSON.decode(savedData)) do
+    _G[var] = val
+  end
+end
+
+function onLoad(savedData)
+  if savedData and savedData ~= "" then
+    loadFromSaveTable(savedData)
+  else
+    actObsidian = 1
+    expeditionDirection = nil
+    windDirection = nil
+  end
+
+  self.createButton({
+    label          = "Eastern Winds blow",
+    click_function = "easternWindsBlow",
+    function_owner = self,
+    position       = { 0, 0.11, -1 },
+    height         = 150,
+    width          = 1600,
+    scale          = { x = 2, y = 2, z = 2 },
+    font_color     = { r = 0, g = 0, b = 0 },
+    color          = { r = 1, g = 1, b = 1 }
+  })
+
+  self.createButton({
+    label          = "Western Winds blow",
+    click_function = "westernWindsBlow",
+    function_owner = self,
+    position       = { 0, 0.11, 0 },
+    height         = 150,
+    width          = 1600,
+    scale          = { x = 2, y = 2, z = 2 },
+    font_color     = { r = 0, g = 0, b = 0 },
+    color          = { r = 1, g = 1, b = 1 }
+  })
+
+  self.createButton({
+    label          = "Advance to act 2",
+    click_function = "yet to",
+    function_owner = self,
+    position       = { 0, 0.11, 1 },
+    height         = 150,
+    width          = 1600,
+    scale          = { x = 2, y = 2, z = 2 },
+    font_color     = { r = 0, g = 0, b = 0 },
+    color          = { r = 1, g = 1, b = 1 }
+  })
+
+end
+
+function westernWindsBlow()
+  windDirection = 'western'
+  genericWindsBlow()
+end
+
+function genericWindsBlow()
+
+  function coroutineGenericWindsBlow()
+    -- local summitDeck = getObjectFromGUID(SUMMIT_DECK_GUID)
+
+    CoroutineLib.yieldSeconds(0.4)
+
+    if windDirection == 'western' then
+      printToAll('Western Winds blow strongly.')
+    else
+      print('NOT IMPLEMENTED')
+    end
+
+    local objs = {}
+
+    local coordinatesToRemove = {}    
+    if actObsidian == 1 then
+      coordinatesToRemove = ACT1_RIGHTMOST_POSITIONS
+    elseif actObsidian == 0 then
+      log('logic error')
+      return
+    end
+
+    -- Move cards in that place
+    for _, coords in ipairs(coordinatesToRemove) do
+      local found = LocationLib.getObjectsAt(coords)
+      for _, obj in ipairs(found) do
+        -- check if this object is a location yet
+        table.insert(objs, obj)
+      end
+    end
+
+    for _, obj in ipairs(objs) do
+      obj.highlightOn({r=1,g=1,b=0}, 5)
+      -- if object is the spire or any non movable card stop yet yo
+      if not obj.is_face_down then
+        obj.flip()
+        CoroutineLib.yieldSeconds(0.4)
+      end
+      
+      CoroutineLib.yieldSeconds(0.4)
+      DeckLib.placeOrMergeIntoDeck(obj, PlayAreaApi.gridToWorld({ x = -1.9, y = 1.7 }), { x = 0, y = 270, z = 180 }, false,
+      false, true)
+    end
+
+    -- Depending on the act, the geometry changes
+    if #coordinatesToRemove == 2 then
+      printToAll('Two locations were placed on top of the summit deck. Don\'t shuffle it')
+    elseif #coordinatesToRemove == 1 then
+      printToAll('One location was placed on top of the summit deck. Don\'t shuffle it')
+    else
+      return
+    end
+
+
+    -- Step 2
+    ------------------------------
+    -- now displace the cards
+    CoroutineLib.yieldSeconds(0.4)
+    
+    local toMove = {}
+    if actObsidian == 1 then
+      for _, coords in ipairs(ACT1_NotRIGHTMOST_POSITIONS) do
+        -- move locations and all else
+        table.insert(toMove, LocationLib.getObjectsAt(coords))
+      end
+    if actObsidian == 2 then
+      printToAll('not implemented')
+      return
+    end
+    -- Hasta aqui, los encuentra
+    end
+
+    log('20')
+
+    -- move many cards to the right
+    for _, objects in ipairs(toMove) do
+      log('21')
+      CoroutineLib.yieldSeconds(0.2)
+      local object = objects[1]
+      log(object)
+      object.highlightOn(Color.White, 0.5)
+      CoroutineLib.yieldSeconds(0.8)
+      LocationLib.moveCardInDirection(object, 'eastern') --WESTERN wind move things towards eastern
+    end
+
+    log('30')
+
+    local windCard = getObjectFromGUID(WIND_CARD_GUID_WESTERN)
+    if windCard and windCard.is_face_down then
+      windCard.flip()
+      log('FLIPPED')
+    end
+    
+    printToAll('Winds will blow eastwards')
+  end
+
+  CoroutineLib.start(coroutineGenericWindsBlow)
+
+end
+
+function easternWindsBlow()
+
+
+
+end
