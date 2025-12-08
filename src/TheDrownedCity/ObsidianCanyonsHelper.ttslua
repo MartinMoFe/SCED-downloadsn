@@ -70,7 +70,6 @@ function onLoad(savedData)
   local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
   
   if not trash then
-    printToAll("Trash not found!", "Red")
     return 
   end
 
@@ -133,10 +132,10 @@ function act1SetupGeneric(param)
     if #bag.getObjects() > 0 then
       bag.call("buttonClick_place")
     end
-
+    
+    -- Find the the summit deck and the extra open skies
     local summitDeck = nil
     local openSkiesDeck = nil
-    -- Place the summit deck and the extra open skies somewhere safe in the topleft corner area
     if expeditionDirection == 'western' then
       summitDeck = getObjectFromGUID(SUMMIT_DECK_GUID_WESTERN)
       openSkiesDeck = getObjectFromGUID(OPENSKIES_DECK_GUID_WESTERN)
@@ -149,7 +148,8 @@ function act1SetupGeneric(param)
       printToAll("Couldn't finish setup")
       return
     end
-
+    
+    -- Place the summit deck and the extra open skies somewhere safe in the topleft corner area
     DeckLib.placeOrMergeIntoDeck(summitDeck, PlayAreaApi.gridToWorld({x=-2, y =2}), {x=0,y=270,z=180}, false, false,
       true)
     printToAll('Summit deck was placed. Rlyeh streets was placed.')
@@ -182,7 +182,7 @@ function act1SetupGeneric(param)
     end
     printToAll('Each investigator begins play at R’lyeh Streets.')
 
-    -- Place the Winds card accordingly
+    -- Find the Winds card
     local windCard = nil
     if expeditionDirection == 'western' then
       windCard = getObjectFromGUID(WIND_CARD_GUID_WESTERN)
@@ -190,21 +190,22 @@ function act1SetupGeneric(param)
       windCard = getObjectFromGUID(WIND_CARD_GUID_EASTERN)
     end
 
+    -- Place the Winds card accordingly
     if not windCard then
-      printToAll('Wind card was not found. Setup interrupted.')
-      return
-    end
-    
-    if expeditionDirection == 'western' then
-      if not windCard.is_face_down then
-        windCard.flip()
-        CoroutineLib.yieldSeconds(0.5)
+      printToAll('Wind card was not found.')
+    else
+      if expeditionDirection == 'western' then
+        if not windCard.is_face_down then
+          windCard.flip()
+          CoroutineLib.yieldSeconds(0.5)
+        end
+        printToAll('Eastern Winds side faceup.')
+      elseif expeditionDirection == 'eastern' then
+        printToAll('Western Winds side faceup.')
       end
-      printToAll('Eastern Winds side faceup.')
-    elseif expeditionDirection == 'eastern' then
-      printToAll('Western Winds side faceup.')
     end
 
+    -- Place Act and Agenda. They are already placed.
     if expeditionDirection == 'western' then
       printToAll('Agenda and Act placed. There are three acts.')
     elseif expeditionDirection == 'eastern' then
@@ -236,10 +237,17 @@ function act1SetupGeneric(param)
           CoroutineLib.yieldSeconds(0.5)
           starspawnDeck.takeObject({ position = aboveTrash })
           CoroutineLib.yieldSeconds(0.5)
-          starspawnDeck.takeObject({ position = aboveTrash })
+          log('Punto debil')
+          starspawnDeck = takeObjectReturnDeckOrRemainder(starspawnDeck, { position = aboveTrash })
+          log('sobrevivio')
           printToAll('Three random star spawns were removed.')
       end
       CoroutineLib.yieldSeconds(0.5)
+      if starspawnDeck.type == 'Deck' then
+        log('is deck')
+      elseif starspawnDeck.type == 'Card' then
+        log("is card")
+      end
       DeckLib.placeOrMergeIntoDeck(starspawnDeck, MythosAreaApi.getEncounterDeckPosition(),
           { x = 0, y = 270, z = 180 },
           false, false, true)
@@ -292,4 +300,13 @@ function drawArrowHead(pos, color, size, direction)
   table.insert(allLines, { points = { p3, p1 }, color = color, thickness = thickness })
 
   Global.setVectorLines(allLines)
+end
+
+function takeObjectReturnDeckOrRemainder(deck, params)
+  deck.takeObject(params)
+  if deck.remainder == nil then
+    return deck
+  else
+    return deck.remainder
+  end
 end

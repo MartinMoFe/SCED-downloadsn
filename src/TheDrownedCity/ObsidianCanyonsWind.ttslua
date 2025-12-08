@@ -16,12 +16,15 @@ local ACT1_LEFTMOST_POSITIONS     = {
   { x = -1, y = 0 },
 }
 
-local ACT1_NotRIGHTMOST_POSITIONS = { -- this has to be sorted
+local ACT1_NotRIGHTMOST_POSITIONS_TOPROW = { -- this has to be sorted
   { x = 1, y = 1 },
-  { x = 1, y = -1 },
   { x = 0, y = 1 },
-  { x = 0, y = -1 },
   { x = -1, y = 1 }
+}
+
+local ACT1_NotRIGHTMOST_POSITIONS_BOTTOMROW = { -- this has to be sorted
+  { x = 1,  y = -1 },
+  { x = 0,  y = -1 }
 }
 
 local ACT1_NotLEFTMOST_POSITIONS = { -- sorted
@@ -93,93 +96,114 @@ end
 
 function westernWindsBlow()
   windDirection = 'western'
+  log('westernWindsBlow')
   genericWindsBlow()
 end
 
 function genericWindsBlow()
+  log('genericWindsBlow')
+
+  if windDirection ~= 'western' and windDirection ~= 'eastern' then
+    return 
+  end
 
   function coroutineGenericWindsBlow()
     -- local summitDeck = getObjectFromGUID(SUMMIT_DECK_GUID)
 
-    CoroutineLib.yieldSeconds(0.4)
-
     if windDirection == 'western' then
       printToAll('Western Winds blow strongly.')
     else
-      print('NOT IMPLEMENTED')
+      printToAll('Eastern Winds blow strongly.')
     end
 
-    local objs = {}
+    -- Step 1
+    -- Choose locations to remove (place on the summit deck)
 
     local coordinatesToRemove = {}    
-    if actObsidian == 1 then
+    if actObsidian == 1 and windDirection == 'western' then
       coordinatesToRemove = ACT1_RIGHTMOST_POSITIONS
-    elseif actObsidian == 0 then
-      log('logic error')
-      return
+    elseif actObsidian == 1 and windDirection == 'eastern' then
+      coordinatesToRemove = ACT1_LEFTMOST_POSITIONS
     end
 
-    -- Move cards in that place
+    local locationsToRemove = {}
+    local frozen = {}  -- frozen is a table of 1s and 0s, that explicitly marks if a row is frozen, because it has a non-movable place
+
+    -- Find cards in that coordinates
     for _, coords in ipairs(coordinatesToRemove) do
       local found = LocationLib.getObjectsAt(coords)
       for _, obj in ipairs(found) do
-        -- check if this object is a location yet
-        table.insert(objs, obj)
+        if isLocationOrOpenSkies(obj) and obj.getName() ~= 'Central Spire' then
+          table.insert(locationsToRemove, obj)
+          table.insert(frozen, 0)
+        elseif isLocationOrOpenSkies(obj) and obj.getName() == 'Central Spire' then
+          table.insert(frozen, 1)
+        end
       end
     end
 
-    for _, obj in ipairs(objs) do
-      obj.highlightOn({r=1,g=1,b=0}, 5)
-      -- if object is the spire or any non movable card stop yet yo
+    for _, obj in ipairs(locationsToRemove) do
+      obj.highlightOn({r=1,g=1,b=0}, 0.1)
       if not obj.is_face_down then
+        print('flipped down the obj')
         obj.flip()
-        CoroutineLib.yieldSeconds(0.4)
+        CoroutineLib.yieldSeconds(0.5)
       end
       
-      CoroutineLib.yieldSeconds(0.4)
-      DeckLib.placeOrMergeIntoDeck(obj, PlayAreaApi.gridToWorld({ x = -1.9, y = 1.7 }), { x = 0, y = 270, z = 180 }, false,
+      DeckLib.placeOrMergeIntoDeck(obj, PlayAreaApi.gridToWorld({ x = -1.9, y = 1.85 }), { x = 0, y = 270, z = 180 }, false,
       false, true)
+      CoroutineLib.yieldSeconds(0.7)
     end
 
     -- Depending on the act, the geometry changes
-    if #coordinatesToRemove == 2 then
+    if #locationsToRemove == 2 then
       printToAll('Two locations were placed on top of the summit deck. Don\'t shuffle it')
-    elseif #coordinatesToRemove == 1 then
+    elseif #locationsToRemove == 1 then
       printToAll('One location was placed on top of the summit deck. Don\'t shuffle it')
     else
       return
     end
 
-
     -- Step 2
-    ------------------------------
-    -- now displace the cards
+    -- Now find the cards to displace
     CoroutineLib.yieldSeconds(0.4)
     
-    local toMove = {}
-    if actObsidian == 1 then
-      for _, coords in ipairs(ACT1_NotRIGHTMOST_POSITIONS) do
-        -- move locations and all else
-        table.insert(toMove, LocationLib.getObjectsAt(coords))
+    local locationsToMove = {}
+    if windDirection == 'western' and actObsidian == 1 then
+      log('have to move top row')
+      if frozen[1] == 0 then
+        for _, coords in ipairs(ACT1_NotRIGHTMOST_POSITIONS_TOPROW) do
+          for _, obj in ipairs(LocationLib.getObjectsAt(coords)) do
+            if isLocationOrOpenSkies(obj) then
+              table.insert(locationsToMove, obj)
+            end
+          end
+        end
       end
-    if actObsidian == 2 then
-      printToAll('not implemented')
-      return
-    end
-    -- Hasta aqui, los encuentra
+      if frozen[2] == 0 then
+        log('have to move bottom row')
+        for _, coords in ipairs(ACT1_NotRIGHTMOST_POSITIONS_BOTTOMROW) do
+          for _, obj in ipairs(LocationLib.getObjectsAt(coords)) do
+            if isLocationOrOpenSkies(obj) then
+              table.insert(locationsToMove, obj)
+            end
+          end
+        end
+      end
+    elseif windDirection == 'eastern' and actObsidian == 1 then
+      --pass
     end
 
     log('20')
 
-    -- move many cards to the right
-    for _, objects in ipairs(toMove) do
+    -- move those cards to the right
+    for _, object in ipairs(locationsToMove) do
       log('21')
       CoroutineLib.yieldSeconds(0.2)
-      local object = objects[1]
-      log(object)
-      object.highlightOn(Color.White, 0.5)
+      object.highlightOn({ r = 1, g = 1, b = 0 }, 0.1)
       CoroutineLib.yieldSeconds(0.8)
-      LocationLib.moveCardInDirection(object, 'eastern') --WESTERN wind move things towards eastern
+      log('22')
+      LocationLib.moveCardInDirection(object, 'east') --WESTERN wind move things towards eastern
     end
 
     log('30')
@@ -197,8 +221,9 @@ function genericWindsBlow()
 
 end
 
-function easternWindsBlow()
-
-
-
+function isLocationOrOpenSkies(obj)
+  local rawNotes = obj.getGMNotes() or "{}"
+  local md = JSON.decode(rawNotes) or {}
+  local type = md['type'] or ''
+  return type == 'Location' or obj.getName() == 'Open Sky'
 end
