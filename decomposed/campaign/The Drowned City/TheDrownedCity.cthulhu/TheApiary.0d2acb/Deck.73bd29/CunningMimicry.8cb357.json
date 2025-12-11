@@ -1,10 +1,4 @@
 {
-  "AltLookAngle": {
-    "x": 0,
-    "y": 0,
-    "z": 0
-  },
-  "Autoraise": true,
   "CardID": 266809,
   "CustomDeck": {
     "2668": {
@@ -17,37 +11,17 @@
       "UniqueBack": false
     }
   },
-  "Description": "",
-  "DragSelectable": true,
   "GMNotes_path": "TheDrownedCity.cthulhu/TheApiary.0d2acb/Deck.73bd29/CunningMimicry.8cb357.gmnotes",
   "GUID": "8cb357",
-  "Grid": true,
-  "GridProjection": false,
-  "IgnoreFoW": false,
-  "LayoutGroupSortIndex": 0,
-  "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
-  "MeasureMovement": false,
   "Name": "Card",
   "Nickname": "Cunning Mimicry",
-  "Snap": true,
-  "Sticky": true,
   "Tags": [
     "ScenarioCard"
   ],
-  "Tooltip": true,
   "Transform": {
-    "posX": 0,
-    "posY": 0,
-    "posZ": 0,
-    "rotX": 0,
     "rotY": 270,
-    "rotZ": 0,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
-  },
-  "Value": 0,
-  "XmlUI": ""
+  }
 }

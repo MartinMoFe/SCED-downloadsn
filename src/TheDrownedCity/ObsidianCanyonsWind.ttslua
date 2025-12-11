@@ -35,7 +35,7 @@ local ACT1_NotLEFTMOST_POSITIONS = { -- sorted
 
 function onSave()
   return JSON.encode({
-    actObsidian = actObsidian,
+    currentAct = currentAct,
     expeditionDirection = expeditionDirection,
     windDirection = windDirection
   })
@@ -51,7 +51,7 @@ function onLoad(savedData)
   if savedData and savedData ~= "" then
     loadFromSaveTable(savedData)
   else
-    actObsidian = 1
+    currentAct = 1
     expeditionDirection = nil
     windDirection = nil
   end
@@ -120,9 +120,9 @@ function genericWindsBlow()
     -- Choose locations to remove (place on the summit deck)
 
     local coordinatesToRemove = {}    
-    if actObsidian == 1 and windDirection == 'western' then
+    if currentAct == 1 and windDirection == 'western' then
       coordinatesToRemove = ACT1_RIGHTMOST_POSITIONS
-    elseif actObsidian == 1 and windDirection == 'eastern' then
+    elseif currentAct == 1 and windDirection == 'eastern' then
       coordinatesToRemove = ACT1_LEFTMOST_POSITIONS
     end
 
@@ -169,7 +169,7 @@ function genericWindsBlow()
     CoroutineLib.yieldSeconds(0.4)
     
     local locationsToMove = {}
-    if windDirection == 'western' and actObsidian == 1 then
+    if windDirection == 'western' and currentAct == 1 then
       log('have to move top row')
       if frozen[1] == 0 then
         for _, coords in ipairs(ACT1_NotRIGHTMOST_POSITIONS_TOPROW) do
@@ -190,7 +190,7 @@ function genericWindsBlow()
           end
         end
       end
-    elseif windDirection == 'eastern' and actObsidian == 1 then
+    elseif windDirection == 'eastern' and currentAct == 1 then
       --pass
     end
 

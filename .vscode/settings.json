@@ -13,6 +13,7 @@
   "files.exclude": {
     "**LanguagePack**":true,
     "**Language Pack**": true,
+    "**decomposed\\campaign\\Language Pack Korean - Campaigns**": true,
     "**Forgotten Age**": true,
     "**Dunwich L**": true,
     "**Carcosa**": true
