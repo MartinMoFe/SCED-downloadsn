@@ -84,4 +84,6 @@ if __name__ == "__main__":
         print("Usage: python build_saved_object.py <input_file>", file=sys.stderr)
         sys.exit(1)
 
+    print(sys.argv[1])
+
     build_saved_object(sys.argv[1])

@@ -228,6 +228,28 @@ do
     moveObjectsByOffset(LocationLib.getObjectsAt(currentGrid), moveVector)
   end
 
+  -- moves a card (and nearby) to a given grid location -- new function 111
+  function LocationLib.moveCardToCoordinates(card, coordinates)
+    if currentlyMoving then return end
+    currentlyMoving = true
+    Wait.time(function() currentlyMoving = false end, 1)
+
+    -- To enhance, to do
+    local canMove = true
+
+    if not canMove then
+      broadcastToAll(".", "Orange")
+      return
+    end
+
+    local currentGrid  = LocationLib.getCurrentGrid(card)
+    local currentPos   = PlayAreaApi.gridToWorld(currentGrid)
+    local objectivePos = PlayAreaApi.gridToWorld(coordinates)
+    local moveVector   = objectivePos - currentPos
+
+    moveObjectsByOffset(LocationLib.getObjectsAt(currentGrid), moveVector)
+  end
+
   -- checks whether a card can move in a direction by searching for existing cards
   function LocationLib.isAdjacentGridEmpty(card, direction)
     local currentGrid  = LocationLib.getCurrentGrid(card)

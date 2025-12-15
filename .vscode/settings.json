@@ -14,15 +14,24 @@
     "**LanguagePack**":true,
     "**Language Pack**": true,
     "**decomposed\\campaign\\Language Pack Korean - Campaigns**": true,
+    "decomposed\\campaign\\The Drowned City\\TheDrownedCity.cthulhu\\TheApiary.0d2acb": true,
+    "**moonTokenHelper**": true,
     "**Forgotten Age**": true,
     "**Dunwich L**": true,
     "**Carcosa**": true
+  },
+  "search.exclude": {
+    "**LanguagePack**": true,
+    "**Language Pack**": true,
+    "**decomposed\\campaign\\Language Pack Korean - Campaigns**": true,
+    "decomposed\\campaign\\The Drowned City\\TheDrownedCity.cthulhu\\TheApiary.0d2acb": true,
+    "**moonTokenHelper**": true
   },
   "workbench.colorTheme": "Default Dark+",
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#dd7c00",
     "titleBar.activeForeground": "#ffffff",
-    "titleBar.inactiveBackground": "#ffcc0099",
+    "titleBar.inactiveBackground": "#dd7c0099",
     "editor.lineHighlightBackground": "#ffff0039",
     "titleBar.border": "#ffff00",
     "sideBar.background": "#000000",
