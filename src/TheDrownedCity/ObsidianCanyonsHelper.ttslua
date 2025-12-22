@@ -71,6 +71,18 @@ BUTTON_ADVANCE_1                        = {
   color          = { r = 1, g = 1, b = 1 }
 }
 
+BUTTON_ADVANCE_2                        = {
+  label          = "Advance to act III.",
+  click_function = "act3Setup",
+  function_owner = self,
+  position       = { 0, 0.11, 0 },
+  height         = 150,
+  width          = 1800,
+  scale          = { x = 2, y = 2, z = 2 },
+  font_color     = { r = 0, g = 0, b = 0 },
+  color          = { r = 1, g = 1, b = 1 }
+}
+
 -- ██████╗░░█████╗░░██████╗██╗████████╗██╗░█████╗░███╗░░██╗░██████╗
 -- ██╔══██╗██╔══██╗██╔════╝██║╚══██╔══╝██║██╔══██╗████╗░██║██╔════╝
 -- ██████╔╝██║░░██║╚█████╗░██║░░░██║░░░██║██║░░██║██╔██╗██║╚█████╗░
@@ -155,7 +167,6 @@ local ACT2_OPEN_SKIES_INITIAL_POSITIONS = {
   { x = 2,  y = 1 },
   { x = 2,  y = -1 }
 }
-
 local ACT3_OPEN_SKIES_INITIAL_POSITIONS = {
   { x = -2, y = 0 },
   { x = -1, y = 1 },
@@ -163,7 +174,6 @@ local ACT3_OPEN_SKIES_INITIAL_POSITIONS = {
   { x = 0,  y = -2 },
   { x = 0,  y = 1 }
 }
-
 
 function onSave()
   return JSON.encode({
@@ -192,12 +202,14 @@ function onLoad(savedData)
     return
   end
 
-  aboveTrash = trash.getPosition() + Vector(0, 1, 0)
+  aboveTrash = trash.getPosition() + Vector(0, 0.8, 0)
   if currentAct == 0 then
     self.createButton(BUTTON_SETUP_1)
     self.createButton(BUTTON_SETUP_2)
   elseif currentAct == 1 then
     self.createButton(BUTTON_ADVANCE_1)
+  elseif currentAct == 2 then
+    self.createButton(BUTTON_ADVANCE_2)
   end
 end
 
@@ -244,7 +256,7 @@ function act1Setup(param)
 
     -- Did anything went wrong?
     if escapePreventative then
-      log('At least something went wrong.')
+      printToAll('Setup couldnt be done. Aborting.')
       return
     end
 
@@ -285,7 +297,7 @@ function act1Setup(param)
     else
       if expeditionDirection == 'western' then
         makeSureIsFaceDown(windCard)
-        printToAll('Eastern Winds side faceup.', 'Green')
+        printToAll('Eastern Winds side faceup.', { r = 0.2, g = 0.2, b = 1 })
       elseif expeditionDirection == 'eastern' then
         makeSureIsFaceUp(windCard)
         printToAll('Western Winds side faceup.', 'Blue')
@@ -333,7 +345,7 @@ end
 
 function act2Setup(_, color)
   if expeditionDirection ~= 'western' and expeditionDirection ~= 'eastern' then
-    log('Value error.')
+    error('Value error in act2Setup', 2)
     return
   end
 
@@ -378,7 +390,6 @@ function act2Setup(_, color)
         false, false, false)
       printToAll('Shuffled the rest of the Innescapable encounter set in the encounter deck.')
       MythosAreaApi.reshuffleEncounterDeck(false)
-      
     end
 
     -- Paragraph one. Remove R'lyeh Streets from the game, ignoring its text box.
@@ -477,17 +488,7 @@ function act2Setup(_, color)
     self.removeButton(0)
 
     if expeditionDirection == 'western' then
-      self.createButton({
-        label          = "Advance to act III.",
-        click_function = "act3Setup",
-        function_owner = self,
-        position       = { 0, 0.11, 0 },
-        height         = 150,
-        width          = 1800,
-        scale          = { x = 2, y = 2, z = 2 },
-        font_color     = { r = 0, g = 0, b = 0 },
-        color          = { r = 1, g = 1, b = 1 }
-      })
+      self.createButton(BUTTON_ADVANCE_2)
     else
       self.createButton({
         label          = "No more setup to do",
@@ -738,16 +739,16 @@ function placeStarSpawnOnDeck()
 end
 
 function moveCardToCoordinates(card, coordinates)
-    if currentlyMoving then return end
-    currentlyMoving = true
-    Wait.time(function() currentlyMoving = false end, 0.9)
+  if currentlyMoving then return end
+  currentlyMoving = true
+  Wait.time(function() currentlyMoving = false end, 0.9)
 
-    local currentGrid  = LocationLib.getCurrentGrid(card)
-    local currentPos   = PlayAreaApi.gridToWorld(currentGrid)
-    local objectivePos = PlayAreaApi.gridToWorld(coordinates)
-    local moveVector   = objectivePos - currentPos
+  local currentGrid  = LocationLib.getCurrentGrid(card)
+  local currentPos   = PlayAreaApi.gridToWorld(currentGrid)
+  local objectivePos = PlayAreaApi.gridToWorld(coordinates)
+  local moveVector   = objectivePos - currentPos
 
-    moveObjectsByOffset(LocationLib.getObjectsAt(currentGrid), moveVector)
+  moveObjectsByOffset(LocationLib.getObjectsAt(currentGrid), moveVector)
 end
 
 function moveObjectsByOffset(objects, offset)
@@ -870,7 +871,7 @@ end
 function informWindHelperExpeditionDirection(expeditionDirectionP)
   local windhelper = getObjectFromGUID(WIND_CONTROLLER_GUID)
   if expeditionDirectionP ~= 'eastern' and expeditionDirectionP ~= 'western' then
-    log('informWindHelperExpeditionDirection::value errror')
+    error('informWindHelperExpeditionDirection::value error in expeditionDirectionP', 2)
   end
   if windhelper then
     windhelper.setVar('expeditionDirection', expeditionDirectionP)
@@ -881,6 +882,7 @@ end
 
 -- GENERIC HELPERS
 
+---@return tts__Object|nil
 function getObjectByName(name)
   for _, obj in ipairs(getObjects()) do
     if obj.getName() == name then
@@ -916,7 +918,7 @@ function exclude_pairs(listA, listB)
 end
 
 function drawRowNumber()
--- Definir las posiciones Y y sus números correspondientes
+  -- Definir las posiciones Y y sus números correspondientes
   local posiciones = {
     { y = 1,  texto = "1" },
     { y = 0,  texto = "2" },
@@ -944,8 +946,8 @@ function drawRowNumber()
     })
 
     textoObj.TextTool.setValue(posData.texto)
-    textoObj.TextTool.setFontSize(100)                        -- Tamaño grande para mejor visibilidad
-    textoObj.TextTool.setFontColor({ r = 0.2, g = 0.2, b = 0.6 })   -- Light blueish grey
+    textoObj.TextTool.setFontSize(100)                            -- Tamaño grande para mejor visibilidad
+    textoObj.TextTool.setFontColor({ r = 0.2, g = 0.2, b = 0.6 }) -- Light blueish grey
 
     -- Opcional: Ajustar altura para que quede mejor visualmente
     local ajusteAltura = { x = 0, y = 0.5, z = 0 }
@@ -955,6 +957,4 @@ function drawRowNumber()
       z = worldPos.z + ajusteAltura.z
     })
   end
-
 end
-
