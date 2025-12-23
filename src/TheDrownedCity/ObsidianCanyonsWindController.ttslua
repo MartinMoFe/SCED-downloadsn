@@ -5,21 +5,26 @@ local SearchLib                            = require("util/SearchLib")
 local LocationLib                          = require("LocationLib")
 local GUIDReferenceApi                     = require("core/GUIDReferenceApi")
 local VictoryDisplayApi                    = require("mythos/VictoryDisplayApi")
+
 -- GUIDS
 local WIND_CARD_GUID_EASTERN               = "682cd3"
 local WIND_CARD_GUID_WESTERN               = "82b859"
 
--- Non movable locations
-local CENTRAL_SPIRE_NAME                   = "Central Spire"
-local RLYEH_STREETS_NAME                   = "Rylieh Streets"
-local WESTERN_WALL_NAME                    = "Western Wall"
-local FLOATING_SPIRE_NAME                  = "Floating Spire"
--- Decks
+-- Non movable locations IDs
+local CENTRAL_SPIRE_ID                     = "11649"
+local FLOATING_SPIRE_ID                    = "11650"
+local RLYEH_STREETS_ID                     = "11648"
+local WESTERN_WALL_ID                      = "11651"
+-- Deck names
 local SUMMIT_DECK_NAME                     = "Summit Deck"
-local ROTATION                             = { x = 0, y = 270, z = 180 }
+-- Other
 local LIGHT_BLUE                           = { r = 0.7, g = 0.8, b = 1 }
 local LIGHT_GREEN                          = { r = 0.7, g = 1, b = 0.6 }
+local VERTICAL_ROTATION                    = { x = 0, y = 270, z = 180 }
+
+-----------
 -- Act 1
+-----------
 
 local ACT1_RIGHTMOST_POSITIONS             = {
     { x = 2, y = 0 }
@@ -55,10 +60,9 @@ local ACT1_POSSIBLE_EMPTY_SPACES_LEFT      = {
     { x = -1, y = 0 }
 }
 
-
-
+-----------
 -- Act 2
-
+-----------
 local ACT2_RIGHTMOST_POSITIONS             = ACT1_RIGHTMOST_POSITIONS
 
 local ACT2_LEFTMOST_POSITIONS              = {
@@ -92,7 +96,9 @@ local ACT2_POSSIBLE_EMPTY_SPACES_LEFT      = {
     { x = -1, y = 0 }
 }
 
+-----------
 -- Act 3
+-----------
 
 local ACT3_RIGHTMOST_POSITIONS             = {
     { x = 2, y = 0 },
@@ -137,6 +143,13 @@ local ACT3_POSSIBLE_EMPTY_SPACES_LEFT      = {
     { x = -2, y = 0 },
     { x = -2, y = -2 }
 }
+
+-- ░█████╗░░█████╗░██████╗░███████╗
+-- ██╔══██╗██╔══██╗██╔══██╗██╔════╝
+-- ██║░░╚═╝██║░░██║██║░░██║█████╗░░
+-- ██║░░██╗██║░░██║██║░░██║██╔══╝░░
+-- ╚█████╔╝╚█████╔╝██████╔╝███████╗
+-- ░╚════╝░░╚════╝░╚═════╝░╚══════╝
 
 function onSave()
     return JSON.encode({
@@ -187,6 +200,7 @@ function onLoad(savedData)
 end
 
 -- Clicked functions
+
 function westernWindsBlow(_, color)
     windDirection = 'western'
     genericWindsBlow()
@@ -368,7 +382,9 @@ function isLocationOrOpenSkies(obj)
     local rawNotes = obj.getGMNotes() or "{}"
     local md = JSON.decode(rawNotes) or {}
     local type = md['type'] or ''
-    return type == 'Location' or obj.getName() == 'Open Sky'
+    if type == 'Location' or obj.getName() == 'Open Sky' then
+        return true
+    end
 end
 
 function isVisibleVPlocation(obj)
@@ -397,13 +413,13 @@ function cannotBeMovedLocation(obj)
     if obj.is_face_down then
         return false -- can be moved
     end
-    if obj.getName() == RLYEH_STREETS_NAME then
+    if getId(obj) == RLYEH_STREETS_ID then
         return true
-    elseif obj.getName() == CENTRAL_SPIRE_NAME then
+    elseif getId(obj) == CENTRAL_SPIRE_ID then
         return true
-    elseif obj.getName() == FLOATING_SPIRE_NAME then
+    elseif getId(obj) == FLOATING_SPIRE_ID then
         return true
-    elseif obj.getName() == WESTERN_WALL_NAME then
+    elseif getId(obj) == WESTERN_WALL_ID then
         return true
     end
     return false
@@ -526,33 +542,13 @@ function placeOnDeckOrVpDisplaySafelyCoroutine(locations, deckLocation)
             CoroutineLib.yieldSeconds(0.05)
             makeSureIsFaceDown(location)
             CoroutineLib.yieldSeconds(0.05)
-            DeckLib.placeOrMergeIntoDeck(location, deckLocation, ROTATION, false, false, true)
+            DeckLib.placeOrMergeIntoDeck(location, deckLocation, VERTICAL_ROTATION, false, false, true)
             CoroutineLib.yieldSeconds(0.05)
         end
     end
 end
 
--- HELPER, GENERIC
-
----@return tts__Object|nil
-function getObjectByName(name)
-    -- Just checks if a location has some kind of victory
-    for _, obj in ipairs(getObjects()) do
-        if obj.getName() == name then
-            return obj
-        end
-    end
-end
-
-function cleanLocation(location)
-    -- remove tokens from the card (does not remove chaos tokens)
-    local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
-    for _, obj in ipairs(SearchLib.onObject(location, "isTileOrToken")) do
-        if obj.memo and not obj.getLock() and obj.interactable then
-            trash.putObject(obj)
-        end
-    end
-end
+-- Location helpers
 
 function makeSureIsFaceUp(card)
     if card.is_face_down then
@@ -604,4 +600,83 @@ end
 function cardHasClues(card)
     local searchResult = SearchLib.onObject(card, "isClue")
     return #searchResult > 0
+end
+
+---@param location tts__Object Card to check for tokens
+function cleanLocation(location)
+    local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
+    for _, obj in ipairs(SearchLib.onObject(location, "isTileOrToken")) do
+        if obj.memo and not obj.getLock() and obj.interactable then
+            trash.putObject(obj)
+        end
+    end
+end
+
+-- Generic getters
+
+---@param name string
+---@return tts__Object|nil
+function getObjectByName(name)
+    for _, obj in ipairs(getObjects()) do
+        if obj.getName() == name then
+            return obj
+        end
+    end
+end
+
+---@param id string|number
+---@return tts__Object|nil
+function getObjectById(id)
+    local objects = getAllObjects()
+    for _, obj in ipairs(objects) do
+        local md = JSON.decode(obj.getGMNotes() or "{}")
+        if md then
+            local id2 = md['id']
+            if id2 == id then
+                return obj
+            end
+        end
+        -- continue
+    end
+    return nil
+end
+
+---@param obj tts__Object
+---@return string|nil
+function getId(obj)
+    local md = JSON.decode(obj.getGMNotes() or "{}")
+    local id = nil
+    if md then
+        id = md['id'] or nil
+    end
+    return id
+end
+
+---@param listA GridPos[]
+---@param listB GridPos[]
+---@return GridPos[]
+function exclude_pairs(listA, listB)
+    -- This function performs the exclusion operation on a set
+    -- And that set is made of pairs x,y
+
+    local function same_pos(a, b)
+        return a.x == b.x and a.y == b.y
+    end
+
+    local result = {}
+
+    for _, a in ipairs(listA) do
+        local found = false
+        for _, b in ipairs(listB) do
+            if same_pos(a, b) then
+                found = true
+                break
+            end
+        end
+        if not found then
+            table.insert(result, a)
+        end
+    end
+
+    return result
 end
