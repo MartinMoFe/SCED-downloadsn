@@ -1,0 +1,22 @@
+{
+  "CardID": 863806,
+  "CustomDeck": {
+    "8638": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/uUU6S3X.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06150\"\n}",
+  "GUID": "a27a95",
+  "Name": "Card",
+  "Nickname": "Ángel descarnado tenebroso",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

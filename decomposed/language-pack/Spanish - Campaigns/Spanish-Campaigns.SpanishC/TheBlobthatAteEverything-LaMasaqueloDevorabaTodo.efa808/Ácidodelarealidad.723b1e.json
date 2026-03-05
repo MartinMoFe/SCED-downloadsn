@@ -1,0 +1,22 @@
+{
+  "CardID": 48923,
+  "CustomDeck": {
+    "489": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/QRefUJ0.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85044\"\n}",
+  "GUID": "723b1e",
+  "Name": "Card",
+  "Nickname": "Ácido de la realidad",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "CardID": "1156503",
+  "CardID": 1156503,
   "CustomDeck": {
     "11565": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9598942811173443953/36FF637C8B90E2173DD365C0496330AD45CBC917/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07009\"}",
+  "GMNotes": "{\n  \"id\": \"07009\"\n}",
   "GUID": "f0022a",
   "Name": "Card",
   "Nickname": "深海低语",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

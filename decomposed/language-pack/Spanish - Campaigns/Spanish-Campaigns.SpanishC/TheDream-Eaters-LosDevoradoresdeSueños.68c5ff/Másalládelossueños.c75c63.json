@@ -1,0 +1,24 @@
+{
+  "CardID": 49405,
+  "CustomDeck": {
+    "494": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/U2bLkY3.jpg",
+      "FaceURL": "https://i.imgur.com/CKcYKcI.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06292\"\n}",
+  "GUID": "c75c63",
+  "Name": "Card",
+  "Nickname": "Más allá de los sueños",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

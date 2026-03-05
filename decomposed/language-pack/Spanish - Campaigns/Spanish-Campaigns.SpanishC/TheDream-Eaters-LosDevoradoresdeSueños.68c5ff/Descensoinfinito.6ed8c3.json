@@ -1,0 +1,22 @@
+{
+  "CardID": 863000,
+  "CustomDeck": {
+    "8630": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/VJNl8Ya.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06190\"\n}",
+  "GUID": "6ed8c3",
+  "Name": "Card",
+  "Nickname": "Descenso infinito",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

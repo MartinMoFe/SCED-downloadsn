@@ -14,11 +14,9 @@
   "Description": "Потусторонняя.",
   "GMNotes": "{\n  \"id\": \"05079\"\n}",
   "GUID": "381693",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Викторианский холл",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

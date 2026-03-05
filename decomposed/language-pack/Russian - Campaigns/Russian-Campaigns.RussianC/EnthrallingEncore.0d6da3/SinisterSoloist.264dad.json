@@ -14,11 +14,9 @@
   "Description": "Менестрель Каркозы",
   "GMNotes": "{\n  \"id\": \"90097\"\n}",
   "GUID": "264dad",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Зловещий солист",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

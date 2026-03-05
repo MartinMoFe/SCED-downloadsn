@@ -1,0 +1,23 @@
+{
+  "CardID": 460513,
+  "CustomDeck": {
+    "4605": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XiXrtxk.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Todos en uno",
+  "GMNotes": "{\n  \"id\": \"51057\"\n}",
+  "GUID": "4846d4",
+  "Name": "Card",
+  "Nickname": "Reinos del otro lado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

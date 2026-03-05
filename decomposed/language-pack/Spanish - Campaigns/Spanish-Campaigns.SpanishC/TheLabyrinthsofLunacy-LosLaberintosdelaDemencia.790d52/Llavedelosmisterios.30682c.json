@@ -1,0 +1,22 @@
+{
+  "CardID": 51101,
+  "CustomDeck": {
+    "511": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/lx9qMSJ.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70040\"\n}",
+  "GUID": "30682c",
+  "Name": "Card",
+  "Nickname": "Llave de los misterios",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

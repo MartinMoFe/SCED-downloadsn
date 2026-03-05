@@ -1,28 +1,28 @@
 {
   "ContainedObjects_order": [
-    "ArousingSuspicions.f3b1ad",
-    "ArousingSuspicions.f3b1ad",
-    "CaughtCheating.e3fba9",
-    "CaughtCheating.e3fba9",
-    "CursedLuck.64281b",
-    "CursedLuck.64281b",
-    "CursedLuck.64281b",
-    "HuntedDown.5da81c",
-    "HuntedDown.5da81c",
-    "Mobster.77205f",
-    "Mobster.77205f",
     "OBannionsThug.d269db",
     "OBannionsThug.d269db",
+    "Mobster.77205f",
+    "Mobster.77205f",
     "RaisetheStakes.57f732",
     "RaisetheStakes.57f732",
+    "CaughtCheating.e3fba9",
+    "CaughtCheating.e3fba9",
+    "HuntedDown.5da81c",
+    "HuntedDown.5da81c",
+    "TwistofFate.9d6b4c",
+    "TwistofFate.9d6b4c",
+    "TwistofFate.9d6b4c",
+    "CursedLuck.64281b",
+    "CursedLuck.64281b",
+    "CursedLuck.64281b",
+    "ArousingSuspicions.f3b1ad",
+    "ArousingSuspicions.f3b1ad",
     "SomethingintheDrinks.41c162",
     "SomethingintheDrinks.41c162",
     "SwarmofRats.a2cf85",
     "SwarmofRats.a2cf85",
-    "SwarmofRats.a2cf85",
-    "TwistofFate.9d6b4c",
-    "TwistofFate.9d6b4c",
-    "TwistofFate.9d6b4c"
+    "SwarmofRats.a2cf85"
   ],
   "ContainedObjects_path": "EncounterDeck.50fc37",
   "CustomDeck": {
@@ -32,8 +32,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2328": {
       "BackIsHidden": true,
@@ -41,8 +40,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2330": {
       "BackIsHidden": true,
@@ -50,8 +48,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241296009359/3EF850792428E467A4475333CCBBF6E6B5975186/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2664": {
       "BackIsHidden": true,
@@ -59,34 +56,33 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276627309509299/3B0E32939EB4599CCE3596975637C90FE4EE1DD6/",
       "NumHeight": 5,
       "NumWidth": 6,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    232809,
-    232809,
-    233024,
-    233024,
-    232819,
-    232819,
-    232819,
-    232826,
-    232826,
-    266416,
-    266416,
     266417,
     266417,
+    266416,
+    266416,
     233025,
     233025,
+    233024,
+    233024,
+    232826,
+    232826,
+    232820,
+    232820,
+    232820,
+    232819,
+    232819,
+    232819,
+    232809,
+    232809,
     232808,
     232808,
     231712,
     231712,
-    231712,
-    232820,
-    232820,
-    232820
+    231712
   ],
   "GUID": "50fc37",
   "Hands": false,

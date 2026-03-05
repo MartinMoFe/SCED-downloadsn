@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/A36NgoR.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06327\"}",
+  "GMNotes": "{\n  \"id\": \"06327\"\n}",
   "GUID": "d06feb",
   "Name": "Card",
   "Nickname": "Escopeta recortada (5)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

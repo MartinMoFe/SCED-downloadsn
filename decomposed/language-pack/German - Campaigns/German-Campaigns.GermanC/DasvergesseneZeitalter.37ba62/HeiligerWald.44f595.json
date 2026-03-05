@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04184\"\n}",
   "GUID": "44f595",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Heiliger Wald",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

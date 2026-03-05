@@ -1,0 +1,23 @@
+{
+  "CardID": 469418,
+  "CustomDeck": {
+    "4694": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LhU7wG0.jpg",
+      "FaceURL": "https://i.imgur.com/QsdadOj.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09533\"\n}",
+  "GUID": "ff3d30",
+  "Name": "Card",
+  "Nickname": "Tumbas saadíes",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

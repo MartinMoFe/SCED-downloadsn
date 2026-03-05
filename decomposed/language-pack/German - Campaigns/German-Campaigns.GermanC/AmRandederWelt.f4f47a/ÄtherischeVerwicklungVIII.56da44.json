@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08552\"\n}",
   "GUID": "56da44",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ätherische Verwicklung (V. III)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

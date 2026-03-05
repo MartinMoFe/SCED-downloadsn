@@ -1,0 +1,23 @@
+{
+  "CardID": 864508,
+  "CustomDeck": {
+    "8645": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/TAG9cFp.jpg",
+      "FaceURL": "https://i.imgur.com/9mGLQCN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Prisión de capullos",
+  "GMNotes": "{\n  \"id\": \"06343\"\n}",
+  "GUID": "98c7bb",
+  "Name": "Card",
+  "Nickname": "La gran red",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 464900,
+  "CustomDeck": {
+    "4649": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/AnEI1Qi.jpg",
+      "FaceURL": "https://i.imgur.com/qFHO7S6.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07166\"\n}",
+  "GUID": "06d48f",
+  "Name": "CardCustom",
+  "Nickname": "El demonio de las profundidades",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

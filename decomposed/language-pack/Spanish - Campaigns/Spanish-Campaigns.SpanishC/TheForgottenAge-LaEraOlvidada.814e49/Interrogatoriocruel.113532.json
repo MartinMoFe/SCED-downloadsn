@@ -1,0 +1,22 @@
+{
+  "CardID": 876319,
+  "CustomDeck": {
+    "8763": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nHlSl0H.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04261\"\n}",
+  "GUID": "113532",
+  "Name": "Card",
+  "Nickname": "Interrogatorio cruel",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

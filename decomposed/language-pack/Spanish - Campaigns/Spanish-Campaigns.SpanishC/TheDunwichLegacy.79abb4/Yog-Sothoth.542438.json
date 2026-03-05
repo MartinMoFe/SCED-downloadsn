@@ -1,0 +1,23 @@
+{
+  "CardID": 1300,
+  "CustomDeck": {
+    "13": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/RWH5bx8.jpg",
+      "FaceURL": "http://i.imgur.com/Vwo3qEj.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "El que Acecha más allá del Umbral",
+  "GMNotes": "{\n  \"id\": \"02323\"\n}",
+  "GUID": "542438",
+  "Name": "Card",
+  "Nickname": "Yog-Sothoth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

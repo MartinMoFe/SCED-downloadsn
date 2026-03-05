@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/un2KWVc.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03155\"}",
+  "GMNotes": "{\n  \"id\": \"03155\"\n}",
   "GUID": "cf1e5b",
   "Name": "Card",
   "Nickname": "Pelear o huir",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

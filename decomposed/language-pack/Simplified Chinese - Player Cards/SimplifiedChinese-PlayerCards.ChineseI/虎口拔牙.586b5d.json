@@ -1,5 +1,5 @@
 {
-  "CardID": "1156311",
+  "CardID": 1156311,
   "CustomDeck": {
     "11563": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17448787901805099228/4668C7577D85FA8DCF68C40BDAAA2E892A0BAF62/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06240\"}",
+  "GMNotes": "{\n  \"id\": \"06240\"\n}",
   "GUID": "586b5d",
   "Name": "Card",
   "Nickname": "虎口拔牙",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

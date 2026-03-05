@@ -14,11 +14,9 @@
   "Description": "Arkham. Central.",
   "GMNotes": "{\n  \"id\": \"05295\"\n}",
   "GUID": "c898a0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Southside",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

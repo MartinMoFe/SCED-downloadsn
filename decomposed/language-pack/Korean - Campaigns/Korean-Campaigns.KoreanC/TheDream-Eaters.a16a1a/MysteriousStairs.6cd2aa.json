@@ -14,12 +14,9 @@
   "Description": "Graveyard.",
   "GMNotes": "{\n  \"id\": \"06183\"\n}",
   "GUID": "6cd2aa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mysterious Stairs",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

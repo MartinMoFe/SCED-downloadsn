@@ -14,12 +14,10 @@
   "Description": "The Mechanic",
   "GMNotes": "{\n  \"id\": \"08001\"\n}",
   "GUID": "444830",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Daniela Reyes",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

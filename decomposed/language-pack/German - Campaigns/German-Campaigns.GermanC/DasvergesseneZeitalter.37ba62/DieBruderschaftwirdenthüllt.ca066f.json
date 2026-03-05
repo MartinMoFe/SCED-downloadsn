@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04140\"\n}",
   "GUID": "ca066f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Bruderschaft wird enthüllt",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

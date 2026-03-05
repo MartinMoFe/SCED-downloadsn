@@ -8,17 +8,16 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "El vagabundo",
-  "GMNotes": "{\"id\": \"02005-p\"}",
+  "GMNotes": "{\n  \"id\": \"02005-p\"\n}",
   "GUID": "50b42d",
   "Name": "Card",
   "Nickname": "Pete \"Cubo de Basura\"",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

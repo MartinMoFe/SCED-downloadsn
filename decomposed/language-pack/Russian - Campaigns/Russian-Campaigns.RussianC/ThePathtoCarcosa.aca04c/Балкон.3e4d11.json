@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03051\"\n}",
   "GUID": "3e4d11",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Балкон",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

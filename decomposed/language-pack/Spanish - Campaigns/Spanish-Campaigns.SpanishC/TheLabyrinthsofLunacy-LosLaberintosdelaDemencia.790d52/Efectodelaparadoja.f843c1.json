@@ -1,0 +1,22 @@
+{
+  "CardID": 51121,
+  "CustomDeck": {
+    "511": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/lx9qMSJ.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70060\"\n}",
+  "GUID": "f843c1",
+  "Name": "Card",
+  "Nickname": "Efecto de la paradoja",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

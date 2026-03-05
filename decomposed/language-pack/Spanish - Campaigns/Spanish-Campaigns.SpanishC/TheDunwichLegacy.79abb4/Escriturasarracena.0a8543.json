@@ -1,0 +1,24 @@
+{
+  "CardID": 1203,
+  "CustomDeck": {
+    "12": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/OCufZqb.jpg",
+      "FaceURL": "http://i.imgur.com/rRaRRXh.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02240\"\n}",
+  "GUID": "0a8543",
+  "Name": "Card",
+  "Nickname": "Escritura sarracena",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

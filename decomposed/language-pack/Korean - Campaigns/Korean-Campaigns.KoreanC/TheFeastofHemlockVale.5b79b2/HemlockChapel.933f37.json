@@ -14,11 +14,9 @@
   "Description": "Hemlock Vale.",
   "GMNotes": "{\n  \"id\": \"10707\"\n}",
   "GUID": "933f37",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hemlock Chapel",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

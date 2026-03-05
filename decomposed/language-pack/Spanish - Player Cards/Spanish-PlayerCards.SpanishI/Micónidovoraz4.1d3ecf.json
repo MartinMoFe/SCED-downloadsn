@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/aIEBgDK.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Cepa nutritiva",
-  "GMNotes": "{\"id\": \"10061\"}",
+  "GMNotes": "{\n  \"id\": \"10061\"\n}",
   "GUID": "1d3ecf",
   "Name": "Card",
   "Nickname": "Micónido voraz (4)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

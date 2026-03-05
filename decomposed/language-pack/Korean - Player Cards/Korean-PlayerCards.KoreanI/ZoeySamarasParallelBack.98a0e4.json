@@ -14,12 +14,10 @@
   "Description": "The Chef",
   "GMNotes": "{\n  \"id\": \"02001-pb\"\n}",
   "GUID": "98a0e4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zoey Samaras (Parallel Back)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09696\"\n}",
   "GUID": "52a425",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The World Unbidden",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

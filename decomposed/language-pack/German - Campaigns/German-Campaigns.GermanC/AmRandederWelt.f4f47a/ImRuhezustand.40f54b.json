@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08662\"\n}",
   "GUID": "40f54b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Im Ruhezustand",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

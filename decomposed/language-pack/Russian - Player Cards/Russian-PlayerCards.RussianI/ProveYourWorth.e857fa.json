@@ -14,11 +14,9 @@
   "Description": "Вы — обуза?",
   "GMNotes": "{\n  \"id\": \"11757a\"\n}",
   "GUID": "e857fa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Показать себя",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

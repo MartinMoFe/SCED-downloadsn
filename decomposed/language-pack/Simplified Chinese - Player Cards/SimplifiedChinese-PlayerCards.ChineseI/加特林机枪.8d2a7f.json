@@ -1,5 +1,5 @@
 {
-  "CardID": "1158526",
+  "CardID": 1158526,
   "CustomDeck": {
     "11585": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11882496002706418513/C6717E143A4D9F45A14E51F2C98426B2CB4EB4C9/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"11064\"}",
+  "GMNotes": "{\n  \"id\": \"11064\"\n}",
   "GUID": "8d2a7f",
   "Name": "Card",
   "Nickname": "加特林机枪",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

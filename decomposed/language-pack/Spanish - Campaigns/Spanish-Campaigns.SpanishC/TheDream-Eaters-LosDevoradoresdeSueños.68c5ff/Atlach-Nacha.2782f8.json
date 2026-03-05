@@ -1,0 +1,24 @@
+{
+  "CardID": 863300,
+  "CustomDeck": {
+    "8633": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/8QIR9ZP.jpg",
+      "FaceURL": "https://i.imgur.com/cE14vm8.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "El dios araña",
+  "GMNotes": "{\n  \"id\": \"06346\"\n}",
+  "GUID": "2782f8",
+  "Name": "CardCustom",
+  "Nickname": "Atlach-Nacha",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

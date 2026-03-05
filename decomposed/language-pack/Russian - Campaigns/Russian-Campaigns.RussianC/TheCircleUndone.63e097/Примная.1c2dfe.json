@@ -14,12 +14,9 @@
   "Description": "Ложа.",
   "GMNotes": "{\n  \"id\": \"05207\"\n}",
   "GUID": "1c2dfe",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Приёмная",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 340,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

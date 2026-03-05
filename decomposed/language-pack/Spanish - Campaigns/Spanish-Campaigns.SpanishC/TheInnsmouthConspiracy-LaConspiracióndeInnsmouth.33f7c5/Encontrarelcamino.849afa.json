@@ -1,0 +1,24 @@
+{
+  "CardID": 461605,
+  "CustomDeck": {
+    "4616": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/D8lmIL3.jpg",
+      "FaceURL": "https://i.imgur.com/pCMCs8j.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07237\"\n}",
+  "GUID": "849afa",
+  "Name": "Card",
+  "Nickname": "Encontrar el camino",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

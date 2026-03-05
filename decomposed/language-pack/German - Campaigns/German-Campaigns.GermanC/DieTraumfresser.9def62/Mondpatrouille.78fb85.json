@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06232\"\n}",
   "GUID": "78fb85",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mondpatrouille",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,12 +14,10 @@
   "Description": "Скиталец.",
   "GMNotes": "{\n  \"id\": \"02003\"\n}",
   "GUID": "b954f6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дженни Барнс (промо версия)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

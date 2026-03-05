@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08562\"\n}",
   "GUID": "8f99c8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Küstengewässer",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

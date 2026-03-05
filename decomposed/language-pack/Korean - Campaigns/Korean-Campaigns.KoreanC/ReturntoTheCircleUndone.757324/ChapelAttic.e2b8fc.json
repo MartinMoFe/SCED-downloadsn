@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05176\"\n}",
   "GUID": "e2b8fc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Chapel Attic",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

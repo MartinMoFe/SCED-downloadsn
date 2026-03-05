@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08665\"\n}",
   "GUID": "dcd928",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Aus Stein gehauene Krypta",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

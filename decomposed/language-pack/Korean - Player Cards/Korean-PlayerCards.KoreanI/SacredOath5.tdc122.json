@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Oath of Order",
@@ -17,7 +17,6 @@
   "Name": "CardCustom",
   "Nickname": "Sacred Oath (5)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

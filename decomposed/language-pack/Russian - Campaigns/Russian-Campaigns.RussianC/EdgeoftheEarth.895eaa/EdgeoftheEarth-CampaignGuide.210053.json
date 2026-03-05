@@ -13,11 +13,9 @@
   "GMNotes": "{\n  \"id\": \"CG08\"\n}",
   "GUID": "210053",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Custom_PDF",
   "Nickname": "На Краю Земли - Книга Сценариев",
   "Transform": {
-    "rotY": 270,
     "scaleX": 2.2,
     "scaleY": 1,
     "scaleZ": 2.2

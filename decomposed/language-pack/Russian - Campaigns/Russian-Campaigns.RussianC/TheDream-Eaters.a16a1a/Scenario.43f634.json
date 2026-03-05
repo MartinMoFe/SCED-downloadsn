@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06333\"\n}",
   "GUID": "43f634",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Плетущая космос",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

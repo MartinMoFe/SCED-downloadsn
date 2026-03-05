@@ -14,11 +14,9 @@
   "Description": "Хемлок-Вейл.",
   "GMNotes": "{\n  \"id\": \"10711\"\n}",
   "GUID": "40ebaa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Деревенская школа",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

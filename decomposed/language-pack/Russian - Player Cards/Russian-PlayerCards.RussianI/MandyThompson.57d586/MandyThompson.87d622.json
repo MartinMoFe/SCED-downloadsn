@@ -1,5 +1,5 @@
 {
-  "CardID": "535028",
+  "CardID": 535028,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Ассистент. Учёный.",
   "GMNotes": "{\n  \"id\": \"06002\"\n}",
   "GUID": "87d622",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Мэнди Томпсон",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

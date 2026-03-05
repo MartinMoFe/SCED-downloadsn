@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/jft6qv0.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03024\"}",
+  "GMNotes": "{\n  \"id\": \"03024\"\n}",
   "GUID": "5c2ec4",
   "Name": "Card",
   "Nickname": "Trabajo de campo",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

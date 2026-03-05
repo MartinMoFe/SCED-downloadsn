@@ -14,11 +14,9 @@
   "Description": "Verräterisch",
   "GMNotes": "{\n  \"id\": \"03340\"\n}",
   "GUID": "1f26e1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Besessenheit",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

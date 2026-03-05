@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02067\"\n}",
   "GUID": "5d93d9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Falsches Spiel",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

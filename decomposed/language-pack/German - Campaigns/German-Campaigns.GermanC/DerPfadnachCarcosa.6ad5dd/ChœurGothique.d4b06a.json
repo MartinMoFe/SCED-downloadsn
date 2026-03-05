@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03292\"\n}",
   "GUID": "d4b06a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Chœur Gothique",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

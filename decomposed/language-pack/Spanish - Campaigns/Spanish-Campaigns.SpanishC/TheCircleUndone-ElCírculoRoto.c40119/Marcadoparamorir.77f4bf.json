@@ -1,0 +1,22 @@
+{
+  "CardID": 862305,
+  "CustomDeck": {
+    "8623": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/AyA3yjv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05271\"\n}",
+  "GUID": "77f4bf",
+  "Name": "Card",
+  "Nickname": "Marcado para morir",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

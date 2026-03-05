@@ -1,0 +1,24 @@
+{
+  "CardID": 874300,
+  "CustomDeck": {
+    "8743": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/8RV2V8Q.jpg",
+      "FaceURL": "https://i.imgur.com/xoRxj7I.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Olvido espiralado",
+  "GMNotes": "{\n  \"id\": \"10670\"\n}",
+  "GUID": "1f0862",
+  "Name": "CardCustom",
+  "Nickname": "El abismo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

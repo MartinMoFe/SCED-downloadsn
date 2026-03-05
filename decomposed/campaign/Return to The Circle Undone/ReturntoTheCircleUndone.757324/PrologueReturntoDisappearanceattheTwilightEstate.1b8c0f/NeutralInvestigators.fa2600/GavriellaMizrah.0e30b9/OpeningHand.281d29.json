@@ -1,12 +1,12 @@
 {
   "ContainedObjects_order": [
-    "FirstAid.5cd622",
-    "GuardDog.08bdf1",
-    "Evidence.2db518",
-    "Dodge.e0dff3",
+    "DelaytheInevitable.74788f",
+    "DelaytheInevitable.74788f",
     "ExtraAmmunition1.f60263",
-    "DelaytheInevitable.83ad4d",
-    "DelaytheInevitable.74788f"
+    "GuardDog.08bdf1",
+    "FirstAid.5cd622",
+    "Dodge.e0dff3",
+    "Evidence.2db518"
   ],
   "ContainedObjects_path": "OpeningHand.281d29",
   "CustomDeck": {
@@ -16,8 +16,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/960860341956212466/C93A881D22B4F7E429025CFAE677DC2EB341D6A6/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2737": {
       "BackIsHidden": true,
@@ -25,18 +24,17 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025943109/9C5481E6DFEACD450C5522F884E615482281DDB1/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    226324,
-    226326,
-    226309,
-    226313,
-    226337,
     273707,
-    273707
+    273707,
+    226337,
+    226326,
+    226324,
+    226313,
+    226309
   ],
   "GUID": "281d29",
   "Hands": false,

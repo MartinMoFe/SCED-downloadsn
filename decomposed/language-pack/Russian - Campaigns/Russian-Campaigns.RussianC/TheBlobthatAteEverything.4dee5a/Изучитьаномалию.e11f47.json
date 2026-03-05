@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"85005\"\n}",
   "GUID": "e11f47",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Изучить аномалию",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

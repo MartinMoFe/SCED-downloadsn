@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2453969772006052261/19972DA9635CE5C7AD74D9BDAE6196359172335A/",
       "NumHeight": 2,
       "NumWidth": 7,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Alien Meteorite",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Prismatic Shard",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

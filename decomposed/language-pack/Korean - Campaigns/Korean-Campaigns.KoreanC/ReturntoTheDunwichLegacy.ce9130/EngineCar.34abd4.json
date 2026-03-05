@@ -14,11 +14,9 @@
   "Description": "Train.",
   "GMNotes": "{\n  \"id\": \"51028\"\n}",
   "GUID": "34abd4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Engine Car",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"03281\"\n}",
   "GUID": "6e8ae9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Откроется Нижний путь",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

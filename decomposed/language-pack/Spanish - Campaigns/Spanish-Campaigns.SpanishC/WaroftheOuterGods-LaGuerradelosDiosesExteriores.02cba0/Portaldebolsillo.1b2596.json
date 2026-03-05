@@ -1,0 +1,23 @@
+{
+  "CardID": 471801,
+  "CustomDeck": {
+    "4718": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/codq1VC.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0
+    }
+  },
+  "Description": "Entrada hacia otro mundo",
+  "GMNotes": "{\n  \"id\": \"86052\"\n}",
+  "GUID": "1b2596",
+  "Name": "Card",
+  "Nickname": "Portal de bolsillo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06335\"\n}",
   "GUID": "7a68bd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ein Weg voller Windungen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

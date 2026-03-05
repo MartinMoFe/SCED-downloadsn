@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02081\"\n}",
   "GUID": "1952d4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Etwas ist in den Drinks",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

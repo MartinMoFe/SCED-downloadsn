@@ -1,10 +1,10 @@
 {
   "ContainedObjects_order": [
-    "GoldenOrbConspicuous.5f8f2a",
-    "GoldenOrbOminous.a82445",
     "GoldenOrbUnwieldy.78dc87",
-    "GoldenOrbDissonant.741452",
     "GoldenOrbResonating.230384",
+    "GoldenOrbOminous.a82445",
+    "GoldenOrbDissonant.741452",
+    "GoldenOrbConspicuous.5f8f2a",
     "GoldenOrbAmplifying.695c52"
   ],
   "ContainedObjects_path": "GoldenOrbs.d2fdeb",
@@ -15,16 +15,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1691647367270207641/89767BC0E880DCA71F013037C995265AD6532890/",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    567202,
-    567204,
     567206,
-    567203,
     567205,
+    567204,
+    567203,
+    567202,
     567201
   ],
   "GUID": "d2fdeb",

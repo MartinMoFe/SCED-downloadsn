@@ -1,5 +1,5 @@
 {
-  "CardID": 8615100,
+  "CardID": 8614700,
   "CustomDeck": {
     "86147": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "TheGhostsofOnigawaCampaignExpansion.c6cf48/ScenarioVITheEndofAugust.64f036/EncounterDeck.30b66e/KonohanaSakyaTheWeepingWillow.95c2d1.gmnotes",

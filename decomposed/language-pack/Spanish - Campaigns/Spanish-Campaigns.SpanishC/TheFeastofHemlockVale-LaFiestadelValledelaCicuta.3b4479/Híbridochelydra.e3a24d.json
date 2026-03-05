@@ -1,0 +1,23 @@
+{
+  "CardID": 874801,
+  "CustomDeck": {
+    "8748": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/gnSITrZ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Anomalía florecida",
+  "GMNotes": "{\n  \"id\": \"10601\"\n}",
+  "GUID": "e3a24d",
+  "Name": "Card",
+  "Nickname": "Híbrido chelydra",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

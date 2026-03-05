@@ -14,11 +14,9 @@
   "Description": "Dunwich.",
   "GMNotes": "{\n  \"id\": \"02246\"\n}",
   "GUID": "05b0dd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ten-Acre Meadow",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

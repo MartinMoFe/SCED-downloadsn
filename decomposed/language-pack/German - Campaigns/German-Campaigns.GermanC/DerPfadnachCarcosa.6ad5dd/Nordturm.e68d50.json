@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03287\"\n}",
   "GUID": "e68d50",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nordturm",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

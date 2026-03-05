@@ -1,0 +1,23 @@
+{
+  "CardID": 470704,
+  "CustomDeck": {
+    "4707": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/MfpO3lH.jpg",
+      "FaceURL": "https://i.imgur.com/nHCSgbr.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09704\"\n}",
+  "GUID": "908f17",
+  "Name": "Card",
+  "Nickname": "Salas escarlata",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

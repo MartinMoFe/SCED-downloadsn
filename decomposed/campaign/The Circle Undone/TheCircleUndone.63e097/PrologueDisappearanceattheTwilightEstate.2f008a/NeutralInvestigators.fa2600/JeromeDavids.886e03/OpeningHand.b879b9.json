@@ -1,15 +1,15 @@
 {
   "ContainedObjects_order": [
-    "Hyperawareness.e5dd39",
-    "MindoverMatter.8cf335",
-    "WorkingaHunch.eb6165",
-    "Barricade.edb554",
-    "Deduction.b265c4",
-    "MagnifyingGlass1.378e84",
     "FingerprintKit.b9bb2a",
     "ConnecttheDots.13413d",
-    "Curiosity.c2b986",
-    "Curiosity.50a804"
+    "Curiosity.50a804",
+    "Curiosity.50a804",
+    "MagnifyingGlass1.378e84",
+    "Hyperawareness.e5dd39",
+    "WorkingaHunch.eb6165",
+    "MindoverMatter.8cf335",
+    "Barricade.edb554",
+    "Deduction.b265c4"
   ],
   "ContainedObjects_path": "OpeningHand.b879b9",
   "CustomDeck": {
@@ -19,8 +19,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/960860341956220005/42E220A3221D2BFA22F1B3A71EEE346A8B0AAD77/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2732": {
       "BackIsHidden": true,
@@ -28,21 +27,20 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025943833/DE98A03934DF8FF5B3CF6C53143B15BFC3ED7341/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    230424,
-    230408,
-    230413,
-    230404,
-    230402,
-    230437,
     273210,
     273209,
     273208,
-    273208
+    273208,
+    230437,
+    230424,
+    230413,
+    230408,
+    230404,
+    230402
   ],
   "GUID": "b879b9",
   "Hands": false,

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04165\"\n}",
   "GUID": "63026c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Schwelle überschreiten",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

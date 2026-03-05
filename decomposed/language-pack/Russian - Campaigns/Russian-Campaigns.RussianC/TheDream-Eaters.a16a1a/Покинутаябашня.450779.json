@@ -14,11 +14,9 @@
   "Description": "Кадат.",
   "GMNotes": "{\n  \"id\": \"06302\"\n}",
   "GUID": "450779",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Покинутая башня",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

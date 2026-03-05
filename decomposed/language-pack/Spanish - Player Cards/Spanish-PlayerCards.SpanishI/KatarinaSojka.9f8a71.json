@@ -7,17 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/50204544127402941/30E4E411B04AFEE8A17D159542E93A9525C6F3EB/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Emisaria de Ulthar",
-  "GMNotes": "{\"id\": \"11069\"}",
+  "GMNotes": "{\n  \"id\": \"11069\"\n}",
   "GUID": "9f8a71",
   "Name": "Card",
   "Nickname": "Katarina Sojka",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

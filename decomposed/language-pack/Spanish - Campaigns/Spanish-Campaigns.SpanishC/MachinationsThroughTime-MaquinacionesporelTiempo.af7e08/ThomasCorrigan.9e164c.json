@@ -1,0 +1,23 @@
+{
+  "CardID": 458700,
+  "CustomDeck": {
+    "4587": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/03j0k3L.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Estudiante de Física",
+  "GMNotes": "{\n  \"id\": \"87012\"\n}",
+  "GUID": "9e164c",
+  "Name": "Card",
+  "Nickname": "Thomas Corrigan",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
-    "ParadigmEffacer.d757cb",
-    "ParadigmEffacer.cecbda",
     "OtherworldlyMimic.3b339f",
-    "OtherworldlyMimic.7a1e8c"
+    "OtherworldlyMimic.3b339f",
+    "ParadigmEffacer.cecbda",
+    "ParadigmEffacer.cecbda"
   ],
   "ContainedObjects_path": "OutsiderEnemies.0f7c60",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387859732/1712285E81AF47EE85C90B49203E484D209B326F/",
       "NumHeight": 3,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    588902,
-    588902,
     588907,
-    588907
+    588907,
+    588902,
+    588902
   ],
   "GUID": "0f7c60",
   "Hands": false,

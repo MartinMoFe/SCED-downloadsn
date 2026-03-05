@@ -1,0 +1,22 @@
+{
+  "CardID": 44018,
+  "CustomDeck": {
+    "440": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/cmcQRnx.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"52070\"\n}",
+  "GUID": "97c67b",
+  "Name": "Card",
+  "Nickname": "El signo de Hastur",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

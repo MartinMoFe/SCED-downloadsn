@@ -14,12 +14,10 @@
   "Description": "Серебряные Сумерки. Бомонд.",
   "GMNotes": "{\n  \"id\": \"05048\"\n}",
   "GUID": "41d2da",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Валентино Ривас",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

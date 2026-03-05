@@ -14,12 +14,9 @@
   "Description": "Kadath.",
   "GMNotes": "{\n  \"id\": \"06303\"\n}",
   "GUID": "983fd2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Forsaken Tower",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Return to Before the Black Throne",
   "GMNotes": "{\n  \"id\": \"54056\"\n}",
   "GUID": "0ff52f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

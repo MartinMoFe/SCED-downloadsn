@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2259182745935836003/7EBDE4E30635C23F72BAC9B0E317F79913CDD736/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Unidentified",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Ancient Stone (1)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

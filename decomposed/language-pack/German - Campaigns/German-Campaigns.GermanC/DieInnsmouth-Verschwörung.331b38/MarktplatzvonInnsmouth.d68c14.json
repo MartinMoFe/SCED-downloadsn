@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07139\"\n}",
   "GUID": "d68c14",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Marktplatz von Innsmouth",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

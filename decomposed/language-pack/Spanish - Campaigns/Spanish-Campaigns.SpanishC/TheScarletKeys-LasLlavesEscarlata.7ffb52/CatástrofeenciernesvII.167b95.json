@@ -1,0 +1,24 @@
+{
+  "CardID": 471301,
+  "CustomDeck": {
+    "4713": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/oraccYy.jpg",
+      "FaceURL": "https://i.imgur.com/ALWXE2f.jpg",
+      "NumHeight": 2,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09637\"\n}",
+  "GUID": "167b95",
+  "Name": "Card",
+  "Nickname": "Catástrofe en ciernes (v. II)",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "CardID": "535051",
+  "CardID": 535051,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -41,7 +41,6 @@
   "Nickname": "Кохаку Наруками",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

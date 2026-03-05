@@ -1,0 +1,22 @@
+{
+  "CardID": 862304,
+  "CustomDeck": {
+    "8623": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/AyA3yjv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05270\"\n}",
+  "GUID": "e54b67",
+  "Name": "Card",
+  "Nickname": "La muerte se acerca",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

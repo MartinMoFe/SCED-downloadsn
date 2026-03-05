@@ -14,11 +14,9 @@
   "Description": "Return to Extracurricular Activities",
   "GMNotes": "{\n  \"id\": \"51012\"\n}",
   "GUID": "aa50e4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

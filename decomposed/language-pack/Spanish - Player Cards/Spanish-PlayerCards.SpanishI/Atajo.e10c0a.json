@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/PJdtW6G.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02022\"}",
+  "GMNotes": "{\n  \"id\": \"02022\"\n}",
   "GUID": "e10c0a",
   "Name": "Card",
   "Nickname": "Atajo",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

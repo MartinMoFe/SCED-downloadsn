@@ -14,11 +14,9 @@
   "Description": "Монстр. Чудовище. Элитное.",
   "GMNotes": "{\n  \"id\": \"10583\"\n}",
   "GUID": "24dc74",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Мечехвост-гибрид [день]",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 2904,
+  "CustomDeck": {
+    "29": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/sCR5oNq.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03146\"\n}",
+  "GUID": "90ccd5",
+  "Name": "Card",
+  "Nickname": "La búsqueda de la secta",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

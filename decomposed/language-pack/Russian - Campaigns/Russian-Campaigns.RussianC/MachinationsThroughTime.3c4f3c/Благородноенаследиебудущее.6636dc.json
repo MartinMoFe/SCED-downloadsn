@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"87024\"\n}",
   "GUID": "6636dc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Благородное наследие (будущее)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04053\"\n}",
   "GUID": "14cde7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ruinen von Eztli",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

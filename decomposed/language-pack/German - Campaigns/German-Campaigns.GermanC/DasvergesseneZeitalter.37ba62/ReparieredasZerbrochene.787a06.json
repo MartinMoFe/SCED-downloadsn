@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04321\"\n}",
   "GUID": "787a06",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Repariere das Zerbrochene",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 464305,
+  "CustomDeck": {
+    "4643": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/DbNq480.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07096\"\n}",
+  "GUID": "6a6a9f",
+  "Name": "Card",
+  "Nickname": "Recuerdo macabro",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

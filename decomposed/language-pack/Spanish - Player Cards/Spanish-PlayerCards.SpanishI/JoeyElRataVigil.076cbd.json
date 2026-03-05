@@ -7,18 +7,15 @@
       "FaceURL": "http://i.imgur.com/w5VrdCE.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Cuidando de sí mismo",
-  "GMNotes": "{\"id\": \"02265\"}",
+  "GMNotes": "{\n  \"id\": \"02265\"\n}",
   "GUID": "076cbd",
   "Name": "Card",
   "Nickname": "Joey \"El Rata\" Vigil",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

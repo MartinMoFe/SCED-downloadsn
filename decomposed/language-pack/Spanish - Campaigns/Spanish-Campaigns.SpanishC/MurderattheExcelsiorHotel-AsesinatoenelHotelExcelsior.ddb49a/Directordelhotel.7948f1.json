@@ -1,0 +1,23 @@
+{
+  "CardID": 44513,
+  "CustomDeck": {
+    "445": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/59vYhad.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Que comience el festín",
+  "GMNotes": "{\n  \"id\": \"84032\"\n}",
+  "GUID": "7948f1",
+  "Name": "Card",
+  "Nickname": "Director del hotel",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

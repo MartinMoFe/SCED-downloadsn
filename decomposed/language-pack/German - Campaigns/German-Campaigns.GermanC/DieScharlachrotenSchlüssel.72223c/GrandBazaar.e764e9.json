@@ -14,11 +14,9 @@
   "Description": "Rooftop Access",
   "GMNotes": "{\n  \"id\": \"09582\"\n}",
   "GUID": "e764e9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grand Bazaar",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

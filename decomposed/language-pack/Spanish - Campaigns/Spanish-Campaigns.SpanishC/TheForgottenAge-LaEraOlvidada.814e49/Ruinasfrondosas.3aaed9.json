@@ -1,0 +1,22 @@
+{
+  "CardID": 50815,
+  "CustomDeck": {
+    "508": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/NKLgJJ7.jpg",
+      "NumHeight": 5,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04075\"\n}",
+  "GUID": "3aaed9",
+  "Name": "Card",
+  "Nickname": "Ruinas frondosas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

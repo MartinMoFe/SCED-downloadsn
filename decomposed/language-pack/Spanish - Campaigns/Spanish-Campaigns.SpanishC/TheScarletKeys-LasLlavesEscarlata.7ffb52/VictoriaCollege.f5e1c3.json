@@ -1,0 +1,23 @@
+{
+  "CardID": 471005,
+  "CustomDeck": {
+    "4710": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ZnhZ6Q1.jpg",
+      "FaceURL": "https://i.imgur.com/7dldCWs.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09646\"\n}",
+  "GUID": "f5e1c3",
+  "Name": "Card",
+  "Nickname": "Victoria College",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

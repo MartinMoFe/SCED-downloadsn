@@ -1,0 +1,24 @@
+{
+  "CardID": 693700,
+  "CustomDeck": {
+    "6937": {
+      "BackIsHidden": true,
+      "BackURL": "https://res.cloudinary.com/dnyyxgsfq/image/upload/v1772022769/Carcosa_Campaign_Cards/03126_back.jpg",
+      "FaceURL": "https://res.cloudinary.com/dnyyxgsfq/image/upload/v1772022766/Carcosa_Campaign_Cards/03126_front.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03126\"\n}",
+  "GUID": "338bf5",
+  "Name": "CardCustom",
+  "Nickname": "Przysięga",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

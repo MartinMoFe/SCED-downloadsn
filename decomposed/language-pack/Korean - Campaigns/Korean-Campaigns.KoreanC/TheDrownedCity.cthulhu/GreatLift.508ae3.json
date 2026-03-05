@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11622\"\n}",
   "GUID": "508ae3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Great Lift",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

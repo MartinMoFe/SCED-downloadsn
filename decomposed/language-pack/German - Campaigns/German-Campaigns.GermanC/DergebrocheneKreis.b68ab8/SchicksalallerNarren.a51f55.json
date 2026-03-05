@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05108\"\n}",
   "GUID": "a51f55",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schicksal aller Narren",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

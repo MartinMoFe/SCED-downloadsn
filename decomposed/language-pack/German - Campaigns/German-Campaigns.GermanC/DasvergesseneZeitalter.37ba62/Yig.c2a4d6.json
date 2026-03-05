@@ -14,11 +14,9 @@
   "Description": "Der Vater der Schlangen",
   "GMNotes": "{\n  \"id\": \"04296\"\n}",
   "GUID": "c2a4d6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Yig",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

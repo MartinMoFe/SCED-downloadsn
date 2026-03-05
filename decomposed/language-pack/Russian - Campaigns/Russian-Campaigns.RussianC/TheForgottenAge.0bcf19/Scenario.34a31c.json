@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04344\"\n}",
   "GUID": "34a31c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Обратить время вспять",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

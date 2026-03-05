@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04148\"\n}",
   "GUID": "861d25",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tagebuch der Expedition",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

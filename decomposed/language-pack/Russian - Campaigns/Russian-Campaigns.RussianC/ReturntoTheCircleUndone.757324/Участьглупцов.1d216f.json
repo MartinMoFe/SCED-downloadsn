@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14691970401869037245/21017436A710CCA0B44038899FA88CB9917E2466/",
       "NumHeight": 6,
       "NumWidth": 6,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Знамение. Потустороннее.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Участь глупцов",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

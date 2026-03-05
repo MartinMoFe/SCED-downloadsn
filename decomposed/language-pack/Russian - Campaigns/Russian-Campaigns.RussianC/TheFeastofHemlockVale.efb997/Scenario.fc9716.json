@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"10605\"\n}",
   "GUID": "fc9716",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Чудовищная лощина",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

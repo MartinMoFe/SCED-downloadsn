@@ -1,0 +1,23 @@
+{
+  "CardID": 457407,
+  "CustomDeck": {
+    "4574": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/6tgD70S.jpg",
+      "FaceURL": "https://i.imgur.com/xlc2Zqt.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08606\"\n}",
+  "GUID": "4ff02a",
+  "Name": "Card",
+  "Nickname": "Sendero barrido por el viento",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

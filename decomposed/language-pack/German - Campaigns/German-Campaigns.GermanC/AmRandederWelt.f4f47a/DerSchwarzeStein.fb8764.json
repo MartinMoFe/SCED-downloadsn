@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08574\"\n}",
   "GUID": "fb8764",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Schwarze Stein",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

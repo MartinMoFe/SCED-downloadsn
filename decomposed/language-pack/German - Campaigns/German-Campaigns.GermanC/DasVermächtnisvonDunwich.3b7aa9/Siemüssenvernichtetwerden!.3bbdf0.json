@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02241\"\n}",
   "GUID": "3bbdf0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sie müssen vernichtet werden!",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

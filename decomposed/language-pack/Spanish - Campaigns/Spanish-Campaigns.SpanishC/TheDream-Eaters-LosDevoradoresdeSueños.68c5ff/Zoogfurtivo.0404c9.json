@@ -1,0 +1,22 @@
+{
+  "CardID": 44426,
+  "CustomDeck": {
+    "444": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/enDVUrF.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06106\"\n}",
+  "GUID": "0404c9",
+  "Name": "Card",
+  "Nickname": "Zoog furtivo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

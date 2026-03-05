@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03274\"\n}",
   "GUID": "5bc4b0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die schwarzen Sterne gehen auf",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

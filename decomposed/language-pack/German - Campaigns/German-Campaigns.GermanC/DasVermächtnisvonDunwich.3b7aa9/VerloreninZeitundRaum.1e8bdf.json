@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02311\"\n}",
   "GUID": "1e8bdf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verloren in Zeit und Raum",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

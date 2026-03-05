@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08517\"\n}",
   "GUID": "464fb5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sicht gleich null",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

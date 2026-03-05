@@ -22,7 +22,6 @@
   "Description": "Чародей.",
   "GMNotes": "{\n  \"id\": \"01004-pb\"\n}",
   "GUID": "909f30",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Агнес Бейкер (альтернативный оборот)",
@@ -31,7 +30,6 @@
     "2": "AgnesBakerParallelBack.665117"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

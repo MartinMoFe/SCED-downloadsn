@@ -1,0 +1,22 @@
+{
+  "CardID": 876320,
+  "CustomDeck": {
+    "8763": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nHlSl0H.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04262\"\n}",
+  "GUID": "969504",
+  "Name": "Card",
+  "Nickname": "Humanidad perdida",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

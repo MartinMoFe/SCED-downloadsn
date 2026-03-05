@@ -1,0 +1,24 @@
+{
+  "CardID": 876008,
+  "CustomDeck": {
+    "8760": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/j5UsCIx.jpg",
+      "FaceURL": "https://i.imgur.com/2Z0hXJi.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04238\"\n}",
+  "GUID": "dda5a4",
+  "Name": "Card",
+  "Nickname": "Ciudad de la Gran Raza",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

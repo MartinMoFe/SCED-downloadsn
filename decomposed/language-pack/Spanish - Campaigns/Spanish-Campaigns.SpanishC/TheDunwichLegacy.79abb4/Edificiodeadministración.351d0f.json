@@ -1,0 +1,23 @@
+{
+  "CardID": 463806,
+  "CustomDeck": {
+    "4638": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/P548Mxa.jpg",
+      "FaceURL": "https://i.imgur.com/04aM8ON.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02053\"\n}",
+  "GUID": "351d0f",
+  "Name": "Card",
+  "Nickname": "Edificio de administración",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

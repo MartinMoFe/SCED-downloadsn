@@ -14,11 +14,9 @@
   "Description": "The Lost Sister",
   "GMNotes": "{\n  \"id\": \"10569\"\n}",
   "GUID": "2cd2ed",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

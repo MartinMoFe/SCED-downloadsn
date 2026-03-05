@@ -14,14 +14,12 @@
   },
   "GMNotes": "{\n  \"id\": \"08004-m\"\n}",
   "GUID": "a5d9bb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Норман Уизерс",
   "States_path": {
     "2": "NormanWitherspromoversion.9e2c64"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

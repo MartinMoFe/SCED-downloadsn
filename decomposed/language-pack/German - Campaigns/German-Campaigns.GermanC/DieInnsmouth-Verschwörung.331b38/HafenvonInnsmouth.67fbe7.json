@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07138\"\n}",
   "GUID": "67fbe7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hafen von Innsmouth",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

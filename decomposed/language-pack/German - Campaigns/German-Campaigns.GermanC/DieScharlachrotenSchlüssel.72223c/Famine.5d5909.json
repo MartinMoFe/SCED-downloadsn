@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09542\"\n}",
   "GUID": "5d5909",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Famine",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

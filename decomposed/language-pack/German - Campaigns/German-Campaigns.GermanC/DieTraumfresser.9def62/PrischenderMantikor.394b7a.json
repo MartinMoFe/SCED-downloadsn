@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06146\"\n}",
   "GUID": "394b7a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Prischender Mantikor",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

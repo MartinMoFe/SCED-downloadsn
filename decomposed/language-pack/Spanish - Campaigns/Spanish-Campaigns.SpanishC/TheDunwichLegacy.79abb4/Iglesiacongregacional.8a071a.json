@@ -1,0 +1,23 @@
+{
+  "CardID": 476609,
+  "CustomDeck": {
+    "4766": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/wBlOHNv.jpg",
+      "FaceURL": "https://i.imgur.com/1OstsLe.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02209\"\n}",
+  "GUID": "8a071a",
+  "Name": "Card",
+  "Nickname": "Iglesia congregacional",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Der Mondbaum",
   "GMNotes": "{\n  \"id\": \"06054\"\n}",
   "GUID": "c21afe",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verwunschener Wald",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,8 +1,8 @@
 {
   "ContainedObjects_order": [
     "TheYellowSign.4cf636",
-    "TheYellowSign.74a845",
-    "ScreechingByakhee.ab3719",
+    "TheYellowSign.4cf636",
+    "ScreechingByakhee.6fc5fa",
     "ScreechingByakhee.6fc5fa"
   ],
   "ContainedObjects_path": "AgentsofAncientOne.351d7e",
@@ -13,8 +13,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

@@ -14,12 +14,10 @@
   "Description": "The Musician",
   "GMNotes": "{\n  \"id\": \"02004-pf\"\n}",
   "GUID": "c5fc80",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jim Culver (Parallel Front)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

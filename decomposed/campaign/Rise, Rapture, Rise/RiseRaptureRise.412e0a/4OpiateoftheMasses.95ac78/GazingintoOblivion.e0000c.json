@@ -15,7 +15,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "202510": {
       "BackIsHidden": true,
@@ -24,7 +24,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "202511": {
       "BackIsHidden": true,
@@ -33,7 +33,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "202512": {
       "BackIsHidden": true,
@@ -42,7 +42,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "202686": {
       "BackIsHidden": true,
@@ -51,7 +51,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [

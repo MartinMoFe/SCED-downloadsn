@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10151508884343194032/E687DA1E48180FA1DB5D0FF8B9F6488889F26257/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Монстр. Элитный.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Лунная ящерица",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 873815,
+  "CustomDeck": {
+    "8738": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/GOjacuJ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "El padre",
+  "GMNotes": "{\n  \"id\": \"10567\"\n}",
+  "GUID": "b2a549",
+  "Name": "Card",
+  "Nickname": "Restos cristalinos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

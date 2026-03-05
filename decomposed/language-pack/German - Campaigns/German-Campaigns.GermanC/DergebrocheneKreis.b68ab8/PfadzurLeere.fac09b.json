@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05340\"\n}",
   "GUID": "fac09b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Pfad zur Leere",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

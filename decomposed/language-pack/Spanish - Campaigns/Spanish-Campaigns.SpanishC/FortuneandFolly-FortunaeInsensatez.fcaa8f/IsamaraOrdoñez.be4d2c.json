@@ -1,0 +1,24 @@
+{
+  "CardID": 850724,
+  "CustomDeck": {
+    "8507": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/G39DPz2.jpg",
+      "FaceURL": "https://i.imgur.com/7HhpwK6.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Cantante de bar",
+  "GMNotes": "{\n  \"id\": \"88032\"\n}",
+  "GUID": "be4d2c",
+  "Name": "Card",
+  "Nickname": "Isamara Ordoñez",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Westlicher Patientenflügel",
   "GMNotes": "{\n  \"id\": \"03169\"\n}",
   "GUID": "ba6fbe",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sanatoriumsflur",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

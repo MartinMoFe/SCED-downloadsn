@@ -14,11 +14,9 @@
   "Description": "Cave.",
   "GMNotes": "{\n  \"id\": \"01156\"\n}",
   "GUID": "372a95",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ritual Site",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

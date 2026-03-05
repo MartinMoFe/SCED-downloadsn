@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02319\"\n}",
   "GUID": "e9bdac",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Finde einen neuen Weg",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 44611,
+  "CustomDeck": {
+    "446": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/n4gWyyb.jpg",
+      "FaceURL": "https://i.imgur.com/I3FyT9k.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06065\"\n}",
+  "GUID": "c13309",
+  "Name": "Card",
+  "Nickname": "La infestación se extiende",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "CardID": 46301,
+  "CustomDeck": {
+    "463": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/FluV2iG.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"81020\"\n}",
+  "GUID": "210384",
+  "Name": "Card",
+  "Nickname": "Cepo para osos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "CardID": 876301,
+  "CustomDeck": {
+    "8763": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nHlSl0H.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04216\"\n}",
+  "GUID": "4a9c71",
+  "Name": "Card",
+  "Nickname": "Esporas venenosas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,16 +1,16 @@
 {
   "id": "45d3e97b-90e6-4dac-b020-3e90e960c894",
+  "TtsZoopGuid": "45d3e97b-90e6-4dac-b020-3e90e960c894",
   "type": "ScenarioReference",
   "class": "Mythos",
-  "TtsZoopGuid": "45d3e97b-90e6-4dac-b020-3e90e960c894",
   "tokens": {
     "front": {
       "Skull": {
-        "description": "-1 for each <t>Syndicate</t> enemy in play (max 4).",
+        "description": "-1 for each Syndicate enemy in play (max 4).",
         "modifier": -1
       },
       "Cultist": {
-        "description": "-2. If a <t>Surveillance</t> treachery is in play, rotate it once.",
+        "description": "-2. If a Surveillance treachery is in play, rotate it once.",
         "modifier": -2
       },
       "Elder Thing": {
@@ -20,7 +20,7 @@
     },
     "back": {
       "Skull": {
-        "description": "-1 for each <t>Syndicate</t> enemy in play. If you fail, the enemy with the most damage heals 1 damage.",
+        "description": "-1 for each Syndicate enemy in play. If you fail, the enemy with the most damage heals 1 damage.",
         "modifier": -1
       },
       "Cultist": {

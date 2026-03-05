@@ -1,0 +1,22 @@
+{
+  "CardID": 871500,
+  "CustomDeck": {
+    "8715": {
+      "BackIsHidden": false,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/50200269936979827/6E1D0E9BDF78A6CFE14090574821CB39456DA8C3/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/50209154454638389/7AC2329B630FFCEF208F32A594ED0B3F21C75CBA/",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"11551\"\n}",
+  "GUID": "761ca2",
+  "Name": "Card",
+  "Nickname": "Medusozoa",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Аркхэм.",
   "GMNotes": "{\n  \"id\": \"05302\"\n}",
   "GUID": "a21c5b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Висельный холм",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

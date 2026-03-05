@@ -1,0 +1,23 @@
+{
+  "CardID": 458527,
+  "CustomDeck": {
+    "4585": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/OEPl7ea.jpg",
+      "FaceURL": "https://i.imgur.com/af0Go99.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08582\"\n}",
+  "GUID": "28ef1c",
+  "Name": "Card",
+  "Nickname": "Recuerdo de una traducción alienígena",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

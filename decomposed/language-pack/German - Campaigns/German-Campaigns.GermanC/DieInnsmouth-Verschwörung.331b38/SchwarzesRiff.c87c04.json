@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07173\"\n}",
   "GUID": "c87c04",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schwarzes Riff",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

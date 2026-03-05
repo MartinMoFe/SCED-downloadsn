@@ -14,11 +14,9 @@
   "Description": "Экспедиция. Пустыня.",
   "GMNotes": "{\n  \"id\": \"83038\"\n}",
   "GUID": "1ec682",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Нил",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

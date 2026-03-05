@@ -1,11 +1,12 @@
 {
   "id": "85f0e94a-e82e-48ed-9b01-dd8918db6d52",
+  "TtsZoopGuid": "85f0e94a-e82e-48ed-9b01-dd8918db6d52",
   "type": "Location",
   "class": "Mythos",
   "traits": "Abandoned. Facility.",
   "locationFront": {
     "icons": "Heart",
-    "connections": "DoubleSlash|Star|Quote|CircleAlt",
+    "connections": "DoubleSlash|Quote|Star|Spade",
     "uses": [
       {
         "count": 0,
@@ -16,7 +17,7 @@
   },
   "locationBack": {
     "icons": "Heart",
-    "connections": "DoubleSlash|Star|Quote|CircleAlt",
+    "connections": "DoubleSlash|Quote|Star|Spade",
     "uses": [
       {
         "count": 0,
@@ -24,6 +25,5 @@
         "token": "clue"
       }
     ]
-  },
-  "TtsZoopGuid": "85f0e94a-e82e-48ed-9b01-dd8918db6d52"
+  }
 }

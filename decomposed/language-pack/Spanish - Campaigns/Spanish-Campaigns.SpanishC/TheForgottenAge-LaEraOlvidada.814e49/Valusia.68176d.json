@@ -1,0 +1,22 @@
+{
+  "CardID": 876508,
+  "CustomDeck": {
+    "8765": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/BqHS2ug.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04335\"\n}",
+  "GUID": "68176d",
+  "Name": "Card",
+  "Nickname": "Valusia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

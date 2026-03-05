@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/ResidentsMementos.7a167a/MementosEncounterSet.e00225/CaptainsCompass.e0021f.gmnotes",
   "GUID": "e0021f",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Captain's Compass",
   "Tags": [

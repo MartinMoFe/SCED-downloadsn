@@ -1,0 +1,22 @@
+{
+  "CardID": 470311,
+  "CustomDeck": {
+    "4703": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/PpAu3Ge.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09632\"\n}",
+  "GUID": "c88e8b",
+  "Name": "Card",
+  "Nickname": "Hielo agrietado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

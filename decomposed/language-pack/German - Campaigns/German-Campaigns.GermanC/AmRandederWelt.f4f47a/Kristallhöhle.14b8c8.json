@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08514\"\n}",
   "GUID": "14b8c8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kristallhöhle",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

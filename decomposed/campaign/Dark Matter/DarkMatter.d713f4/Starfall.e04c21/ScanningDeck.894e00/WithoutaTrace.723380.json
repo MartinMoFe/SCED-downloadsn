@@ -8,10 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
-  "GMNotes": "{\n  \"id\": \"DMS01\",\n  \"type\": \"Story\",\n  \"victory\": 1\n}",
+  "GMNotes": "{\n  \"id\": \"DMS268\",\n  \"type\": \"Story\",\n  \"victory\": 1\n}",
   "GUID": "723380",
   "Name": "CardCustom",
   "Nickname": "Without a Trace",

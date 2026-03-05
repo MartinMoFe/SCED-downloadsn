@@ -1,0 +1,23 @@
+{
+  "CardID": 590607,
+  "CustomDeck": {
+    "5906": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/AYLyVOG.jpg",
+      "FaceURL": "https://i.imgur.com/ck0zddk.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06179\"\n}",
+  "GUID": "9de120",
+  "Name": "Card",
+  "Nickname": "Biblioteca",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

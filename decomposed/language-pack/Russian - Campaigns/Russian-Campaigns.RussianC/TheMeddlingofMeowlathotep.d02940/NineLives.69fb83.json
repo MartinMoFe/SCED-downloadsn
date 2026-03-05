@@ -14,12 +14,10 @@
   "Description": "Сцена 1",
   "GMNotes": "{\n  \"id\": \"80025\"\n}",
   "GUID": "69fb83",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Девять жизней",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

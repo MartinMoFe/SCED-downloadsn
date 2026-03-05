@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04086\"\n}",
   "GUID": "94ba25",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Eztli-Wächter",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

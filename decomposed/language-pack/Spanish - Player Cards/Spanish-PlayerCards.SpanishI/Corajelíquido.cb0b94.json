@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/PJdtW6G.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02024\"}",
+  "GMNotes": "{\n  \"id\": \"02024\"\n}",
   "GUID": "cb0b94",
   "Name": "Card",
   "Nickname": "Coraje líquido",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

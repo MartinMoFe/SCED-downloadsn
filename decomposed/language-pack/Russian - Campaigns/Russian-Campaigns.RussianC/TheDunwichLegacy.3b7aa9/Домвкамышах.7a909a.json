@@ -14,11 +14,9 @@
   "Description": "Данвич.",
   "GMNotes": "{\n  \"id\": \"02210\"\n}",
   "GUID": "7a909a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дом в камышах",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

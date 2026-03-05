@@ -14,12 +14,10 @@
   "Description": "Замысел 1",
   "GMNotes": "{\n  \"id\": \"90095\"\n}",
   "GUID": "264de5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Призраки театра Уорда",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

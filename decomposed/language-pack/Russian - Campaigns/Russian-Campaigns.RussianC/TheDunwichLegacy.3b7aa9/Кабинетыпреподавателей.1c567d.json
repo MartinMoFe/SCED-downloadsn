@@ -14,11 +14,9 @@
   "Description": "Мискатоник.",
   "GMNotes": "{\n  \"id\": \"02055\"\n}",
   "GUID": "1c567d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кабинеты преподавателей",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

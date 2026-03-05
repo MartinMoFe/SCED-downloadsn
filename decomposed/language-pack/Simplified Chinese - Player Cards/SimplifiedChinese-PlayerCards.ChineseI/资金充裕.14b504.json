@@ -1,5 +1,5 @@
 {
-  "CardID": "1158013",
+  "CardID": 1158013,
   "CustomDeck": {
     "11580": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11352769851309753020/F8C22E629034F73272A5E30403D8222A8D664B20/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"10051\"}",
+  "GMNotes": "{\n  \"id\": \"10051\"\n}",
   "GUID": "14b504",
   "Name": "Card",
   "Nickname": "资金充裕",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

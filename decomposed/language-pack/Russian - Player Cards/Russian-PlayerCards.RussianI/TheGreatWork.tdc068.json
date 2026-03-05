@@ -15,14 +15,12 @@
   "Description": "Разделяй и объединяй",
   "GMNotes": "{\n  \"id\": \"11068a\"\n}",
   "GUID": "tdc068",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Великое делание",
   "States_path": {
     "2": "LostHomunculus.tdc068b"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

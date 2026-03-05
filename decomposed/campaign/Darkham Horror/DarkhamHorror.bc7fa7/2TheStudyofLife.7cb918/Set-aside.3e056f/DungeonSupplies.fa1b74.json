@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
+    "Torch.340ec5",
     "Laudanum.c829a2",
-    "Bandage.8612e3",
     "Food.831958",
-    "Torch.340ec5"
+    "Bandage.8612e3"
   ],
   "ContainedObjects_path": "DungeonSupplies.fa1b74",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1692775562545846670/47C239F6D8F226FDAA38BDB0BF31D3D1FEE62BCF/",
       "NumHeight": 2,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
+    564706,
     564704,
-    564701,
     564702,
-    564706
+    564701
   ],
   "GUID": "fa1b74",
   "Hands": false,

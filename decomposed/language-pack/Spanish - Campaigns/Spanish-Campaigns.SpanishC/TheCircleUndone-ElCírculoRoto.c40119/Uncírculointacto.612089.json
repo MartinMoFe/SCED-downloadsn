@@ -1,0 +1,24 @@
+{
+  "CardID": 606,
+  "CustomDeck": {
+    "6": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fD4hFj7.jpg",
+      "FaceURL": "https://i.imgur.com/PjJX3fL.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05056\"\n}",
+  "GUID": "612089",
+  "Name": "Card",
+  "Nickname": "Un círculo intacto",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

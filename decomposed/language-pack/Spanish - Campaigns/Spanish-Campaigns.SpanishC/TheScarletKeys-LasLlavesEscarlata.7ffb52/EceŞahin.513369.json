@@ -1,0 +1,23 @@
+{
+  "CardID": 470610,
+  "CustomDeck": {
+    "4706": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/yo341se.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "La dama del velo bermellón",
+  "GMNotes": "{\n  \"id\": \"09584\"\n}",
+  "GUID": "513369",
+  "Name": "Card",
+  "Nickname": "Ece Şahin",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

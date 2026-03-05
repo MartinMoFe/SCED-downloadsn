@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"01142\"\n}",
   "GUID": "f23bcb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Verschlinger aus der Tiefe",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

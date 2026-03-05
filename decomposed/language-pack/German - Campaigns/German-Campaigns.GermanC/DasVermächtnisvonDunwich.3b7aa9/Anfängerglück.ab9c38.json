@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02066\"\n}",
   "GUID": "ab9c38",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Anfängerglück",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

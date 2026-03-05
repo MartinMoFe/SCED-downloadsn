@@ -1,5 +1,5 @@
 {
-  "CardID": "1155428",
+  "CardID": 1155428,
   "CustomDeck": {
     "11554": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11588431664954478575/552AFC075FAA04153B124A22EA000D1E3B0A64D6/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04160\"}",
+  "GMNotes": "{\n  \"id\": \"04160\"\n}",
   "GUID": "24ce15",
   "Name": "Card",
   "Nickname": "围困",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

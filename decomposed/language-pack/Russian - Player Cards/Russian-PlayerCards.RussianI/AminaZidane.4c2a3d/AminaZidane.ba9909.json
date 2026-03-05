@@ -1,5 +1,5 @@
 {
-  "CardID": "535045",
+  "CardID": 535045,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Избранник. Проклятая.",
   "GMNotes": "{\n  \"id\": \"09011\"\n}",
   "GUID": "ba9909",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Амина Зидан",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -12,8 +12,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2337": {
       "BackIsHidden": true,
@@ -21,10 +20,9 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
-    "5396": {
+    "2351": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
@@ -37,7 +35,7 @@
   "DeckIDs": [
     233606,
     233702,
-    539622
+    235122
   ],
   "GUID": "476bd6",
   "Hands": false,

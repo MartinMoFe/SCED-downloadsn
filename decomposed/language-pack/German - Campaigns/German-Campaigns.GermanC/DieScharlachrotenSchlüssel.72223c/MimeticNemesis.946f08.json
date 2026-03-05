@@ -14,11 +14,9 @@
   "Description": "Infiltrator of Realities",
   "GMNotes": "{\n  \"id\": \"09715\"\n}",
   "GUID": "946f08",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mimetic Nemesis",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

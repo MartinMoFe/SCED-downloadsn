@@ -1,0 +1,22 @@
+{
+  "CardID": 471223,
+  "CustomDeck": {
+    "4712": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/xfnGjqp.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09741\"\n}",
+  "GUID": "29b2b7",
+  "Name": "Card",
+  "Nickname": "Espacio astillado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

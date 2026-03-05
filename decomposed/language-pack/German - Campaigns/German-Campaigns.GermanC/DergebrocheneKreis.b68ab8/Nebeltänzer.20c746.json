@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05336\"\n}",
   "GUID": "20c746",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nebeltänzer",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

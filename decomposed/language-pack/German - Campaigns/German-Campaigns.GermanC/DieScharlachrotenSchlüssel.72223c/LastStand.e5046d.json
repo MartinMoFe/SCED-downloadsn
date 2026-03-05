@@ -1,5 +1,5 @@
 {
-  "CardID": 853834,
+  "CardID": 278234,
   "CustomDeck": {
     "2782": {
       "BackIsHidden": true,
@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09616\"\n}",
   "GUID": "e5046d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Last Stand",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

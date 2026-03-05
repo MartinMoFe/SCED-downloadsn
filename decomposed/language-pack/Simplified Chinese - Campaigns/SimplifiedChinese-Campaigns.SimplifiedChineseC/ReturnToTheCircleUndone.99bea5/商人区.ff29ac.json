@@ -1,0 +1,23 @@
+{
+  "CardID": 1550404,
+  "CustomDeck": {
+    "15504": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/16334175134283927331/37015304DAE376D02A803512435A28A0C5A5DDD8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10437968756229760861/81FB30C184A8605F0652DDBB2AFBC358F75FECFA/",
+      "NumHeight": 1,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"54055\"\n}",
+  "GUID": "ff29ac",
+  "Name": "Card",
+  "Nickname": "商人区",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

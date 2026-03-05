@@ -1,0 +1,23 @@
+{
+  "CardID": 9029500,
+  "CustomDeck": {
+    "90295": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/18424789688056493309/31901D0AF4D2256A829DAFE2952638B801CAC882/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14738116619140070504/B478AC59D36E418ED912A758EB4D2CAECED28672/",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"CP095\"\n}",
+  "GUID": "610076",
+  "Name": "Card",
+  "Nickname": "Ye Olde Magick Shoppe (Dangerous Relics)",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

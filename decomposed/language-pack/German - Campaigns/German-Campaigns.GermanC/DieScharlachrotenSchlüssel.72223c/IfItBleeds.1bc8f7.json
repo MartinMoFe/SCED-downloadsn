@@ -1,5 +1,5 @@
 {
-  "CardID": 853832,
+  "CardID": 278232,
   "CustomDeck": {
     "2782": {
       "BackIsHidden": true,
@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09614\"\n}",
   "GUID": "1bc8f7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "If It Bleeds...",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

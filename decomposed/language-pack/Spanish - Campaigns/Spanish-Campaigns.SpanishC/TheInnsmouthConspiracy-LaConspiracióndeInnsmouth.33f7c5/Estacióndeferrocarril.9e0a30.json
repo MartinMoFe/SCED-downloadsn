@@ -1,0 +1,23 @@
+{
+  "CardID": 878514,
+  "CustomDeck": {
+    "8785": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/eCRI5Mp.jpg",
+      "FaceURL": "https://i.imgur.com/YWgVDF5.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07142\"\n}",
+  "GUID": "9e0a30",
+  "Name": "Card",
+  "Nickname": "Estación de ferrocarril",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

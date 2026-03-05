@@ -1,5 +1,5 @@
 {
-  "CardID": "1155303",
+  "CardID": 1155303,
   "CustomDeck": {
     "11553": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16523883573232415483/7DAA656DDCDC918189F19F65554B6E591EF1FC36/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04009\"}",
+  "GMNotes": "{\n  \"id\": \"04009\"\n}",
   "GUID": "1ce782",
   "Name": "Card",
   "Nickname": "未知的呼唤",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

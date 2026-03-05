@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"88027\"\n}",
   "GUID": "3b5b77",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Немилость фортуны",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

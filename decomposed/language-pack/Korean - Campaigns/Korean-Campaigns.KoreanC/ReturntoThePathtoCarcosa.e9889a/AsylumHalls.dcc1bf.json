@@ -14,11 +14,9 @@
   "Description": "Western Patient Wing",
   "GMNotes": "{\n  \"id\": \"03169\"\n}",
   "GUID": "dcc1bf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Asylum Halls",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

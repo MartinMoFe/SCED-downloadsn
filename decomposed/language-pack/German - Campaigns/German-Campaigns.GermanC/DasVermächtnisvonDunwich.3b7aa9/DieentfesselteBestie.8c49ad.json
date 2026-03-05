@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02044\"\n}",
   "GUID": "8c49ad",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die entfesselte Bestie",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

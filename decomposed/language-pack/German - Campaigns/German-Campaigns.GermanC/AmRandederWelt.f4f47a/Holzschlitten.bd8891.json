@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08615\"\n}",
   "GUID": "bd8891",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Holzschlitten",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

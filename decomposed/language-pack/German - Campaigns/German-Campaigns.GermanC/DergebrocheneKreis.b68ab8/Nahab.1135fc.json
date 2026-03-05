@@ -14,11 +14,9 @@
   "Description": "Die das Schwarze Buch unterschrieben hat",
   "GMNotes": "{\n  \"id\": \"05149\"\n}",
   "GUID": "1135fc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nahab",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

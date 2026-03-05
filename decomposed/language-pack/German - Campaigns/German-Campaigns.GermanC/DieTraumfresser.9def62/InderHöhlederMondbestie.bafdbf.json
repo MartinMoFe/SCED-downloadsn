@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06210\"\n}",
   "GUID": "bafdbf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "In der Höhle der Mondbestie",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

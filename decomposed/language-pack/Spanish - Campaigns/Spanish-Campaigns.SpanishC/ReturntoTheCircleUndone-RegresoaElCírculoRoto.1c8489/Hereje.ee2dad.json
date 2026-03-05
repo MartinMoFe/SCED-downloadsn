@@ -1,0 +1,23 @@
+{
+  "CardID": 858700,
+  "CustomDeck": {
+    "8587": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/sETPvxd.jpg",
+      "FaceURL": "https://i.imgur.com/4Is5MCt.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"54039\"\n}",
+  "GUID": "ee2dad",
+  "Name": "CardCustom",
+  "Nickname": "Hereje",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

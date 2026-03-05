@@ -14,11 +14,9 @@
   "Description": "Antarktis-Führer",
   "GMNotes": "{\n  \"id\": \"08591\"\n}",
   "GUID": "7da39a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Avery Claypool",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

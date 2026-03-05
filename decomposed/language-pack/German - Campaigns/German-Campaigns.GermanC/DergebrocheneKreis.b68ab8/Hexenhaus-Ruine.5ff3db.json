@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05137\"\n}",
   "GUID": "5ff3db",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hexenhaus-Ruine",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

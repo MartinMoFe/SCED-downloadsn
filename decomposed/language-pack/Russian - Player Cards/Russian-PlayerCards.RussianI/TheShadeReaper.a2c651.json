@@ -14,11 +14,9 @@
   "Description": "Устойчивый.",
   "GMNotes": "{\n  \"id\": \"09680\"\n}",
   "GUID": "a2c651",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Жнец теней",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

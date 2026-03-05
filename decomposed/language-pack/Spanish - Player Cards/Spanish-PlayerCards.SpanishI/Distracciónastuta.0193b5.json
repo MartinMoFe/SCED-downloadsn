@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/046Da60.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01078\"}",
+  "GMNotes": "{\n  \"id\": \"01078\"\n}",
   "GUID": "0193b5",
   "Name": "Card",
   "Nickname": "Distracción astuta",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02052\"\n}",
   "GUID": "451e04",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Studentenwohnheime",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

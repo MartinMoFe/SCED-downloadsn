@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03283\"\n}",
   "GUID": "b3eaff",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Porte de l'Avancée",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/ResidentsMementos.7a167a/MementosEncounterSet.e00225/TheSight.e00223.gmnotes",
   "GUID": "e00223",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Sight",
   "Tags": [

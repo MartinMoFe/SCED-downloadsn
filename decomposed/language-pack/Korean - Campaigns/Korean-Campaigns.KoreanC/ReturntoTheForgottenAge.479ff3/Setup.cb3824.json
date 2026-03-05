@@ -14,11 +14,9 @@
   "Description": "Return to The Depths of Yoth",
   "GMNotes": "{\n  \"id\": \"53059\"\n}",
   "GUID": "cb3824",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

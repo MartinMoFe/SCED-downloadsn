@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Read or Die",
   "GMNotes_path": "ReadorDie.9e73fa/Scenario.a2fcc1.gmnotes",
   "GUID": "a2fcc1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {

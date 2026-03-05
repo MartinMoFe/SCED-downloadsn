@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02246\"\n}",
   "GUID": "dcf4fa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ten-Acre-Weide",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

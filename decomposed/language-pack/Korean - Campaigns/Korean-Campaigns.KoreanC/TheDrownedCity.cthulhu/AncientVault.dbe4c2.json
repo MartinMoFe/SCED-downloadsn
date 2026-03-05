@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11608\"\n}",
   "GUID": "dbe4c2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ancient Vault",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

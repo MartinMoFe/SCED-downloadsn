@@ -1,0 +1,22 @@
+{
+  "CardID": 457700,
+  "CustomDeck": {
+    "4577": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/io2fXqu.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08646\"\n}",
+  "GUID": "0cd326",
+  "Name": "Card",
+  "Nickname": "Congelado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

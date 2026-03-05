@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/C2pyODa.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07196\"}",
+  "GMNotes": "{\n  \"id\": \"07196\"\n}",
   "GUID": "4afa8b",
   "Name": "Card",
   "Nickname": "Incansable (1)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

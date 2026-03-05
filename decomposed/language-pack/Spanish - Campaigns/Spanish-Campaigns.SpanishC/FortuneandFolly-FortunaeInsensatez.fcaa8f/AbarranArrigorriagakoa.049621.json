@@ -1,0 +1,24 @@
+{
+  "CardID": 853625,
+  "CustomDeck": {
+    "8536": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/G39DPz2.jpg",
+      "FaceURL": "https://i.imgur.com/7HhpwK6.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "El hombre con el anillo de rubí",
+  "GMNotes": "{\n  \"id\": \"88034a\"\n}",
+  "GUID": "049621",
+  "Name": "Card",
+  "Nickname": "Abarran Arrigorriagakoa",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

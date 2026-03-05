@@ -1,0 +1,24 @@
+{
+  "CardID": 862508,
+  "CustomDeck": {
+    "8625": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/EIQOhjB.jpg",
+      "FaceURL": "https://i.imgur.com/22XGKQD.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Sauce decrépito",
+  "GMNotes": "{\n  \"id\": \"05256\"\n}",
+  "GUID": "969055",
+  "Name": "Card",
+  "Nickname": "Isla ignota",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

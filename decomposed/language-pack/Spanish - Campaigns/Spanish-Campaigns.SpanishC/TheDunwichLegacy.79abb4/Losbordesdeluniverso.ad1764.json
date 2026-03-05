@@ -1,0 +1,23 @@
+{
+  "CardID": 1502,
+  "CustomDeck": {
+    "15": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/ylehrGR.jpg",
+      "FaceURL": "http://i.imgur.com/IWoIdTa.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02321\"\n}",
+  "GUID": "ad1764",
+  "Name": "Card",
+  "Nickname": "Los bordes del universo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

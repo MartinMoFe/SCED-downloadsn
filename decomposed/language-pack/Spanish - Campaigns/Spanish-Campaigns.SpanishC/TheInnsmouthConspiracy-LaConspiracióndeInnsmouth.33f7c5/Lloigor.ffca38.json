@@ -1,0 +1,22 @@
+{
+  "CardID": 456104,
+  "CustomDeck": {
+    "4561": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/SIIG9do.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07086\"\n}",
+  "GUID": "ffca38",
+  "Name": "Card",
+  "Nickname": "Lloigor",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

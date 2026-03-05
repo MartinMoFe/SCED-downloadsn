@@ -1,0 +1,23 @@
+{
+  "CardID": 456917,
+  "CustomDeck": {
+    "4569": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/6URSE7S.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Elección dudosa",
+  "GMNotes": "{\n  \"id\": \"08540\"\n}",
+  "GUID": "7dfbca",
+  "Name": "Card",
+  "Nickname": "James \"Cookie\" Fredericks",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

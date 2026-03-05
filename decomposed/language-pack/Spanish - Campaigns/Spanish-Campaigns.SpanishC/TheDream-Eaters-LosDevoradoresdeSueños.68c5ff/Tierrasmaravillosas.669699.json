@@ -1,0 +1,22 @@
+{
+  "CardID": 863810,
+  "CustomDeck": {
+    "8638": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/uUU6S3X.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06154\"\n}",
+  "GUID": "669699",
+  "Name": "Card",
+  "Nickname": "Tierras maravillosas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

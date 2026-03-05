@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09661\"\n}",
   "GUID": "73a0bd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Painful History",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

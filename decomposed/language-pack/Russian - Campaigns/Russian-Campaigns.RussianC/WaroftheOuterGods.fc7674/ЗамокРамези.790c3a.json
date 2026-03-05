@@ -14,11 +14,9 @@
   "Description": "Монреаль.",
   "GMNotes": "{\n  \"id\": \"86019\"\n}",
   "GUID": "790c3a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Замок Рамези",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

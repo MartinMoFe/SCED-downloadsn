@@ -14,12 +14,9 @@
   "Description": "Ruined",
   "GMNotes": "{\n  \"id\": \"11698\"\n}",
   "GUID": "58f966",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Southside",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

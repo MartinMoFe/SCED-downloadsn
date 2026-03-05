@@ -14,11 +14,9 @@
   "Description": "Dunkle Seite",
   "GMNotes": "{\n  \"id\": \"06219\"\n}",
   "GUID": "97978f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Höhlen unterhalb des Mondes",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 467501,
+  "CustomDeck": {
+    "4675": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/HawLRcs.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03183\"\n}",
+  "GUID": "fb8694",
+  "Name": "Card",
+  "Nickname": "Glotón del manicomio",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9832385079133940704/2A5AA04112DB3706E07964B80C2C293E46C83CC4/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Мощь.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Взор Хастура",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

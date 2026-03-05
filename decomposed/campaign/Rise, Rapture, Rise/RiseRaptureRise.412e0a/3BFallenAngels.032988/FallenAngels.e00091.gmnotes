@@ -1,20 +1,20 @@
 {
   "id": "a5a51484-6bc4-4adf-a037-d603920e5183",
+  "TtsZoopGuid": "a5a51484-6bc4-4adf-a037-d603920e5183",
   "type": "ScenarioReference",
   "class": "Mythos",
-  "TtsZoopGuid": "a5a51484-6bc4-4adf-a037-d603920e5183",
   "tokens": {
     "front": {
       "Skull": {
-        "description": "-1 for each location away from Grand Lobby you are.",
+        "description": "-1 for each location away from the Grand Lobby you are.",
         "modifier": -1
       },
       "Cultist": {
-        "description": "Reveal another token. If you fail, and you are at a <t>Facility</t> location, flip it over.",
+        "description": "Reveal another token. If you fail, and you are at a Facility location, flip it over.",
         "modifier": -999
       },
       "Tablet": {
-        "description": "-2. If you fail, and a <t>Surveillance</t> enemy is above a location, move it once along its path.",
+        "description": "-2. If you fail, and a Surveillance enemy is in play, trigger its bottom-most forced effect.",
         "modifier": -2
       },
       "Elder Thing": {
@@ -24,15 +24,15 @@
     },
     "back": {
       "Skull": {
-        "description": "-1 for each location away from Bathysphere Station you are.",
+        "description": "-1 for each location away from the Bathysphere Station you are.",
         "modifier": -1
       },
       "Cultist": {
-        "description": "-1. Reveal another token. If you fail, and you are at a <t>Facility</t> location, flip it over.",
+        "description": "-1. Reveal another token. If you fail, and you are at a Facility location, flip it over.",
         "modifier": -1
       },
       "Tablet": {
-        "description": "-4. If you fail, and a <t>Surveillance</t> enemy is above a location, move it once along its path.",
+        "description": "-4. If you fail, and a Surveillance enemy is in play, trigger its bottom-most forced effect.",
         "modifier": -4
       },
       "Elder Thing": {

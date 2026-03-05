@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05335\"\n}",
   "GUID": "955312",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Schwarze Thron",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

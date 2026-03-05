@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03219\"\n}",
   "GUID": "2b701a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Notre-Dame",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

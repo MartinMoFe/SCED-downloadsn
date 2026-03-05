@@ -1,24 +1,20 @@
 {
-  "CardID": 1590503,
+  "CardID": 2781503,
   "CustomDeck": {
-    "15905": {
-      "FaceURL": "https://res.cloudinary.com/dhujajmtk/image/upload/v1760424891/AH%20LCG%20-%20ZH/SheetZH04338-04343.jpg",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "NumWidth": 6,
-      "NumHeight": 1,
+    "27815": {
       "BackIsHidden": true,
-      "UniqueBack": false,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14994496468980248857/6F45DDA5299A37E1F99AB4E92EFA08A76D6B2C1D/",
+      "NumHeight": 1,
+      "NumWidth": 6,
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04341\"}",
+  "GMNotes": "{\n  \"id\": \"04341\"\n}",
   "GUID": "925a51",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "时空撕裂",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

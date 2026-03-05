@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09512\"\n}",
   "GUID": "d35367",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Westminster Abbey",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

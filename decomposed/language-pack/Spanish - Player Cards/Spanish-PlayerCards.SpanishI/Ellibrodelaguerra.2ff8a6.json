@@ -7,17 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/50204544127402813/DC609BDB40423904B62CF99380FAED661C4ED2E0/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "El legado de Sun Tzu",
-  "GMNotes": "{\"id\": \"11020\"}",
+  "GMNotes": "{\n  \"id\": \"11020\"\n}",
   "GUID": "2ff8a6",
   "Name": "Card",
   "Nickname": "El libro de la guerra",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

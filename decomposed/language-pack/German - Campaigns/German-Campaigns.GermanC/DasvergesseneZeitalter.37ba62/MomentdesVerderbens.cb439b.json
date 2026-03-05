@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04347\"\n}",
   "GUID": "cb439b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Moment des Verderbens",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

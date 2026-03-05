@@ -1,5 +1,5 @@
 {
-  "CardID": "1156404",
+  "CardID": 1156404,
   "CustomDeck": {
     "11564": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14388608471558237241/3FB11F7E00CD5293839EC5BF58E9724B7C0EA292/",
       "NumHeight": 1,
       "NumWidth": 8,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06329\"}",
+  "GMNotes": "{\n  \"id\": \"06329\"\n}",
   "GUID": "ee8214",
   "Name": "Card",
   "Nickname": "闪耀的偏方三八面体",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Mexico City. Present-Day.",
   "GMNotes": "{\n  \"id\": \"53044\"\n}",
   "GUID": "5ef561",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Coyoacán",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

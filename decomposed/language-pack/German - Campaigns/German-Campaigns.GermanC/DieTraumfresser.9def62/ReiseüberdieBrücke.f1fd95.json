@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06337\"\n}",
   "GUID": "f1fd95",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Reise über die Brücke",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

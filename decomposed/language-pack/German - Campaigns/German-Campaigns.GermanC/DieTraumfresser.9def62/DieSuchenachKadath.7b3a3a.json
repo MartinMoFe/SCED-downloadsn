@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06119\"\n}",
   "GUID": "7b3a3a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Suche nach Kadath",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

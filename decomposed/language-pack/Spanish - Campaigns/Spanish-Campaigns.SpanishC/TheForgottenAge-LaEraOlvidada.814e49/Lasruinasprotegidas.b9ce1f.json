@@ -1,0 +1,24 @@
+{
+  "CardID": 1910,
+  "CustomDeck": {
+    "19": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/aZviP19.jpg",
+      "FaceURL": "https://i.imgur.com/9mB3wmV.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04049\"\n}",
+  "GUID": "b9ce1f",
+  "Name": "Card",
+  "Nickname": "Las ruinas protegidas",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

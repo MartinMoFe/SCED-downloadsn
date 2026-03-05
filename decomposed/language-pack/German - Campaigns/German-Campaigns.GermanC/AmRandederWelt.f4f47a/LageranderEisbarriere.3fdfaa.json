@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08512\"\n}",
   "GUID": "3fdfaa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Lager an der Eisbarriere",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

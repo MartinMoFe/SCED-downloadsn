@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03047b\"\n}",
   "GUID": "1e607d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Fremde",
   "Transform": {
-    "rotY": 90,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

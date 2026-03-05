@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/jft6qv0.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03021\"}",
+  "GMNotes": "{\n  \"id\": \"03021\"\n}",
   "GUID": "3b3259",
   "Name": "Card",
   "Nickname": "Temple de acero",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

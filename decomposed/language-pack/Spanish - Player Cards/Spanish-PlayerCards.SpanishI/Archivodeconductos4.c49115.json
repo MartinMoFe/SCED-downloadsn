@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/5VfkUFo.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Portal a Aldebarán",
-  "GMNotes": "{\"id\": \"08043\"}",
+  "GMNotes": "{\n  \"id\": \"08043\"\n}",
   "GUID": "c49115",
   "Name": "Card",
   "Nickname": "Archivo de conductos (4)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 877706,
+  "CustomDeck": {
+    "8777": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/KDS8dCT.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07335\"\n}",
+  "GUID": "eac8e9",
+  "Name": "Card",
+  "Nickname": "Profundidades traicioneras",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

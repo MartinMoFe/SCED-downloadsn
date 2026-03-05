@@ -14,11 +14,9 @@
   "Description": "Buenos Aires.",
   "GMNotes": "{\n  \"id\": \"09554\"\n}",
   "GUID": "65ef61",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Cabildo",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

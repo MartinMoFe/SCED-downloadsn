@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"01001-m\"\n}",
   "GUID": "355b0c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Роланд Бэнкс",
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

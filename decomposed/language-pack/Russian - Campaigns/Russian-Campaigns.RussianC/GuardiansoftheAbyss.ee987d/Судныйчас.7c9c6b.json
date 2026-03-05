@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"83007\"\n}",
   "GUID": "7c9c6b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Судный час",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

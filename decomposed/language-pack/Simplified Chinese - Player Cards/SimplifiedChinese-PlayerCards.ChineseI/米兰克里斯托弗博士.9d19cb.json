@@ -1,5 +1,5 @@
 {
-  "CardID": "1154127",
+  "CardID": 1154127,
   "CustomDeck": {
     "11541": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14613659782939346281/B0EB54D3314D263DDFBD0C4BD5CD573C2B44F555/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01033\"}",
+  "GMNotes": "{\n  \"id\": \"01033\"\n}",
   "GUID": "9d19cb",
   "Name": "Card",
   "Nickname": "米兰·克里斯托弗博士",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

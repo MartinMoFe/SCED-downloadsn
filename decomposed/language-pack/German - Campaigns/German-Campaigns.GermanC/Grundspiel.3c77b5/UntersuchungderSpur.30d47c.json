@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"01146\"\n}",
   "GUID": "30d47c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Untersuchung der Spur",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

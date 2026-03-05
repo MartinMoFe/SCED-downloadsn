@@ -1,0 +1,23 @@
+{
+  "CardID": 28510,
+  "CustomDeck": {
+    "285": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/G1PQ2Mn.jpg",
+      "FaceURL": "https://i.imgur.com/WN5PTVU.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05175\"\n}",
+  "GUID": "65db67",
+  "Name": "Card",
+  "Nickname": "Ático de la capilla",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

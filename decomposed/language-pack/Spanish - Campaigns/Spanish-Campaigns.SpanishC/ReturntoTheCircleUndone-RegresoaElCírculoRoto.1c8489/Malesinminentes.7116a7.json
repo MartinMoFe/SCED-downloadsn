@@ -1,0 +1,22 @@
+{
+  "CardID": 460108,
+  "CustomDeck": {
+    "4601": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/eZ52T70.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"54065\"\n}",
+  "GUID": "7116a7",
+  "Name": "Card",
+  "Nickname": "Males inminentes",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

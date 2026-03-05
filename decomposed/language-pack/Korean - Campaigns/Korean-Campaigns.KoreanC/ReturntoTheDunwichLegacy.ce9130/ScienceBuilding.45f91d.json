@@ -14,11 +14,9 @@
   "Description": "Miskatonic.",
   "GMNotes": "{\n  \"id\": \"02056\"\n}",
   "GUID": "45f91d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Science Building",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

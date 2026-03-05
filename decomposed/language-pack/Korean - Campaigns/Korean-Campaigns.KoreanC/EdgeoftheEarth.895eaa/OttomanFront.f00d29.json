@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08573\"\n}",
   "GUID": "f00d29",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ottoman Front",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

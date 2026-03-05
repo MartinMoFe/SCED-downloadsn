@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03048\"\n}",
   "GUID": "f4733f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ruf vor den Vorhng",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

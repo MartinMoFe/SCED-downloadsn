@@ -14,12 +14,10 @@
   "Description": "The Letter Carrier",
   "GMNotes": "{\n  \"id\": \"60501\"\n}",
   "GUID": "00e18e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Stella Clark",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

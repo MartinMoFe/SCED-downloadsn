@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07233\"\n}",
   "GUID": "6d4789",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Beständig wie das Meer",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

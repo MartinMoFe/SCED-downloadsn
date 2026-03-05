@@ -14,11 +14,9 @@
   "Description": "At Death's Doorstep",
   "GMNotes": "{\n  \"id\": \"05065\"\n}",
   "GUID": "c24b98",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

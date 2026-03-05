@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09660\"\n}",
   "GUID": "94f758",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Оттенки страдания",
   "Transform": {
-    "rotX": 15,
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

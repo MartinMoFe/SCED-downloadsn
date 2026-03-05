@@ -1,0 +1,23 @@
+{
+  "CardID": 458821,
+  "CustomDeck": {
+    "4588": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vUgLwlL.jpg",
+      "FaceURL": "https://i.imgur.com/OR03o79.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"87034\"\n}",
+  "GUID": "296c1e",
+  "Name": "Card",
+  "Nickname": "Redimir a un antiguo colega",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

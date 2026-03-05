@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07281\"\n}",
   "GUID": "c8c16e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der zweite Eid",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

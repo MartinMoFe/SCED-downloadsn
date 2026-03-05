@@ -1,5 +1,5 @@
 {
-  "CardID": "1156527",
+  "CardID": 1156527,
   "CustomDeck": {
     "11565": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9598942811173443953/36FF637C8B90E2173DD365C0496330AD45CBC917/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07033\"}",
+  "GMNotes": "{\n  \"id\": \"07033\"\n}",
   "GUID": "7cd328",
   "Name": "Card",
   "Nickname": "宗教信物",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

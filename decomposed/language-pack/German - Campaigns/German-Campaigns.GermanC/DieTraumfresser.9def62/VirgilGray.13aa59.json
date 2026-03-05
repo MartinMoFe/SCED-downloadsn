@@ -14,11 +14,9 @@
   "Description": "Autor seltsamer Geschichten",
   "GMNotes": "{\n  \"id\": \"06144\"\n}",
   "GUID": "13aa59",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Virgil Gray",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

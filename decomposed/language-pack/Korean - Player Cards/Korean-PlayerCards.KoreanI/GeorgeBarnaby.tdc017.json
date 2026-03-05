@@ -14,12 +14,10 @@
   "Description": "The Lawyer",
   "GMNotes": "{\n  \"id\": \"11017\"\n}",
   "GUID": "tdc017",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "George Barnaby",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

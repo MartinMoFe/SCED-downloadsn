@@ -1,5 +1,5 @@
 {
-  "CardID": "535242",
+  "CardID": 535242,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Скиталец. Благословенная. Проклятая.",
   "GMNotes": "{\n  \"id\": \"01005-pf\"\n}",
   "GUID": "34a2bc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Венди Адамс (альтернативное лицо)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

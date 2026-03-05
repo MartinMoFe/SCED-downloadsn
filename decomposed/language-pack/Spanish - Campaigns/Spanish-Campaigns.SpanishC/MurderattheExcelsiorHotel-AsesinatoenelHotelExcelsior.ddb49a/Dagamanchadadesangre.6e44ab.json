@@ -1,0 +1,23 @@
+{
+  "CardID": 46600,
+  "CustomDeck": {
+    "466": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/FhRutAA.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "El arma asesina",
+  "GMNotes": "{\n  \"id\": \"84006\"\n}",
+  "GUID": "6e44ab",
+  "Name": "Card",
+  "Nickname": "Daga manchada de sangre",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 470001,
+  "CustomDeck": {
+    "4700": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ZAzlmq9.jpg",
+      "FaceURL": "https://i.imgur.com/AtF1yB5.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09547\"\n}",
+  "GUID": "8c986b",
+  "Name": "Card",
+  "Nickname": "La sombra escarlata",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

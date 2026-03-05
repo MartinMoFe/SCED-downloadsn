@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03046\"\n}",
   "GUID": "707c79",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erwachen",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

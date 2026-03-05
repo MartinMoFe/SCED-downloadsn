@@ -1,0 +1,23 @@
+{
+  "CardID": 457200,
+  "CustomDeck": {
+    "4572": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/tQP3b7Q.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0
+    }
+  },
+  "Description": "Guardián de los picos prohibidos",
+  "GMNotes": "{\n  \"id\": \"08608\"\n}",
+  "GUID": "d1e58a",
+  "Name": "Card",
+  "Nickname": "Terror de las estrellas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

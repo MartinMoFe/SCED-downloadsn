@@ -1,5 +1,5 @@
 {
-  "CardID": 109100,
+  "CardID": 102200,
   "CustomDeck": {
     "1022": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "TheWoodsoftheBlackGoat.667111/EncounterDeck.2c31ee/BleatingChild.e00020.gmnotes",

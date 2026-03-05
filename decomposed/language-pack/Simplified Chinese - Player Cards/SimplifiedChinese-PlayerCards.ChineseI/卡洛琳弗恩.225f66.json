@@ -1,5 +1,5 @@
 {
-  "CardID": "1159300",
+  "CardID": 1159300,
   "CustomDeck": {
     "11593": {
       "BackIsHidden": true,
@@ -11,13 +11,12 @@
       "UniqueBack": true
     }
   },
-  "GMNotes": "{\"id\": \"05001\"}",
+  "GMNotes": "{\n  \"id\": \"05001\"\n}",
   "GUID": "225f66",
   "Name": "Card",
   "Nickname": "卡洛琳·弗恩",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

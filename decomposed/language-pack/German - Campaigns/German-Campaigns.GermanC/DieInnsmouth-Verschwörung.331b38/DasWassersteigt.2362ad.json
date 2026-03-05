@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07043\"\n}",
   "GUID": "2362ad",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Wasser steigt",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

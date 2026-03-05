@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06191\"\n}",
   "GUID": "d594e2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unbeschreibliche Erscheinung",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

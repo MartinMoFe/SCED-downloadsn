@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05164\"\n}",
   "GUID": "577ba3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Auf der Jagd nach den Toten",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

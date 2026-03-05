@@ -1,0 +1,24 @@
+{
+  "CardID": 47701,
+  "CustomDeck": {
+    "477": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/e51Rv1X.jpg",
+      "FaceURL": "https://i.imgur.com/Db8boKd.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51054\"\n}",
+  "GUID": "625c30",
+  "Name": "Card",
+  "Nickname": "Abriéndose paso (v. II)",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

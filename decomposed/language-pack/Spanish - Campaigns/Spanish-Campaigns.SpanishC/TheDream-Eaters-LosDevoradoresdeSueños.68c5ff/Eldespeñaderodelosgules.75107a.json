@@ -1,0 +1,23 @@
+{
+  "CardID": 864005,
+  "CustomDeck": {
+    "8640": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LHCkJWX.jpg",
+      "FaceURL": "https://i.imgur.com/II1TTZH.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06258\"\n}",
+  "GUID": "75107a",
+  "Name": "Card",
+  "Nickname": "El despeñadero de los gules",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

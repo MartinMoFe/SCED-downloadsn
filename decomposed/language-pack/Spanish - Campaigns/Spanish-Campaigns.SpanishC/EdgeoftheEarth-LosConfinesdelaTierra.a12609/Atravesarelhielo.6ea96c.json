@@ -1,0 +1,22 @@
+{
+  "CardID": 456712,
+  "CustomDeck": {
+    "4567": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/pxOZaUg.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08699\"\n}",
+  "GUID": "6ea96c",
+  "Name": "Card",
+  "Nickname": "Atravesar el hielo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

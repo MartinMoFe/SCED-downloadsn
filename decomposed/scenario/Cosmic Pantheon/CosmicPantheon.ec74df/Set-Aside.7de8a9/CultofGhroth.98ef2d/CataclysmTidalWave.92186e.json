@@ -1,5 +1,5 @@
 {
-  "CardID": 835800,
+  "CardID": 747800,
   "CustomDeck": {
     "7478": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "CosmicPantheon.ec74df/Set-Aside.7de8a9/CultofGhroth.98ef2d/CataclysmTidalWave.92186e.gmnotes",

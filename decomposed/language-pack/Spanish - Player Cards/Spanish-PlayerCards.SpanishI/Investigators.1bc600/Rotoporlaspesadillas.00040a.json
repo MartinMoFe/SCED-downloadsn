@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/PJdtW6G.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02015\"}",
+  "GMNotes": "{\n  \"id\": \"02015\"\n}",
   "GUID": "00040a",
   "Name": "Card",
   "Nickname": "Roto por las pesadillas",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

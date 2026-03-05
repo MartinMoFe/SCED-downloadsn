@@ -14,12 +14,10 @@
   "Description": "Josef's Secretary",
   "GMNotes": "{\n  \"id\": \"05047\"\n}",
   "GUID": "d80c14",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jerome Davids",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

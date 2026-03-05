@@ -14,11 +14,9 @@
   "Description": "Cave. Lair. Dark.",
   "GMNotes": "{\n  \"id\": \"10582\"\n}",
   "GUID": "636619",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fungal Cave",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

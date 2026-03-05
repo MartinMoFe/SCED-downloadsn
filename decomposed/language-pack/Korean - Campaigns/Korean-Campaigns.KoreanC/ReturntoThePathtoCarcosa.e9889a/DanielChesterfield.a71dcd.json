@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03182b\"\n}",
   "GUID": "a71dcd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Daniel Chesterfield",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

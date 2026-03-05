@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04055\"\n}",
   "GUID": "789e7d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Etwas rührt sich…",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

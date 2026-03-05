@@ -1,0 +1,22 @@
+{
+  "CardID": 456502,
+  "CustomDeck": {
+    "4565": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/IHeLIn7.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07054\"\n}",
+  "GUID": "4151fb",
+  "Name": "Card",
+  "Nickname": "Sentido ciego",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

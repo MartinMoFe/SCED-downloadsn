@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"70015\"\n}",
   "GUID": "318613",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Спасение",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

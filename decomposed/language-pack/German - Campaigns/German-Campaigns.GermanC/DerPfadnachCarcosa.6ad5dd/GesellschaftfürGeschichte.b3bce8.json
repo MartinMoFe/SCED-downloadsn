@@ -14,12 +14,9 @@
   "Description": "Peabodys Büro",
   "GMNotes": "{\n  \"id\": \"03137\"\n}",
   "GUID": "b3bce8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gesellschaft für Geschichte",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

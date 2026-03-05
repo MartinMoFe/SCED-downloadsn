@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15112481943330845490/43017B7CE62387A6AF2A51A97057EF1EF821A43D/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Безумие.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Что вы наделали?",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

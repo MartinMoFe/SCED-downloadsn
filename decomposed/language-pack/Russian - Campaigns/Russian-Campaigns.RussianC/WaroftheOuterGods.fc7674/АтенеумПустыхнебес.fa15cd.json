@@ -14,11 +14,9 @@
   "Description": "Место ритуала. Провиденс.",
   "GMNotes": "{\n  \"id\": \"86016\"\n}",
   "GUID": "fa15cd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Атенеум Пустых небес",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

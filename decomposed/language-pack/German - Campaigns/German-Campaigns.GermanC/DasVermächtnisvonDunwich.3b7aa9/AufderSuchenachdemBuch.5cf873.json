@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02125\"\n}",
   "GUID": "5cf873",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Auf der Suche nach dem Buch",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

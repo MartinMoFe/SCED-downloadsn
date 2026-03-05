@@ -14,11 +14,9 @@
   "Description": "Buchladenbesitzerin",
   "GMNotes": "{\n  \"id\": \"07080\"\n}",
   "GUID": "91c498",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Joyce Little",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

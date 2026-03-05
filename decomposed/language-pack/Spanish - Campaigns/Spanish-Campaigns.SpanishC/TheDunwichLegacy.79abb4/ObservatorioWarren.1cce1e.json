@@ -1,0 +1,23 @@
+{
+  "CardID": 508801,
+  "CustomDeck": {
+    "5088": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/hQXO7rG.jpg",
+      "FaceURL": "https://i.imgur.com/jXuOn1T.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51013\"\n}",
+  "GUID": "1cce1e",
+  "Name": "Card",
+  "Nickname": "Observatorio Warren",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 46003,
+  "CustomDeck": {
+    "460": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/quswnfr.jpg",
+      "FaceURL": "https://i.imgur.com/87pQ1v5.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53036\"\n}",
+  "GUID": "9073d3",
+  "Name": "Card",
+  "Nickname": "Persecución imposible",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

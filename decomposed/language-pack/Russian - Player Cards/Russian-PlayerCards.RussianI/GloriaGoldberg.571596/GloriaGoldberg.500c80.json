@@ -1,5 +1,5 @@
 {
-  "CardID": "535066",
+  "CardID": 535066,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Ясновидящая.",
   "GMNotes": "{\n  \"id\": \"98019\"\n}",
   "GUID": "500c80",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Глория Голдберг",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

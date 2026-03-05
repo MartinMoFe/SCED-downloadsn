@@ -14,11 +14,9 @@
   "Description": "Kokongefängnis",
   "GMNotes": "{\n  \"id\": \"06343\"\n}",
   "GUID": "ae8d7e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das große Netz",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

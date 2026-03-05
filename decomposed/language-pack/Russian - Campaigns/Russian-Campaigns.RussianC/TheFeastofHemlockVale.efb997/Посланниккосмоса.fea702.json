@@ -14,11 +14,9 @@
   "Description": "Посланник. Цвет. Элитный.",
   "GMNotes": "{\n  \"id\": \"10663\"\n}",
   "GUID": "fea702",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Посланник космоса",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

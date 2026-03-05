@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04087\"\n}",
   "GUID": "9c6ada",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Pfeile aus den Bäumen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

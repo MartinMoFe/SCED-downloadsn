@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03212\"\n}",
   "GUID": "cb9b5a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Opéra Garnier",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

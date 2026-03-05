@@ -1,0 +1,23 @@
+{
+  "CardID": 476603,
+  "CustomDeck": {
+    "4766": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/wBlOHNv.jpg",
+      "FaceURL": "https://i.imgur.com/1OstsLe.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02203\"\n}",
+  "GUID": "6fb5d5",
+  "Name": "Card",
+  "Nickname": "Arroyo Bishop",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 2504,
+  "CustomDeck": {
+    "25": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/kbgyWoJ.jpg",
+      "FaceURL": "https://i.imgur.com/7ZzqP3b.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70006\"\n}",
+  "GUID": "13a66d",
+  "Name": "Card",
+  "Nickname": "El cerebro",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04241\"\n}",
   "GUID": "f45812",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erkundung von Pnakotus",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

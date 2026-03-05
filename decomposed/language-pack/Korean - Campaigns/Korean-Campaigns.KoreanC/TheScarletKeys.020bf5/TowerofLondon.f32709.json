@@ -14,11 +14,9 @@
   "Description": "London.",
   "GMNotes": "{\n  \"id\": \"09516\"\n}",
   "GUID": "f32709",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tower of London",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

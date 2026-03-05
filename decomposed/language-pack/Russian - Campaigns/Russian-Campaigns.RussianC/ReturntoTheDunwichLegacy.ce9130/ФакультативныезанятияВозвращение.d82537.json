@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"51012\"\n}",
   "GUID": "d82537",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Факультативные занятия. Возвращение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"01104\"\n}",
   "GUID": "254c1f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Встреча",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02275\"\n}",
   "GUID": "c33894",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Anrufung der großen Alten",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

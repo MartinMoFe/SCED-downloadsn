@@ -1,0 +1,22 @@
+{
+  "CardID": 1419,
+  "CustomDeck": {
+    "14": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/FluV2iG.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"81034\"\n}",
+  "GUID": "ec5fda",
+  "Name": "Card",
+  "Nickname": "Al acecho",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

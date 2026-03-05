@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"90035\"\n}",
   "GUID": "132ff8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Схватить заговорщиков",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

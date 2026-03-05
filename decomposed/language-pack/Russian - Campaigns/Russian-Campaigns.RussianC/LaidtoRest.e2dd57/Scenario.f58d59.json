@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"90054\"\n}",
   "GUID": "f58d59",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Упокоение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

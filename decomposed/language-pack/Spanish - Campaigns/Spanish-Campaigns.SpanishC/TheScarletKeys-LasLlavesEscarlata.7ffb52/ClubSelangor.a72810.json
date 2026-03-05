@@ -1,0 +1,23 @@
+{
+  "CardID": 471018,
+  "CustomDeck": {
+    "4710": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ZnhZ6Q1.jpg",
+      "FaceURL": "https://i.imgur.com/7dldCWs.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09669\"\n}",
+  "GUID": "a72810",
+  "Name": "Card",
+  "Nickname": "Club Selangor",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

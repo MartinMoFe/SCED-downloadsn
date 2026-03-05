@@ -1,8 +1,8 @@
 {
   "ContainedObjects_order": [
-    "MorbidAwareness.3fbc07",
     "MorbidAwareness.363bfa",
-    "MorbidAwareness.870ee1"
+    "MorbidAwareness.363bfa",
+    "MorbidAwareness.363bfa"
   ],
   "ContainedObjects_path": "MorbidAwarenesses.d3eba4",
   "CustomDeck": {
@@ -12,8 +12,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/778493212055041441/90F035BD69A7C5C6B6F43426DDDA3A09DFCBCBDF/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

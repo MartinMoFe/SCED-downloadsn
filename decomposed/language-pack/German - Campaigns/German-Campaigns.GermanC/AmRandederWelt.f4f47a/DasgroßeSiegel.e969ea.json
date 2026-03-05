@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08663\"\n}",
   "GUID": "e969ea",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das große Siegel",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

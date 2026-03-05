@@ -1,0 +1,24 @@
+{
+  "CardID": 459400,
+  "CustomDeck": {
+    "4594": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/0HSy2Rb.jpg",
+      "FaceURL": "https://i.imgur.com/JwD728m.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08012a\"\n}",
+  "GUID": "3b3e4e",
+  "HideWhenFaceDown": true,
+  "Name": "CardCustom",
+  "Nickname": "Disciplina",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -11,13 +11,11 @@
       "UniqueBack": true
     }
   },
-  "GMNotes": "{\n  \"id\": \"09748\"\n}",
+  "GMNotes": "{\n  \"id\": \"09748b\"\n}",
   "GUID": "043408",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Alien Frontier",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

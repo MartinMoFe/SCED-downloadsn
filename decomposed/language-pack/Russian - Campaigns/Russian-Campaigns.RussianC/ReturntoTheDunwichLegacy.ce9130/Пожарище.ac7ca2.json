@@ -14,11 +14,9 @@
   "Description": "Данвич.",
   "GMNotes": "{\n  \"id\": \"51035\"\n}",
   "GUID": "ac7ca2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пожарище",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

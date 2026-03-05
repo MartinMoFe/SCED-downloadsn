@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06169a\"\n}",
   "GUID": "fc6423",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Haus ohne Namen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

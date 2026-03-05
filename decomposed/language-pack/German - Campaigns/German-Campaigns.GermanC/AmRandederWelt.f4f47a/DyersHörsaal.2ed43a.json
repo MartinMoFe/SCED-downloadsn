@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08569\"\n}",
   "GUID": "2ed43a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dyers Hörsaal",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

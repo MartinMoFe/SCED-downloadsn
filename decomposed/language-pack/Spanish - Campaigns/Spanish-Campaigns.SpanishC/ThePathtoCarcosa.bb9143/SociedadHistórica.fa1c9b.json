@@ -1,0 +1,24 @@
+{
+  "CardID": 586110,
+  "CustomDeck": {
+    "5861": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/gckBSts.jpg",
+      "FaceURL": "https://i.imgur.com/BPhLlXu.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Sala de calderas",
+  "GMNotes": "{\n  \"id\": \"52032\"\n}",
+  "GUID": "fa1c9b",
+  "Name": "Card",
+  "Nickname": "Sociedad Histórica",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

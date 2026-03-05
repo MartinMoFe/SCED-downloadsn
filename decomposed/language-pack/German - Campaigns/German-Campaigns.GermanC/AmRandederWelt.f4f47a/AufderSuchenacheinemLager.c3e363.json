@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08521\"\n}",
   "GUID": "c3e363",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Auf der Suche nach einem Lager",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

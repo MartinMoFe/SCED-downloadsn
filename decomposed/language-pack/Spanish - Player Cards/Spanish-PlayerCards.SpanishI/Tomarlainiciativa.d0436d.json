@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/NtG2HvE.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04150\"}",
+  "GMNotes": "{\n  \"id\": \"04150\"\n}",
   "GUID": "d0436d",
   "Name": "Card",
   "Nickname": "Tomar la iniciativa",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

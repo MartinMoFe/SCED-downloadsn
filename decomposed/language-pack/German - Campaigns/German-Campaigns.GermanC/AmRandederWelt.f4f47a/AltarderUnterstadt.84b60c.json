@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08666\"\n}",
   "GUID": "84b60c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Altar der Unterstadt",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

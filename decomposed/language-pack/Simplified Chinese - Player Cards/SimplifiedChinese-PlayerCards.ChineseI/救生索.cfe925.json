@@ -1,5 +1,5 @@
 {
-  "CardID": "1157713",
+  "CardID": 1157713,
   "CustomDeck": {
     "11577": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14175552692975121682/754D0074EAA6E173CDC657C5D8AD50FFDC20CC55/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"09110\"}",
+  "GMNotes": "{\n  \"id\": \"09110\"\n}",
   "GUID": "cfe925",
   "Name": "Card",
   "Nickname": "救生索",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"85008\"\n}",
   "GUID": "ceaf19",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Погибель Блэкуотера",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 878409,
+  "CustomDeck": {
+    "8784": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/0vf6cPQ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "El cambio está en sus manos",
+  "GMNotes": "{\n  \"id\": \"07079\"\n}",
+  "GUID": "9aebd0",
+  "Name": "Card",
+  "Nickname": "Barnabas Marsh",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

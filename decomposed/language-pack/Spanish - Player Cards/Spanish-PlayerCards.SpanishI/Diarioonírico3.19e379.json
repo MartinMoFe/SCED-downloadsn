@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/xPqKjre.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Sueños de un demente",
-  "GMNotes": "{\"id\": \"06237\"}",
+  "GMNotes": "{\n  \"id\": \"06237\"\n}",
   "GUID": "19e379",
   "Name": "Card",
   "Nickname": "Diario onírico (3)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

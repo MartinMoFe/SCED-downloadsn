@@ -14,11 +14,9 @@
   "Description": "Роль. Неумелая.",
   "GMNotes": "{\n  \"id\": \"88028\"\n}",
   "GUID": "63ab81",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Душка",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

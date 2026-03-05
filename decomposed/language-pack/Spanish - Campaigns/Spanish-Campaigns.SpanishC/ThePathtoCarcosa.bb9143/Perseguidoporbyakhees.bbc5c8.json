@@ -1,0 +1,22 @@
+{
+  "CardID": 2810,
+  "CustomDeck": {
+    "28": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/olhTOA3.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03087\"\n}",
+  "GUID": "bbc5c8",
+  "Name": "Card",
+  "Nickname": "Perseguido por byakhees",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

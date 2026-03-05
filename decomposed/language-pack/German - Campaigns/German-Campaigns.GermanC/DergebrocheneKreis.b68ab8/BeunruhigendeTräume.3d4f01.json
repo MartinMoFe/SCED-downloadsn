@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05147\"\n}",
   "GUID": "3d4f01",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Beunruhigende Träume",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

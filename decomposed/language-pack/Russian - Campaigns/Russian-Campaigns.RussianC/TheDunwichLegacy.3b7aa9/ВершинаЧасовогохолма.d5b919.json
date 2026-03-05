@@ -14,11 +14,9 @@
   "Description": "Данвич. Часовой холм.",
   "GMNotes": "{\n  \"id\": \"02284\"\n}",
   "GUID": "d5b919",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Вершина Часового холма",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

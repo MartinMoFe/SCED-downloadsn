@@ -14,11 +14,9 @@
   "Description": "Das Baumhaus des Kindes",
   "GMNotes": "{\n  \"id\": \"05061\"\n}",
   "GUID": "f08d3c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Von Hexen heimgesuchte Wälder",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

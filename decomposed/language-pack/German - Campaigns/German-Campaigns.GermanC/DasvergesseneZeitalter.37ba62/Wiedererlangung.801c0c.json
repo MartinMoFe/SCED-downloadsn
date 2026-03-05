@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04243\"\n}",
   "GUID": "801c0c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wiedererlangung",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

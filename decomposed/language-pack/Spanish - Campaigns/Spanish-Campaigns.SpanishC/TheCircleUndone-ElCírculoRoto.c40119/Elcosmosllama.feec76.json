@@ -1,0 +1,24 @@
+{
+  "CardID": 44303,
+  "CustomDeck": {
+    "443": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ppcChf7.jpg",
+      "FaceURL": "https://i.imgur.com/3WkeUjZ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05329\"\n}",
+  "GUID": "feec76",
+  "Name": "Card",
+  "Nickname": "El cosmos llama",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

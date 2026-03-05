@@ -1,0 +1,23 @@
+{
+  "CardID": 458826,
+  "CustomDeck": {
+    "4588": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vUgLwlL.jpg",
+      "FaceURL": "https://i.imgur.com/OR03o79.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"87039\"\n}",
+  "GUID": "26c780",
+  "Name": "Card",
+  "Nickname": "Problemas con la mafia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

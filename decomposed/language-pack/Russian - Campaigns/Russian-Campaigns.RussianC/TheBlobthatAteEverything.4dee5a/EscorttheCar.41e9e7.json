@@ -14,11 +14,9 @@
   "Description": "Часть 1.",
   "GMNotes": "{\n  \"id\": \"89011\"\n}",
   "GUID": "41e9e7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сопроводить автомобиль",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

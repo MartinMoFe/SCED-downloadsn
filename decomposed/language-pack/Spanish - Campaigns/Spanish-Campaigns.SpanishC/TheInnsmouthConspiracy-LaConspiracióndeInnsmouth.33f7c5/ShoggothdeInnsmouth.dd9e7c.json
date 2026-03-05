@@ -1,0 +1,22 @@
+{
+  "CardID": 465300,
+  "CustomDeck": {
+    "4653": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/c4Guywo.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07144\"\n}",
+  "GUID": "dd9e7c",
+  "Name": "Card",
+  "Nickname": "Shoggoth de Innsmouth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08583\"\n}",
   "GUID": "1f941a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Memory of an Unrequited Love",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

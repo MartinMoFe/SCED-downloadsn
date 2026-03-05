@@ -1,0 +1,23 @@
+{
+  "CardID": 1503,
+  "CustomDeck": {
+    "15": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/ylehrGR.jpg",
+      "FaceURL": "http://i.imgur.com/IWoIdTa.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02322\"\n}",
+  "GUID": "857800",
+  "Name": "Card",
+  "Nickname": "Desgarro en el tiempo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

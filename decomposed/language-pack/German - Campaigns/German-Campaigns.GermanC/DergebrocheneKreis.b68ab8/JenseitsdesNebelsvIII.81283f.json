@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05245\"\n}",
   "GUID": "81283f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jenseits des Nebels (v. III)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

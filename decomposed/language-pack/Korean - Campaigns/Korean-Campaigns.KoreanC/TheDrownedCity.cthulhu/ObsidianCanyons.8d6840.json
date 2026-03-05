@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11639\"\n}",
   "GUID": "8d6840",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Obsidian Canyons",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

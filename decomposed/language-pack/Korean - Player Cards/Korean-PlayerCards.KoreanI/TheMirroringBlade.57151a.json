@@ -14,11 +14,9 @@
   "Description": "Reflects Only Violence",
   "GMNotes": "{\n  \"id\": \"09768\"\n}",
   "GUID": "57151a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Mirroring Blade",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

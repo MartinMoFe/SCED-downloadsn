@@ -14,11 +14,9 @@
   "Description": "Роль. Неумелая.",
   "GMNotes": "{\n  \"id\": \"88029\"\n}",
   "GUID": "13b112",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Громила",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

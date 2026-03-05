@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05310\"\n}",
   "GUID": "81f803",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Geheimnisse aus dem Jenseits",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

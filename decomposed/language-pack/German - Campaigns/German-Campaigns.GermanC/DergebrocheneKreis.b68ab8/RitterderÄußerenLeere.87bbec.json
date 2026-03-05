@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05222\"\n}",
   "GUID": "87bbec",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ritter der Äußeren Leere",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

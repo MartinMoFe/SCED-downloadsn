@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13031843135899936266/48FC7E7F960FEF5FE515D7BB2389EBCFB58565D2/",
       "NumHeight": 6,
       "NumWidth": 9,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Удача.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Спасательный круг (1)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

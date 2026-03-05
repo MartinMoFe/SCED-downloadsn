@@ -1,0 +1,22 @@
+{
+  "CardID": 863401,
+  "CustomDeck": {
+    "8634": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/gsuvHdR.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06347\"\n}",
+  "GUID": "7787f9",
+  "Name": "Card",
+  "Nickname": "Patas de Atlach-Nacha",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Arkham Asylum.",
   "GMNotes": "{\n  \"id\": \"03173\"\n}",
   "GUID": "e35136",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mess Hall",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

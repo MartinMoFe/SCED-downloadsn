@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/uJPS9oe.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60502\"}",
+  "GMNotes": "{\n  \"id\": \"60502\"\n}",
   "GUID": "b05f83",
   "Name": "Card",
   "Nickname": "Ni la lluvia ni la nieve",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

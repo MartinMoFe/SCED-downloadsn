@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07003-m\"\n}",
   "GUID": "fc5d62",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Триш Скарборо",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

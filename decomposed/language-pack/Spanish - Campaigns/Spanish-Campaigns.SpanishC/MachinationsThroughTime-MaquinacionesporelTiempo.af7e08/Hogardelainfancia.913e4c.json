@@ -1,0 +1,23 @@
+{
+  "CardID": 458807,
+  "CustomDeck": {
+    "4588": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vUgLwlL.jpg",
+      "FaceURL": "https://i.imgur.com/OR03o79.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"87011\"\n}",
+  "GUID": "913e4c",
+  "Name": "Card",
+  "Nickname": "Hogar de la infancia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

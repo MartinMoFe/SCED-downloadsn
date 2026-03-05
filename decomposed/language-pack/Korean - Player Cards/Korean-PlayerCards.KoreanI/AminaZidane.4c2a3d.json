@@ -14,12 +14,10 @@
   "Description": "The Operator",
   "GMNotes": "{\n  \"id\": \"09011\"\n}",
   "GUID": "4c2a3d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Amina Zidane",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -1,0 +1,24 @@
+{
+  "CardID": 458900,
+  "CustomDeck": {
+    "4589": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/x79f7Fq.jpg",
+      "FaceURL": "https://i.imgur.com/XW853sB.jpg",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"87002\"\n}",
+  "GUID": "ef18b2",
+  "Name": "Card",
+  "Nickname": "Hacia el vacío",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

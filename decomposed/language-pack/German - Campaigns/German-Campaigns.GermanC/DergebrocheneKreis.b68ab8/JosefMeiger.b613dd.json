@@ -12,13 +12,11 @@
     }
   },
   "Description": "Gastgeber der Loge",
-  "GMNotes": "{\n  \"id\": \"05085\"\n}",
+  "GMNotes": "{\n  \"id\": \"05085b\"\n}",
   "GUID": "b613dd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Josef Meiger",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

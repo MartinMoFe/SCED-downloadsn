@@ -14,11 +14,9 @@
   "Description": "Die Spinnengöttin",
   "GMNotes": "{\n  \"id\": \"06346\"\n}",
   "GUID": "5ca778",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Atlach-Nacha",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

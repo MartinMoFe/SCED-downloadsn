@@ -1,0 +1,23 @@
+{
+  "CardID": 473200,
+  "CustomDeck": {
+    "4732": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/fXFPPEJ.jpg",
+      "FaceURL": "https://i.imgur.com/pVZDCXm.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02159\"\n}",
+  "GUID": "a91d7b",
+  "Name": "Card",
+  "Nickname": "El Essex County Express",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

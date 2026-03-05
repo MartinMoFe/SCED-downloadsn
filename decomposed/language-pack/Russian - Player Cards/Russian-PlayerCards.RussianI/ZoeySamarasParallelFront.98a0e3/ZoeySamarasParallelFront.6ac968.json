@@ -1,5 +1,5 @@
 {
-  "CardID": "535221",
+  "CardID": 535221,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -21,13 +21,11 @@
   "Description": "Верующий. Охотник.",
   "GMNotes": "{\n  \"id\": \"02001-pf\"\n}",
   "GUID": "6ac968",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Зои Самарас (альтернативное лицо)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

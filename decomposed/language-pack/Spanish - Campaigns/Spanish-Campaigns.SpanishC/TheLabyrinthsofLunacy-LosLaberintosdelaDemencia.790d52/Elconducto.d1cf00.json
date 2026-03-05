@@ -1,0 +1,23 @@
+{
+  "CardID": 51220,
+  "CustomDeck": {
+    "512": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/95v6gaE.jpg",
+      "FaceURL": "https://i.imgur.com/nSQcL0X.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70035\"\n}",
+  "GUID": "d1cf00",
+  "Name": "Card",
+  "Nickname": "El conducto",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

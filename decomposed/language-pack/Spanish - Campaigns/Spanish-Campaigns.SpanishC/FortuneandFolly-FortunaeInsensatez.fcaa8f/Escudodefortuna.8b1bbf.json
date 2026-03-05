@@ -1,0 +1,22 @@
+{
+  "CardID": 851324,
+  "CustomDeck": {
+    "8513": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/ze7iQeY.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"88046a\"\n}",
+  "GUID": "8b1bbf",
+  "Name": "Card",
+  "Nickname": "Escudo de fortuna",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08569\"\n}",
   "GUID": "fa4c85",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dyer's Classroom",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

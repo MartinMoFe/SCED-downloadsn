@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08621\"\n}",
   "GUID": "9e0040",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Город Старцев",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

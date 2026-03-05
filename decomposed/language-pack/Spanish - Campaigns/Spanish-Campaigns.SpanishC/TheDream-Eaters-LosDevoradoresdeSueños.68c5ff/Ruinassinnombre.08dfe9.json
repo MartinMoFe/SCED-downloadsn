@@ -1,0 +1,23 @@
+{
+  "CardID": 863512,
+  "CustomDeck": {
+    "8635": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/pn6sMCb.jpg",
+      "FaceURL": "https://i.imgur.com/WqhjyUv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06138\"\n}",
+  "GUID": "08dfe9",
+  "Name": "Card",
+  "Nickname": "Ruinas sin nombre",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

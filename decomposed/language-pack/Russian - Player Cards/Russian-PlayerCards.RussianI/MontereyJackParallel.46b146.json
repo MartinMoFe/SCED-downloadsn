@@ -9,13 +9,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "The Archeologist",
   "GMNotes": "{\n  \"id\": \"08007-p\"\n}",
   "GUID": "46b146",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Монтерей Джек (альтернативный)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "MontereyJackParallel.aeb6a1"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -1,0 +1,24 @@
+{
+  "CardID": 475704,
+  "CustomDeck": {
+    "4757": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/lDfYOnw.jpg",
+      "FaceURL": "https://i.imgur.com/V1ZGSBh.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02200\"\n}",
+  "GUID": "a6bf1b",
+  "Name": "Card",
+  "Nickname": "La camara de la bestia",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

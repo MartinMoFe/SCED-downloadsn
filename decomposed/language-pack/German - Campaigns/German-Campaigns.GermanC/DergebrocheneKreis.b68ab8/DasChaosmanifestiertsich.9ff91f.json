@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05306\"\n}",
   "GUID": "9ff91f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Chaos manifestiert sich",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

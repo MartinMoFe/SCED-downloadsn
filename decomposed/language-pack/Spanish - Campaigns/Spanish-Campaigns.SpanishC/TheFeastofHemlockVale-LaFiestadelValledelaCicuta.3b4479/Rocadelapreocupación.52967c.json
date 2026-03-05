@@ -1,0 +1,23 @@
+{
+  "CardID": 874206,
+  "CustomDeck": {
+    "8742": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/BWszyxz.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "Description": "Símbolo de seguridad",
+  "GMNotes": "{\n  \"id\": \"10713\"\n}",
+  "GUID": "52967c",
+  "Name": "Card",
+  "Nickname": "Roca de la preocupación",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

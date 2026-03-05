@@ -14,11 +14,9 @@
   "Description": "Данвич.",
   "GMNotes": "{\n  \"id\": \"51037\"\n}",
   "GUID": "018fc4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Конгрегационная церковь",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

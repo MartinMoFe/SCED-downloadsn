@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06120\"\n}",
   "GUID": "9de0f1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Reise durch die Traumlande",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

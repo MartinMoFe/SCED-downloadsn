@@ -7,8 +7,7 @@
       "FaceURL": "https://github.com/Forgotin/HLV/blob/main/HLV_03.jpg?raw=true",
       "NumHeight": 5,
       "NumWidth": 8,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Power. Colour.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Captivating Gleam",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

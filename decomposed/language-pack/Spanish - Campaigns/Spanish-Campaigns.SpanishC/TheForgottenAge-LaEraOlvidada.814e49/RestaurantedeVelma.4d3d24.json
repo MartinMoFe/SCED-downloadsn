@@ -1,0 +1,23 @@
+{
+  "CardID": 35501,
+  "CustomDeck": {
+    "355": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/bJpCc6q.jpg",
+      "FaceURL": "https://i.imgur.com/7Uuyay7.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04141\"\n}",
+  "GUID": "4d3d24",
+  "Name": "Card",
+  "Nickname": "Restaurante de Velma",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

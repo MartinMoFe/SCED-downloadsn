@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08570\"\n}",
   "GUID": "80c56d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Infirmary",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

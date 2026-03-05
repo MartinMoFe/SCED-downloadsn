@@ -1,0 +1,22 @@
+{
+  "CardID": 878105,
+  "CustomDeck": {
+    "8781": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/4pemhPU.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07184\"\n}",
+  "GUID": "33edd1",
+  "Name": "Card",
+  "Nickname": "Formas en el agua",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

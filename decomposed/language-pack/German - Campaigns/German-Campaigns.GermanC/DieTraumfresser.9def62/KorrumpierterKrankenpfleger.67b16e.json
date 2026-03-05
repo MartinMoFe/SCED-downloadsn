@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06082\"\n}",
   "GUID": "67b16e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Korrumpierter Krankenpfleger",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

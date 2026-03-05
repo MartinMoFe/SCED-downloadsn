@@ -15,7 +15,6 @@
   "Description": "Полиция. Служитель.",
   "GMNotes": "{\n  \"id\": \"06001\"\n}",
   "GUID": "e637cd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Томми Малдун",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "TommyMuldoon.822b14"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

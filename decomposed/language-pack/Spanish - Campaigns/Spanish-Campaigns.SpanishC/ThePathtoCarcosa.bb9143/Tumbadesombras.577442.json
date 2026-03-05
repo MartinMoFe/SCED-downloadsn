@@ -1,0 +1,23 @@
+{
+  "CardID": 39311,
+  "CustomDeck": {
+    "393": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/98yMiCf.jpg",
+      "FaceURL": "https://i.imgur.com/QnGUHn9.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03257\"\n}",
+  "GUID": "577442",
+  "Name": "Card",
+  "Nickname": "Tumba de sombras",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

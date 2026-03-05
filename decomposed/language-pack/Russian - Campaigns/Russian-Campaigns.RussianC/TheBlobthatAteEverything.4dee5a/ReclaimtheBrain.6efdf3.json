@@ -14,11 +14,9 @@
   "Description": "Часть 1.",
   "GMNotes": "{\n  \"id\": \"89014\"\n}",
   "GUID": "6efdf3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Добыть мозг",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

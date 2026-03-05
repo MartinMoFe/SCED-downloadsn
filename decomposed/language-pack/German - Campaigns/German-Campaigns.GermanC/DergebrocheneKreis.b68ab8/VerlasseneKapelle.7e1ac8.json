@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05168\"\n}",
   "GUID": "7e1ac8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verlassene Kapelle",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

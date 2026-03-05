@@ -14,12 +14,10 @@
   "Description": "Психолог",
   "GMNotes": "{\n  \"id\": \"05001\"\n}",
   "GUID": "9900a3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кэролин Ферн (промо версия)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

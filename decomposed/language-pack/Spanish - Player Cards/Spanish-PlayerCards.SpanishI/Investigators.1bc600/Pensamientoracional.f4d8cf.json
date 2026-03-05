@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/3MRpf6t.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"05008\"}",
+  "GMNotes": "{\n  \"id\": \"05008\"\n}",
   "GUID": "f4d8cf",
   "Name": "Card",
   "Nickname": "Pensamiento racional",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

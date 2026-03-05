@@ -1,0 +1,22 @@
+{
+  "CardID": 873408,
+  "CustomDeck": {
+    "8734": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/5ff26Ra.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10729\"\n}",
+  "GUID": "4d5969",
+  "Name": "Card",
+  "Nickname": "Desecación",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

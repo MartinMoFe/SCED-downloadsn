@@ -1,0 +1,23 @@
+{
+  "CardID": 44400,
+  "CustomDeck": {
+    "444": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/enDVUrF.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Médica de urgencias",
+  "GMNotes": "{\n  \"id\": \"06080\"\n}",
+  "GUID": "e06cf9",
+  "Name": "Card",
+  "Nickname": "Dra. Shivani Maheswaran",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

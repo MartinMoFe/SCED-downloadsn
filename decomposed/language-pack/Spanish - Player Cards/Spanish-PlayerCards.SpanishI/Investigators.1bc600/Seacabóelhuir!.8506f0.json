@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/Vn3QtLm.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Signature",
-  "GMNotes": "{\"id\": \"05016\"}",
+  "GMNotes": "{\n  \"id\": \"05016\"\n}",
   "GUID": "8506f0",
   "Name": "Card",
   "Nickname": "\"¡Se acabó el huir!\"",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

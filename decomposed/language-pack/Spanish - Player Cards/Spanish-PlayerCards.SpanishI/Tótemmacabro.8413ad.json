@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/vChc3R5.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"05119\"}",
+  "GMNotes": "{\n  \"id\": \"05119\"\n}",
   "GUID": "8413ad",
   "Name": "Card",
   "Nickname": "Tótem macabro",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

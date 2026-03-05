@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04172\"\n}",
   "GUID": "21499e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Xochimilco",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

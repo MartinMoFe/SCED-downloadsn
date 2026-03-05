@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02237\"\n}",
   "GUID": "e0fa83",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tobende Kreaturen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05223\"\n}",
   "GUID": "8a1601",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ruf zur Ordnung",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

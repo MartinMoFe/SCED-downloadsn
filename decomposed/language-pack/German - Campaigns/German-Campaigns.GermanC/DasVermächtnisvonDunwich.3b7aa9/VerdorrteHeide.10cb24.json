@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02249\"\n}",
   "GUID": "10cb24",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verdorrte Heide",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Extracurricular Activity",
   "GMNotes": "{\n  \"id\": \"02041\"\n}",
   "GUID": "70df0b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

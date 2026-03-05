@@ -15,7 +15,6 @@
   "Description": "Преступник.",
   "GMNotes": "{\n  \"id\": \"01003-p\"\n}",
   "GUID": "22ebb2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Скат О'Тул (альтернативный)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "SkidsOTooleParallel.9e67ff"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

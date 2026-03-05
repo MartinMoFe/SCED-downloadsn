@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/50204544127402941/30E4E411B04AFEE8A17D159542E93A9525C6F3EB/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"11067\"}",
+  "GMNotes": "{\n  \"id\": \"11067\"\n}",
   "GUID": "746010",
   "Name": "Card",
   "Nickname": "Ojos del soñador",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

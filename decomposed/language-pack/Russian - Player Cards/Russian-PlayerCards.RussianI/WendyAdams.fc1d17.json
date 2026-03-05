@@ -22,7 +22,6 @@
   "Description": "Скиталец.",
   "GMNotes": "{\n  \"id\": \"01005\"\n}",
   "GUID": "fc1d17",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/cards/WendyAdams\")",
   "Name": "Card",
   "Nickname": "Венди Адамс",
@@ -33,7 +32,6 @@
     "4": "WendyAdams.08bc6d"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

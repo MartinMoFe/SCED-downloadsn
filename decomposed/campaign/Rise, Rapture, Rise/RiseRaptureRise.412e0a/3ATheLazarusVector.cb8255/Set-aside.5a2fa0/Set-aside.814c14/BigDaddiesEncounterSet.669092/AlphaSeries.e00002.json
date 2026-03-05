@@ -1,5 +1,5 @@
 {
-  "CardID": 20267300,
+  "CardID": 100000,
   "CustomDeck": {
     "1000": {
       "BackIsHidden": true,
@@ -14,7 +14,6 @@
   "GMNotes_path": "RiseRaptureRise.412e0a/3ATheLazarusVector.cb8255/Set-aside.5a2fa0/Set-aside.814c14/BigDaddiesEncounterSet.669092/AlphaSeries.e00002.gmnotes",
   "GUID": "e00002",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Alpha Series",
   "Tags": [

@@ -1,0 +1,23 @@
+{
+  "CardID": 47617,
+  "CustomDeck": {
+    "476": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/OKog8AD.jpg",
+      "FaceURL": "https://i.imgur.com/irovrKG.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53059\"\n}",
+  "GUID": "e404de",
+  "Name": "Card",
+  "Nickname": "Regreso a Las profundidades de Yoth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "CardID": 878411,
+  "CustomDeck": {
+    "8784": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/0vf6cPQ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Propietaria del hotel",
+  "GMNotes": "{\n  \"id\": \"07081\"\n}",
+  "GUID": "1bbb6a",
+  "Name": "Card",
+  "Nickname": "Othera Gilman",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

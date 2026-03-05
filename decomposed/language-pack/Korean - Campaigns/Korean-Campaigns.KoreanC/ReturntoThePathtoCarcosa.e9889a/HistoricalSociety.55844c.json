@@ -14,11 +14,9 @@
   "Description": "Third Floor.",
   "GMNotes": "{\n  \"id\": \"03138\"\n}",
   "GUID": "55844c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Historical Society",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

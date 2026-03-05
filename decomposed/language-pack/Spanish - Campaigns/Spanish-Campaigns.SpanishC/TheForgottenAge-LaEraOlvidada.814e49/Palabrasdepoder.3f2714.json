@@ -1,0 +1,22 @@
+{
+  "CardID": 2037,
+  "CustomDeck": {
+    "20": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/NKLgJJ7.jpg",
+      "NumHeight": 5,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04097\"\n}",
+  "GUID": "3f2714",
+  "Name": "Card",
+  "Nickname": "Palabras de poder",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

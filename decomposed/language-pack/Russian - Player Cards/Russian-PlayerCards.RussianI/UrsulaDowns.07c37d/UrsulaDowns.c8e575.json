@@ -1,5 +1,5 @@
 {
-  "CardID": "535017",
+  "CardID": 535017,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Путешественник.",
   "GMNotes": "{\n  \"id\": \"04002\"\n}",
   "GUID": "c8e575",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Урсула Даунс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07052\"\n}",
   "GUID": "9680db",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verschlossener Ausgang",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

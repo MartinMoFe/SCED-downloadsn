@@ -1,0 +1,24 @@
+{
+  "CardID": 471017,
+  "CustomDeck": {
+    "4710": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ZnhZ6Q1.jpg",
+      "FaceURL": "https://i.imgur.com/7dldCWs.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Ala oeste",
+  "GMNotes": "{\n  \"id\": \"09668\"\n}",
+  "GUID": "512db4",
+  "Name": "Card",
+  "Nickname": "Estación de Kuala Lumpur",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,12 +14,10 @@
   "Description": "The Doctor",
   "GMNotes": "{\n  \"id\": \"09004\"\n}",
   "GUID": "c431f3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Vincent Lee",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -14,11 +14,9 @@
   "Description": "Nur Haut und Knochen",
   "GMNotes": "{\n  \"id\": \"03067b\"\n}",
   "GUID": "28d7ec",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ishimaru Haruko",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,10 +1,10 @@
 {
   "ContainedObjects_order": [
     "AncientGallery.d5f8ce",
-    "BlastedRuins.dfc4e2",
-    "AbyssalTrench.f7ce14",
-    "AbyssalTrench.8ada19",
     "BlastedRuins.7128d9",
+    "BlastedRuins.dfc4e2",
+    "AbyssalTrench.8ada19",
+    "AbyssalTrench.8ada19",
     "AbyssalTrench.8ada19"
   ],
   "ContainedObjects_path": "SeaFloors.d3e15d",
@@ -15,16 +15,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/62595225072292606/C53C0AD592E119E93B89780A87FFBB51D5101B4F/",
       "NumHeight": 2,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
     267007,
+    267004,
     267003,
     267000,
     267000,
-    267004,
     267000
   ],
   "GUID": "d3e15d",

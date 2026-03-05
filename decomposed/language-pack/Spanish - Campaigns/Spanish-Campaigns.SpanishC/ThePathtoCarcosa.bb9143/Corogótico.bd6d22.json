@@ -1,0 +1,23 @@
+{
+  "CardID": 51311,
+  "CustomDeck": {
+    "513": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/rkduU2W.jpg",
+      "FaceURL": "https://i.imgur.com/XzJynWP.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03293\"\n}",
+  "GUID": "bd6d22",
+  "Name": "Card",
+  "Nickname": "Coro gótico",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

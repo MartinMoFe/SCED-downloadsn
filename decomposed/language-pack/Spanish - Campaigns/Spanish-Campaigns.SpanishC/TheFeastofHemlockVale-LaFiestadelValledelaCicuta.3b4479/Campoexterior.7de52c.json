@@ -1,0 +1,24 @@
+{
+  "CardID": 873511,
+  "CustomDeck": {
+    "8735": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/Jl1CtK4.jpg",
+      "FaceURL": "https://i.imgur.com/qLpIBw2.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Cultivos rancios",
+  "GMNotes": "{\n  \"id\": \"10640\"\n}",
+  "GUID": "7de52c",
+  "Name": "Card",
+  "Nickname": "Campo exterior",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

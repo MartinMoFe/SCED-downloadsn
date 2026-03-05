@@ -1,11 +1,11 @@
 {
   "ContainedObjects_order": [
-    "BroodofYig.631fd0",
     "CurseofYig.0b33ea",
-    "CurseofYig.b7a7ec",
+    "CurseofYig.0b33ea",
     "SerpentfromYoth.716be4",
-    "BroodofYig.7a3a6a",
-    "BroodofYig.dfc63f"
+    "BroodofYig.631fd0",
+    "BroodofYig.631fd0",
+    "BroodofYig.631fd0"
   ],
   "ContainedObjects_path": "AgentsofYig.16f2ef",
   "CustomDeck": {
@@ -15,15 +15,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    235725,
     235727,
     235727,
     235726,
+    235725,
     235725,
     235725
   ],

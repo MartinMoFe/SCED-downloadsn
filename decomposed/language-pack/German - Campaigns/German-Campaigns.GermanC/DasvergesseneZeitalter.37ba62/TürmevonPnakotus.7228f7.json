@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04255\"\n}",
   "GUID": "7228f7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Türme von Pnakotus",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 3110,
+  "CustomDeck": {
+    "31": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/uAdkDWj.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Homicida",
+  "GMNotes": "{\n  \"id\": \"03342\"\n}",
+  "GUID": "bf95fb",
+  "Name": "Card",
+  "Nickname": "Posesión",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

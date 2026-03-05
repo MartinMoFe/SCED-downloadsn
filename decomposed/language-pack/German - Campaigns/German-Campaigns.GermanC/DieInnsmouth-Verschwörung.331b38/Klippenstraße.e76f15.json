@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07205b\"\n}",
   "GUID": "e76f15",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Klippenstraße",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

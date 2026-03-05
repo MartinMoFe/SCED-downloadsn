@@ -1,5 +1,5 @@
 {
-  "CardID": "535228",
+  "CardID": 535228,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Артист. Проклятый.",
   "GMNotes": "{\n  \"id\": \"02004-p\"\n}",
   "GUID": "31bed6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Джим Кальвер (альтернативный)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

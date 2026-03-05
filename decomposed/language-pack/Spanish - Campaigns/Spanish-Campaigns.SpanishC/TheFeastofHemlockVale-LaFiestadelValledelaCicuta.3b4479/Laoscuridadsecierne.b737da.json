@@ -1,0 +1,24 @@
+{
+  "CardID": 874501,
+  "CustomDeck": {
+    "8745": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/upjPNFH.jpg",
+      "FaceURL": "https://i.imgur.com/GuQ5TZk.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10571\"\n}",
+  "GUID": "b737da",
+  "Name": "Card",
+  "Nickname": "La oscuridad se cierne",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Miskatonic.",
   "GMNotes": "{\n  \"id\": \"02126\"\n}",
   "GUID": "cf40fc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Museum Entrance",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

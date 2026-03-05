@@ -14,13 +14,12 @@
   "GMNotes_path": "RiseRaptureRise.412e0a/4OpiateoftheMasses.95ac78/RyansCourt.e000ef.gmnotes",
   "GUID": "e000ef",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ryan's Court",
   "Tags": [
     "DoNotReady",
-    "Location",
-    "ScenarioCard"
+    "ScenarioCard",
+    "Location"
   ],
   "Transform": {
     "rotY": 180,

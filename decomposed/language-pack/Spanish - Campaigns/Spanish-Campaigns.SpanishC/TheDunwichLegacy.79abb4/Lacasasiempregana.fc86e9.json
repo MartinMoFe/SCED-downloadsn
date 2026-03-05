@@ -1,0 +1,23 @@
+{
+  "CardID": 463611,
+  "CustomDeck": {
+    "4636": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/04aM8ON.jpg",
+      "FaceURL": "https://i.imgur.com/P548Mxa.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02062\"\n}",
+  "GUID": "fc86e9",
+  "Name": "Card",
+  "Nickname": "La casa siempre gana",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

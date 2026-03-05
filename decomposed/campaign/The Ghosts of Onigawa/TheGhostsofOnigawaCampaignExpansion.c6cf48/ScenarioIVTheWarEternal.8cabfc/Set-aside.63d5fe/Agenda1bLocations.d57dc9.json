@@ -18,7 +18,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "86099": {
       "BackIsHidden": true,
@@ -27,7 +27,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "86101": {
       "BackIsHidden": true,
@@ -36,7 +36,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "86102": {
       "BackIsHidden": true,
@@ -45,7 +45,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "86103": {
       "BackIsHidden": true,
@@ -54,7 +54,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "86104": {
       "BackIsHidden": true,
@@ -63,7 +63,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "86117": {
       "BackIsHidden": true,
@@ -72,7 +72,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "86118": {
       "BackIsHidden": true,
@@ -81,7 +81,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [

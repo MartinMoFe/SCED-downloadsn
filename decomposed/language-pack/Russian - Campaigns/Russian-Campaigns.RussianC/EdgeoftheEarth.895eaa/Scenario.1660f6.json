@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08648\"\n}",
   "GUID": "1660f6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сердце безумия",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

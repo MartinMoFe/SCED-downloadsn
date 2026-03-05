@@ -1,0 +1,23 @@
+{
+  "CardID": 470813,
+  "CustomDeck": {
+    "4708": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/czq5IoX.jpg",
+      "FaceURL": "https://i.imgur.com/pN9LrCR.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09572\"\n}",
+  "GUID": "7a3f5d",
+  "Name": "Card",
+  "Nickname": "Muelles de Gálata",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

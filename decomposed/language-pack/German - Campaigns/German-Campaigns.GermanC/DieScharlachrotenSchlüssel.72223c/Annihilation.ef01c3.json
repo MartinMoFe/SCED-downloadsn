@@ -1,5 +1,5 @@
 {
-  "CardID": 853830,
+  "CardID": 278230,
   "CustomDeck": {
     "2782": {
       "BackIsHidden": true,
@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09612\"\n}",
   "GUID": "ef01c3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Annihilation",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

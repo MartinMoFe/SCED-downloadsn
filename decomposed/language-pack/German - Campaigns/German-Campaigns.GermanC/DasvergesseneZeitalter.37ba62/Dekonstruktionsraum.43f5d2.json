@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04254\"\n}",
   "GUID": "43f5d2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dekonstruktionsraum",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02298\"\n}",
   "GUID": "336ca8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zeitwirbel",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

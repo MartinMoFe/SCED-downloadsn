@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07042\"\n}",
   "GUID": "dcd0c5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erwachen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

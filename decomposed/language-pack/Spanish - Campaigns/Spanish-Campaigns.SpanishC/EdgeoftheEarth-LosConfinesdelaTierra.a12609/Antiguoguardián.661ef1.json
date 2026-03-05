@@ -1,0 +1,22 @@
+{
+  "CardID": 456709,
+  "CustomDeck": {
+    "4567": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/pxOZaUg.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08696\"\n}",
+  "GUID": "661ef1",
+  "Name": "Card",
+  "Nickname": "Antiguo guardián",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

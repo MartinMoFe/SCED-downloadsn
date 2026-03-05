@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1833538690323031302/6CF77C799EA46859CD95D5FC453E5EC02C2345B4/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Failure",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Visionen deines Verstandes",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

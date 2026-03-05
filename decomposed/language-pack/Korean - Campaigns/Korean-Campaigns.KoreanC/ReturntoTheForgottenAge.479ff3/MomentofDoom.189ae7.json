@@ -14,12 +14,10 @@
   "Description": "Act 3",
   "GMNotes": "{\n  \"id\": \"04347\"\n}",
   "GUID": "189ae7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Moment of Doom",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

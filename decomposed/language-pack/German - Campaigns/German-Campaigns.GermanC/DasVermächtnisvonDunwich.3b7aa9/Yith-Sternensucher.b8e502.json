@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02330\"\n}",
   "GUID": "b8e502",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Yith-Sternensucher",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

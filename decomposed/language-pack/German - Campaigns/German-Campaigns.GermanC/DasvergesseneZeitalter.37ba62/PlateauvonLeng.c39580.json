@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04336\"\n}",
   "GUID": "c39580",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Plateau von Leng",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

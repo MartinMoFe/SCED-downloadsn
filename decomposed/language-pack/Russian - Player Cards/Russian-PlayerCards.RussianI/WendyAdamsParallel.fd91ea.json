@@ -15,7 +15,6 @@
   "Description": "Скиталец. Благословенная. Проклятая.",
   "GMNotes": "{\n  \"id\": \"01005-p\"\n}",
   "GUID": "fd91ea",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Венди Адамс (альтернативная)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "WendyAdamsParallel.acd4cc"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

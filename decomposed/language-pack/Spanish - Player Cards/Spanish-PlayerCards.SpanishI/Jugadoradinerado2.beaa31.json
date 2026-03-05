@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/NtG2HvE.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04156\"}",
+  "GMNotes": "{\n  \"id\": \"04156\"\n}",
   "GUID": "beaa31",
   "Name": "Card",
   "Nickname": "Jugador adinerado (2)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

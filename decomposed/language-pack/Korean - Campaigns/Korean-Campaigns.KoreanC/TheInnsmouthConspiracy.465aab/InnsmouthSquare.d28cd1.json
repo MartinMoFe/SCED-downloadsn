@@ -14,11 +14,9 @@
   "Description": "Innsmouth. Central.",
   "GMNotes": "{\n  \"id\": \"07065\"\n}",
   "GUID": "d28cd1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Innsmouth Square",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

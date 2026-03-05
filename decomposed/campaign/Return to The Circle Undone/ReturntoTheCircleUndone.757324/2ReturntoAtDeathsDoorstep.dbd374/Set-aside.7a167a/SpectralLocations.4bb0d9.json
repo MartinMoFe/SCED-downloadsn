@@ -1,11 +1,11 @@
 {
   "ContainedObjects_order": [
     "WineCellar.b882f3",
-    "BilliardsRoom.349eb6",
+    "Office.060886",
     "Balcony.3b69ae",
     "MasterBedroom.327f3b",
+    "BilliardsRoom.349eb6",
     "TrophyRoom.f5616e",
-    "Office.060886",
     "VictorianHalls.94ef8e",
     "EntryHall.7cb46b"
   ],
@@ -32,11 +32,11 @@
   },
   "DeckIDs": [
     449710,
-    231917,
+    231920,
     231919,
     231918,
+    231917,
     231916,
-    231920,
     231915,
     231914
   ],

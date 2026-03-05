@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07217\"\n}",
   "GUID": "f0cb3c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "„Ich kann nichts sehen!”",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

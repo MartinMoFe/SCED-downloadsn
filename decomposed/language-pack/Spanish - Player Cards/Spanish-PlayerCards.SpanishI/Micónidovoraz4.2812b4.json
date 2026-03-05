@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/aIEBgDK.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Cepa sensible",
-  "GMNotes": "{\"id\": \"10059\"}",
+  "GMNotes": "{\n  \"id\": \"10059\"\n}",
   "GUID": "2812b4",
   "Name": "Card",
   "Nickname": "Micónido voraz (4)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

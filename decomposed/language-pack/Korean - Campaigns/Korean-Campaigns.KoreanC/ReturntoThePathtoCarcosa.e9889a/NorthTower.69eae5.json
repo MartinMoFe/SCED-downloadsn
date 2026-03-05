@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03287\"\n}",
   "GUID": "69eae5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "North Tower",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

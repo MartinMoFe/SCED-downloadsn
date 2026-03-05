@@ -1,0 +1,23 @@
+{
+  "CardID": 470101,
+  "CustomDeck": {
+    "4701": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/DYCv4ab.jpg",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0
+    }
+  },
+  "Description": "La doncella del fajín escarlata",
+  "GMNotes": "{\n  \"id\": \"09693\"\n}",
+  "GUID": "65e769",
+  "Name": "Card",
+  "Nickname": "Aliki Zoni Uperetria",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

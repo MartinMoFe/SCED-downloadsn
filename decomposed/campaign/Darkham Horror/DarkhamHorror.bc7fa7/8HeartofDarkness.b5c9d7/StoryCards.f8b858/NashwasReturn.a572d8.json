@@ -1,5 +1,5 @@
 {
-  "CardID": 565916,
+  "CardID": 561716,
   "CustomDeck": {
     "5617": {
       "BackIsHidden": true,
@@ -12,7 +12,6 @@
     }
   },
   "GUID": "a572d8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nashwa's Return",
   "Transform": {

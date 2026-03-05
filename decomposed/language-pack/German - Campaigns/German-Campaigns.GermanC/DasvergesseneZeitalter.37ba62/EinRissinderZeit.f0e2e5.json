@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04090\"\n}",
   "GUID": "f0e2e5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ein Riss in der Zeit",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

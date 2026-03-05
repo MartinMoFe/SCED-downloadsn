@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13873772073698120336/B5171C838476538F0F412EE85E7450DAECAAA873/",
       "NumHeight": 3,
       "NumWidth": 9,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Происшествие.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Глубокие тени",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

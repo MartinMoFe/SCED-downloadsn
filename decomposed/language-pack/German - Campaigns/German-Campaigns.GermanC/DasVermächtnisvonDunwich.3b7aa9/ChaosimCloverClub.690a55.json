@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02065\"\n}",
   "GUID": "690a55",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Chaos im Clover Club",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

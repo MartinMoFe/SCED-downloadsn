@@ -14,12 +14,10 @@
   "Description": "The Photographer",
   "GMNotes": "{\n  \"id\": \"09015\"\n}",
   "GUID": "5d3d67",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Darrell Simmons",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

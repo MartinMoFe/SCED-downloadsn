@@ -1,5 +1,5 @@
 {
-  "CardID": 20267100,
+  "CardID": 100200,
   "CustomDeck": {
     "1002": {
       "BackIsHidden": true,
@@ -14,7 +14,6 @@
   "GMNotes_path": "RiseRaptureRise.412e0a/3ATheLazarusVector.cb8255/Set-aside.5a2fa0/Set-aside.814c14/BigDaddiesEncounterSet.669092/TheBouncer.e00004.gmnotes",
   "GUID": "e00004",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Bouncer",
   "Tags": [

@@ -1,0 +1,24 @@
+{
+  "CardID": 470810,
+  "CustomDeck": {
+    "4708": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/czq5IoX.jpg",
+      "FaceURL": "https://i.imgur.com/pN9LrCR.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Estatuilla rota",
+  "GMNotes": "{\n  \"id\": \"09565\"\n}",
+  "GUID": "a11fe4",
+  "Name": "Card",
+  "Nickname": "La dama plañidera",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

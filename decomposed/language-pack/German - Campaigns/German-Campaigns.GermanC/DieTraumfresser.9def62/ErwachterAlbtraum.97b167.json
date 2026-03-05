@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06063\"\n}",
   "GUID": "97b167",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erwachter Albtraum",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

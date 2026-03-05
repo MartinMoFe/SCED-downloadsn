@@ -14,11 +14,9 @@
   "Description": "Сцена 2.",
   "GMNotes": "{\n  \"id\": \"70037\"\n}",
   "GUID": "46db6c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Врата",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

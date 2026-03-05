@@ -14,11 +14,9 @@
   "Description": "Поглощённая.",
   "GMNotes": "{\n  \"id\": \"85019\"\n}",
   "GUID": "5193e9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Зона карантина",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

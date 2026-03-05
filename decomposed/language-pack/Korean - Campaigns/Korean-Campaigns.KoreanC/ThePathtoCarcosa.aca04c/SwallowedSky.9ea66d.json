@@ -14,12 +14,10 @@
   "Description": "Agenda 3c",
   "GMNotes": "{\n  \"id\": \"03280\"\n}",
   "GUID": "9ea66d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Swallowed Sky",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

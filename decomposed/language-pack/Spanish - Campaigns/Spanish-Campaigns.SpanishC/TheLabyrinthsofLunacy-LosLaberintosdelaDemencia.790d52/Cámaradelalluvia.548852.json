@@ -1,0 +1,23 @@
+{
+  "CardID": 51204,
+  "CustomDeck": {
+    "512": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/95v6gaE.jpg",
+      "FaceURL": "https://i.imgur.com/nSQcL0X.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70019\"\n}",
+  "GUID": "548852",
+  "Name": "Card",
+  "Nickname": "Cámara de la lluvia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

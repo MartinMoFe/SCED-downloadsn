@@ -14,11 +14,9 @@
   "Description": "Аркхэм. Настоящее.",
   "GMNotes": "{\n  \"id\": \"87020\"\n}",
   "GUID": "abe96e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Старинная лавка волшбы",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

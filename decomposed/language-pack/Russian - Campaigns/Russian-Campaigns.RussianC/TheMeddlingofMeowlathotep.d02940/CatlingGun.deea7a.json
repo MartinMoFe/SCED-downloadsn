@@ -7,17 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12286284094947429850/CBCB3C4F0F20A72AA5750AC027865CDF13523CD0/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "GMNotes": "{\n  \"id\": \"80002\"\n}",
   "GUID": "deea7a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пулемёт Котлинга",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

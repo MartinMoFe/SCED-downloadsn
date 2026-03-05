@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/NtG2HvE.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04149\"}",
+  "GMNotes": "{\n  \"id\": \"04149\"\n}",
   "GUID": "9ac820",
   "Name": "Card",
   "Nickname": "Fuerzas renovadas",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

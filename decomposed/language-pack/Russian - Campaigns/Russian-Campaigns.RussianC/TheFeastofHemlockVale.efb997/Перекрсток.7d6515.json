@@ -14,11 +14,9 @@
   "Description": "Хемлок-Вейл. Центр.",
   "GMNotes": "{\n  \"id\": \"10706\"\n}",
   "GUID": "7d6515",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Перекрёсток",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 456405,
+  "CustomDeck": {
+    "4564": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/5FpJ6Ro.jpg",
+      "FaceURL": "https://i.imgur.com/XYMMIAR.jpg",
+      "NumHeight": 2,
+      "NumWidth": 6,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07057\"\n}",
+  "GUID": "2d62ed",
+  "Name": "Card",
+  "Nickname": "Decrépita descomposición",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

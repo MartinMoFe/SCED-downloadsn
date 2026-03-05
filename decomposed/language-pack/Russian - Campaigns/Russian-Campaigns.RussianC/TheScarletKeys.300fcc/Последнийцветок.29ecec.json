@@ -14,11 +14,9 @@
   "Description": "Устойчивый.",
   "GMNotes": "{\n  \"id\": \"09544\"\n}",
   "GUID": "29ecec",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Последний цветок",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

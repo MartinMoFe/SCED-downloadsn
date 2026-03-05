@@ -1,0 +1,24 @@
+{
+  "CardID": 465004,
+  "CustomDeck": {
+    "4650": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/EEs0t3u.jpg",
+      "FaceURL": "https://i.imgur.com/qV4CWlp.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07279\"\n}",
+  "GUID": "edd287",
+  "Name": "Card",
+  "Nickname": "El Ritual avanza",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

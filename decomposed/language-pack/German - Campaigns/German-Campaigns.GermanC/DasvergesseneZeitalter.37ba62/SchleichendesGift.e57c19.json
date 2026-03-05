@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04101\"\n}",
   "GUID": "e57c19",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schleichendes Gift",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

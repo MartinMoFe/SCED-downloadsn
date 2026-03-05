@@ -1,0 +1,22 @@
+{
+  "CardID": 863807,
+  "CustomDeck": {
+    "8638": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/uUU6S3X.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06151\"\n}",
+  "GUID": "e53bf7",
+  "Name": "Card",
+  "Nickname": "Manada de vooniths",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

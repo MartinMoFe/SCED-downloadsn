@@ -1,13 +1,13 @@
 {
   "ContainedObjects_order": [
-    "AbleBodied.74ca59",
-    "Knife.3c3398",
-    "AbleBodied.bbe2c9",
-    "ActofDesperation.6b61d6",
-    "ActofDesperation.5ccd29",
-    "Flashlight.bb1cce",
     "StrayCat.6f4ab8",
-    "Lucky.17e14e"
+    "Lucky.17e14e",
+    "ActofDesperation.5ccd29",
+    "ActofDesperation.5ccd29",
+    "AbleBodied.74ca59",
+    "AbleBodied.74ca59",
+    "Flashlight.bb1cce",
+    "Knife.3c3398"
   ],
   "ContainedObjects_path": "OpeningHand.8b1f19",
   "CustomDeck": {
@@ -17,8 +17,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/960860341956216650/56BA7AB3BBDC1F3C1EA8709F0761D4846B45AF83/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2760": {
       "BackIsHidden": true,
@@ -26,8 +25,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025946328/561232524C8EAA4B4371B28652F78969E6ED6FFB/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "3688": {
       "BackIsHidden": true,
@@ -35,19 +33,18 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/960860672864134253/9A6E0399D3624C5FFBD6CAFE5D4B988436CC65AC/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    276006,
-    209612,
-    276006,
-    276007,
-    276007,
-    209615,
     368824,
-    368810
+    368810,
+    276007,
+    276007,
+    276006,
+    276006,
+    209615,
+    209612
   ],
   "GUID": "8b1f19",
   "Hands": false,

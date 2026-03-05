@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06339\"\n}",
   "GUID": "c52ee6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Ende des großen Plans",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

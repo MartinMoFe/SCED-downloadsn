@@ -14,11 +14,9 @@
   "Description": "Устойчивый.",
   "GMNotes": "{\n  \"id\": \"09634\"\n}",
   "GUID": "521ae5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Соболиное стекло",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

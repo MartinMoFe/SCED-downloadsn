@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/MDyVV7w.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Mentiroso, profeta o ambas cosas",
-  "GMNotes": "{\"id\": \"06285\"}",
+  "GMNotes": "{\n  \"id\": \"06285\"\n}",
   "GUID": "f645ea",
   "Name": "Card",
   "Nickname": "El gato negro (5)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

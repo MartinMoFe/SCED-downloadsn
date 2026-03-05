@@ -14,11 +14,9 @@
   "Description": "Alexandria. Locus Site.",
   "GMNotes": "{\n  \"id\": \"09649\"\n}",
   "GUID": "4e41a3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zan'et el Settat",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

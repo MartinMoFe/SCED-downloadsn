@@ -14,11 +14,9 @@
   "Description": "In the Clutches of Chaos",
   "GMNotes": "{\n  \"id\": \"05284\"\n}",
   "GUID": "863a02",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

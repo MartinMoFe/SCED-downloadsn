@@ -1,0 +1,23 @@
+{
+  "CardID": 469400,
+  "CustomDeck": {
+    "4694": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LhU7wG0.jpg",
+      "FaceURL": "https://i.imgur.com/QsdadOj.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09501\"\n}",
+  "GUID": "8bd826",
+  "Name": "Card",
+  "Nickname": "Acertijos y lluvia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

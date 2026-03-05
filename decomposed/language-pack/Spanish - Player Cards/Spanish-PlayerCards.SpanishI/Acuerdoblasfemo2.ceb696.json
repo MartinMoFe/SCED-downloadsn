@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/lLrlNi1.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07113\"}",
+  "GMNotes": "{\n  \"id\": \"07113\"\n}",
   "GUID": "ceb696",
   "Name": "Card",
   "Nickname": "Acuerdo blasfemo (2)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

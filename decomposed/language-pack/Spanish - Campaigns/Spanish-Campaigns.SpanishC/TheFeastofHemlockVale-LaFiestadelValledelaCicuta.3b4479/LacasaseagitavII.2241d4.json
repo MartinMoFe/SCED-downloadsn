@@ -1,0 +1,24 @@
+{
+  "CardID": 873602,
+  "CustomDeck": {
+    "8736": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/WLyngkl.jpg",
+      "FaceURL": "https://i.imgur.com/UQhaJYr.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10527\"\n}",
+  "GUID": "2241d4",
+  "Name": "Card",
+  "Nickname": "La casa se agita (v.II)",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

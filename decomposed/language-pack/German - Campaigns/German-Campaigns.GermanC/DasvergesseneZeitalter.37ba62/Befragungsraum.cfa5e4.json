@@ -14,11 +14,9 @@
   "Description": "Ankunftskammer",
   "GMNotes": "{\n  \"id\": \"04245\"\n}",
   "GUID": "cfa5e4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Befragungsraum",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

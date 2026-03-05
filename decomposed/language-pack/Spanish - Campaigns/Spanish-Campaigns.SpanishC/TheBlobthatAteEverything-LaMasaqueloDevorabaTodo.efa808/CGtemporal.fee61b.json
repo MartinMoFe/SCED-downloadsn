@@ -1,0 +1,23 @@
+{
+  "CardID": 48803,
+  "CustomDeck": {
+    "488": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fc5xGPi.jpg",
+      "FaceURL": "https://i.imgur.com/FXCJX6P.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85012\"\n}",
+  "GUID": "fee61b",
+  "Name": "Card",
+  "Nickname": "CG temporal",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

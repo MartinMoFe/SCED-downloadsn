@@ -14,11 +14,9 @@
   "Description": "Париж.",
   "GMNotes": "{\n  \"id\": \"03216\"\n}",
   "GUID": "065c64",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Канал Сен-Мартен",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

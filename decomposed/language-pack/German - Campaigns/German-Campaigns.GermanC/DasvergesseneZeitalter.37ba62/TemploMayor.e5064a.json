@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04174\"\n}",
   "GUID": "e5064a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Templo Mayor",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

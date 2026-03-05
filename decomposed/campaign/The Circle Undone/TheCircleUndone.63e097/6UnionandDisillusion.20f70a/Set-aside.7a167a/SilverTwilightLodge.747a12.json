@@ -1,11 +1,11 @@
 {
   "ContainedObjects_order": [
     "MysteriesoftheLodge.0eb939",
-    "MysteriesoftheLodge.7870f6",
+    "MysteriesoftheLodge.0eb939",
+    "KeeperofSecrets.3761ce",
     "LodgeNeophyte.408a82",
-    "LodgeNeophyte.525275",
-    "LodgeNeophyte.8dac94",
-    "KeeperofSecrets.3761ce"
+    "LodgeNeophyte.408a82",
+    "LodgeNeophyte.408a82"
   ],
   "ContainedObjects_path": "SilverTwilightLodge.747a12",
   "CustomDeck": {
@@ -15,17 +15,16 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
     231812,
     231812,
+    231811,
     231810,
     231810,
-    231810,
-    231811
+    231810
   ],
   "GUID": "747a12",
   "Hands": false,

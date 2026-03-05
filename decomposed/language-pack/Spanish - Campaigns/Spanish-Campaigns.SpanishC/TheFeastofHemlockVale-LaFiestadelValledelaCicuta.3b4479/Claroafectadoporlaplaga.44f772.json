@@ -1,0 +1,23 @@
+{
+  "CardID": 869005,
+  "CustomDeck": {
+    "8690": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/Ps5nEcV.jpg",
+      "FaceURL": "https://i.imgur.com/wjj3wvw.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10613\"\n}",
+  "GUID": "44f772",
+  "Name": "Card",
+  "Nickname": "Claro afectado por la plaga",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

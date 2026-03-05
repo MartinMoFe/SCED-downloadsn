@@ -1,0 +1,22 @@
+{
+  "CardID": 2211,
+  "CustomDeck": {
+    "22": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/ioGI5zV.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04148\"\n}",
+  "GUID": "036e3e",
+  "Name": "Card",
+  "Nickname": "Diario de expedición",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "CardID": 862009,
+  "CustomDeck": {
+    "8620": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/7g6wx0T.jpg",
+      "FaceURL": "https://i.imgur.com/hwExeTK.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05212\"\n}",
+  "GUID": "dfdb04",
+  "Name": "Card",
+  "Nickname": "Biblioteca",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

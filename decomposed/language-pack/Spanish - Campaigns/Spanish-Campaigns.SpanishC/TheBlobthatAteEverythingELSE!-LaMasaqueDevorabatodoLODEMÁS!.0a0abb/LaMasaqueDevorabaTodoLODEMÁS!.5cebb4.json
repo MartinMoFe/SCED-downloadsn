@@ -1,0 +1,23 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/17891466523698456581/34486B061CF7B95944E9FB00EA4C2B99515CB5A1/"
+  },
+  "GUID": "5cebb4",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Name": "Custom_PDF",
+  "Nickname": "La Masa que Devoraba Todo ¡LO DEMÁS!",
+  "Transform": {
+    "scaleX": 2,
+    "scaleY": 1,
+    "scaleZ": 2
+  }
+}

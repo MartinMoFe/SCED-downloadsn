@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11620\"\n}",
   "GUID": "8f21d0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "East Antechamber",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

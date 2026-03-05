@@ -1,5 +1,5 @@
 {
-  "CardID": "1156810",
+  "CardID": 1156810,
   "CustomDeck": {
     "11568": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17072893932994099309/547675CCECB0CCB07E7DD278281AD87CA5705903/",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07307\"}",
+  "GMNotes": "{\n  \"id\": \"07307\"\n}",
   "GUID": "6a57f3",
   "Name": "Card",
   "Nickname": "幸运骰子",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

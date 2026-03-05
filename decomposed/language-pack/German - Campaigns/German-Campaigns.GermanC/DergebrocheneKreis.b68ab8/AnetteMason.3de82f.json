@@ -14,11 +14,9 @@
   "Description": "Die Hohepriesterin",
   "GMNotes": "{\n  \"id\": \"05057\"\n}",
   "GUID": "3de82f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Anette Mason",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

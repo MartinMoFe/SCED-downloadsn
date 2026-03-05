@@ -14,11 +14,9 @@
   "Description": "Innsmouth.",
   "GMNotes": "{\n  \"id\": \"07130\"\n}",
   "GUID": "e58cff",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sawbone Alley",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

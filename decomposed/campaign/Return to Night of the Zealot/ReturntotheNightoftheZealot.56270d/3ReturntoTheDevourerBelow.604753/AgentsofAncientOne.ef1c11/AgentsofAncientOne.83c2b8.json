@@ -1,8 +1,8 @@
 {
   "ContainedObjects_order": [
-    "GoatSpawn.e4ae63",
     "GoatSpawn.3f2e83",
-    "GoatSpawn.e4ae63",
+    "GoatSpawn.3f2e83",
+    "GoatSpawn.3f2e83",
     "RelentlessDarkYoung.ab3719"
   ],
   "ContainedObjects_path": "AgentsofAncientOne.83c2b8",
@@ -13,8 +13,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

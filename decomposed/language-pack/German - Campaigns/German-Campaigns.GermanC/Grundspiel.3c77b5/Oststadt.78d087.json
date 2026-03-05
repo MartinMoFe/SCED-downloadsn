@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"01132\"\n}",
   "GUID": "78d087",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Oststadt",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"54017\"\n}",
   "GUID": "f15e6b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Час ведьмовства. Возвращение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

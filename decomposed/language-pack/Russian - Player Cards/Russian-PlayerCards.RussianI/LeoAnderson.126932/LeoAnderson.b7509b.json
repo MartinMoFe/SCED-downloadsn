@@ -1,5 +1,5 @@
 {
-  "CardID": "535016",
+  "CardID": 535016,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Ветеран. Путешественник.",
   "GMNotes": "{\n  \"id\": \"04001\"\n}",
   "GUID": "b7509b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Лео Андерсон",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -1,5 +1,5 @@
 {
-  "CardID": 8615200,
+  "CardID": 8614300,
   "CustomDeck": {
     "86143": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "TheGhostsofOnigawaCampaignExpansion.c6cf48/ScenarioVITheEndofAugust.64f036/EncounterDeck.30b66e/LunarCry.996837.gmnotes",

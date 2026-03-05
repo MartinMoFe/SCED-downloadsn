@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04340\"\n}",
   "GUID": "338bc3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zwischen den Welten",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 470609,
+  "CustomDeck": {
+    "4706": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/yo341se.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09564\"\n}",
+  "GUID": "1fa96e",
+  "Name": "Card",
+  "Nickname": "Ka repartido",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

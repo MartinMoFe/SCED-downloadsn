@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"85013\"\n}",
   "GUID": "aea880",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Поросший грибами холм",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

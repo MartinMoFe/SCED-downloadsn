@@ -1,0 +1,23 @@
+{
+  "CardID": 862810,
+  "CustomDeck": {
+    "8628": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XMOMrh8.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Norte",
+  "GMNotes": "{\n  \"id\": \"06314\"\n}",
+  "GUID": "930908",
+  "Name": "Card",
+  "Nickname": "Caos susurrante",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

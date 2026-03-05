@@ -1,0 +1,18 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "Description": "Не забудьте случайным образом выбрать одну из двух колод сцен, и одну из двух локаций Даунтаун!",
+  "GMNotes": "{\n  \"id\": \"SN110101\"\n}",
+  "GUID": "73abe1",
+  "Hands": false,
+  "Name": "Notecard",
+  "Nickname": "Инструкции по подготовке",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

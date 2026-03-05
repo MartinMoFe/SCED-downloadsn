@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/3ATheLazarusVector.cb8255/Set-aside.5a2fa0/JulieLangford.e00068.gmnotes",
   "GUID": "e00068",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Julie Langford",
   "Tags": [

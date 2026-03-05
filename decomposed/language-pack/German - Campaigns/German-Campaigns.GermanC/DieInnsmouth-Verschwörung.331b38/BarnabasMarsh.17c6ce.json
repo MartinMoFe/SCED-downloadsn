@@ -14,11 +14,9 @@
   "Description": "Er beginnt sich zu verändern",
   "GMNotes": "{\n  \"id\": \"07079\"\n}",
   "GUID": "17c6ce",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Barnabas Marsh",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

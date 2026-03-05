@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"51025\"\n}",
   "GUID": "5d02f3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Экспресс округа Эссекс. Возвращение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 43407,
+  "CustomDeck": {
+    "434": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/T9uVdL2.jpg",
+      "FaceURL": "https://i.imgur.com/SPOihI0.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05294\"\n}",
+  "GUID": "89f4ca",
+  "Name": "Card",
+  "Nickname": "Barrio Sur",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

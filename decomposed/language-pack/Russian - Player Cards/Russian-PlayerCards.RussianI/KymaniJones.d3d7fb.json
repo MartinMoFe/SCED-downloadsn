@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09008-m\"\n}",
   "GUID": "d3d7fb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Каймани Джонс",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/uJPS9oe.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60522\"}",
+  "GMNotes": "{\n  \"id\": \"60522\"\n}",
   "GUID": "5deef0",
   "Name": "Card",
   "Nickname": "Derringer del .18 (2)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

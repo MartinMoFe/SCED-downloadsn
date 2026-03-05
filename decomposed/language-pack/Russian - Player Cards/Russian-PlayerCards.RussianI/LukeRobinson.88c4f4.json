@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06004-m\"\n}",
   "GUID": "88c4f4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Люк Робинсон",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

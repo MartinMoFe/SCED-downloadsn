@@ -1,5 +1,5 @@
 {
-  "CardID": "535067",
+  "CardID": 535067,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Скиталец.",
   "GMNotes": "{\n  \"id\": \"07005\"\n}",
   "GUID": "90e148",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сайлас Марш",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

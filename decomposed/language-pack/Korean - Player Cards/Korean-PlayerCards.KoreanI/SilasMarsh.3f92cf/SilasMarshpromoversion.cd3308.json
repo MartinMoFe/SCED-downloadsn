@@ -14,12 +14,10 @@
   "Description": "The Sailor",
   "GMNotes": "{\n  \"id\": \"07005\"\n}",
   "GUID": "cd3308",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Silas Marsh (promo version)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

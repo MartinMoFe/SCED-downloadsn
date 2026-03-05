@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02127\"\n}",
   "GUID": "9b7283",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Museumshalle",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

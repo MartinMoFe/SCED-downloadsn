@@ -7,17 +7,14 @@
       "FaceURL": "http://i.imgur.com/w5VrdCE.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02273\"}",
+  "GMNotes": "{\n  \"id\": \"02273\"\n}",
   "GUID": "aa20c5",
   "Name": "Card",
   "Nickname": "Un respiro momentáneo (3)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

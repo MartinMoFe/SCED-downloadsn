@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/3MRpf6t.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"05026\"}",
+  "GMNotes": "{\n  \"id\": \"05026\"\n}",
   "GUID": "472a4e",
   "Name": "Card",
   "Nickname": "Curiosidad",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

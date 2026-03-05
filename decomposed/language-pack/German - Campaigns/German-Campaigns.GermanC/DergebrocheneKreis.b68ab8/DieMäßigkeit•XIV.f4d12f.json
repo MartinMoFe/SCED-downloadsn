@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05051\"\n}",
   "GUID": "f4d12f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Mäßigkeit • XIV",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Buenos Aires. Central.",
   "GMNotes": "{\n  \"id\": \"09549\"\n}",
   "GUID": "12e938",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Avenida de Mayo",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

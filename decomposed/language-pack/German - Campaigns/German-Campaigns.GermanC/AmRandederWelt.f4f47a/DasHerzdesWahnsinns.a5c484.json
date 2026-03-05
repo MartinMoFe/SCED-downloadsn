@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08648\"\n}",
   "GUID": "a5c484",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Herz des Wahnsinns",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

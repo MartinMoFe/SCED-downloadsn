@@ -14,11 +14,9 @@
   "Description": "He Was Always There",
   "GMNotes": "{\n  \"id\": \"09692\"\n}",
   "GUID": "bc9af2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Red-Gloved Man",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

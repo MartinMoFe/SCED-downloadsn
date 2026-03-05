@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06174\"\n}",
   "GUID": "e58dc2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Begräbnisstätte",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

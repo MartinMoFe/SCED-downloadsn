@@ -1,0 +1,24 @@
+{
+  "CardID": 35713,
+  "CustomDeck": {
+    "357": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vsORDxB.jpg",
+      "FaceURL": "https://i.imgur.com/iioPWYS.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04127\"\n}",
+  "GUID": "aedb2d",
+  "Name": "Card",
+  "Nickname": "En la comisaría",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

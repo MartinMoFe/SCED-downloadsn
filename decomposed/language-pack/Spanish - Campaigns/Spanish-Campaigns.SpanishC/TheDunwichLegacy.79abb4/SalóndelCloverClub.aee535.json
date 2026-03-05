@@ -1,0 +1,23 @@
+{
+  "CardID": 463813,
+  "CustomDeck": {
+    "4638": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/P548Mxa.jpg",
+      "FaceURL": "https://i.imgur.com/04aM8ON.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02071\"\n}",
+  "GUID": "aee535",
+  "Name": "Card",
+  "Nickname": "Salón del Clover Club",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

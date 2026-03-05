@@ -1,5 +1,5 @@
 {
-  "CardID": 20250500,
+  "CardID": 20250100,
   "CustomDeck": {
     "202501": {
       "BackIsHidden": true,
@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/4OpiateoftheMasses.95ac78/Deck.b68552/PennilessSpent.e00009.gmnotes",
   "GUID": "e00009",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Penniless & Spent",
   "Tags": [

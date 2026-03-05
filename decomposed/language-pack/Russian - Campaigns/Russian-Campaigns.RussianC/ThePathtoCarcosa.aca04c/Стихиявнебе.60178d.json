@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"03279a\"\n}",
   "GUID": "60178d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Стихия в небе",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

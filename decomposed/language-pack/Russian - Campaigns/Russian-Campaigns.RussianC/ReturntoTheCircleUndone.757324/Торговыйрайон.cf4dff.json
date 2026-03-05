@@ -14,11 +14,9 @@
   "Description": "Аркхэм.",
   "GMNotes": "{\n  \"id\": \"54055\"\n}",
   "GUID": "cf4dff",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Торговый район",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Leering Visage",
   "GMNotes": "{\n  \"id\": \"11581\"\n}",
   "GUID": "1a00c3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ancient Relic",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

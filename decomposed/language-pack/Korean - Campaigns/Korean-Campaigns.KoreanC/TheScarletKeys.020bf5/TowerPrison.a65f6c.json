@@ -14,11 +14,9 @@
   "Description": "London.",
   "GMNotes": "{\n  \"id\": \"09517\"\n}",
   "GUID": "a65f6c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tower Prison",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

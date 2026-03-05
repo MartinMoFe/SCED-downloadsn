@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08568\"\n}",
   "GUID": "79accb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Cluttered Dormitory",
   "Transform": {
-    "rotY": 265,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

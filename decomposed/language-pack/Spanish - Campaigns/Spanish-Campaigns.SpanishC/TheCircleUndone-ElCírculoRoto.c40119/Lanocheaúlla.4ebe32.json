@@ -1,0 +1,24 @@
+{
+  "CardID": 603,
+  "CustomDeck": {
+    "6": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fD4hFj7.jpg",
+      "FaceURL": "https://i.imgur.com/PjJX3fL.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05052\"\n}",
+  "GUID": "4ebe32",
+  "Name": "Card",
+  "Nickname": "La noche aúlla",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

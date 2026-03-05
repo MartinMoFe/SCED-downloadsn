@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04129\"\n}",
   "GUID": "60637a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Einflussreiche Freunde",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

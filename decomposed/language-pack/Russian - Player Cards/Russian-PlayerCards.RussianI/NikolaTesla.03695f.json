@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18088277382535216479/AF5822DBA9592CC016098A8336863667457D2692/",
       "NumHeight": 4,
       "NumWidth": 7,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Натуралист. Союзник. Прошлое.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Никола Тесла",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

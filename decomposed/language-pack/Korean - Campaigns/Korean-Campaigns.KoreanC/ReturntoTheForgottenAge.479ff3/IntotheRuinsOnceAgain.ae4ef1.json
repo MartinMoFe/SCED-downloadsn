@@ -14,12 +14,10 @@
   "Description": "Act 1",
   "GMNotes": "{\n  \"id\": \"04345\"\n}",
   "GUID": "ae4ef1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Into the Ruins Once Again",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Париж. Метро.",
   "GMNotes": "{\n  \"id\": \"03214\"\n}",
   "GUID": "1af959",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Вокзал Орсе",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

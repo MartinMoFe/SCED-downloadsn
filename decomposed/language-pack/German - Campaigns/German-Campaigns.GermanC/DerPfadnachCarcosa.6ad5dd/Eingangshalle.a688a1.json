@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03070\"\n}",
   "GUID": "a688a1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Eingangshalle",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

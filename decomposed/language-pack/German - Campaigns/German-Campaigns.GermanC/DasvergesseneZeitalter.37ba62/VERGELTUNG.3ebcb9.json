@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04284\"\n}",
   "GUID": "3ebcb9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "VERGELTUNG",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,12 +14,10 @@
   "Description": "Agenda 1",
   "GMNotes": "{\n  \"id\": \"06120\"\n}",
   "GUID": "cbc59e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Journey Across the Dreamlands",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

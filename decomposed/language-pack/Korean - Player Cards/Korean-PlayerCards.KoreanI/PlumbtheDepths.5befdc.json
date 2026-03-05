@@ -14,11 +14,9 @@
   "Description": "Compulsive Research",
   "GMNotes": "{\n  \"id\": \"11760a\"\n}",
   "GUID": "5befdc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Plumb the Depths",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

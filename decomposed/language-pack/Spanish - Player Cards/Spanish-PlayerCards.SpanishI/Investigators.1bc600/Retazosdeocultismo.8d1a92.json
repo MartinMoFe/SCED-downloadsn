@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/GpSHUxj.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07013\"}",
+  "GMNotes": "{\n  \"id\": \"07013\"\n}",
   "GUID": "8d1a92",
   "Name": "Card",
   "Nickname": "Retazos de ocultismo",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,7 +14,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "202635": {
       "BackIsHidden": true,
@@ -23,7 +23,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "202636": {
       "BackIsHidden": true,
@@ -32,7 +32,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "202637": {
       "BackIsHidden": true,
@@ -41,7 +41,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [
@@ -54,7 +54,7 @@
   "Name": "Deck",
   "Nickname": "Story Assets",
   "Transform": {
-    "rotY": 135,
+    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

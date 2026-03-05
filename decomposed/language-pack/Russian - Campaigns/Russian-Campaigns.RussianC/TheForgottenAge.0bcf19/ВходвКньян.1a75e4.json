@@ -14,11 +14,9 @@
   "Description": "Пещера.",
   "GMNotes": "{\n  \"id\": \"04206\"\n}",
   "GUID": "1a75e4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Вход в К’ньян",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

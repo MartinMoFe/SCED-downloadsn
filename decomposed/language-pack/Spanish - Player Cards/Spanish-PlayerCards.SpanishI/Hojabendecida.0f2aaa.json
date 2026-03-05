@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/GpSHUxj.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07018\"}",
+  "GMNotes": "{\n  \"id\": \"07018\"\n}",
   "GUID": "0f2aaa",
   "Name": "Card",
   "Nickname": "Hoja bendecida",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

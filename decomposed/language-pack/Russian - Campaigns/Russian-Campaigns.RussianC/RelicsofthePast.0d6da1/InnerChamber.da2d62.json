@@ -14,11 +14,9 @@
   "Description": "Забытая. Руины.",
   "GMNotes": "{\n  \"id\": \"90071\"\n}",
   "GUID": "da2d62",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Внутренная зала",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

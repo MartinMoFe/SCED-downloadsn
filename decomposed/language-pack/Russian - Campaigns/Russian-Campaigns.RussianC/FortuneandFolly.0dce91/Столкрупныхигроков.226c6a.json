@@ -14,11 +14,9 @@
   "Description": "Публичная. Казино. Игорная.",
   "GMNotes": "{\n  \"id\": \"88014\"\n}",
   "GUID": "226c6a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Стол крупных игроков",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

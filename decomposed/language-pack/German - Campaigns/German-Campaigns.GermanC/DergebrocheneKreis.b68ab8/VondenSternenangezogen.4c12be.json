@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05146\"\n}",
   "GUID": "4c12be",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Von den Sternen angezogen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

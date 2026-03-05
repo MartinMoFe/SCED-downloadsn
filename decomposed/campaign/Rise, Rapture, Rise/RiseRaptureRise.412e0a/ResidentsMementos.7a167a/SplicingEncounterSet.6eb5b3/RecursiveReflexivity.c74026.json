@@ -8,18 +8,16 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/ResidentsMementos.7a167a/SplicingEncounterSet.6eb5b3/RecursiveReflexivity.c74026.gmnotes",
   "GUID": "c74026",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Recursive Reflexivity",
   "Tags": [
-    "PlayerCard",
-    "ScenarioCard"
+    "PlayerCard"
   ],
   "Transform": {
     "rotY": 270,

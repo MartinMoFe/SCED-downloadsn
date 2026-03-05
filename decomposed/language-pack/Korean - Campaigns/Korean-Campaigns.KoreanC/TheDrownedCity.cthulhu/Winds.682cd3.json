@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11640\"\n}",
   "GUID": "682cd3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Winds",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": 853828,
+  "CardID": 278228,
   "CustomDeck": {
     "2782": {
       "BackIsHidden": true,
@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09610\"\n}",
   "GUID": "12114d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Lost and Forgotten",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

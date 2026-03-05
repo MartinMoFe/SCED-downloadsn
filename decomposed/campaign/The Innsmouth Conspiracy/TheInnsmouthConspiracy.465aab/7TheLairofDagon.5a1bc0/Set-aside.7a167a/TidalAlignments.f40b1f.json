@@ -1,6 +1,6 @@
 {
   "ContainedObjects_order": [
-    "TidalAlignment.804b81",
+    "TidalAlignment.0e6344",
     "TidalAlignment.0e6344"
   ],
   "ContainedObjects_path": "TidalAlignments.f40b1f",
@@ -11,8 +11,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

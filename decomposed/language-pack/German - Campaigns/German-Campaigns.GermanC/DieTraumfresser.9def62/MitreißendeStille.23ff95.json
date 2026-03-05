@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06207\"\n}",
   "GUID": "23ff95",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mitreißende Stille",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

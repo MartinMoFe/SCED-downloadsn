@@ -1,0 +1,24 @@
+{
+  "CardID": 49402,
+  "CustomDeck": {
+    "494": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/U2bLkY3.jpg",
+      "FaceURL": "https://i.imgur.com/CKcYKcI.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06289\"\n}",
+  "GUID": "8041ff",
+  "Name": "Card",
+  "Nickname": "Caos encarnado",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

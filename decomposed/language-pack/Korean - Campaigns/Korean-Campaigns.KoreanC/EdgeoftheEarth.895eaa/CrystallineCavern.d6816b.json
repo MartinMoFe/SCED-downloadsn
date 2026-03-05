@@ -14,12 +14,10 @@
   "Description": "Mountains. Uncharted.",
   "GMNotes": "{\n  \"id\": \"08514\"\n}",
   "GUID": "d6816b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Crystalline Cavern",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

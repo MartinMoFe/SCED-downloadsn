@@ -15,7 +15,6 @@
   "Description": "Преступник.",
   "GMNotes": "{\n  \"id\": \"60301\"\n}",
   "GUID": "cd4028",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Уинифред Хаббамок",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "WinifredHabbamock.5d33bf"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

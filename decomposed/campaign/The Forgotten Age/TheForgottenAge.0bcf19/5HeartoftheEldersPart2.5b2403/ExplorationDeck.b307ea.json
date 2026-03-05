@@ -1,14 +1,14 @@
 {
   "ContainedObjects_order": [
-    "HallofIdolatry.969b52",
     "NoTurningBack.de721e",
     "CrystalPillars.f486ad",
     "PerilousGulch.e0852f",
     "DarkHollow.fbb350",
-    "FinalMistake.49130a",
+    "HallofIdolatry.969b52",
     "VastPassages.b80ef4",
     "Pitfall.4a25f8",
-    "DeepDark.7b221b"
+    "DeepDark.7b221b",
+    "FinalMistake.49130a"
   ],
   "ContainedObjects_path": "ExplorationDeck.b307ea",
   "CustomDeck": {
@@ -18,8 +18,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2359": {
       "BackIsHidden": true,
@@ -27,20 +26,19 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777501236/D145C8B748FB42258EB442B9DF36797851CEECC3/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    235908,
     235913,
     235911,
     235910,
     235909,
-    235730,
+    235908,
     235907,
     235900,
-    235736
+    235736,
+    235730
   ],
   "GUID": "b307ea",
   "Hands": false,

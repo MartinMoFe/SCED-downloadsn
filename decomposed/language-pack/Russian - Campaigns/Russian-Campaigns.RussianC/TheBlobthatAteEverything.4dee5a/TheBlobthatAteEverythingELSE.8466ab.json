@@ -14,11 +14,9 @@
   "GMNotes": "{\n  \"id\": \"CG89\"\n}",
   "GUID": "8466ab",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Custom_PDF",
   "Nickname": "Капля, поглотившая всё ОСТАЛЬНОЕ!",
   "Transform": {
-    "rotY": 270,
     "scaleX": 3,
     "scaleY": 1,
     "scaleZ": 3

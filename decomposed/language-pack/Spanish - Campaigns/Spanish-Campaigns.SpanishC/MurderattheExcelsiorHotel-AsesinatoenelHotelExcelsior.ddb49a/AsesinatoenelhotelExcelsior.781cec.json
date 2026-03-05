@@ -1,0 +1,23 @@
+{
+  "CardID": 46700,
+  "CustomDeck": {
+    "467": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/guBiJqB.jpg",
+      "FaceURL": "https://i.imgur.com/oBrs10Q.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"84001\"\n}",
+  "GUID": "781cec",
+  "Name": "Card",
+  "Nickname": "Asesinato en el hotel Excelsior",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

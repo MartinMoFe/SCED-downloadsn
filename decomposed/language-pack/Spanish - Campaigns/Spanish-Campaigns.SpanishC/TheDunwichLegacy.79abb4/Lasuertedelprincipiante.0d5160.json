@@ -1,0 +1,24 @@
+{
+  "CardID": 463509,
+  "CustomDeck": {
+    "4635": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/EYOkos0.jpg",
+      "FaceURL": "https://i.imgur.com/SfjqkU0.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02066\"\n}",
+  "GUID": "0d5160",
+  "Name": "Card",
+  "Nickname": "La suerte del principiante",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

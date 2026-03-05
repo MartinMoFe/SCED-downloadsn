@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/LUhZf7j.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02116\"}",
+  "GMNotes": "{\n  \"id\": \"02116\"\n}",
   "GUID": "3d0c2f",
   "Name": "Card",
   "Nickname": "Pipa",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

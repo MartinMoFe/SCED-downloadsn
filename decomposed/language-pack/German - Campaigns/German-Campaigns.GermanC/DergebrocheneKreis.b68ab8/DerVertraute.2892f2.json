@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05122\"\n}",
   "GUID": "2892f2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Vertraute",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

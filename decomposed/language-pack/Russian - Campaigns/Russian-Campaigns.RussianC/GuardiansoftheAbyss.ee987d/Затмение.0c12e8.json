@@ -14,11 +14,9 @@
   "Description": "Мощь.",
   "GMNotes": "{\n  \"id\": \"83047\"\n}",
   "GUID": "0c12e8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Затмение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

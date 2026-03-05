@@ -1,0 +1,22 @@
+{
+  "CardID": 458002,
+  "CustomDeck": {
+    "4580": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/aC2xmBg.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08669\"\n}",
+  "GUID": "fcf18f",
+  "Name": "Card",
+  "Nickname": "Masa protoplásmica",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

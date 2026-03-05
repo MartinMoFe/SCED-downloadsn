@@ -1,5 +1,5 @@
 {
-  "CardID": "535015",
+  "CardID": 535015,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Артист.",
   "GMNotes": "{\n  \"id\": \"03006\"\n}",
   "GUID": "786ebd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Лола Хейз",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

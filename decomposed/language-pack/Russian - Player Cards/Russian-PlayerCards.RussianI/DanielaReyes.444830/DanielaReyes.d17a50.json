@@ -1,5 +1,5 @@
 {
-  "CardID": "535037",
+  "CardID": 535037,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Предприниматель.",
   "GMNotes": "{\n  \"id\": \"08001\"\n}",
   "GUID": "d17a50",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Даниэла Рейес",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

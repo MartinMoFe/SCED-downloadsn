@@ -1,5 +1,5 @@
 {
-  "CardID": 8611600,
+  "CardID": 8596100,
   "CustomDeck": {
     "85961": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes": "{\n  \"id\": \"99110\",\n  \"type\": \"Act\",\n  \"cycle\": \"The Ghosts of Onigawa\"\n}",

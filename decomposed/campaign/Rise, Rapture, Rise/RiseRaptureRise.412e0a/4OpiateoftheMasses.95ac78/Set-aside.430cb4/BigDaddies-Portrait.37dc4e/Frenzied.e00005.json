@@ -1,5 +1,5 @@
 {
-  "CardID": 20272000,
+  "CardID": 100300,
   "CustomDeck": {
     "1003": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/4OpiateoftheMasses.95ac78/Set-aside.430cb4/BigDaddies-Portrait.37dc4e/Frenzied.e00005.gmnotes",

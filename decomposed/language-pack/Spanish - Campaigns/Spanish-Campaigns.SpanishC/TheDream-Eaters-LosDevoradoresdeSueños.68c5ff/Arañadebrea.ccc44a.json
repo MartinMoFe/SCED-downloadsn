@@ -1,0 +1,22 @@
+{
+  "CardID": 863107,
+  "CustomDeck": {
+    "8631": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/znVSYmb.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06273\"\n}",
+  "GUID": "ccc44a",
+  "Name": "Card",
+  "Nickname": "Araña de brea",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

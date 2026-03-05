@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09641\"\n}",
   "GUID": "402a0e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Rabbits Who Run (v. III)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

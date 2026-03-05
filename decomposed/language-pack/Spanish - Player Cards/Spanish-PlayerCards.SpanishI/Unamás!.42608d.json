@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/zhTED59.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08112\"}",
+  "GMNotes": "{\n  \"id\": \"08112\"\n}",
   "GUID": "42608d",
   "Name": "Card",
   "Nickname": "\"¡Una más!\"",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

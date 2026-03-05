@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/51336781797356929/BE277A1FBAF55BD01C60980D1B62BB24467865E9/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "The Zealot",
   "GMNotes": "{\n  \"id\": \"01117\"\n}",
   "GUID": "af188b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Lita Chantler",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

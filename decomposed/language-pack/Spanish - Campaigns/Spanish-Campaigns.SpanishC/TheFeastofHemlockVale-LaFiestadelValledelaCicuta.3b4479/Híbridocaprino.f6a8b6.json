@@ -1,0 +1,22 @@
+{
+  "CardID": 875007,
+  "CustomDeck": {
+    "8750": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/NVeJ0Dk.jpg",
+      "FaceURL": "https://i.imgur.com/Q9hjrNv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10646\"\n}",
+  "GUID": "f6a8b6",
+  "Name": "Card",
+  "Nickname": "Híbrido caprino",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

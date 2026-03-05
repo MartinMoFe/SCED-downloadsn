@@ -14,11 +14,9 @@
   "Description": "Arkham.",
   "GMNotes": "{\n  \"id\": \"01127\"\n}",
   "GUID": "076b61",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Southside",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

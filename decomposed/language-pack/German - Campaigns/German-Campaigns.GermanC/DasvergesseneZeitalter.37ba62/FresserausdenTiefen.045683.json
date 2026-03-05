@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04298\"\n}",
   "GUID": "045683",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fresser aus den Tiefen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

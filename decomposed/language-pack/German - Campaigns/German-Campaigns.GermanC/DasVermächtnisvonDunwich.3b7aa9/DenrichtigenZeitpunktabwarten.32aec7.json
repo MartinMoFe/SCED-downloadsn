@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02238\"\n}",
   "GUID": "32aec7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Den richtigen Zeitpunkt abwarten",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

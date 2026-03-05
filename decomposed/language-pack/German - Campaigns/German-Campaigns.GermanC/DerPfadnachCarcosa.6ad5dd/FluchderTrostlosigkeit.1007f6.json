@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03337\"\n}",
   "GUID": "1007f6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fluch der Trostlosigkeit",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04242\"\n}",
   "GUID": "8638c0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Eingeschränkter Zugang",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

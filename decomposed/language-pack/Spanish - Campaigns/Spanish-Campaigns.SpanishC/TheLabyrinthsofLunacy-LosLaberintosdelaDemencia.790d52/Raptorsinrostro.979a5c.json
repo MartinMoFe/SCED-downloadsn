@@ -1,0 +1,22 @@
+{
+  "CardID": 879213,
+  "CustomDeck": {
+    "8792": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/lx9qMSJ.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70052\"\n}",
+  "GUID": "979a5c",
+  "Name": "Card",
+  "Nickname": "Raptor sin rostro",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/AbG8MgC.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06203\"}",
+  "GMNotes": "{\n  \"id\": \"06203\"\n}",
   "GUID": "a64554",
   "Name": "Card",
   "Nickname": "Piedra lunar",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

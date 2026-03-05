@@ -1,0 +1,23 @@
+{
+  "CardID": 863902,
+  "CustomDeck": {
+    "8639": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/Zo51ed4.jpg",
+      "FaceURL": "https://i.imgur.com/DrdvLKJ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06296\"\n}",
+  "GUID": "df5817",
+  "Name": "Card",
+  "Nickname": "Desierto frío",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 3204,
+  "CustomDeck": {
+    "32": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/aT33zsX.jpg",
+      "FaceURL": "https://i.imgur.com/udu7pcs.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03164\"\n}",
+  "GUID": "a16d56",
+  "Name": "Card",
+  "Nickname": "\"Los realmente graves\" (v. I)",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

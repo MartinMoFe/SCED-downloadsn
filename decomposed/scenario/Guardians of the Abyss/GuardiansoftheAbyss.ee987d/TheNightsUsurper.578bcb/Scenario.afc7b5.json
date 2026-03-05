@@ -14,7 +14,6 @@
   "Description": "The Night's Usurper",
   "GMNotes_path": "GuardiansoftheAbyss.ee987d/TheNightsUsurper.578bcb/Scenario.afc7b5.gmnotes",
   "GUID": "afc7b5",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"ClickableScenarioReference\")",
   "LuaScriptState": "0",
   "Name": "Card",

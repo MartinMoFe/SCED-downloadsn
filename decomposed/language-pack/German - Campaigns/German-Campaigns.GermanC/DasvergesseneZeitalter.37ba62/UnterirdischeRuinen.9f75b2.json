@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04066\"\n}",
   "GUID": "9f75b2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unterirdische Ruinen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/r1SGmP8.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"10129\"}",
+  "GMNotes": "{\n  \"id\": \"10129\"\n}",
   "GUID": "2c4e5e",
   "Name": "Card",
   "Nickname": "Aguardar tu momento",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

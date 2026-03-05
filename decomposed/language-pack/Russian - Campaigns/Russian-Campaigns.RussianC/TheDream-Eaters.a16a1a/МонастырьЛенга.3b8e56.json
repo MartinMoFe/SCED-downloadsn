@@ -14,11 +14,9 @@
   "Description": "Ленг.",
   "GMNotes": "{\n  \"id\": \"06297\"\n}",
   "GUID": "3b8e56",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Монастырь Ленга",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

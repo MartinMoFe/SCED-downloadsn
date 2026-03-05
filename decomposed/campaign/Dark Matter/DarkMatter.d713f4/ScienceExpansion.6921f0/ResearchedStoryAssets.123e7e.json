@@ -1,15 +1,15 @@
 {
   "ContainedObjects_order": [
     "Card.e02906",
+    "Card.d89b7b",
+    "Card.c990eb",
     "Card.c32730",
-    "Card.3f199e",
-    "Card.8e59ec",
     "Card.b412e5",
     "Card.a4eac5",
-    "Card.d89b7b",
     "Card.a49330",
-    "Card.c990eb",
-    "Card.712494"
+    "Card.8e59ec",
+    "Card.712494",
+    "Card.3f199e"
   ],
   "ContainedObjects_path": "ResearchedStoryAssets.123e7e",
   "CustomDeck": {
@@ -19,21 +19,20 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021608442565689821/729A76D94C8CABBC428D5D061371BE4C8DF012F9/",
       "NumHeight": 3,
       "NumWidth": 5,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
     103,
+    107,
+    105,
     101,
-    100,
-    109,
     102,
     108,
-    107,
     106,
-    105,
-    104
+    109,
+    104,
+    100
   ],
   "GUID": "123e7e",
   "Hands": false,

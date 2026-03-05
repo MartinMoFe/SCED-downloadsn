@@ -1,5 +1,5 @@
 {
-  "CardID": 565908,
+  "CardID": 561708,
   "CustomDeck": {
     "5617": {
       "BackIsHidden": true,
@@ -12,7 +12,6 @@
     }
   },
   "GUID": "b4b784",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Galena's Mindbreak",
   "Transform": {

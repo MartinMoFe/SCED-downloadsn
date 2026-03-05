@@ -8,18 +8,16 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "The Archeologist",
   "GMNotes": "{\n  \"id\": \"08007-pf\"\n}",
   "GUID": "46b147",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Monterey Jack (Parallel Front)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

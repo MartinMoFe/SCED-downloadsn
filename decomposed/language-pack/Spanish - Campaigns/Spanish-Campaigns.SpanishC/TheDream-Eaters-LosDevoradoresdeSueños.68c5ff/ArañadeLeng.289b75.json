@@ -1,0 +1,22 @@
+{
+  "CardID": 44421,
+  "CustomDeck": {
+    "444": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/enDVUrF.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06101\"\n}",
+  "GUID": "289b75",
+  "Name": "Card",
+  "Nickname": "Araña de Leng",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

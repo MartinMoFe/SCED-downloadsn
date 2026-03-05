@@ -14,11 +14,9 @@
   "Description": "Turm des Lebens und des Todes",
   "GMNotes": "{\n  \"id\": \"06301\"\n}",
   "GUID": "7ad9bb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verlassener Turm",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

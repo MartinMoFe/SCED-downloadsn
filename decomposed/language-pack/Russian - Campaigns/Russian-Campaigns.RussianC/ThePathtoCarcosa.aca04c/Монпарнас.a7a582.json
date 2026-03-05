@@ -14,11 +14,9 @@
   "Description": "Париж. Метро.",
   "GMNotes": "{\n  \"id\": \"03208\"\n}",
   "GUID": "a7a582",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Монпарнас",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

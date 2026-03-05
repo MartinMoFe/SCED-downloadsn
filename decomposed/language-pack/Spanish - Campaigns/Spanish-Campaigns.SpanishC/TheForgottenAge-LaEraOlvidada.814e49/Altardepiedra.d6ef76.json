@@ -1,0 +1,22 @@
+{
+  "CardID": 876303,
+  "CustomDeck": {
+    "8763": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nHlSl0H.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04218\"\n}",
+  "GUID": "d6ef76",
+  "Name": "Card",
+  "Nickname": "Altar de piedra",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

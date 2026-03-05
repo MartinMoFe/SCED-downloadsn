@@ -11,13 +11,11 @@
       "UniqueBack": true
     }
   },
-  "GMNotes": "{\n  \"id\": \"09675\"\n}",
+  "GMNotes": "{\n  \"id\": \"09675a\"\n}",
   "GUID": "865471",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Buried Miner",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

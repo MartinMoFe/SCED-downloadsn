@@ -14,11 +14,9 @@
   "Description": "Поглощённая.",
   "GMNotes": "{\n  \"id\": \"85010\"\n}",
   "GUID": "e9889e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кратер",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

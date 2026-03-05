@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05138\"\n}",
   "GUID": "47d1b6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kerker in Salem, 1692",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": 853831,
+  "CardID": 278231,
   "CustomDeck": {
     "2782": {
       "BackIsHidden": true,
@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09613\"\n}",
   "GUID": "bb5f17",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Quest for the Sable Glass",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

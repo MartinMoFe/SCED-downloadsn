@@ -14,11 +14,9 @@
   "Description": "Wohlhabender Menschenfreund",
   "GMNotes": "{\n  \"id\": \"05048\"\n}",
   "GUID": "d0b89f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Valentino Rivas",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

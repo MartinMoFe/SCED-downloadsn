@@ -14,11 +14,9 @@
   "Description": "Aus der Leere erschienen",
   "GMNotes": "{\n  \"id\": \"02141\"\n}",
   "GUID": "f7eb58",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hetzender Schrecken",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

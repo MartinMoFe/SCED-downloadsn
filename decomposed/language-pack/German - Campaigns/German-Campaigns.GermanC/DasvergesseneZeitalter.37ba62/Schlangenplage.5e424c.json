@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04099\"\n}",
   "GUID": "5e424c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schlangenplage",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

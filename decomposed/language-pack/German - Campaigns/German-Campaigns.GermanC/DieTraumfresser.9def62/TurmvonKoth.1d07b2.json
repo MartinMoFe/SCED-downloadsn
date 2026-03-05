@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06256\"\n}",
   "GUID": "1d07b2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Turm von Koth",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

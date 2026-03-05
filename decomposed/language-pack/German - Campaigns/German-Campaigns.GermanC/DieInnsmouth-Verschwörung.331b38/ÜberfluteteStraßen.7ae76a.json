@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07126\"\n}",
   "GUID": "7ae76a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Überflutete Straßen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

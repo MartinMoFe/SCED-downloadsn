@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/ioGI5zV.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04103\"}",
+  "GMNotes": "{\n  \"id\": \"04103\"\n}",
   "GUID": "036e3e",
   "Name": "Card",
   "Nickname": "Escena del crimen",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

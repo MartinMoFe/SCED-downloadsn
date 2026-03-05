@@ -14,11 +14,9 @@
   "Description": "Leuchtturmwärter",
   "GMNotes": "{\n  \"id\": \"07253\"\n}",
   "GUID": "074bd8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Oceiros Marsh",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Zweifelhafte Wahl",
   "GMNotes": "{\n  \"id\": \"08592\"\n}",
   "GUID": "3754c2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "James „Cookie” Fredericks",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

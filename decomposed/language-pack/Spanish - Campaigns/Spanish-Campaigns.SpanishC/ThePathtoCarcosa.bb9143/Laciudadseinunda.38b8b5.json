@@ -1,0 +1,24 @@
+{
+  "CardID": 2603,
+  "CustomDeck": {
+    "26": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/3huXYD7.jpg",
+      "FaceURL": "https://i.imgur.com/5UjopDT.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03277\"\n}",
+  "GUID": "38b8b5",
+  "Name": "Card",
+  "Nickname": "La ciudad se inunda",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

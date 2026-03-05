@@ -14,12 +14,10 @@
   "Description": "The Professor",
   "GMNotes": "{\n  \"id\": \"60201\"\n}",
   "GUID": "1fa944",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Harvey Walters",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -14,11 +14,9 @@
   "Description": "Dunwich. Sentinel Hill.",
   "GMNotes": "{\n  \"id\": \"02282\"\n}",
   "GUID": "80236e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Base of the Hill",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

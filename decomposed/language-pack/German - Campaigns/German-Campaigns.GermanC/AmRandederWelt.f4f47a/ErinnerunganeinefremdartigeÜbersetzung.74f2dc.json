@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08582\"\n}",
   "GUID": "74f2dc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erinnerung an eine fremdartige Übersetzung",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

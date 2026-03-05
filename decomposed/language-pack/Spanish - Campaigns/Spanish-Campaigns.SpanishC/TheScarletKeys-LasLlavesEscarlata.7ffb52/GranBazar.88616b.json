@@ -1,0 +1,24 @@
+{
+  "CardID": 470823,
+  "CustomDeck": {
+    "4708": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/czq5IoX.jpg",
+      "FaceURL": "https://i.imgur.com/pN9LrCR.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Acceso al tejado",
+  "GMNotes": "{\n  \"id\": \"09582\"\n}",
+  "GUID": "88616b",
+  "Name": "Card",
+  "Nickname": "Gran Bazar",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

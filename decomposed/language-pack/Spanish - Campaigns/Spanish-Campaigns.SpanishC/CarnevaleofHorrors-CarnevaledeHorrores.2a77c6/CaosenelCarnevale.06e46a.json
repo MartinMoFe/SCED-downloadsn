@@ -1,0 +1,24 @@
+{
+  "CardID": 45601,
+  "CustomDeck": {
+    "456": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/3ceYDe6.jpg",
+      "FaceURL": "https://i.imgur.com/qrFCOis.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"82004\"\n}",
+  "GUID": "06e46a",
+  "Name": "Card",
+  "Nickname": "Caos en el Carnevale",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

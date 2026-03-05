@@ -14,12 +14,10 @@
   "Description": "The Bootlegger",
   "GMNotes": "{\n  \"id\": \"04003\"\n}",
   "GUID": "dd40c0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Finn Edwards",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

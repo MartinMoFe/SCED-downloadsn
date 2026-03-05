@@ -1,0 +1,24 @@
+{
+  "CardID": 458901,
+  "CustomDeck": {
+    "4589": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/x79f7Fq.jpg",
+      "FaceURL": "https://i.imgur.com/XW853sB.jpg",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"87003\"\n}",
+  "GUID": "4e6a29",
+  "Name": "Card",
+  "Nickname": "El tiempo avanza",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

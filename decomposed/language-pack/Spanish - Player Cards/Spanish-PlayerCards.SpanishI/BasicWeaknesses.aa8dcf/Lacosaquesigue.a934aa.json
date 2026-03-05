@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/jft6qv0.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03042\"}",
+  "GMNotes": "{\n  \"id\": \"03042\"\n}",
   "GUID": "a934aa",
   "Name": "Card",
   "Nickname": "La cosa que sigue",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

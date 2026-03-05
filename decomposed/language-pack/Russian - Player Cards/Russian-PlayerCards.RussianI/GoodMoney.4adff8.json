@@ -14,11 +14,9 @@
   "Description": "Твоя часть сделки",
   "GMNotes": "{\n  \"id\": \"11756a\"\n}",
   "GUID": "4adff8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Большой куш",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

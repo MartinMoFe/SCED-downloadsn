@@ -1,0 +1,23 @@
+{
+  "CardID": 2836217,
+  "CustomDeck": {
+    "28362": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/12014067478504573897/18BFD9FD8D7A3E0EA72586EBEC81DF8E088F5460/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11465512412274527836/C2BA5D23380713A26A487BFC383C5208EEE4331E/",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"50032a\"\n}",
+  "GUID": "2bdb4a",
+  "Name": "Card",
+  "Nickname": "重返地底噬魔",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

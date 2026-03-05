@@ -1,0 +1,24 @@
+{
+  "CardID": 876201,
+  "CustomDeck": {
+    "8762": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vsORDxB.jpg",
+      "FaceURL": "https://i.imgur.com/iioPWYS.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04115\"\n}",
+  "GUID": "a305ac",
+  "Name": "Card",
+  "Nickname": "Entre bambalinas",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

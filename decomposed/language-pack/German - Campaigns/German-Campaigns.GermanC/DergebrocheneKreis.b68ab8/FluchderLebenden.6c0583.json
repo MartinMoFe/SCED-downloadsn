@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05185\"\n}",
   "GUID": "6c0583",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fluch der Lebenden",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

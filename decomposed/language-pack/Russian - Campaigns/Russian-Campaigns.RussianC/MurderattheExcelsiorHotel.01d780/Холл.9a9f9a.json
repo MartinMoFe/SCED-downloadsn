@@ -14,11 +14,9 @@
   "Description": "Зала.",
   "GMNotes": "{\n  \"id\": \"84013\"\n}",
   "GUID": "9a9f9a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Холл",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

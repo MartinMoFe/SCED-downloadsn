@@ -1,0 +1,1497 @@
+{
+  "metadata": {
+    "last_updated": "2026-03-02 10:37:00",
+    "language": "Spanish",
+    "overall_completion": "88.66 %",
+    "total_found": 4967,
+    "total_required": 5602,
+    "orphan_count": 0,
+    "missing_id_count": 112
+  },
+  "orphans": [],
+  "files_without_id": [
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\GuardiansoftheAbyss-GuardianesdelAbismo.bb0dc3\\83023.519098.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\GuardiansoftheAbyss-GuardianesdelAbismo.bb0dc3\\83024.561575.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\GuardiansoftheAbyss-GuardianesdelAbismo.bb0dc3\\83025.74bf29.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\GuardiansoftheAbyss-GuardianesdelAbismo.bb0dc3\\83026.af5c4b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\GuardiansoftheAbyss-GuardianesdelAbismo.bb0dc3\\83027.13a5e9.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheBlobthatAteEverything-LaMasaqueloDevorabaTodo.efa808\\85039a.be2f26.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheBlobthatAteEverything-LaMasaqueloDevorabaTodo.efa808\\85039b.894499.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheBlobthatAteEverything-LaMasaqueloDevorabaTodo.efa808\\85039c.d76ce8.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheBlobthatAteEverything-LaMasaqueloDevorabaTodo.efa808\\Oozeling.d86351.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheBlobthatAteEverythingELSE!-LaMasaqueDevorabatodoLODEMÁS!.0a0abb\\LaMasaqueDevorabaTodoLODEMÁS!.5cebb4.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheDrownedCity-LaCiudadSumergida.980ff0\\Bag.2de86c\\11584.c3eea3.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheDrownedCity-LaCiudadSumergida.980ff0\\Bag.2de86c\\11585.9c53d8.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheDrownedCity-LaCiudadSumergida.980ff0\\Bag.2de86c\\11586.55175d.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheDrownedCity-LaCiudadSumergida.980ff0\\Bag.2de86c\\11597.735182.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheDrownedCity-LaCiudadSumergida.980ff0\\Bag.2de86c\\11668.eb7c37.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheDrownedCity-LaCiudadSumergida.980ff0\\Bag.2de86c\\11718.cc734e.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheDrownedCity-LaCiudadSumergida.980ff0\\Bag.2de86c\\Note.1b2b39.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80001.98660c.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80002.2dcec2.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80003.d5c07e.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80004.cb6d32.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80005.b3f6b7.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80006.2dfe3d.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80007.616b8b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80008.f42fae.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80009.2d1744.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80010.a600c7.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80011.6c857f.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80012.881e41.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80013.eb0796.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80014.6ae67c.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80015.452c3a.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80016.10223c.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80017.5d832a.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80018.72a5a5.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80019.5519f9.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80020.b74d9e.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80021.db4dd4.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80022.e336cd.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80023.267824.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80024.adeddd.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80025.b8bd19.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80026.a51044.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80027.c9719f.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80028.bf4cff.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80029.3abeb8.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80030.61d1cf.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80031.7d4630.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80032.a057f1.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80033.d3ada8.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80034.24edfe.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80035.f28713.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80036.057eb6.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80037.564e20.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80038.507d8a.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80039.21cf7a.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80040.979378.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80041.630064.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80042.add1d8.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80043.2fb329.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80044.69af32.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80045.6b8b64.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80046.a921e3.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80047.d931d7.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80048.a3a85c.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80049.0b0629.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80050.524998.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80051.dd65b9.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80052.a03eab.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80053.9ccdc4.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80054.a1bae1.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80055.10b529.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80056.66a598.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheMeddlingofMeowlathotep-LaIntromisióndeMiaulathotep.202a36\\80057.7858ae.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\03076.656e9c.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\03241a.c643f8.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Bibliotecaoculta.005b72.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Brochedeónicenegro.8b53d5.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\DanielChesterfield.0b5364.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Ecosdelpasado.dc0906.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\ElMantoAndrajoso.21ef03.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Elfantasmadelaverdad.b39f64.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Elhombredelamáscarapálida.d212bb.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Eljuramentoinconfesable.59ba1e.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Elorganista.fa78f6.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\ElÚltimoRey.901e35.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Emisarioreal.3eb030.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Juramentadoposeido.b9af73.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Lamáscarapálida.66b66f.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\PenumbrosaCarcosa.1d05e1.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\PortedelAvancée.7f21ff.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\REgresoaSurgenestrellasnegras.a4932b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\RegresoaEcosdelpasado.a4932b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\RegresoaElFantasmadelaVerdad.a4932b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\RegresoaEljuramentoinconfesable.a4932b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\RegresoaElÚltimoRey.a4932b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\RegresoaLamáscarapálida.a4932b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\RegresoaPenumbrosaCarcosa.a4932b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\RegresoaSecierraelTelón.a4932b.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Secierraeltelón.dc0906.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\SrPeabody.a3f350.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\ThePathtoCarcosa.bb9143\\Surgenestrellasnegras.1b0dc4.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09747a.1510a9.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09747b.1f51f2.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09747c.2deab1.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09748a.14d244.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09748b.a344d0.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09749a.e9e530.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09749b.d1796f.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09768a.e32341.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09769a.e76b59.json",
+    "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\TheScarletKeys-LasLlavesEscarlata.7ffb52\\09770a.96fd8d.json"
+  ],
+  "content": {
+    "campaign\\Edge of the Earth": {
+      "completion": "92.61 %",
+      "stats": "213 / 230",
+      "missing": [
+        "CB08",
+        "CG08",
+        "CL0801",
+        "CL0802",
+        "SB0801",
+        "SB0801A",
+        "SB0801B",
+        "SB0801C",
+        "SB0802",
+        "SB0802A",
+        "SB0802B",
+        "SB0802C",
+        "SB0803",
+        "SB0804",
+        "SB0805",
+        "SB0805A",
+        "SB0805B"
+      ]
+    },
+    "campaign\\Night of the Zealot": {
+      "completion": "100.00 %",
+      "stats": "7 / 7",
+      "missing": []
+    },
+    "campaign\\Return to Night of the Zealot": {
+      "completion": "92.19 %",
+      "stats": "59 / 64",
+      "missing": [
+        "CB01r",
+        "CG01r",
+        "SB01r01",
+        "SB01r02",
+        "SB01r03"
+      ]
+    },
+    "campaign\\Return to The Circle Undone": {
+      "completion": "85.14 %",
+      "stats": "63 / 74",
+      "missing": [
+        "CB05r",
+        "CG05r",
+        "SB05r01",
+        "SB05r02",
+        "SB05r03",
+        "SB05r04",
+        "SB05r05",
+        "SB05r06",
+        "SB05r07",
+        "SB05r08",
+        "SB05r0P"
+      ]
+    },
+    "campaign\\Return to The Dunwich Legacy": {
+      "completion": "84.85 %",
+      "stats": "56 / 66",
+      "missing": [
+        "CB02r",
+        "CG02r",
+        "SB02r01A",
+        "SB02r01B",
+        "SB02r02",
+        "SB02r03",
+        "SB02r04",
+        "SB02r05",
+        "SB02r06",
+        "SB02r07"
+      ]
+    },
+    "campaign\\Return to The Forgotten Age": {
+      "completion": "81.01 %",
+      "stats": "64 / 79",
+      "missing": [
+        "CB04r",
+        "CG04r",
+        "ES0415",
+        "ES0416",
+        "ES0417",
+        "SB04r01",
+        "SB04r02",
+        "SB04r03",
+        "SB04r04",
+        "SB04r05A",
+        "SB04r05B",
+        "SB04r06",
+        "SB04r07",
+        "SB04r08",
+        "SB04r09"
+      ]
+    },
+    "campaign\\Return to The Path to Carcosa": {
+      "completion": "86.67 %",
+      "stats": "65 / 75",
+      "missing": [
+        "CB03r",
+        "CG03r",
+        "SB03r01",
+        "SB03r02",
+        "SB03r03",
+        "SB03r04",
+        "SB03r05",
+        "SB03r06",
+        "SB03r07",
+        "SB03r08"
+      ]
+    },
+    "campaign\\The Circle Undone": {
+      "completion": "94.14 %",
+      "stats": "209 / 222",
+      "missing": [
+        "CB05",
+        "CG05",
+        "CL0501",
+        "CL0502",
+        "SB0501",
+        "SB0502",
+        "SB0503",
+        "SB0504",
+        "SB0505",
+        "SB0506",
+        "SB0507",
+        "SB0508",
+        "SB050P"
+      ]
+    },
+    "campaign\\The Dream-Eaters": {
+      "completion": "94.96 %",
+      "stats": "245 / 258",
+      "missing": [
+        "CB06",
+        "CG06a",
+        "CG06b",
+        "CL0601",
+        "CL0602",
+        "SB0601A",
+        "SB0601B",
+        "SB0602A",
+        "SB0602B",
+        "SB0603A",
+        "SB0603B",
+        "SB0604A",
+        "SB0604B"
+      ]
+    },
+    "campaign\\The Drowned City": {
+      "completion": "89.57 %",
+      "stats": "249 / 278",
+      "missing": [
+        "11597",
+        "CB11",
+        "CG11",
+        "CL1101",
+        "CL1102",
+        "SB1101",
+        "SB1102",
+        "SB1103",
+        "SB1104",
+        "SB1105",
+        "SB1106",
+        "SB1107",
+        "SB1108",
+        "SB1109",
+        "SB1110",
+        "SN110101",
+        "SN110201",
+        "SN110202",
+        "SN110301",
+        "SN110401",
+        "SN110402",
+        "SN110403",
+        "SN110501",
+        "SN110601",
+        "SN110801",
+        "SN110802",
+        "SN110803",
+        "SN110901",
+        "SN111001"
+      ]
+    },
+    "campaign\\The Dunwich Legacy": {
+      "completion": "92.11 %",
+      "stats": "175 / 190",
+      "missing": [
+        "02243",
+        "02290",
+        "02298",
+        "CB02",
+        "CG02",
+        "CL0201",
+        "CL0202",
+        "SB0201A",
+        "SB0201B",
+        "SB0202",
+        "SB0203",
+        "SB0204",
+        "SB0205",
+        "SB0206",
+        "SB0207"
+      ]
+    },
+    "campaign\\The Feast of Hemlock Vale": {
+      "completion": "92.08 %",
+      "stats": "244 / 265",
+      "missing": [
+        "10515b",
+        "10515c",
+        "10596",
+        "CB10",
+        "CG10",
+        "CL1001",
+        "CL1002",
+        "SB1001",
+        "SB1002",
+        "SB1003",
+        "SB1004",
+        "SB1005",
+        "SB1006",
+        "SB1007",
+        "SB1008",
+        "SB10P1",
+        "SB10P2",
+        "SB10P3",
+        "SB10P4",
+        "SB10P5",
+        "SB10P6"
+      ]
+    },
+    "campaign\\The Forgotten Age": {
+      "completion": "87.22 %",
+      "stats": "198 / 227",
+      "missing": [
+        "CB04",
+        "CG04",
+        "CL0401",
+        "CL0402",
+        "CT0401",
+        "ES0401",
+        "ES0402",
+        "ES0403",
+        "ES0404",
+        "ES0405",
+        "ES0406",
+        "ES0407",
+        "ES0408",
+        "ES0409",
+        "ES0410",
+        "ES0411",
+        "ES0412",
+        "ES0413",
+        "ES0414",
+        "SB0401",
+        "SB0402",
+        "SB0403",
+        "SB0404",
+        "SB0405a",
+        "SB0405b",
+        "SB0406",
+        "SB0407",
+        "SB0408",
+        "SB0409"
+      ]
+    },
+    "campaign\\The Innsmouth Conspiracy": {
+      "completion": "94.17 %",
+      "stats": "210 / 223",
+      "missing": [
+        "CB07",
+        "CG07",
+        "CG07i",
+        "CL0701",
+        "CL0702",
+        "SB0701",
+        "SB0702",
+        "SB0703",
+        "SB0704",
+        "SB0705",
+        "SB0706",
+        "SB0707",
+        "SB0708"
+      ]
+    },
+    "campaign\\The Path to Carcosa": {
+      "completion": "87.45 %",
+      "stats": "202 / 231",
+      "missing": [
+        "03043",
+        "03060",
+        "03061",
+        "03076a",
+        "03120",
+        "03139",
+        "03140",
+        "03141",
+        "03159",
+        "03182b",
+        "03200",
+        "03221b",
+        "03240",
+        "03241",
+        "03274",
+        "03283",
+        "03316",
+        "CB03",
+        "CG03",
+        "CL0301",
+        "CL0302",
+        "SB0301",
+        "SB0302",
+        "SB0303",
+        "SB0304",
+        "SB0305",
+        "SB0306",
+        "SB0307",
+        "SB0308"
+      ]
+    },
+    "campaign\\The Scarlet Keys": {
+      "completion": "82.41 %",
+      "stats": "267 / 324",
+      "missing": [
+        "09557a",
+        "09625b",
+        "09654b",
+        "09747a",
+        "09747b",
+        "09747c",
+        "09748a",
+        "09748b",
+        "09749a",
+        "09749b",
+        "09750b",
+        "09768",
+        "09769",
+        "09770",
+        "CB09",
+        "CG09",
+        "CL0901",
+        "CL0902",
+        "HC0901",
+        "HC0902",
+        "HC0903",
+        "HC0904",
+        "HC0905",
+        "HC0906",
+        "HC0907",
+        "HC0908",
+        "HC0909",
+        "HC0910",
+        "HC0911",
+        "HC0912",
+        "HC0913",
+        "HC0914",
+        "HC0915",
+        "HC0916",
+        "HC0917",
+        "HC0918",
+        "HC0919",
+        "HC0920",
+        "HC0921",
+        "HC0922",
+        "HC0923",
+        "HC0924",
+        "HC0925",
+        "HC0926",
+        "HC0927",
+        "HC0928",
+        "SB0905",
+        "SB0911",
+        "SB0916",
+        "SB0921",
+        "SB0928",
+        "SB0933",
+        "SB0938",
+        "SB0946",
+        "SB0956",
+        "SB0959",
+        "WM09"
+      ]
+    },
+    "playercards\\A Light in the Fog": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\A Phantom of Truth": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\A Thousand Shapes of Horror": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\All or Nothing": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90008"
+      ]
+    },
+    "playercards\\Aura of Faith": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90081"
+      ]
+    },
+    "playercards\\Bad Blood": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90017"
+      ]
+    },
+    "playercards\\Before the Black Throne": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Black Stars Rise": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\Blood of Baalshandor": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98016"
+      ]
+    },
+    "playercards\\Blood on the Altar": {
+      "completion": "92.86 %",
+      "stats": "13 / 14",
+      "missing": [
+        "02194"
+      ]
+    },
+    "playercards\\By the Book": {
+      "completion": "25.00 %",
+      "stats": "2 / 8",
+      "missing": [
+        "90024",
+        "90026",
+        "90027",
+        "90028",
+        "90029",
+        "90031"
+      ]
+    },
+    "playercards\\Carnevale of Horrors": {
+      "completion": "100.00 %",
+      "stats": "5 / 5",
+      "missing": []
+    },
+    "playercards\\Core Set": {
+      "completion": "99.05 %",
+      "stats": "104 / 105",
+      "missing": [
+        "01000"
+      ]
+    },
+    "playercards\\Curse of the Rougarou": {
+      "completion": "100.00 %",
+      "stats": "3 / 3",
+      "missing": []
+    },
+    "playercards\\Dark Revelations": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98019"
+      ]
+    },
+    "playercards\\Dark Side of the Moon": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Devil Reef": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\Dim Carcosa": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Echoes of the Past": {
+      "completion": "87.50 %",
+      "stats": "14 / 16",
+      "missing": [
+        "03142",
+        "03143"
+      ]
+    },
+    "playercards\\Edge of the Earth Campaign Expansion": {
+      "completion": "100.00 %",
+      "stats": "25 / 25",
+      "missing": []
+    },
+    "playercards\\Edge of the Earth Investigator Expansion": {
+      "completion": "99.25 %",
+      "stats": "132 / 133",
+      "missing": [
+        "08007"
+      ]
+    },
+    "playercards\\Enthralling Encore": {
+      "completion": "0.00 %",
+      "stats": "0 / 7",
+      "missing": [
+        "90087",
+        "90088",
+        "90089",
+        "90090",
+        "90091",
+        "90092",
+        "90093"
+      ]
+    },
+    "playercards\\Film Fatale": {
+      "completion": "100.00 %",
+      "stats": "1 / 1",
+      "missing": []
+    },
+    "playercards\\For the Greater Good": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Fortune and Folly": {
+      "completion": "100.00 %",
+      "stats": "2 / 2",
+      "missing": []
+    },
+    "playercards\\Guardians of the Abyss": {
+      "completion": "100.00 %",
+      "stats": "4 / 4",
+      "missing": []
+    },
+    "playercards\\Harvey Walters": {
+      "completion": "84.85 %",
+      "stats": "28 / 33",
+      "missing": [
+        "60212",
+        "60218",
+        "60219",
+        "60227",
+        "60230"
+      ]
+    },
+    "playercards\\Heart of the Elders": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\Horror in High Gear": {
+      "completion": "100.00 %",
+      "stats": "9 / 9",
+      "missing": []
+    },
+    "playercards\\Hour of the Huntress": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98001"
+      ]
+    },
+    "playercards\\Hunting for Answers": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90078"
+      ]
+    },
+    "playercards\\In Too Deep": {
+      "completion": "93.75 %",
+      "stats": "15 / 16",
+      "missing": [
+        "07114"
+      ]
+    },
+    "playercards\\In the Clutches of Chaos": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\Into the Maelstrom": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Ire of the Void": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98007"
+      ]
+    },
+    "playercards\\Jacqueline Fine": {
+      "completion": "84.38 %",
+      "stats": "27 / 32",
+      "missing": [
+        "60405",
+        "60413",
+        "60414",
+        "60417",
+        "60418"
+      ]
+    },
+    "playercards\\Laid to Rest": {
+      "completion": "80.00 %",
+      "stats": "4 / 5",
+      "missing": [
+        "90049"
+      ]
+    },
+    "playercards\\Lost in Time and Space": {
+      "completion": "91.67 %",
+      "stats": "11 / 12",
+      "missing": [
+        "02308"
+      ]
+    },
+    "playercards\\Machinations Through Time": {
+      "completion": "100.00 %",
+      "stats": "3 / 3",
+      "missing": []
+    },
+    "playercards\\Murder at the Excelsior Hotel": {
+      "completion": "100.00 %",
+      "stats": "3 / 3",
+      "missing": []
+    },
+    "playercards\\Nathaniel Cho": {
+      "completion": "90.62 %",
+      "stats": "29 / 32",
+      "missing": [
+        "60108",
+        "60113",
+        "60119"
+      ]
+    },
+    "playercards\\On the Road Again": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90046"
+      ]
+    },
+    "playercards\\Path of the Righteous": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90059"
+      ]
+    },
+    "playercards\\Pistols and Pearls": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90084"
+      ]
+    },
+    "playercards\\Point of No Return": {
+      "completion": "92.86 %",
+      "stats": "13 / 14",
+      "missing": [
+        "06240"
+      ]
+    },
+    "playercards\\Promo": {
+      "completion": "0.00 %",
+      "stats": "0 / 3",
+      "missing": [
+        "99001",
+        "99002",
+        "99003"
+      ]
+    },
+    "playercards\\Read or Die": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90001"
+      ]
+    },
+    "playercards\\Red Tide Rising": {
+      "completion": "75.00 %",
+      "stats": "3 / 4",
+      "missing": [
+        "90037"
+      ]
+    },
+    "playercards\\Relics of the Past": {
+      "completion": "100.00 %",
+      "stats": "3 / 3",
+      "missing": []
+    },
+    "playercards\\Return to the Circle Undone": {
+      "completion": "100.00 %",
+      "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\Return to the Dunwich Legacy": {
+      "completion": "91.67 %",
+      "stats": "11 / 12",
+      "missing": [
+        "51007"
+      ]
+    },
+    "playercards\\Return to the Forgotten Age": {
+      "completion": "93.75 %",
+      "stats": "15 / 16",
+      "missing": [
+        "53010"
+      ]
+    },
+    "playercards\\Return to the Night of the Zealot": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Return to the Path to Carcosa": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\Revised Core Set": {
+      "completion": "9.48 %",
+      "stats": "11 / 116",
+      "missing": [
+        "01501",
+        "01502",
+        "01503",
+        "01504",
+        "01505",
+        "01506",
+        "01507",
+        "01508",
+        "01509",
+        "01510",
+        "01511",
+        "01512",
+        "01513",
+        "01514",
+        "01515",
+        "01516",
+        "01517",
+        "01518",
+        "01519",
+        "01520",
+        "01521",
+        "01522",
+        "01523",
+        "01524",
+        "01525",
+        "01526",
+        "01527",
+        "01528",
+        "01529",
+        "01530",
+        "01531",
+        "01532",
+        "01533",
+        "01534",
+        "01535",
+        "01536",
+        "01537",
+        "01538",
+        "01539",
+        "01540",
+        "01541",
+        "01542",
+        "01543",
+        "01544",
+        "01545",
+        "01546",
+        "01547",
+        "01548",
+        "01549",
+        "01550",
+        "01551",
+        "01552",
+        "01553",
+        "01554",
+        "01555",
+        "01556",
+        "01557",
+        "01558",
+        "01559",
+        "01560",
+        "01561",
+        "01562",
+        "01563",
+        "01564",
+        "01565",
+        "01566",
+        "01567",
+        "01568",
+        "01569",
+        "01570",
+        "01571",
+        "01572",
+        "01573",
+        "01574",
+        "01575",
+        "01576",
+        "01577",
+        "01578",
+        "01579",
+        "01580",
+        "01581",
+        "01582",
+        "01583",
+        "01584",
+        "01585",
+        "01586",
+        "01587",
+        "01588",
+        "01589",
+        "01590",
+        "01591",
+        "01592",
+        "01593",
+        "01594",
+        "01595",
+        "01596",
+        "01597",
+        "01598",
+        "01599",
+        "01600",
+        "01601",
+        "01602",
+        "01603",
+        "01684",
+        "01692"
+      ]
+    },
+    "playercards\\Shattered Aeons": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\Stella Clark": {
+      "completion": "80.65 %",
+      "stats": "25 / 31",
+      "missing": [
+        "60510",
+        "60514",
+        "60516",
+        "60517",
+        "60518",
+        "60519"
+      ]
+    },
+    "playercards\\The Blob That Ate Everything": {
+      "completion": "100.00 %",
+      "stats": "4 / 4",
+      "missing": []
+    },
+    "playercards\\The Blob That Ate Everything ELSE!": {
+      "completion": "100.00 %",
+      "stats": "8 / 8",
+      "missing": []
+    },
+    "playercards\\The Boundary Beyond": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\The Circle Undone": {
+      "completion": "100.00 %",
+      "stats": "42 / 42",
+      "missing": []
+    },
+    "playercards\\The City of Archives": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\The Deep Gate": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98013"
+      ]
+    },
+    "playercards\\The Depths of Yoth": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\The Dirge of Reason": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98004"
+      ]
+    },
+    "playercards\\The Dream-Eaters": {
+      "completion": "97.56 %",
+      "stats": "40 / 41",
+      "missing": [
+        "06015b"
+      ]
+    },
+    "playercards\\The Drowned City Campaign Expansion": {
+      "completion": "61.90 %",
+      "stats": "13 / 21",
+      "missing": [
+        "11753b",
+        "11754b",
+        "11755b",
+        "11756b",
+        "11757b",
+        "11758b",
+        "11759b",
+        "11760b"
+      ]
+    },
+    "playercards\\The Drowned City Investigator Expansion": {
+      "completion": "98.46 %",
+      "stats": "128 / 130",
+      "missing": [
+        "11068a",
+        "11068b"
+      ]
+    },
+    "playercards\\The Dunwich Legacy": {
+      "completion": "100.00 %",
+      "stats": "42 / 42",
+      "missing": []
+    },
+    "playercards\\The Essex County Express": {
+      "completion": "84.62 %",
+      "stats": "11 / 13",
+      "missing": [
+        "02157",
+        "02158"
+      ]
+    },
+    "playercards\\The Feast of Hemlock Vale Campaign Expansion": {
+      "completion": "100.00 %",
+      "stats": "9 / 9",
+      "missing": []
+    },
+    "playercards\\The Feast of Hemlock Vale Investigator Expansion": {
+      "completion": "97.14 %",
+      "stats": "136 / 140",
+      "missing": [
+        "10005b",
+        "10016a",
+        "10016b",
+        "10063"
+      ]
+    },
+    "playercards\\The Forgotten Age": {
+      "completion": "100.00 %",
+      "stats": "45 / 45",
+      "missing": []
+    },
+    "playercards\\The Innsmouth Conspiracy": {
+      "completion": "97.67 %",
+      "stats": "42 / 43",
+      "missing": [
+        "07062"
+      ]
+    },
+    "playercards\\The Labyrinths of Lunacy": {
+      "completion": "100.00 %",
+      "stats": "1 / 1",
+      "missing": []
+    },
+    "playercards\\The Lair of Dagon": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\The Midwinter Gala": {
+      "completion": "100.00 %",
+      "stats": "15 / 15",
+      "missing": []
+    },
+    "playercards\\The Miskatonic Museum": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\The Pallid Mask": {
+      "completion": "75.00 %",
+      "stats": "9 / 12",
+      "missing": [
+        "03230",
+        "03234",
+        "03236"
+      ]
+    },
+    "playercards\\The Path to Carcosa": {
+      "completion": "95.35 %",
+      "stats": "41 / 43",
+      "missing": [
+        "03031",
+        "03059"
+      ]
+    },
+    "playercards\\The Scarlet Keys Campaign Expansion": {
+      "completion": "100.00 %",
+      "stats": "6 / 6",
+      "missing": []
+    },
+    "playercards\\The Scarlet Keys Investigator Expansion": {
+      "completion": "100.00 %",
+      "stats": "128 / 128",
+      "missing": []
+    },
+    "playercards\\The Search for Kadath": {
+      "completion": "100.00 %",
+      "stats": "9 / 9",
+      "missing": []
+    },
+    "playercards\\The Secret Name": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\The Unspeakable Oath": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\The Wages of Sin": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Threads of Fate": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\To Fight the Black Wind": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98010"
+      ]
+    },
+    "playercards\\Undimensioned and Unseen": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\Union and Disillusion": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\War of the Outer Gods": {
+      "completion": "100.00 %",
+      "stats": "5 / 5",
+      "missing": []
+    },
+    "playercards\\Weaver of the Cosmos": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Where Doom Awaits": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\Where the Gods Dwell": {
+      "completion": "90.00 %",
+      "stats": "9 / 10",
+      "missing": [
+        "06279"
+      ]
+    },
+    "playercards\\Winifred Habbamock": {
+      "completion": "81.25 %",
+      "stats": "26 / 32",
+      "missing": [
+        "60307",
+        "60308",
+        "60312",
+        "60313",
+        "60314",
+        "60319"
+      ]
+    },
+    "scenario\\Barkham Horror - The Meddling of Meowlathotep": {
+      "completion": "0.00 %",
+      "stats": "0 / 59",
+      "missing": [
+        "80001",
+        "80002",
+        "80003",
+        "80004",
+        "80005",
+        "80006",
+        "80007",
+        "80008",
+        "80009",
+        "80010",
+        "80011",
+        "80012",
+        "80013",
+        "80014",
+        "80015",
+        "80016",
+        "80017",
+        "80018",
+        "80019",
+        "80020",
+        "80021",
+        "80022",
+        "80023",
+        "80024",
+        "80025",
+        "80026",
+        "80027",
+        "80028",
+        "80029",
+        "80030",
+        "80031",
+        "80032",
+        "80033",
+        "80034",
+        "80035",
+        "80036",
+        "80037",
+        "80038",
+        "80039",
+        "80040",
+        "80041",
+        "80042",
+        "80043",
+        "80044",
+        "80045",
+        "80046",
+        "80047",
+        "80048",
+        "80049",
+        "80050",
+        "80051",
+        "80052",
+        "80053",
+        "80054",
+        "80055",
+        "80056",
+        "80057",
+        "CB80",
+        "CG80"
+      ]
+    },
+    "scenario\\Carnevale of Horrors": {
+      "completion": "94.12 %",
+      "stats": "32 / 34",
+      "missing": [
+        "CB82",
+        "CG82"
+      ]
+    },
+    "scenario\\Challenge Scenario - All or Nothing": {
+      "completion": "71.43 %",
+      "stats": "20 / 28",
+      "missing": [
+        "90011",
+        "90012",
+        "90013",
+        "90014",
+        "90015",
+        "90016",
+        "CB902",
+        "CG902"
+      ]
+    },
+    "scenario\\Challenge Scenario - Bad Blood": {
+      "completion": "70.00 %",
+      "stats": "14 / 20",
+      "missing": [
+        "90020",
+        "90021",
+        "90022",
+        "90023",
+        "CB903",
+        "CG903"
+      ]
+    },
+    "scenario\\Challenge Scenario - By the Book": {
+      "completion": "75.86 %",
+      "stats": "22 / 29",
+      "missing": [
+        "90032",
+        "90033a",
+        "90034",
+        "90035",
+        "90036",
+        "CB904",
+        "CG904"
+      ]
+    },
+    "scenario\\Challenge Scenario - Enthralling Encore": {
+      "completion": "87.10 %",
+      "stats": "27 / 31",
+      "missing": [
+        "90094",
+        "90095",
+        "90096",
+        "90097"
+      ]
+    },
+    "scenario\\Challenge Scenario - Laid to Rest": {
+      "completion": "83.72 %",
+      "stats": "36 / 43",
+      "missing": [
+        "90054",
+        "90055",
+        "90056",
+        "90057",
+        "90058",
+        "CB907",
+        "CG907"
+      ]
+    },
+    "scenario\\Challenge Scenario - Read or Die": {
+      "completion": "75.00 %",
+      "stats": "21 / 28",
+      "missing": [
+        "01178",
+        "90004",
+        "90005",
+        "90006",
+        "90007",
+        "CB901",
+        "CG901"
+      ]
+    },
+    "scenario\\Challenge Scenario - Red Tide Rising": {
+      "completion": "80.56 %",
+      "stats": "29 / 36",
+      "missing": [
+        "90041",
+        "90042",
+        "90043",
+        "90044",
+        "90045a",
+        "CB905",
+        "CG905"
+      ]
+    },
+    "scenario\\Challenge Scenario - Relics of the Past": {
+      "completion": "61.54 %",
+      "stats": "24 / 39",
+      "missing": [
+        "90065",
+        "90066a",
+        "90067",
+        "90068",
+        "90069",
+        "90070",
+        "90071",
+        "90072",
+        "90073",
+        "90074",
+        "90075",
+        "90076",
+        "90077",
+        "CB909",
+        "CG909"
+      ]
+    },
+    "scenario\\Curse of the Rougarou": {
+      "completion": "94.29 %",
+      "stats": "33 / 35",
+      "missing": [
+        "CB81",
+        "CG81"
+      ]
+    },
+    "scenario\\Film Fatale": {
+      "completion": "96.67 %",
+      "stats": "58 / 60",
+      "missing": [
+        "CB72",
+        "CG72"
+      ]
+    },
+    "scenario\\Fortune and Folly": {
+      "completion": "93.83 %",
+      "stats": "76 / 81",
+      "missing": [
+        "88023b",
+        "CB88",
+        "CB88a",
+        "CB88b",
+        "CG88"
+      ]
+    },
+    "scenario\\Guardians of the Abyss": {
+      "completion": "84.48 %",
+      "stats": "49 / 58",
+      "missing": [
+        "83023b",
+        "83024b",
+        "83025b",
+        "83026b",
+        "83027a",
+        "CB83",
+        "CB83a",
+        "CB83b",
+        "CG83"
+      ]
+    },
+    "scenario\\Machinations Through Time": {
+      "completion": "96.43 %",
+      "stats": "54 / 56",
+      "missing": [
+        "CB87",
+        "CG87"
+      ]
+    },
+    "scenario\\Murder at the Excelsior Hotel": {
+      "completion": "98.04 %",
+      "stats": "50 / 51",
+      "missing": [
+        "CB84"
+      ]
+    },
+    "scenario\\The Blob that Ate Everything": {
+      "completion": "95.89 %",
+      "stats": "70 / 73",
+      "missing": [
+        "CB85",
+        "CG85",
+        "CG89"
+      ]
+    },
+    "scenario\\The Labyrinths of Lunacy": {
+      "completion": "98.39 %",
+      "stats": "61 / 62",
+      "missing": [
+        "CB70"
+      ]
+    },
+    "scenario\\The Midwinter Gala": {
+      "completion": "95.92 %",
+      "stats": "47 / 49",
+      "missing": [
+        "CB71",
+        "CG71"
+      ]
+    },
+    "scenario\\War of the Outer Gods": {
+      "completion": "96.36 %",
+      "stats": "53 / 55",
+      "missing": [
+        "CB86",
+        "CG86"
+      ]
+    }
+  }
+}

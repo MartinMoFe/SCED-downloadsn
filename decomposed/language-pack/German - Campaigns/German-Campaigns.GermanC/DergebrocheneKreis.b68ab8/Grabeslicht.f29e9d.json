@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05184\"\n}",
   "GUID": "f29e9d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grabeslicht",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

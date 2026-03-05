@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04098\"\n}",
   "GUID": "47fc7c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Giftzahn von Yig",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

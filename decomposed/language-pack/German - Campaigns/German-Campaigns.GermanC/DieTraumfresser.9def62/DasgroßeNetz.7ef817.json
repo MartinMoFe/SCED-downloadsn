@@ -14,11 +14,9 @@
   "Description": "Kosmisches Netz",
   "GMNotes": "{\n  \"id\": \"06341\"\n}",
   "GUID": "7ef817",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das große Netz",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

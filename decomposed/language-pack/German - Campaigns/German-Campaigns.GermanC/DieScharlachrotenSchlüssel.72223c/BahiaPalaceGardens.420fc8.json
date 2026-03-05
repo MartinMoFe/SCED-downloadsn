@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09535\"\n}",
   "GUID": "420fc8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Bahia Palace Gardens",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

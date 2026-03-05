@@ -177,14 +177,14 @@
       "description": "While investigating the disappearances of four people from an estate in French Hill, you uncover a grim fate that is meant for the entirety of Arkham..."
     },
     {
-      "name": "Core 2026 - Preview Cards",
+      "name": "Starter Decks 2026 - Preview Cards",
       "type": "campaign",
       "author": "Fantasy Flight Games",
       "decomposed": true,
-      "filename": "core_2026_preview_cards",
+      "filename": "starters_2026_preview_cards",
       "boxsize": "big",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/9293702104512179669/9CA780D298B4E2083C0BE69377E8C30320E5D261/",
-      "description": "This box contains the previewed cards for the new Core Set [Chaper Two] - to be physically released in 2026."
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/11924393640191620221/C998DB293F0FE06A11CF008424E5AA6DF1236D61/",
+      "description": "This box contains the previewed cards for the new Starter Decks [Chapter Two] - to be physically released on April 17."
     },
     {
       "name": "The Blob that Ate Everything",
@@ -394,7 +394,7 @@
       "filename": "german_campaigns",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/10752289358311519689/564CBBDA58FF3AB10C4D5707217BF9CA0B916956/",
-      "description": "Instructions: Put this box into the 'Encounter Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
     },
     {
       "name": "German - Player Cards",
@@ -404,7 +404,7 @@
       "filename": "german_playercards",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/16181244649957485772/3403CBC0811962B37EDB60944E59137A4F64617F/",
-      "description": "Instructions: Put this box into the 'Additional Player Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
     },
     {
       "name": "Korean - Campaigns",
@@ -414,7 +414,17 @@
       "filename": "korean_campaigns",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/16934989354534523224/1F604B8F8725E32DEA04B35261A00B5B38E5D911/",
-      "description": "Instructions: Put this box into the 'Encounter Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
+    },
+    {
+      "name": "Korean - Fan Campaigns",
+      "type": "language-pack",
+      "author": "Fantasy Flight Games",
+      "decomposed": true,
+      "filename": "korean_fan_campaigns",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/16934989354534523224/1F604B8F8725E32DEA04B35261A00B5B38E5D911/",
+      "description": "Currently translated:\n - Alice in Wonderland\n - Cyclopean Foundations"
     },
     {
       "name": "Korean - Player Cards",
@@ -424,7 +434,27 @@
       "filename": "korean_playercards",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/17182361648823472263/3F577CCE5EC53668FCA50F05228E8ECE5DC83A66/",
-      "description": "Instructions: Put this box into the 'Additional Player Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
+    },
+    {
+      "name": "Polish - Campaigns",
+      "type": "language-pack",
+      "author": "Fantasy Flight Games",
+      "decomposed": true,
+      "filename": "polish_campaigns",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/18309815560865207647/10785BE6412681B5E43F034A2211908F813F2AA4/",
+      "description": "This will replace the corresponding cards for all purposes!"
+    },
+    {
+      "name": "Polish - Player Cards",
+      "type": "language-pack",
+      "author": "Fantasy Flight Games",
+      "decomposed": true,
+      "filename": "polish_playercards",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/15949268367811686496/5823AC3FDAEE65FFD9692C08B1261EE6CCA0EC3E/",
+      "description": "This will replace the corresponding cards for all purposes!"
     },
     {
       "name": "Russian - Campaigns",
@@ -434,7 +464,17 @@
       "filename": "russian_campaigns",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/17401849932720213059/EECB4CD13D17F506DC592A617C5307120D8F73E0/",
-      "description": "Instructions: Put this box into the 'Encounter Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
+    },
+    {
+      "name": "Russian - Fan Campaigns",
+      "type": "language-pack",
+      "author": "Fantasy Flight Games",
+      "decomposed": true,
+      "filename": "russian_fan_campaigns",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/17401849932720213059/EECB4CD13D17F506DC592A617C5307120D8F73E0/",
+      "description": "Currently translated:\n - Dark Matter\n - Call of the Plaguebearer\n - When the World Screamed"
     },
     {
       "name": "Russian - Player Cards",
@@ -444,7 +484,7 @@
       "filename": "russian_playercards",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/15284769492476076967/9779904DB104B46F16B2D3EBFECD321BA36A7F6C/",
-      "description": "Instructions: Put this box into the 'Additional Player Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
     },
     {
       "name": "Simplified Chinese - Campaigns",
@@ -454,7 +494,7 @@
       "filename": "simplified_chinese_campaigns",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/14256933078248844627/A2552CB315C8FEEC5566FFC3D36CF607E956A110/",
-      "description": "Instructions: Put this box into the 'Encounter Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
     },
     {
       "name": "Simplified Chinese - Player Cards",
@@ -464,7 +504,17 @@
       "filename": "simplified_chinese_playercards",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/11507592873134854505/5B8B69E3DF200D2D464B494CEAD0A2C8E4074CBC/",
-      "description": "Instructions: Put this box into the 'Additional Player Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
+    },
+    {
+      "name": "Traditional Chinese - Fan Campaigns",
+      "type": "language-pack",
+      "author": "Fantasy Flight Games",
+      "decomposed": true,
+      "filename": "traditional_chinese_fan_campaigns",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/10181829836538508989/015A6B681458FA2E87A7650179D4D59BF682118E/",
+      "description": "Currently translated:\n - Darkham Horror (Player Cards)"
     },
     {
       "name": "Spanish - Campaigns",
@@ -474,7 +524,7 @@
       "filename": "spanish_campaigns",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/16803965799660156706/6D8B87E3121BB9B8020DE3415B07906B454ABD76/",
-      "description": "Instructions: Put this box into the 'Encounter Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
     },
     {
       "name": "Spanish - Player Cards",
@@ -484,7 +534,7 @@
       "filename": "spanish_playercards",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/16854674584305042102/E6970DA13D06E06880AF4CF6206DBD9E8995F6E9/",
-      "description": "Instructions: Put this box into the 'Additional Player Cards Box' in the upper left corner. This will replace the corresponding cards for all purposes!"
+      "description": "This will replace the corresponding cards for all purposes!"
     },
     {
       "name": "Across the Obelisk",
@@ -632,6 +682,17 @@
       "description": ""
     },
     {
+      "name": "Duality of Man",
+      "type": "playercards",
+      "author": "TomásAmi",
+      "decomposed": false,
+      "cycle_code": "34b4aa11-db69-46e4-83fe-3c5adfcd8bca",
+      "filename": "duality_of_man",
+      "boxsize": "small",
+      "boxart": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1770426875/Duality_of_Man_Cover_ysl1m6.png",
+      "description": "Investigators in this pack all contain the same deckbuilding: 0-3 on both of their classes, and up to 3 level 4-5 from either of those classes along with the usual neutral. Not only that, but they are rocking some new custom frames that show both of their classes."
+    },
+    {
       "name": "Elspeth Baudin (As Seen in Bad Blood!)",
       "type": "playercards",
       "author": "Donelloth",
@@ -697,6 +758,7 @@
       "type": "playercards",
       "author": "Myriad",
       "decomposed": true,
+      "cycle_code": "72e5eaa7-dd4d-47eb-9ebc-88b57c31e304",
       "filename": "ghosts_of_onigawa_investigator_expansion",
       "boxsize": "big",
       "boxart": "https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/product/onigawa-boxart-investigator-defuse.png?raw=true",
@@ -737,6 +799,7 @@
       "type": "playercards",
       "author": "TheBeard",
       "decomposed": false,
+      "cycle_code": "462ee889-7bbe-4561-98c1-462249130511",
       "filename": "poirot",
       "boxsize": "small",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1870696131168385409/48A07CF6F003EDDBE863547AC3F0604B45EE14E1/",
@@ -1142,6 +1205,7 @@
       "type": "playercards",
       "author": "Seymour",
       "decomposed": false,
+      "cycle_code": "cae9cd37-4621-4e52-958c-40a250f730b6",
       "filename": "unofficial_return_to_the_night_of_the_zealot_investigator_expansion",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/10646293062076402524/4308C110D4F0756E4827A25324CE9C9887829D05/",
@@ -1173,6 +1237,7 @@
       "author": "Frostmaze",
       "scenariocount": 11,
       "decomposed": false,
+      "cycle_code": "b8f4e3d2-c7a1-4b5e-8f6d-9e0c1a2b3d4e",
       "filename": "the_worlds_of_android_investigator_expansion",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/10558475503033223525/90B3CE824691AE3BD5E31442C52D2E5B203FE91A/",
@@ -1194,6 +1259,7 @@
       "author": "Olivia Juliet",
       "scenariocount": 7,
       "decomposed": true,
+      "cycle_code": "0a100500-ab6d-4138-8284-a0ebb2adcadf",
       "filename": "ages_unwound",
       "boxsize": "small",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1811004822724765158/DE184EBA95BF16D06DC2528B30E9058A87C7567E/",
@@ -1231,15 +1297,15 @@
       "filename": "betrayal_at_mountains_of_madness",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1479949766318759506/9BAB9C45ECB33AC5A0F83806B5EF79A6D89C1D31/",
-      "description": "It is 1935. The world has changed, and so have the investigators of Arkham."
+      "description": "FRESHLY UPDATED in 2026!\nIt is 1935. The world has changed, and so have the investigators of Arkham."
     },
     {
       "name": "Bloodborne - City of the Unseen",
       "type": "campaign",
       "author": "aughhhh",
       "scenariocount": 8,
-      "decomposed": false,
-      "filename": "bloodborne",
+      "decomposed": true,
+      "filename": "bloodborne_city_of_the_unseen",
       "boxsize": "big",
       "boxart": "https://i.imgur.com/WtioCq1.jpg",
       "description": "You awaken from an illness to an Arkham transformed, but to discover what has happened to your world, you must first survive the Hunt."
@@ -1352,6 +1418,7 @@
       "author": "Myriad",
       "scenariocount": 8,
       "decomposed": true,
+      "cycle_code": "c00a0d19-d317-48b8-a3cb-a859fdb89a02",
       "filename": "ghosts_of_onigawa_campaign_expansion",
       "boxsize": "big",
       "boxart": "https://github.com/ArkhamDotCards/theghostsofonigawa/blob/main/product/onigawa-boxart-campaign-defuse.png?raw=true",
@@ -1450,9 +1517,10 @@
       "type": "campaign",
       "author": "aughhhh",
       "scenariocount": 8,
-      "decomposed": false,
+      "decomposed": true,
+      "cycle_code": "f565e2b2-97df-420c-ae07-7586fb74c7d7",
       "filename": "night_of_vespers_campaign_expansion",
-      "boxsize": "small",
+      "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/10227093912479647219/C47F9F0F5947C635994DE7EFC60D85C4B69C97C9/",
       "description": "A night of luxury at Arkham's Hotel Seasons ends in bloodshed, drawing you into a globe-spanning mystery as old as time itself that you must unravel to have any hope of survival. Whether or not you'll be able to piece together this ancient puzzle, beware -- The Sorrows are watching."
     },
@@ -1465,7 +1533,7 @@
       "filename": "the_putrid_testament",
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/12230533943660355492/819192F8EE7E165E4E75B68AA5B3C4B1C2555C74/",
-      "description": "July 17th, 1927. A strange sickness is spreading through the residents of an isolated Louisiana parish. This illness is not one of the flesh, however... but one of the very soul itself. As the investigators venture through the unfriendly streets and forlorn backwoods of Testament Parish, they risk uncovering a ravenous corruption that wants nothing more than to swallow them whole."
+      "description": "Uncover the depraved secrets of a backwater Louisiana parish in this gritty noir mystery."
     },
     {
       "name": "(Unofficial) Return to The Innsmouth Conspiracy",
@@ -1488,6 +1556,18 @@
       "boxsize": "big",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/14647702473490006814/BABE292E234B1150CE176DA028F7949F69D96CD0/",
       "description": "This is the playtesting version of banana's (Unofficial) Return to The Scarlet Keys."
+    },
+    {
+      "name": "Rise, Rapture, Rise",
+      "type": "campaign",
+      "author": "DozensOfDonuts",
+      "scenariocount": "9",
+      "decomposed": true,
+      "cycle_code": "4745a7d2-ac22-4b15-b4e4-40d1c1182ab4",
+      "filename": "rise_rapture_rise",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/7422883929946330/C33FA6C131966F703623543E87DEB2C91458C453/",
+      "description": "A campaign set in the Bioshock universe! In recent months, reports have surfaced of children - exclusively little girls - being abducted by a sea monster with a single glowing red eye. Has the tainted water of Innsmouth beget a new abominiation? Or has this creature migrated from even greater depths?"
     },
     {
       "name": "Souls of Darkness",

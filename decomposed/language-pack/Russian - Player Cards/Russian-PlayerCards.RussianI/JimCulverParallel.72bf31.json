@@ -15,7 +15,6 @@
   "Description": "Артист. Проклятый.",
   "GMNotes": "{\n  \"id\": \"02004-p\"\n}",
   "GUID": "72bf31",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Джим Кальвер (альтернативный)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "JimCulverParallel.31bed6"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

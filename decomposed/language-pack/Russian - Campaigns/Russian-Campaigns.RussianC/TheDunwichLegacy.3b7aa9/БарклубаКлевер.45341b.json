@@ -14,11 +14,9 @@
   "Description": "Клуб «Клевер».",
   "GMNotes": "{\n  \"id\": \"02072\"\n}",
   "GUID": "45341b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Бар клуба «Клевер»",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

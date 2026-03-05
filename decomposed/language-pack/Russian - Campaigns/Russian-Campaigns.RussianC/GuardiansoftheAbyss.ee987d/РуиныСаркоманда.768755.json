@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"83025b\"\n}",
   "GUID": "768755",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Руины Саркоманда",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

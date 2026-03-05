@@ -1,0 +1,22 @@
+{
+  "CardID": 469711,
+  "CustomDeck": {
+    "4697": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/aUndFJo.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09721\"\n}",
+  "GUID": "741452",
+  "Name": "Card",
+  "Nickname": "A plena vista",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

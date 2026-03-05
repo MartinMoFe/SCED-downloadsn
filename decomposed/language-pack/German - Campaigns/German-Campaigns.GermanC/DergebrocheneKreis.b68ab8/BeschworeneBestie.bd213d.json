@@ -14,11 +14,9 @@
   "Description": "Wächter der Falle",
   "GMNotes": "{\n  \"id\": \"05220\"\n}",
   "GUID": "bd213d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Beschworene Bestie",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

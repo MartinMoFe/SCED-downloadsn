@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05053\"\n}",
   "GUID": "d394db",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Im Wald verlaufen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

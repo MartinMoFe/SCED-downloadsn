@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03224\"\n}",
   "GUID": "dc0f1b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tödliches Schicksal",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

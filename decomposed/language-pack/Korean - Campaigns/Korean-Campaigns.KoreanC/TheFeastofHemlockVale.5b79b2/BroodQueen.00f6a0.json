@@ -7,8 +7,7 @@
       "FaceURL": "https://github.com/Forgotin/HLV/blob/main/HLV_09.jpg?raw=true",
       "NumHeight": 4,
       "NumWidth": 5,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Dying Mother",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Brood Queen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

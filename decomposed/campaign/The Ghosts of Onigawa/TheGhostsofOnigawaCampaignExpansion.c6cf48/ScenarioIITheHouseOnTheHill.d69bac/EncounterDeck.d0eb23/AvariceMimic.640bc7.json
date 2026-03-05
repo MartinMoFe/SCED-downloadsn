@@ -1,5 +1,5 @@
 {
-  "CardID": 8613800,
+  "CardID": 8601000,
   "CustomDeck": {
     "86010": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "TheGhostsofOnigawaCampaignExpansion.c6cf48/ScenarioIITheHouseOnTheHill.d69bac/EncounterDeck.d0eb23/AvariceMimic.640bc7.gmnotes",

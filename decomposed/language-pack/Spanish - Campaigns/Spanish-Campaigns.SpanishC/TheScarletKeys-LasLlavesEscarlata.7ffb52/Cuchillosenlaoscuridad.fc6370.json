@@ -1,0 +1,22 @@
+{
+  "CardID": 469713,
+  "CustomDeck": {
+    "4697": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/aUndFJo.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09722\"\n}",
+  "GUID": "fc6370",
+  "Name": "Card",
+  "Nickname": "Cuchillos en la oscuridad",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

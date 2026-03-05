@@ -1,0 +1,24 @@
+{
+  "CardID": 457105,
+  "CustomDeck": {
+    "4571": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/hscDe9i.jpg",
+      "FaceURL": "https://i.imgur.com/IirVFqF.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08524\"\n}",
+  "GUID": "d4f6d1",
+  "Name": "Card",
+  "Nickname": "El frío de la noche",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

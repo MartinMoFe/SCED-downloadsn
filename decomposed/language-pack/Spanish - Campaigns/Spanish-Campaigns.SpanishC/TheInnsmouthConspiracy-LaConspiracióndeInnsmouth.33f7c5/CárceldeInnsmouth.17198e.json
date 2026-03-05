@@ -1,0 +1,22 @@
+{
+  "CardID": 878404,
+  "CustomDeck": {
+    "8784": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/0vf6cPQ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07074\"\n}",
+  "GUID": "17198e",
+  "Name": "Card",
+  "Nickname": "Cárcel de Innsmouth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Darkened Alley",
   "GMNotes": "{\n  \"id\": \"09577\"\n}",
   "GUID": "a4faf8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grand Bazaar",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

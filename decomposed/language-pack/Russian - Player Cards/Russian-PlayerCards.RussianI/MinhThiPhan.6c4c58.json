@@ -15,7 +15,6 @@
   "Description": "Ассистент.",
   "GMNotes": "{\n  \"id\": \"03002\"\n}",
   "GUID": "6c4c58",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Минь Тхи Фан",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "MinhThiPhan.e28f5a"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

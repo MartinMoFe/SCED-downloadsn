@@ -14,11 +14,9 @@
   "Description": "Medusa-Ausstellung",
   "GMNotes": "{\n  \"id\": \"02133\"\n}",
   "GUID": "32acef",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ausstellungshalle",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

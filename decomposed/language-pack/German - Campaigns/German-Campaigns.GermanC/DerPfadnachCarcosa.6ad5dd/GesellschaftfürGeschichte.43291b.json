@@ -14,12 +14,9 @@
   "Description": "Historisches Museum",
   "GMNotes": "{\n  \"id\": \"03132\"\n}",
   "GUID": "43291b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gesellschaft für Geschichte",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

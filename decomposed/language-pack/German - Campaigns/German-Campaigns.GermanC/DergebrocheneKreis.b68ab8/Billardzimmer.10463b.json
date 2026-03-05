@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05081\"\n}",
   "GUID": "10463b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Billardzimmer",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

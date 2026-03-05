@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05176\"\n}",
   "GUID": "847652",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dachkammer der Kapelle",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

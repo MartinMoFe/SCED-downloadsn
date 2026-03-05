@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04044\"\n}",
   "GUID": "3f28fb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Expedition in die Wildnis",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

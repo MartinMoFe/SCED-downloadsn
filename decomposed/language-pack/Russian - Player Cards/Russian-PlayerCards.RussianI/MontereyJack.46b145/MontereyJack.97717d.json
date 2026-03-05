@@ -1,5 +1,5 @@
 {
-  "CardID": "535039",
+  "CardID": 535039,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Путешественник.",
   "GMNotes": "{\n  \"id\": \"08007\"\n}",
   "GUID": "97717d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Монтерей Джек",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

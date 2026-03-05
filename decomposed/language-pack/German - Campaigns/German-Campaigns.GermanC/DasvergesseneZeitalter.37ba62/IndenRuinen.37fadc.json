@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04057\"\n}",
   "GUID": "37fadc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "In den Ruinen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

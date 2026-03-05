@@ -1,0 +1,23 @@
+{
+  "CardID": 878510,
+  "CustomDeck": {
+    "8785": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/eCRI5Mp.jpg",
+      "FaceURL": "https://i.imgur.com/YWgVDF5.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07138\"\n}",
+  "GUID": "946fa1",
+  "Name": "Card",
+  "Nickname": "Puerto de Innsmouth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

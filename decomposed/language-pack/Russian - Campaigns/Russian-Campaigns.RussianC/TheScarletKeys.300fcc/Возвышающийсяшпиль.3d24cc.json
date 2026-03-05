@@ -14,11 +14,9 @@
   "Description": "Иной мир. Башня.",
   "GMNotes": "{\n  \"id\": \"09714\"\n}",
   "GUID": "3d24cc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Возвышающийся шпиль",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Ледник. Неизведанная.",
   "GMNotes": "{\n  \"id\": \"08507\"\n}",
   "GUID": "549c18",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ледяные пустоши",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Обитель.",
   "GMNotes": "{\n  \"id\": \"09705\"\n}",
   "GUID": "9fff85",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Алые залы",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

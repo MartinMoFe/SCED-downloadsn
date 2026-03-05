@@ -1,5 +1,5 @@
 {
-  "CardID": "535224",
+  "CardID": 535224,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Репортёр. Проклятый.",
   "GMNotes": "{\n  \"id\": \"02002-pf\"\n}",
   "GUID": "9acfc3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Рекс Мерфи (альтернативное лицо)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -14,11 +14,9 @@
   "Description": "Хемлок-Вейл.",
   "GMNotes": "{\n  \"id\": \"10691\"\n}",
   "GUID": "cdbbb8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Старая мельница",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

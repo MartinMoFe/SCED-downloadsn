@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"01115\"\n}",
   "GUID": "68e5aa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wohnzimmer",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

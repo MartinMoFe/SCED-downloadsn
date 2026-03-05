@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/eApLR1l.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06160\"}",
+  "GMNotes": "{\n  \"id\": \"06160\"\n}",
   "GUID": "5a1b8a",
   "Name": "Card",
   "Nickname": "\"Dios reconocerá a los suyos...\"",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

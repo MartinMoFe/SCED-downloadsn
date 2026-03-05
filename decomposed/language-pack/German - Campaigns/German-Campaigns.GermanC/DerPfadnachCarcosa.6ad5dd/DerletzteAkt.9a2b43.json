@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03339\"\n}",
   "GUID": "9a2b43",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der letzte Akt",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

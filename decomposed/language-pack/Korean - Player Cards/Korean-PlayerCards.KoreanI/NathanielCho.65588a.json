@@ -14,12 +14,10 @@
   "Description": "The Boxer",
   "GMNotes": "{\n  \"id\": \"60101\"\n}",
   "GUID": "65588a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nathaniel Cho",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

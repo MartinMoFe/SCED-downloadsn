@@ -14,11 +14,9 @@
   "Description": "Written in Rock",
   "GMNotes": "{\n  \"id\": \"10502\"\n}",
   "GUID": "883107",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

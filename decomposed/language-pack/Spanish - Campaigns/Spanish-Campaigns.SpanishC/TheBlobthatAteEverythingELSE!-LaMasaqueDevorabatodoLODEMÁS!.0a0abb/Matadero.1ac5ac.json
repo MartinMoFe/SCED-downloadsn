@@ -1,0 +1,23 @@
+{
+  "CardID": 860600,
+  "CustomDeck": {
+    "8606": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/16794282310674481836/E368F3F6D3F0E36ADC49E508F93084E9FF97AE17/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17073300363731528529/3852CDA341FEB52E2310881EDC9F3AE741B81BB4/",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"89009\"\n}",
+  "GUID": "1ac5ac",
+  "Name": "CardCustom",
+  "Nickname": "Matadero",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

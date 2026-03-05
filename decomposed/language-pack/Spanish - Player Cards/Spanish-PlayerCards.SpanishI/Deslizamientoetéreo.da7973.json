@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/zhTED59.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08108\"}",
+  "GMNotes": "{\n  \"id\": \"08108\"\n}",
   "GUID": "da7973",
   "Name": "Card",
   "Nickname": "Deslizamiento etéreo",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

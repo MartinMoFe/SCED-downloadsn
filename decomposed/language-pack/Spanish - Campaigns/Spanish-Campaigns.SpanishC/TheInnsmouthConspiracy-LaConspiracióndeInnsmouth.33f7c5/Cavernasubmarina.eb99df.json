@@ -1,0 +1,23 @@
+{
+  "CardID": 455916,
+  "CustomDeck": {
+    "4559": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/0MTxzfg.jpg",
+      "FaceURL": "https://i.imgur.com/ecAU8sw.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07102\"\n}",
+  "GUID": "eb99df",
+  "Name": "Card",
+  "Nickname": "Caverna submarina",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -7,18 +7,15 @@
       "FaceURL": "https://github.com/Forgotin/HLV/blob/main/HLV_12.jpg?raw=true",
       "NumHeight": 3,
       "NumWidth": 9,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Creature. Monster. Mutated. Elite.",
-  "GMNotes": "{\n  \"id\": \"10645\"\n}",
+  "GMNotes": "{\n  \"id\": \"10645a\"\n}",
   "GUID": "0bfbb4",
   "Name": "Card",
   "Nickname": "Lupine Hybrid",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

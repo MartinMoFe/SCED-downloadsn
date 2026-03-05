@@ -1,5 +1,5 @@
 {
-  "CardID": "535019",
+  "CardID": 535019,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Верующий. Служитель.",
   "GMNotes": "{\n  \"id\": \"04004\"\n}",
   "GUID": "6e3a8f",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Отец Матео",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

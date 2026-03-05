@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03259\"\n}",
   "GUID": "7ddae0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Leichenparasit",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

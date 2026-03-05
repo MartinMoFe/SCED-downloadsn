@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/lHJ2ABf.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60131\"}",
+  "GMNotes": "{\n  \"id\": \"60131\"\n}",
   "GUID": "6f3991",
   "Name": "Card",
   "Nickname": "Entrenamiento físico (4)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

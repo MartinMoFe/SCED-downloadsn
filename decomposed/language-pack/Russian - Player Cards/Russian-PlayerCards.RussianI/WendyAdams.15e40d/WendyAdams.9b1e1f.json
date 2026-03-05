@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"01005-m\"\n}",
   "GUID": "9b1e1f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Венди Адамс",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

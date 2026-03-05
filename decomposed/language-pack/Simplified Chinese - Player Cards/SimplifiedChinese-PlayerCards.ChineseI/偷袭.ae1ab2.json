@@ -1,5 +1,5 @@
 {
-  "CardID": "1155024",
+  "CardID": 1155024,
   "CustomDeck": {
     "11550": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14694169083067785108/911C276083AD8AD10B0B248A4EE13DE2EC653BCD/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03152\"}",
+  "GMNotes": "{\n  \"id\": \"03152\"\n}",
   "GUID": "ae1ab2",
   "Name": "Card",
   "Nickname": "偷袭",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

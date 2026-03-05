@@ -1,0 +1,23 @@
+{
+  "CardID": 460509,
+  "CustomDeck": {
+    "4605": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XiXrtxk.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Semilla azotadora",
+  "GMNotes": "{\n  \"id\": \"51044\"\n}",
+  "GUID": "eaaaab",
+  "Name": "Card",
+  "Nickname": "Progenie de Yog-Sothoth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

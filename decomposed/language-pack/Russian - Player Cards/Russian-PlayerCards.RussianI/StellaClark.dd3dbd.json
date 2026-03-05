@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"60501-m\"\n}",
   "GUID": "dd3dbd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Стелла Кларк",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09609\"\n}",
   "GUID": "fcd3b0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "По тонкому льду",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09684\"\n}",
   "GUID": "3095f0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Otherworldly Slaughter",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

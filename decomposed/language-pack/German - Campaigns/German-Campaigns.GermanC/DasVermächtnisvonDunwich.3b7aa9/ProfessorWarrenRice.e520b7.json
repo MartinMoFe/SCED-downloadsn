@@ -14,11 +14,9 @@
   "Description": "Professor für Linguistik",
   "GMNotes": "{\n  \"id\": \"02061\"\n}",
   "GUID": "e520b7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Professor Warren Rice",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

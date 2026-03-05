@@ -9,13 +9,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Репортёр.",
   "GMNotes": "{\n  \"id\": \"02002-t\"\n}",
   "GUID": "0a5491",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Рекс Мерфи (Табу)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "RexMurphyTaboo.e06d0d"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

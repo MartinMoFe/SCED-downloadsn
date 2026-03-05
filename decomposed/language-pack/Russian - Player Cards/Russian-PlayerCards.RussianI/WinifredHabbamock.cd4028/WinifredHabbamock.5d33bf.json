@@ -1,5 +1,5 @@
 {
-  "CardID": "535057",
+  "CardID": 535057,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Преступник.",
   "GMNotes": "{\n  \"id\": \"60301\"\n}",
   "GUID": "5d33bf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Уинифред Хаббамок",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

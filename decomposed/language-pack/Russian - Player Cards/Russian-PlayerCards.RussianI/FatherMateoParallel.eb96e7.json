@@ -22,7 +22,6 @@
   "Description": "Верующий. Служитель.",
   "GMNotes": "{\n  \"id\": \"04004-p\"\n}",
   "GUID": "eb96e7",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/cards/FatherMateoParallel\")",
   "Name": "CardCustom",
   "Nickname": "Отец Матео (альтернативный)",
@@ -31,7 +30,6 @@
     "2": "FatherMateoParallel.1b7774"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

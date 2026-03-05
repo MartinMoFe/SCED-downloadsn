@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04167\"\n}",
   "GUID": "222b0a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Return Trip",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

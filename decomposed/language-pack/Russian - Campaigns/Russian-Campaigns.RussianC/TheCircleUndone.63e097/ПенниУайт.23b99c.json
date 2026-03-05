@@ -14,12 +14,10 @@
   "Description": "Ассистент.",
   "GMNotes": "{\n  \"id\": \"05049\"\n}",
   "GUID": "23b99c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пенни Уайт",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

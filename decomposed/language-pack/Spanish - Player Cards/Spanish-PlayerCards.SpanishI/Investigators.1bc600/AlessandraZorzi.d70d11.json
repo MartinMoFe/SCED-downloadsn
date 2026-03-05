@@ -12,14 +12,12 @@
     }
   },
   "Description": "La condesa",
-  "GMNotes": "{\"id\": \"10009\"}",
+  "GMNotes": "{\n  \"id\": \"10009\"\n}",
   "GUID": "d70d11",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Alessandra Zorzi",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02317\"\n}",
   "GUID": "127cdf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ins Jenseits",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

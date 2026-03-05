@@ -1,0 +1,23 @@
+{
+  "CardID": 874200,
+  "CustomDeck": {
+    "8742": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/BWszyxz.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "Description": "Endless Hunger",
+  "GMNotes": "{\n  \"id\": \"10685\"\n}",
+  "GUID": "32a8d8",
+  "Name": "Card",
+  "Nickname": "La maldición Cicuta",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

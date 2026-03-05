@@ -1,0 +1,23 @@
+{
+  "CardID": 868910,
+  "CustomDeck": {
+    "8689": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/UV61SUf.jpg",
+      "FaceURL": "https://i.imgur.com/OetthHN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10599\"\n}",
+  "GUID": "bc1aa8",
+  "Name": "Card",
+  "Nickname": "Puente cubierto",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

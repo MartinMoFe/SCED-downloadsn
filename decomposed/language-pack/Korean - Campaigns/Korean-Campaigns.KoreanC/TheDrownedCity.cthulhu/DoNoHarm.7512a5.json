@@ -14,12 +14,9 @@
   "Description": "Can You Save Them?",
   "GMNotes": "{\n  \"id\": \"11758a\"\n}",
   "GUID": "7512a5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Do No Harm",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

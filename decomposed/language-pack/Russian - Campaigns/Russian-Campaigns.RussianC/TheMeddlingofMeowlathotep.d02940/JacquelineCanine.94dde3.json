@@ -14,12 +14,10 @@
   "Description": "Лапкомант",
   "GMNotes": "{\n  \"id\": \"80010\"\n}",
   "GUID": "94dde3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Жаклин Клык",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

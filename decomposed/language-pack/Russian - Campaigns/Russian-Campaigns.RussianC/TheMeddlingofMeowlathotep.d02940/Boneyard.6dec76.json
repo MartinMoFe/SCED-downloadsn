@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"80032\"\n}",
   "GUID": "6dec76",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Костьбище",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

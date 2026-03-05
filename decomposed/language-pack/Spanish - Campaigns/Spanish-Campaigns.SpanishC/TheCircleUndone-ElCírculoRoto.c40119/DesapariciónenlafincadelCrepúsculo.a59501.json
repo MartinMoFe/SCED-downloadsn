@@ -1,0 +1,23 @@
+{
+  "CardID": 461000,
+  "CustomDeck": {
+    "4610": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/X5EUfmb.jpg",
+      "FaceURL": "https://i.imgur.com/LjkOpen.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05043\"\n}",
+  "GUID": "a59501",
+  "Name": "Card",
+  "Nickname": "Desaparición en la finca del Crepúsculo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

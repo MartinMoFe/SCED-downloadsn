@@ -1,0 +1,22 @@
+{
+  "CardID": 873302,
+  "CustomDeck": {
+    "8733": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/KpcIJBX.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10518\"\n}",
+  "GUID": "27b885",
+  "Name": "Card",
+  "Nickname": "Híbrido excavador",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

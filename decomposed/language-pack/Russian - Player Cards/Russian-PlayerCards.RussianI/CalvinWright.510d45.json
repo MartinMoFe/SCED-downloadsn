@@ -14,12 +14,10 @@
   "GMNotes": "{\n  \"id\": \"04005-m\"\n}",
   "GUID": "510d45",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кальвин Райт",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

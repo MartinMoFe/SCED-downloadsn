@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03291\"\n}",
   "GUID": "106f19",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Церковь аббатства",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

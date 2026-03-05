@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/x9dbpKg.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04195\"}",
+  "GMNotes": "{\n  \"id\": \"04195\"\n}",
   "GUID": "05354e",
   "Name": "Card",
   "Nickname": "Exponer la debilidad (3)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

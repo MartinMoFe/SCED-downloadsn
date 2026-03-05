@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06002-m\"\n}",
   "GUID": "12d3de",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Мэнди Томпсон",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

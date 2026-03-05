@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08558\"\n}",
   "GUID": "f9d252",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Deck der Theodosia",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

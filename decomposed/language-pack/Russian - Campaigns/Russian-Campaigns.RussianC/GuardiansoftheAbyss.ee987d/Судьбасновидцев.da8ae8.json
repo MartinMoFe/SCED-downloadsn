@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"83023b\"\n}",
   "GUID": "da8ae8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Судьба сновидцев",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

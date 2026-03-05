@@ -1,0 +1,23 @@
+{
+  "CardID": 454518,
+  "CustomDeck": {
+    "4545": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/hQXO7rG.jpg",
+      "FaceURL": "https://i.imgur.com/jXuOn1T.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51037\"\n}",
+  "GUID": "51a8c5",
+  "Name": "Card",
+  "Nickname": "Iglesia congregacional",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

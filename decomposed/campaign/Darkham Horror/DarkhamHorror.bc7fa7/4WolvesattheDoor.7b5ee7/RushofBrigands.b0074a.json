@@ -1,12 +1,12 @@
 {
   "ContainedObjects_order": [
-    "RushofBrigands.548ff7",
-    "RushofBrigands.45a271",
-    "RushofBrigands.cdbd1f",
-    "RushofBrigands.ff5eaa",
-    "RushofBrigands.45a271",
     "RushofBrigands.3d493c",
-    "RushofBrigands.45a271"
+    "RushofBrigands.3d493c",
+    "RushofBrigands.3d493c",
+    "RushofBrigands.3d493c",
+    "RushofBrigands.3d493c",
+    "RushofBrigands.3d493c",
+    "RushofBrigands.3d493c"
   ],
   "ContainedObjects_path": "RushofBrigands.b0074a",
   "CustomDeck": {
@@ -16,8 +16,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1692775701316888249/5D78EA1C71ED8BD9127493A91203559DBFF40114/",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

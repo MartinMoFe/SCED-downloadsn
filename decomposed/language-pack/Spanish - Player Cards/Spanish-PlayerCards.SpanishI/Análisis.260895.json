@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/4k8lKd9.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"09049\"}",
+  "GMNotes": "{\n  \"id\": \"09049\"\n}",
   "GUID": "260895",
   "Name": "Card",
   "Nickname": "Análisis",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

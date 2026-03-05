@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02331\"\n}",
   "GUID": "2f67c7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Einstürzende Realität",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Венеция. Мост.",
   "GMNotes": "{\n  \"id\": \"82011\"\n}",
   "GUID": "2f2498",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Мост Риальто",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

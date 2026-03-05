@@ -14,11 +14,9 @@
   "Description": "Songs Die Unheard",
   "GMNotes": "{\n  \"id\": \"03069b\"\n}",
   "GUID": "27b476",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ashleigh Clarke",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

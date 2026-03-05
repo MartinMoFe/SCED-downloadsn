@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05216\"\n}",
   "GUID": "3870ad",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Inneres Heiligtum",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

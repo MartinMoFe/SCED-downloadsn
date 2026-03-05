@@ -1,8 +1,8 @@
 {
   "ContainedObjects_order": [
-    "BrainCylinder089.5d4aab",
+    "BrainCylinder367.066dbb",
     "BrainCylinder114.122c07",
-    "BrainCylinder367.066dbb"
+    "BrainCylinder089.5d4aab"
   ],
   "ContainedObjects_path": "Brains.bf8889",
   "CustomDeck": {
@@ -13,7 +13,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5824": {
       "BackIsHidden": true,
@@ -22,7 +22,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5825": {
       "BackIsHidden": true,
@@ -31,13 +31,13 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [
-    582300,
+    582500,
     582400,
-    582500
+    582300
   ],
   "GUID": "bf8889",
   "Hands": false,

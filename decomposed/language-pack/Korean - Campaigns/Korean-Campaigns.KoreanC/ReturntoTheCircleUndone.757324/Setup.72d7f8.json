@@ -14,11 +14,9 @@
   "Description": "Return to At Death's Doorstep",
   "GMNotes": "{\n  \"id\": \"54024\"\n}",
   "GUID": "72d7f8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

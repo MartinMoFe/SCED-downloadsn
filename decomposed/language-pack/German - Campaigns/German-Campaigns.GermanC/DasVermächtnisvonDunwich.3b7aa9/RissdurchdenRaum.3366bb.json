@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02324\"\n}",
   "GUID": "3366bb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Riss durch den Raum",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

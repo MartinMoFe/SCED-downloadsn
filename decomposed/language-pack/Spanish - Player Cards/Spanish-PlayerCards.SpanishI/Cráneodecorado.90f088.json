@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/Nk8BzI7.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "La perdición engendra perdición",
-  "GMNotes": "{\"id\": \"04026\"}",
+  "GMNotes": "{\n  \"id\": \"04026\"\n}",
   "GUID": "90f088",
   "Name": "Card",
   "Nickname": "Cráneo decorado",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

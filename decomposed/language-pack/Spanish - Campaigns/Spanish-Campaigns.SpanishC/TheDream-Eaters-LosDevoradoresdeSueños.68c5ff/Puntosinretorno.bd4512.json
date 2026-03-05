@@ -1,0 +1,23 @@
+{
+  "CardID": 864000,
+  "CustomDeck": {
+    "8640": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LHCkJWX.jpg",
+      "FaceURL": "https://i.imgur.com/II1TTZH.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06247\"\n}",
+  "GUID": "bd4512",
+  "Name": "Card",
+  "Nickname": "Punto sin retorno",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

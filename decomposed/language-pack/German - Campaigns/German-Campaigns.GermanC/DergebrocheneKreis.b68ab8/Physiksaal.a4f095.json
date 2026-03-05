@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05139\"\n}",
   "GUID": "a4f095",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Physiksaal",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

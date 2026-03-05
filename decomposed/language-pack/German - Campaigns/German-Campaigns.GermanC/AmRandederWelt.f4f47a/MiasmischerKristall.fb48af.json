@@ -14,11 +14,9 @@
   "Description": "Seltsames Fundstück",
   "GMNotes": "{\n  \"id\": \"08617\"\n}",
   "GUID": "fb48af",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Miasmischer Kristall",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

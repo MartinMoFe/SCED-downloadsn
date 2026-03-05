@@ -1,0 +1,23 @@
+{
+  "CardID": 35302,
+  "CustomDeck": {
+    "353": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/U4uNDfo.jpg",
+      "FaceURL": "https://i.imgur.com/gIz7JLS.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04054\"\n}",
+  "GUID": "1e9811",
+  "Name": "Card",
+  "Nickname": "La perdición de Eztli",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

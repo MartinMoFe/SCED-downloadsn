@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06352\"\n}",
   "GUID": "86c58f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Weberin in der Dunkelheit",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 877301,
+  "CustomDeck": {
+    "8773": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/mJV1WBv.jpg",
+      "FaceURL": "https://i.imgur.com/qPn8doW.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04324\"\n}",
+  "GUID": "86a4f6",
+  "Name": "Card",
+  "Nickname": "Nexo de N'kai",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Description": "Deshaciendo los hilos"
+}

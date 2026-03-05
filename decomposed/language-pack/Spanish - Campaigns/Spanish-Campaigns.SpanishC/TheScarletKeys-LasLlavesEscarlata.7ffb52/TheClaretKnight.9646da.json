@@ -1,0 +1,23 @@
+{
+  "CardID": 471013,
+  "CustomDeck": {
+    "4710": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ZnhZ6Q1.jpg",
+      "FaceURL": "https://i.imgur.com/7dldCWs.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09654a\"\n}",
+  "GUID": "9646da",
+  "Name": "Card",
+  "Nickname": "The Claret Knight",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

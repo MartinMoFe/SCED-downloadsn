@@ -1,0 +1,23 @@
+{
+  "CardID": 463801,
+  "CustomDeck": {
+    "4638": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/P548Mxa.jpg",
+      "FaceURL": "https://i.imgur.com/04aM8ON.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02048\"\n}",
+  "GUID": "5f19f3",
+  "Name": "Card",
+  "Nickname": "Patio principal de Miskatonic",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

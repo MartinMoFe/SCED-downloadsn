@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08681\"\n}",
   "GUID": "5b8324",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das letzte Trugbild",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

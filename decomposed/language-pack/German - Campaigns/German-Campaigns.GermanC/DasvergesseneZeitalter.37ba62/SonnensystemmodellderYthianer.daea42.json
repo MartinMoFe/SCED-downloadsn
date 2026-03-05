@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04252\"\n}",
   "GUID": "daea42",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sonnensystemmodell der Ythianer",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

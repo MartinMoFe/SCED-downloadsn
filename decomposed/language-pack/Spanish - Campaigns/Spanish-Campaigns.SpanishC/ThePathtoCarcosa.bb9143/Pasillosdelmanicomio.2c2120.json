@@ -1,0 +1,24 @@
+{
+  "CardID": 586002,
+  "CustomDeck": {
+    "5860": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fNwS83L.jpg",
+      "FaceURL": "https://i.imgur.com/tb4Yu0N.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Ala de pacientes oeste",
+  "GMNotes": "{\n  \"id\": \"03169\"\n}",
+  "GUID": "2c2120",
+  "Name": "Card",
+  "Nickname": "Pasillos del manicomio",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

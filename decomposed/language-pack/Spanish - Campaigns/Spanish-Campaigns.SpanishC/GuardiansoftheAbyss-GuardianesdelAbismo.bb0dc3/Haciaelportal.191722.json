@@ -1,0 +1,24 @@
+{
+  "CardID": 857809,
+  "CustomDeck": {
+    "8578": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/eV8f1YI.jpg",
+      "FaceURL": "https://i.imgur.com/4Nd4KnI.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"83020\"\n}",
+  "GUID": "191722",
+  "Name": "Card",
+  "Nickname": "Hacia el portal",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

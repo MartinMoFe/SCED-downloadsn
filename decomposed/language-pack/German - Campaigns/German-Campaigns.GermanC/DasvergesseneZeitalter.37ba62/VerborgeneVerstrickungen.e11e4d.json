@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04116\"\n}",
   "GUID": "e11e4d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verborgene Verstrickungen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

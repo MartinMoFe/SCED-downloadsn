@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08544\"\n}",
   "GUID": "1992f4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Manifestationen des Bösen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

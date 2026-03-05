@@ -266,13 +266,11 @@
   "GMNotes": "{\n  \"id\": \"WM09\"\n}",
   "GUID": "5a6ca1",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Locked": true,
   "Name": "Custom_Tile",
   "Nickname": "Алые Ключи - Карта Мира",
   "Tooltip": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 17.5,
     "scaleY": 1,
     "scaleZ": 17.5

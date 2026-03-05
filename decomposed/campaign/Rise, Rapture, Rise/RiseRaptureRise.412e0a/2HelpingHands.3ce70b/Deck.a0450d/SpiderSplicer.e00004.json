@@ -1,5 +1,5 @@
 {
-  "CardID": 20260100,
+  "CardID": 100200,
   "CustomDeck": {
     "1002": {
       "BackIsHidden": true,
@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/2HelpingHands.3ce70b/Deck.a0450d/SpiderSplicer.e00004.gmnotes",
   "GUID": "e00004",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Spider Splicer",
   "Tags": [

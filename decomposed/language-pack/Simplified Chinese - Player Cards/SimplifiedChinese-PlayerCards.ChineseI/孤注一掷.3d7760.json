@@ -1,5 +1,5 @@
 {
-  "CardID": "1155607",
+  "CardID": 1155607,
   "CustomDeck": {
     "11556": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13844263015769328636/01A7FFD4C3A98BBA2C5297D6BDB3127D12F6313F/",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04309\"}",
+  "GMNotes": "{\n  \"id\": \"04309\"\n}",
   "GUID": "3d7760",
   "Name": "Card",
   "Nickname": "孤注一掷",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09524\"\n}",
   "GUID": "b6aec6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ritual of Life and Death",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

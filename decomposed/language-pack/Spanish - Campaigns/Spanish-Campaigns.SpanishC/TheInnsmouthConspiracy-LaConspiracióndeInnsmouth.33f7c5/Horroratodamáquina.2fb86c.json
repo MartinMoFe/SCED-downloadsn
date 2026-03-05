@@ -1,0 +1,23 @@
+{
+  "CardID": 465200,
+  "CustomDeck": {
+    "4652": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/EO20xqU.jpg",
+      "FaceURL": "https://i.imgur.com/vtfo9bJ.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07198\"\n}",
+  "GUID": "2fb86c",
+  "Name": "CardCustom",
+  "Nickname": "Horror a toda máquina",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

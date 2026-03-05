@@ -1,0 +1,23 @@
+{
+  "CardID": 869000,
+  "CustomDeck": {
+    "8690": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/Ps5nEcV.jpg",
+      "FaceURL": "https://i.imgur.com/wjj3wvw.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10605\"\n}",
+  "GUID": "4230be",
+  "Name": "Card",
+  "Nickname": "La hondonada retorcida",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

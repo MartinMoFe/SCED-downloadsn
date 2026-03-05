@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/x9dbpKg.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04204\"}",
+  "GMNotes": "{\n  \"id\": \"04204\"\n}",
   "GUID": "dbf3b5",
   "Name": "Card",
   "Nickname": "Arco ornamentado (3)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

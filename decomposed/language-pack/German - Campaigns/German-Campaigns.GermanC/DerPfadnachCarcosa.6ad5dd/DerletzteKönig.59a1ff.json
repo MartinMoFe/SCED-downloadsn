@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03061\"\n}",
   "GUID": "59a1ff",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der letzte König",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

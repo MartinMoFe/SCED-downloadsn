@@ -1,0 +1,22 @@
+{
+  "CardID": 45705,
+  "CustomDeck": {
+    "457": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/pd5BcbL.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53071\"\n}",
+  "GUID": "57dba7",
+  "Name": "Card",
+  "Nickname": "Acólita de la Hermandad",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

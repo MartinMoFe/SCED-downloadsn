@@ -287,11 +287,9 @@
   "ContainedObjects_path": "Investigators.1bc600",
   "GUID": "1bc600",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Bag",
   "Nickname": "Investigators",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

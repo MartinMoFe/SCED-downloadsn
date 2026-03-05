@@ -1,0 +1,22 @@
+{
+  "CardID": 44403,
+  "CustomDeck": {
+    "444": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/enDVUrF.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06083\"\n}",
+  "GUID": "91fc5f",
+  "Name": "Card",
+  "Nickname": "Brote",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

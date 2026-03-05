@@ -1,5 +1,5 @@
 {
-  "CardID": 564900,
+  "CardID": 563400,
   "CustomDeck": {
     "5634": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GUID": "2b677b",

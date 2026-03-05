@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04059\"\n}",
   "GUID": "a93fa0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Flucht aus den Ruinen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

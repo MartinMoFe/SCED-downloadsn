@@ -1,0 +1,22 @@
+{
+  "CardID": 44416,
+  "CustomDeck": {
+    "444": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/enDVUrF.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06096\"\n}",
+  "GUID": "1cf1f6",
+  "Name": "Card",
+  "Nickname": "Eclipse en las Tierras del Sueño",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

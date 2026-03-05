@@ -1,0 +1,23 @@
+{
+  "CardID": 29015,
+  "CustomDeck": {
+    "290": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/l1ED1Au.jpg",
+      "FaceURL": "https://i.imgur.com/ZQrJGL8.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04137a\"\n}",
+  "GUID": "3edad7",
+  "Name": "Card",
+  "Nickname": "Reliquias extrañas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

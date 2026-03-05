@@ -1,0 +1,24 @@
+{
+  "CardID": 1914,
+  "CustomDeck": {
+    "19": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/aZviP19.jpg",
+      "FaceURL": "https://i.imgur.com/9mB3wmV.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04058\"\n}",
+  "GUID": "c24d64",
+  "Name": "Card",
+  "Nickname": "Magia y ciencia",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

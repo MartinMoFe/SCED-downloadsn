@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04050\"\n}",
   "GUID": "7f1f26",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Expeditionslager",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

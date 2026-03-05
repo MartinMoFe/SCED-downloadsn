@@ -1,0 +1,23 @@
+{
+  "CardID": 470417,
+  "CustomDeck": {
+    "4704": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/UWBgJqu.jpg",
+      "FaceURL": "https://i.imgur.com/GoQyk36.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09624\"\n}",
+  "GUID": "7f6bd9",
+  "Name": "Card",
+  "Nickname": "Mina de oro clausurada",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02208\"\n}",
   "GUID": "f9107b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kongregationskirche",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

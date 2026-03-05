@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/Nk8BzI7.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04033\"}",
+  "GMNotes": "{\n  \"id\": \"04033\"\n}",
   "GUID": "a68076",
   "Name": "Card",
   "Nickname": "Arma improvisada",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

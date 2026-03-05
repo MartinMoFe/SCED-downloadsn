@@ -1,0 +1,23 @@
+{
+  "CardID": 586203,
+  "CustomDeck": {
+    "5862": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/0ESUomm.jpg",
+      "FaceURL": "https://i.imgur.com/oPRSnbc.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03210\"\n}",
+  "GUID": "509442",
+  "Name": "Card",
+  "Nickname": "Montmartre",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

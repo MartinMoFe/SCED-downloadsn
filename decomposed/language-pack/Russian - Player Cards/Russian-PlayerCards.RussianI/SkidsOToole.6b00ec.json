@@ -15,7 +15,6 @@
   "GMNotes": "{\n  \"id\": \"01003-m\"\n}",
   "GUID": "6b00ec",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Скат О’Тул",
   "Snap": false,
@@ -23,7 +22,6 @@
     "2": "SkidsOToole.02463b"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

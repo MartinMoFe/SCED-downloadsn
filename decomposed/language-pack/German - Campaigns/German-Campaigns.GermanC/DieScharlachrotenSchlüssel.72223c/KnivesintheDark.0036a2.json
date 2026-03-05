@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09722\"\n}",
   "GUID": "0036a2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Knives in the Dark",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

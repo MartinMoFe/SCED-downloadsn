@@ -1,0 +1,23 @@
+{
+  "CardID": 873502,
+  "CustomDeck": {
+    "8735": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/Jl1CtK4.jpg",
+      "FaceURL": "https://i.imgur.com/qLpIBw2.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10631\"\n}",
+  "GUID": "d379ef",
+  "Name": "Card",
+  "Nickname": "Cabaña de ordeñado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

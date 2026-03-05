@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06194\"\n}",
   "GUID": "86a083",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Geheimnisse in der Mansarde",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

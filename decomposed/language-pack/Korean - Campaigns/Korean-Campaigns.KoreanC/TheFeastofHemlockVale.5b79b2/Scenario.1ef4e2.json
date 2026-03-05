@@ -14,11 +14,9 @@
   "Description": "Fate of the Vale",
   "GMNotes": "{\n  \"id\": \"10651\"\n}",
   "GUID": "1ef4e2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

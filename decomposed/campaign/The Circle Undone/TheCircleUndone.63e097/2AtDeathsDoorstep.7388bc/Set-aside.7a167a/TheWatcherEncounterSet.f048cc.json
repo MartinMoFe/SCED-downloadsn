@@ -1,7 +1,7 @@
 {
   "ContainedObjects_order": [
     "WatchersGrasp.33e855",
-    "WatchersGrasp.e43fdd"
+    "WatchersGrasp.33e855"
   ],
   "ContainedObjects_path": "TheWatcherEncounterSet.f048cc",
   "CustomDeck": {
@@ -11,8 +11,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

@@ -1,0 +1,23 @@
+{
+  "CardID": 864700,
+  "CustomDeck": {
+    "8647": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/ATxjEZD.jpg",
+      "FaceURL": "https://i.imgur.com/1kshQ75.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06333\"\n}",
+  "GUID": "54e25e",
+  "Name": "CardCustom",
+  "Nickname": "Tejedora del cosmos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

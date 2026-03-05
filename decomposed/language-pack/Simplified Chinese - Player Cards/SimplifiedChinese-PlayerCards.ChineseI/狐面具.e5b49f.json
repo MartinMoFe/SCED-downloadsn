@@ -1,5 +1,5 @@
 {
-  "CardID": "1158029",
+  "CardID": 1158029,
   "CustomDeck": {
     "11580": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11352769851309753020/F8C22E629034F73272A5E30403D8222A8D664B20/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"10067\"}",
+  "GMNotes": "{\n  \"id\": \"10067\"\n}",
   "GUID": "e5b49f",
   "Name": "Card",
   "Nickname": "狐面具",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

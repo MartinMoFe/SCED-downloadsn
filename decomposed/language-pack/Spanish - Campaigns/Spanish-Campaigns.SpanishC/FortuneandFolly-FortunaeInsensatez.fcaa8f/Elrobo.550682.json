@@ -1,0 +1,24 @@
+{
+  "CardID": 853805,
+  "CustomDeck": {
+    "8538": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/GC06YKf.jpg",
+      "FaceURL": "https://i.imgur.com/eu5Lina.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"88007\"\n}",
+  "GUID": "550682",
+  "Name": "Card",
+  "Nickname": "El robo",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

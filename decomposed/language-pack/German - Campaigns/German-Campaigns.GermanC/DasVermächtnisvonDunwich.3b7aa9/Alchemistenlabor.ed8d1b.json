@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02057\"\n}",
   "GUID": "ed8d1b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Alchemistenlabor",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

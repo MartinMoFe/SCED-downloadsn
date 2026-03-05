@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15447020844113559465/3A055E2458A3D603C11147A8269E8352755D62BD/",
       "NumHeight": 4,
       "NumWidth": 6,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Колдовство.",
   "GMNotes": "{\n  \"id\": \"70061\"\n}",
   "GUID": "0252ee",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пожиная боль",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

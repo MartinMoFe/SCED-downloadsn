@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05181\"\n}",
   "GUID": "11ac62",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Bestrafung",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 862512,
+  "CustomDeck": {
+    "8625": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/EIQOhjB.jpg",
+      "FaceURL": "https://i.imgur.com/22XGKQD.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05264\"\n}",
+  "GUID": "6892e0",
+  "Name": "Card",
+  "Nickname": "El destino de Penny",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

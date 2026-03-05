@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04263\"\n}",
   "GUID": "214b18",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gefangener Geist",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

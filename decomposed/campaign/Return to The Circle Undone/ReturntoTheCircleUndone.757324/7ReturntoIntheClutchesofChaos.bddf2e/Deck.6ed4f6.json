@@ -1,8 +1,8 @@
 {
   "ContainedObjects_order": [
-    "MerchantDistrict.bed0da",
     "MerchantDistrict.cf4dff",
-    "MerchantDistrict.b568b8"
+    "MerchantDistrict.b568b8",
+    "MerchantDistrict.bed0da"
   ],
   "ContainedObjects_path": "Deck.6ed4f6",
   "CustomDeck": {
@@ -26,9 +26,9 @@
     }
   },
   "DeckIDs": [
-    369532,
     449734,
-    369533
+    369533,
+    369532
   ],
   "GUID": "6ed4f6",
   "Hands": false,

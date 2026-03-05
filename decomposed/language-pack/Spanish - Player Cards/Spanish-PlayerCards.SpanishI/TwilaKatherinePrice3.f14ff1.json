@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/xPqKjre.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Perdida en un sueño",
-  "GMNotes": "{\"id\": \"06244\"}",
+  "GMNotes": "{\n  \"id\": \"06244\"\n}",
   "GUID": "f14ff1",
   "Name": "Card",
   "Nickname": "Twila Katherine Price (3)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

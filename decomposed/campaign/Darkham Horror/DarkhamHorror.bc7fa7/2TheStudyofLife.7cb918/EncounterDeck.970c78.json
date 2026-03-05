@@ -1,36 +1,36 @@
 {
   "ContainedObjects_order": [
-    "CryptChill.ab3719",
-    "Marked.e2847e",
-    "CryptChill.16d6d6",
-    "Acolyte.50fdc5",
-    "ObscuringFog.c4ce76",
-    "OccultResearcher.2a7267",
-    "SettingSun.c68c01",
-    "InscrutableWritings.42c2e6",
-    "DayGrowsDim.2cc806",
+    "WizardoftheOrder.d36612",
     "TheCollector.a05e96",
     "SettingSun.601386",
-    "Collected.d9e597",
-    "LockedDoor.4904d0",
-    "Marked.d1809d",
-    "Acolyte.50fdc5",
-    "MysteriousChanting.b347d1",
-    "Collected.5216d8",
-    "InscrutableWritings.35e65a",
+    "SettingSun.601386",
+    "RumorsandWhispers.2b677b",
+    "RumorsandWhispers.2b677b",
     "OccultResearcher.2a7267",
     "OccultResearcher.2a7267",
-    "DayGrowsDim.dee167",
-    "Acolyte.50fdc5",
-    "WizardoftheOrder.d36612",
-    "DarkUnknown.c1d30e",
+    "OccultResearcher.2a7267",
     "ObscuringFog.50e716",
-    "RumorsandWhispers.864bec",
-    "LockedDoor.ab3719",
-    "MysteriousChanting.d63054",
+    "ObscuringFog.50e716",
+    "MysteriousChanting.b347d1",
+    "MysteriousChanting.b347d1",
+    "Marked.d1809d",
+    "Marked.d1809d",
+    "LockedDoor.4904d0",
+    "LockedDoor.4904d0",
+    "InscrutableWritings.35e65a",
+    "InscrutableWritings.35e65a",
+    "DayGrowsDim.2cc806",
+    "DayGrowsDim.2cc806",
     "DarkUnknown.8f281a",
+    "DarkUnknown.8f281a",
+    "CryptChill.16d6d6",
+    "CryptChill.16d6d6",
+    "Collected.d9e597",
+    "Collected.5216d8",
     "Collected.2785f5",
-    "RumorsandWhispers.2b677b"
+    "Acolyte.50fdc5",
+    "Acolyte.50fdc5",
+    "Acolyte.50fdc5"
   ],
   "ContainedObjects_path": "EncounterDeck.970c78",
   "CustomDeck": {
@@ -40,8 +40,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5608": {
       "BackIsHidden": true,
@@ -49,8 +48,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1751317714659894221/E362AA80E43945E384F78ED84787E0F29AEEDB5B/",
       "NumHeight": 2,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5619": {
       "BackIsHidden": true,
@@ -58,8 +56,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1692775562546027975/66558E69009BFD4D193CBDCE9B40198546F319FF/",
       "NumHeight": 2,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5623": {
       "BackIsHidden": true,
@@ -68,7 +65,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5624": {
       "BackIsHidden": true,
@@ -77,25 +74,25 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
-    "5649": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1688272853818416433/8F6A0A62102680D64ED245B50F09D3CDD54D21F8/",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": false
-    },
-    "5650": {
+    "5632": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1692776091366396531/E6825A023D5A38CA8FF3CEBC8C845A0EB41B142F/",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
+    },
+    "5634": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1688272853818416433/8F6A0A62102680D64ED245B50F09D3CDD54D21F8/",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
     },
     "5652": {
       "BackIsHidden": true,
@@ -104,7 +101,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5656": {
       "BackIsHidden": true,
@@ -113,7 +110,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5657": {
       "BackIsHidden": true,
@@ -122,7 +119,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5658": {
       "BackIsHidden": true,
@@ -131,7 +128,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5660": {
       "BackIsHidden": true,
@@ -140,41 +137,41 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [
-    554820,
-    566000,
-    554820,
-    554822,
-    554821,
-    565200,
-    562400,
-    565000,
-    562300,
+    554823,
     560804,
     562400,
-    565600,
-    554827,
-    566000,
-    554822,
-    554824,
-    565700,
-    565000,
+    562400,
+    563400,
+    563400,
     565200,
     565200,
-    562300,
-    554822,
-    554823,
-    561901,
+    565200,
     554821,
-    564900,
-    554827,
+    554821,
     554824,
+    554824,
+    566000,
+    566000,
+    554827,
+    554827,
+    563200,
+    563200,
+    562300,
+    562300,
     561901,
+    561901,
+    554820,
+    554820,
+    565600,
+    565700,
     565800,
-    564900
+    554822,
+    554822,
+    554822
   ],
   "GUID": "970c78",
   "Hands": false,

@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11034583148196031912/153066A7A21DE0BFCC237324DC9A40E42C3A72CC/",
       "NumHeight": 2,
       "NumWidth": 5,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Союзник. Путешественник. Неколебимая.",
   "GMNotes": "{\n  \"id\": \"08590\"\n}",
   "GUID": "31f30f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Доктор Мала Синха",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

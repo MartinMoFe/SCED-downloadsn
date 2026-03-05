@@ -14,11 +14,9 @@
   "Description": "Париж. Метро.",
   "GMNotes": "{\n  \"id\": \"03213\"\n}",
   "GUID": "78e730",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Гранд-опера",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

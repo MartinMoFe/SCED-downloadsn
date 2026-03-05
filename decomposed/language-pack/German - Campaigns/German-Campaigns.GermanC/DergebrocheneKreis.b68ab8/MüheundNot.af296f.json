@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05312\"\n}",
   "GUID": "af296f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mühe und Not",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

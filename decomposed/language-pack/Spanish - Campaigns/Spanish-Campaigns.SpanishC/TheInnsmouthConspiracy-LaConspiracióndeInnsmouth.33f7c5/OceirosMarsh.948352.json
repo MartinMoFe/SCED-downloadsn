@@ -1,0 +1,23 @@
+{
+  "CardID": 461700,
+  "CustomDeck": {
+    "4617": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/BO2Xf1E.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Guardián del faro",
+  "GMNotes": "{\n  \"id\": \"07253\"\n}",
+  "GUID": "948352",
+  "Name": "Card",
+  "Nickname": "Oceiros Marsh",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

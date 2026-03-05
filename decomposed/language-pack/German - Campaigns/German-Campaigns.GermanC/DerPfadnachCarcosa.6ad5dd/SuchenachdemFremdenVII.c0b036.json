@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03322a\"\n}",
   "GUID": "c0b036",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Suche nach dem Fremden (V.II)",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 470824,
+  "CustomDeck": {
+    "4708": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/czq5IoX.jpg",
+      "FaceURL": "https://i.imgur.com/pN9LrCR.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Camino de los joyeros",
+  "GMNotes": "{\n  \"id\": \"09583\"\n}",
+  "GUID": "f67aa5",
+  "Name": "Card",
+  "Nickname": "Gran Bazar",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

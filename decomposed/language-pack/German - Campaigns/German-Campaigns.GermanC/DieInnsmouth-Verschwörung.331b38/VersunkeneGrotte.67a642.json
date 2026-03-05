@@ -14,11 +14,9 @@
   "Description": "Endgültige Tiefen",
   "GMNotes": "{\n  \"id\": \"07246\"\n}",
   "GUID": "67a642",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Versunkene Grotte",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

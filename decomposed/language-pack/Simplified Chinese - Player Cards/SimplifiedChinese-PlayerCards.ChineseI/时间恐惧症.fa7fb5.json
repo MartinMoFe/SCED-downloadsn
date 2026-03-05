@@ -1,5 +1,5 @@
 {
-  "CardID": "1154603",
+  "CardID": 1154603,
   "CustomDeck": {
     "11546": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17546096094565128208/CF9D0A9E0F1444F52654518E472B5B15207A4B45/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02039\"}",
+  "GMNotes": "{\n  \"id\": \"02039\"\n}",
   "GUID": "fa7fb5",
   "Name": "Card",
   "Nickname": "时间恐惧症",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

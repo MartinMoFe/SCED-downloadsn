@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/QnoK3zZ.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Reputado escatólogo",
-  "GMNotes": "{\"id\": \"03112-t\"}",
+  "GMNotes": "{\n  \"id\": \"03112-t\"\n}",
   "GUID": "d0eb24",
   "Name": "Card",
   "Nickname": "David Renfield (Tabú)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06227\"\n}",
   "GUID": "1d7669",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mondgebundenes Byakhee",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

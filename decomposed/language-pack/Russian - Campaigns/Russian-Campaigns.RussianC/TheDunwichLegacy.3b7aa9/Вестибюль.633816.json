@@ -14,11 +14,9 @@
   "Description": "Мискатоник.",
   "GMNotes": "{\n  \"id\": \"02127\"\n}",
   "GUID": "633816",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Вестибюль",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

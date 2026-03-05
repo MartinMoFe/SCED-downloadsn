@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06294\"\n}",
   "GUID": "67da32",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Traumfresser",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

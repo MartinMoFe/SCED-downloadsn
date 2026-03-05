@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"83018\"\n}",
   "GUID": "c5e7c8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Интриги в тёмном запределье",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

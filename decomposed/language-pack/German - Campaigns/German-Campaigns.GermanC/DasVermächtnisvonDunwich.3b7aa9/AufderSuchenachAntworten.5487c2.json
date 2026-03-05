@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02199\"\n}",
   "GUID": "5487c2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Auf der Suche nach Antworten",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

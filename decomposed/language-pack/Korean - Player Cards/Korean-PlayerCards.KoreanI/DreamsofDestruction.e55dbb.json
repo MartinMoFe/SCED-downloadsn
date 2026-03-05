@@ -14,11 +14,9 @@
   "Description": "The Future is Not Fixed",
   "GMNotes": "{\n  \"id\": \"11759b\"\n}",
   "GUID": "e55dbb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dreams of Destruction",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

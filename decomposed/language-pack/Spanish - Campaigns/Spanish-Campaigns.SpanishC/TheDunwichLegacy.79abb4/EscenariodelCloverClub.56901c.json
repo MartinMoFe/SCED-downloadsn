@@ -1,0 +1,23 @@
+{
+  "CardID": 508804,
+  "CustomDeck": {
+    "5088": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/hQXO7rG.jpg",
+      "FaceURL": "https://i.imgur.com/jXuOn1T.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51017\"\n}",
+  "GUID": "56901c",
+  "Name": "Card",
+  "Nickname": "Escenario del Clover Club",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

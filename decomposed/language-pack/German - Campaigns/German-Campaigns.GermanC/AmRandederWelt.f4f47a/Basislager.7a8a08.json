@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08557\"\n}",
   "GUID": "7a8a08",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Basislager",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

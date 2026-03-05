@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"10701\"\n}",
   "GUID": "c6707d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Bertie Musgrave",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

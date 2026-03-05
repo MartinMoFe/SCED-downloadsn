@@ -1,0 +1,24 @@
+{
+  "CardID": 586014,
+  "CustomDeck": {
+    "5860": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fNwS83L.jpg",
+      "FaceURL": "https://i.imgur.com/tb4Yu0N.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Celda Familiar",
+  "GMNotes": "{\n  \"id\": \"03181\"\n}",
+  "GUID": "b5cc0b",
+  "Name": "Card",
+  "Nickname": "Aislamiento de pacientes",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

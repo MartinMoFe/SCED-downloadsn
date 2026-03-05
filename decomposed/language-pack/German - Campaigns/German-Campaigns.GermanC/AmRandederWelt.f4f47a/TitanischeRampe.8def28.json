@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08683\"\n}",
   "GUID": "8def28",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Titanische Rampe",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

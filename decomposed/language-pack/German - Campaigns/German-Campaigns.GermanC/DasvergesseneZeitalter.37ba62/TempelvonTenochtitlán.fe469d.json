@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04176\"\n}",
   "GUID": "fe469d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tempel von Tenochtitlán",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": "535040",
+  "CardID": 535040,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Избранник. Служитель.",
   "GMNotes": "{\n  \"id\": \"08010\"\n}",
   "GUID": "d64832",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Лили Чен",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

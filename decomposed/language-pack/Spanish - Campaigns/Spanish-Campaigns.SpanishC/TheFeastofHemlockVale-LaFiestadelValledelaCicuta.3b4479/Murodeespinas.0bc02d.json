@@ -1,0 +1,22 @@
+{
+  "CardID": 872803,
+  "CustomDeck": {
+    "8728": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/yGVahkc.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10736\"\n}",
+  "GUID": "0bc02d",
+  "Name": "Card",
+  "Nickname": "Muro de espinas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

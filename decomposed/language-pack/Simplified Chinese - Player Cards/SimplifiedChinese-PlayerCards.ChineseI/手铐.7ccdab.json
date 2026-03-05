@@ -1,5 +1,5 @@
 {
-  "CardID": "1155520",
+  "CardID": 1155520,
   "CustomDeck": {
     "11555": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14098876279967619914/81920904C5C18E42AA35CEB69467562295BC6377/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04265\"}",
+  "GMNotes": "{\n  \"id\": \"04265\"\n}",
   "GUID": "7ccdab",
   "Name": "Card",
   "Nickname": "手铐",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

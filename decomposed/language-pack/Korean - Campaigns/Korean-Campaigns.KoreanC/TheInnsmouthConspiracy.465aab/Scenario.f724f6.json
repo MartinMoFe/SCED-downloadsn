@@ -14,11 +14,9 @@
   "Description": "Devil Reef",
   "GMNotes": "{\n  \"id\": \"07163\"\n}",
   "GUID": "f724f6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

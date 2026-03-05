@@ -14,12 +14,10 @@
   "Description": "The Fed",
   "GMNotes": "{\n  \"id\": \"01001\"\n}",
   "GUID": "e46857",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Roland Banks (promo version)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

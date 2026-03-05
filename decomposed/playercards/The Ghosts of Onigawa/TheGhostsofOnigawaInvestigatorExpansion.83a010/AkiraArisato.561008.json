@@ -8,10 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
-  "GMNotes_path": "TheGhostsofOnigawaInvestigatorExpansion.83a010/AkiraArisato.561008.gmnotes",
+  "GMNotes": "{\n  \"id\": \"MA004-m\",\n  \"type\": \"Minicard\",\n  \"cycle\": \"The Ghosts of Onigawa\"\n}",
   "GUID": "561008",
   "Name": "CardCustom",
   "Nickname": "Akira Arisato",

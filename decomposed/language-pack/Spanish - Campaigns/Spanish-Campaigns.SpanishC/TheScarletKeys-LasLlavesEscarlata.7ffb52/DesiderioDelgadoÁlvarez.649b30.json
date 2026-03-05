@@ -1,0 +1,23 @@
+{
+  "CardID": 470216,
+  "CustomDeck": {
+    "4702": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/HKrm23S.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Rojo en su libro de cuentas",
+  "GMNotes": "{\n  \"id\": \"09758\"\n}",
+  "GUID": "649b30",
+  "Name": "Card",
+  "Nickname": "Desiderio Delgado Álvarez",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

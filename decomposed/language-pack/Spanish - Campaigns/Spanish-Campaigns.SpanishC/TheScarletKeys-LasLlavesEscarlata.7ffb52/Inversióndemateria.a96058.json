@@ -1,0 +1,22 @@
+{
+  "CardID": 471217,
+  "CustomDeck": {
+    "4712": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/xfnGjqp.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09738\"\n}",
+  "GUID": "a96058",
+  "Name": "Card",
+  "Nickname": "Inversión de materia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

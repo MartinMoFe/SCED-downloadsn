@@ -14,11 +14,9 @@
   "Description": "Мехико. Современная.",
   "GMNotes": "{\n  \"id\": \"04170\"\n}",
   "GUID": "c8f441",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Парк Чапультепек",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

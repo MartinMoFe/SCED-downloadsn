@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09686\"\n}",
   "GUID": "573cc8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Red Ruin",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

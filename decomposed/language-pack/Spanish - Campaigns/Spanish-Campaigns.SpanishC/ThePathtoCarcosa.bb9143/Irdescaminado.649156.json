@@ -1,0 +1,22 @@
+{
+  "CardID": 2903,
+  "CustomDeck": {
+    "29": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/sCR5oNq.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03145\"\n}",
+  "GUID": "649156",
+  "Name": "Card",
+  "Nickname": "Ir descaminado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

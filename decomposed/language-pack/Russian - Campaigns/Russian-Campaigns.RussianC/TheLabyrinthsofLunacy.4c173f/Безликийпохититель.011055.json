@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15447020844113559465/3A055E2458A3D603C11147A8269E8352755D62BD/",
       "NumHeight": 4,
       "NumWidth": 6,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Монстр. Ночной призрак.",
   "GMNotes": "{\n  \"id\": \"70052\"\n}",
   "GUID": "011055",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Безликий похититель",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

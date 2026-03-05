@@ -1,0 +1,31 @@
+{
+  "CardID": 100,
+  "CustomDeck": {
+    "1": {
+      "BackIsHidden": true,
+      "BackURL": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1768747815/XXX-Laurie_Burke-2_t6j1yz.png",
+      "FaceURL": "https://res.cloudinary.com/dtipt8wlp/image/upload/v1768747815/XXX-Laurie_Burke-1_uawrvt.png",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "The Medium",
+  "GMNotes_path": "LaurieBurke.d69c27.gmnotes",
+  "GUID": "d69c27",
+  "LuaScript": "require(\"RandomHelpers/LaurieBurke\")",
+  "Name": "CardCustom",
+  "Nickname": "Laurie Burke",
+  "Tags": [
+    "CardWithHelper",
+    "Investigator",
+    "PlayerCard"
+  ],
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 0.82,
+    "scaleY": 1,
+    "scaleZ": 0.82
+  }
+}

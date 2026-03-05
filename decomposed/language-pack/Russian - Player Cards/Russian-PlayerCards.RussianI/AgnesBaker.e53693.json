@@ -15,7 +15,6 @@
   "GMNotes": "{\n  \"id\": \"01004-m\"\n}",
   "GUID": "e53693",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Агнес Бейкер",
   "Snap": false,
@@ -23,7 +22,6 @@
     "2": "AgnesBaker.8c997c"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

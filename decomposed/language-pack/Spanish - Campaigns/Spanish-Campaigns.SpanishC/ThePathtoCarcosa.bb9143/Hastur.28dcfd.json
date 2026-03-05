@@ -1,0 +1,23 @@
+{
+  "CardID": 35902,
+  "CustomDeck": {
+    "359": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/uAdkDWj.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "El Rey Andrajoso",
+  "GMNotes": "{\n  \"id\": \"03334\"\n}",
+  "GUID": "28dcfd",
+  "Name": "Card",
+  "Nickname": "Hastur",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

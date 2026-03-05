@@ -1,11 +1,13 @@
 {
   "id": "08ca3484-1dcd-4da1-a142-53e117fe2fd7",
+  "TtsZoopGuid": "08ca3484-1dcd-4da1-a142-53e117fe2fd7",
   "type": "Location",
   "class": "Mythos",
   "traits": "Passageway.",
   "locationFront": {
+    "victory": 1,
     "icons": "Star",
-    "connections": "Heart|Spade",
+    "connections": "Heart|Moon",
     "uses": [
       {
         "countPerInvestigator": 1,
@@ -16,7 +18,6 @@
   },
   "locationBack": {
     "icons": "Star",
-    "connections": "Heart|Spade"
-  },
-  "TtsZoopGuid": "08ca3484-1dcd-4da1-a142-53e117fe2fd7"
+    "connections": "Heart|Moon"
+  }
 }

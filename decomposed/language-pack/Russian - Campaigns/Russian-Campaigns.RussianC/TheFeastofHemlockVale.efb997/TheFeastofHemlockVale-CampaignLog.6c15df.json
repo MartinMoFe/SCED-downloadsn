@@ -20,7 +20,6 @@
   "GMNotes": "{\n  \"id\": \"CL1001\"\n}",
   "GUID": "6c15df",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"localization/ru/TheFeastOfHemlockVale/CampaignLog1\")",
   "Name": "Custom_Token",
   "Nickname": "Пир в Хемлок-Вейл - Журнал Кампании",
@@ -28,7 +27,6 @@
     "2": "TheFeastofHemlockVale-CampaignLog.a62ee7"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 3.25,
     "scaleY": 1,
     "scaleZ": 3.25

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09015-m\"\n}",
   "GUID": "3b3b7a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Даррелл Симмонс",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

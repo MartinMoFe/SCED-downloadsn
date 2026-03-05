@@ -1,0 +1,23 @@
+{
+  "CardID": 45902,
+  "CustomDeck": {
+    "459": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/XzRQPWs.jpg",
+      "FaceURL": "https://i.imgur.com/vqItqoa.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53032\"\n}",
+  "GUID": "ba4efc",
+  "Name": "Card",
+  "Nickname": "La finca invadida de vegetación",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

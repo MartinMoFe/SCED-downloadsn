@@ -14,11 +14,9 @@
   "Description": "Weitreichendes Netz",
   "GMNotes": "{\n  \"id\": \"06344\"\n}",
   "GUID": "5d9e62",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das große Netz",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

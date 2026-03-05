@@ -1,0 +1,23 @@
+{
+  "CardID": 48330,
+  "CustomDeck": {
+    "483": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/BPhLlXu.jpg",
+      "FaceURL": "https://i.imgur.com/gckBSts.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"52062\"\n}",
+  "GUID": "3fe952",
+  "Name": "Card",
+  "Nickname": "La sala del trono",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

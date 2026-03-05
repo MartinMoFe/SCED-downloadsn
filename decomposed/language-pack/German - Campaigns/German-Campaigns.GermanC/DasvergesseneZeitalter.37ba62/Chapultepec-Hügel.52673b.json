@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04178\"\n}",
   "GUID": "52673b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Chapultepec-Hügel",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

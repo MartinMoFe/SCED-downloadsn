@@ -1,0 +1,23 @@
+{
+  "CardID": 456920,
+  "CustomDeck": {
+    "4569": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/6URSE7S.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Mecánica de aeroplanos",
+  "GMNotes": "{\n  \"id\": \"08543\"\n}",
+  "GUID": "33806f",
+  "Name": "Card",
+  "Nickname": "Takada Hiroko",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07248\"\n}",
   "GUID": "b3ff4a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Brutraum der Tiefen Wesen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

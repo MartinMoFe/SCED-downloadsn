@@ -1,0 +1,22 @@
+{
+  "CardID": 470619,
+  "CustomDeck": {
+    "4706": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/yo341se.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09589\"\n}",
+  "GUID": "8bf21f",
+  "Name": "Card",
+  "Nickname": "Luz desde el vacío",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

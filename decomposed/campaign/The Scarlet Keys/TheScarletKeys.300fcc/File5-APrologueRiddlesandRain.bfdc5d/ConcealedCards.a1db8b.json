@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
-    "TheRedGlovedMan.6e4edc",
-    "CoterieAgentA.d9edf0",
+    "CoterieAgentC.d1c31f",
     "CoterieAgentB.c6d5b6",
-    "CoterieAgentC.d1c31f"
+    "CoterieAgentA.d9edf0",
+    "TheRedGlovedMan.6e4edc"
   ],
   "ContainedObjects_path": "ConcealedCards.a1db8b",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387228454/8FD6E1E980FEA40DA5FAD15015EE96E5B7FD78BC/",
       "NumHeight": 5,
       "NumWidth": 6,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    587500,
-    587501,
+    587503,
     587502,
-    587503
+    587501,
+    587500
   ],
   "GUID": "a1db8b",
   "Hands": false,

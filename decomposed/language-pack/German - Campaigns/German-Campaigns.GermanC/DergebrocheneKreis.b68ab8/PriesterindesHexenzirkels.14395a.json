@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05091\"\n}",
   "GUID": "14395a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Priesterin des Hexenzirkels",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

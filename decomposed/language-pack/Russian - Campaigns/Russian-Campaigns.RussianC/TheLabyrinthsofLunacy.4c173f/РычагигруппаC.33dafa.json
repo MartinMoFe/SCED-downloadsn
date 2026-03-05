@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"70009\"\n}",
   "GUID": "33dafa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Рычаги (группа C)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

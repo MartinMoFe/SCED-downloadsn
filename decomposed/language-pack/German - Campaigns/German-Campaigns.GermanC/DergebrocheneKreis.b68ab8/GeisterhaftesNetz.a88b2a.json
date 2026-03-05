@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05177\"\n}",
   "GUID": "a88b2a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Geisterhaftes Netz",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/ooG395S.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60415\"}",
+  "GMNotes": "{\n  \"id\": \"60415\"\n}",
   "GUID": "8cdfca",
   "Name": "Card",
   "Nickname": "Destinos paralelos",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

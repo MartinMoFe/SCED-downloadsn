@@ -14,11 +14,9 @@
   "Description": "Havana.",
   "GMNotes": "{\n  \"id\": \"09601\"\n}",
   "GUID": "129d21",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "El Malecón",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06290\"\n}",
   "GUID": "f38c9a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Reise durch die kalte Öde",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

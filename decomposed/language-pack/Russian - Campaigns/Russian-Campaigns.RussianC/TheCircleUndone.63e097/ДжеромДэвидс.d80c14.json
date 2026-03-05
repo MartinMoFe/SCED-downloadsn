@@ -14,12 +14,10 @@
   "Description": "Ассистент. Серебряные Сумерки.",
   "GMNotes": "{\n  \"id\": \"05047\"\n}",
   "GUID": "d80c14",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Джером Дэвидс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

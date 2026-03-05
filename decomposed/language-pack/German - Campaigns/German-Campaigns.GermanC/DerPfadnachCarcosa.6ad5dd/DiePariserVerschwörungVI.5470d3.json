@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03204\"\n}",
   "GUID": "5470d3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Pariser Verschwörung (V. I)",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03181\"\n}",
   "GUID": "67ef97",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Patient Confinement",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

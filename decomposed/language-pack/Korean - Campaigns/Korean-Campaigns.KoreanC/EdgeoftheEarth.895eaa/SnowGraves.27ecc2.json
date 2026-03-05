@@ -14,12 +14,10 @@
   "Description": "Mainland. Uncharted.",
   "GMNotes": "{\n  \"id\": \"08509\"\n}",
   "GUID": "27ecc2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Snow Graves",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

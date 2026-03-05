@@ -1,5 +1,5 @@
 {
-  "CardID": "1156104",
+  "CardID": 1156104,
   "CustomDeck": {
     "11561": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9582882938484459709/1C639FB3C5153FF7700E724439A84C44E7E39A8B/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06010\"}",
+  "GMNotes": "{\n  \"id\": \"06010\"\n}",
   "GUID": "6f120c",
   "Name": "Card",
   "Nickname": "赏金合约",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

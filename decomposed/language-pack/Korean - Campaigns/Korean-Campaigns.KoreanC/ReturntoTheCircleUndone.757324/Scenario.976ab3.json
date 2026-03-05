@@ -14,11 +14,9 @@
   "Description": "Union and Disillusion",
   "GMNotes": "{\n  \"id\": \"05238\"\n}",
   "GUID": "976ab3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

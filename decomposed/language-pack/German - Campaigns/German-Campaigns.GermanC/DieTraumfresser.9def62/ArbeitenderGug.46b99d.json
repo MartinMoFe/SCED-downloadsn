@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06060\"\n}",
   "GUID": "46b99d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Arbeitender Gug",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

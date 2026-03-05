@@ -15,7 +15,6 @@
   "Description": "Путешественник.",
   "GMNotes": "{\n  \"id\": \"04002\"\n}",
   "GUID": "07c37d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Урсула Даунс",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "UrsulaDowns.c8e575"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

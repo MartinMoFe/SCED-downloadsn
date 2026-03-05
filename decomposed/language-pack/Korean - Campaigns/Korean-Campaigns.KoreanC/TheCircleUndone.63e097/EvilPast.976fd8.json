@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2260310642879882314/26A9DD9826EE51C6511288CF0F8FD4F088CCBAB3/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Curse.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Evil Past",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

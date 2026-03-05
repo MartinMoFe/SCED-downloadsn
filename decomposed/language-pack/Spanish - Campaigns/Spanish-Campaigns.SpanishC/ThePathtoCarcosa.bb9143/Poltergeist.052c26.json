@@ -1,0 +1,22 @@
+{
+  "CardID": 2816,
+  "CustomDeck": {
+    "28": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/olhTOA3.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03093\"\n}",
+  "GUID": "052c26",
+  "Name": "Card",
+  "Nickname": "Poltergeist",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

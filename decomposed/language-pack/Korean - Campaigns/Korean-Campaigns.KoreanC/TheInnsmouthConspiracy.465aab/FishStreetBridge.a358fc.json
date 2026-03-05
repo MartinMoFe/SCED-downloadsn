@@ -14,11 +14,9 @@
   "Description": "Innsmouth. Coastal. Midtown.",
   "GMNotes": "{\n  \"id\": \"07136\"\n}",
   "GUID": "a358fc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fish Street Bridge",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

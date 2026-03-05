@@ -1,0 +1,24 @@
+{
+  "CardID": 470825,
+  "CustomDeck": {
+    "4708": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/czq5IoX.jpg",
+      "FaceURL": "https://i.imgur.com/pN9LrCR.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Talismán de la oscuridad infinita",
+  "GMNotes": "{\n  \"id\": \"09590\"\n}",
+  "GUID": "a024ca",
+  "Name": "Card",
+  "Nickname": "El antiprisma monstruoso",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

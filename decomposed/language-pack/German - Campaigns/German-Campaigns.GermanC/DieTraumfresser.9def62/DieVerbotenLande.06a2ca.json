@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06134\"\n}",
   "GUID": "06a2ca",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Verboten Lande",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

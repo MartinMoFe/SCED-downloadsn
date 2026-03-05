@@ -2,9 +2,9 @@
   "ContainedObjects_order": [
     "NewChurchGreen.d1ef9c",
     "InnsmouthJail.f63738",
-    "SawboneAlley.899c2c",
     "TheHouseonWaterStreet.e4f53a",
     "ShorewardSlums.24e42d",
+    "SawboneAlley.899c2c",
     "EsotericOrderofDagon.28c301"
   ],
   "ContainedObjects_path": "Hideouts.f3ec1a",
@@ -15,16 +15,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
     369508,
     369507,
-    369504,
     369506,
     369505,
+    369504,
     369503
   ],
   "GUID": "f3ec1a",

@@ -14,11 +14,9 @@
   "Description": "\"Cryptozoologist\"",
   "GMNotes": "{\n  \"id\": \"09764\"\n}",
   "GUID": "48fc4e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dr. Dewi Irawan",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -15,7 +15,6 @@
   "Description": "Ясновидящая.",
   "GMNotes": "{\n  \"id\": \"60401\"\n}",
   "GUID": "a2cd75",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Жаклин Файн",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "JacquelineFine.ddf0d6"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

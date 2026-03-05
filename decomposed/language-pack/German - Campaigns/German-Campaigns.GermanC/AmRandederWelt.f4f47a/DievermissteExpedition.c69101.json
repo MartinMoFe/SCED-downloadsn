@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08526\"\n}",
   "GUID": "c69101",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die vermisste Expedition",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

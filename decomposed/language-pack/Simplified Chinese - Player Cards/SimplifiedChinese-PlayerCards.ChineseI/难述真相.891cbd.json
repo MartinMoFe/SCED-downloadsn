@@ -2,23 +2,19 @@
   "CardID": 1205504,
   "CustomDeck": {
     "12055": {
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16766980236628680717/FE4D05F2EF0BBBF021944A84E2E7AF10FAC9614C/",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "NumWidth": 10,
-      "NumHeight": 3,
       "BackIsHidden": true,
-      "UniqueBack": false,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16766980236628680717/FE4D05F2EF0BBBF021944A84E2E7AF10FAC9614C/",
+      "NumHeight": 3,
+      "NumWidth": 10,
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60432\"}",
+  "GMNotes": "{\n  \"id\": \"60432\"\n}",
   "GUID": "891cbd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "难述真相",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

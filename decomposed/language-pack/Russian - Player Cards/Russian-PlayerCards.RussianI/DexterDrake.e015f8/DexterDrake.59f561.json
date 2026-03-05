@@ -1,5 +1,5 @@
 {
-  "CardID": "535035",
+  "CardID": 535035,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Чародей. Ветеран.",
   "GMNotes": "{\n  \"id\": \"07004\"\n}",
   "GUID": "59f561",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Декстер Дрейк",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

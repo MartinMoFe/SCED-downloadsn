@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07174b\"\n}",
   "GUID": "54b4ee",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schmugglerversteck",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

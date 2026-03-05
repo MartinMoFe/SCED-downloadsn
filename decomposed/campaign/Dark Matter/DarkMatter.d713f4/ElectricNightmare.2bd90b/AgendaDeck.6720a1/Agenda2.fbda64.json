@@ -8,10 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
-  "GMNotes": "{\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 10}",
+  "GMNotes": "{\n  \"id\": \"DM044\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 10}",
   "GUID": "fbda64",
   "Name": "CardCustom",
   "Nickname": "Agenda 2",

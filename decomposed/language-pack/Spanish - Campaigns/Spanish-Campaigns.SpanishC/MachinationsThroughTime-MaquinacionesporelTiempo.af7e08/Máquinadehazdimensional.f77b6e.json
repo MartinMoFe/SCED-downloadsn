@@ -1,0 +1,22 @@
+{
+  "CardID": 459102,
+  "CustomDeck": {
+    "4591": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/HbYHpuY.jpg",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"87032\"\n}",
+  "GUID": "f77b6e",
+  "Name": "Card",
+  "Nickname": "Máquina de haz dimensional",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

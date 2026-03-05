@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09666\"\n}",
   "GUID": "18e6f6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Harvester of Woe",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

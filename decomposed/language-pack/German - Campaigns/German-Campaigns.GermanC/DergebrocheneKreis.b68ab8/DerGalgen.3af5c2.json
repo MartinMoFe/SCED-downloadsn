@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05170\"\n}",
   "GUID": "3af5c2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Galgen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

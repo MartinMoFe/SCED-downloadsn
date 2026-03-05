@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/jft6qv0.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03015\"}",
+  "GMNotes": "{\n  \"id\": \"03015\"\n}",
   "GUID": "f5822e",
   "Name": "Card",
   "Nickname": "Espíritus airados",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

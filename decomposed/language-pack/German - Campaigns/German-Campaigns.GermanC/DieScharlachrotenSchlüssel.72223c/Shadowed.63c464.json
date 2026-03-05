@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09587\"\n}",
   "GUID": "63c464",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Shadowed",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

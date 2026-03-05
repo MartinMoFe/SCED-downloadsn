@@ -1,0 +1,22 @@
+{
+  "CardID": 456500,
+  "CustomDeck": {
+    "4565": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/IHeLIn7.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07053\"\n}",
+  "GUID": "7b3a12",
+  "Name": "Card",
+  "Nickname": "La amalgama",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "CardID": 2530318,
+  "CustomDeck": {
+    "25303": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14185674811240596056/E419FB7ADB6F1AA84C57AAAB34722AF22B7EB4D9/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17968412508998547192/50865FEE4EF7F4091E57E4CF2983F8C20306D610/",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51036\"\n}",
+  "GUID": "bb8675",
+  "Name": "Card",
+  "Nickname": "奥斯本杂货店",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

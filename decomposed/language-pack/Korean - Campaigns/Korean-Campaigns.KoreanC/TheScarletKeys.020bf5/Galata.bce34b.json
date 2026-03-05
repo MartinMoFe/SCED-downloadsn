@@ -14,11 +14,9 @@
   "Description": "Istanbul.",
   "GMNotes": "{\n  \"id\": \"09573\"\n}",
   "GUID": "bce34b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Galata",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

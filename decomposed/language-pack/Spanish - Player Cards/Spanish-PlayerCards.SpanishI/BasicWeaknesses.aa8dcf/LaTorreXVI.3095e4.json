@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/3MRpf6t.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Circunstancias fuera de tu control",
-  "GMNotes": "{\"id\": \"05042\"}",
+  "GMNotes": "{\n  \"id\": \"05042\"\n}",
   "GUID": "3095e4",
   "Name": "Card",
   "Nickname": "La Torre • XVI",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

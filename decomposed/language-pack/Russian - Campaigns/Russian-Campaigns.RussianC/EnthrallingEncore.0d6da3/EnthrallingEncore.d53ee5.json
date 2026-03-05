@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"90094\"\n}",
   "GUID": "d53ee5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Увлекательный бис",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

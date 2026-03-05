@@ -1,0 +1,24 @@
+{
+  "CardID": 473003,
+  "CustomDeck": {
+    "4730": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/Hw0eGHx.jpg",
+      "FaceURL": "https://i.imgur.com/Nzz54ls.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02122\"\n}",
+  "GUID": "40f56f",
+  "Name": "Card",
+  "Nickname": "Encontrar una forma de entrar",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

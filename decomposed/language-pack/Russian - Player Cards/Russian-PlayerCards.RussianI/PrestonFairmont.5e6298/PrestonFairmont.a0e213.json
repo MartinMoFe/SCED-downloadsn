@@ -1,5 +1,5 @@
 {
-  "CardID": "535023",
+  "CardID": 535023,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Серебряные Сумерки. Бомонд.",
   "GMNotes": "{\n  \"id\": \"05003\"\n}",
   "GUID": "a0e213",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Престон Фэрмонт",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

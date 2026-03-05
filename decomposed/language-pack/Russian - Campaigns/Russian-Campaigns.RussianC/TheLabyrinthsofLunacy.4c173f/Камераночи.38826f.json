@@ -14,11 +14,9 @@
   "Description": "Тюрьма.",
   "GMNotes": "{\n  \"id\": \"70023\"\n}",
   "GUID": "38826f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Камера ночи",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

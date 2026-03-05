@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/aIEBgDK.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "El lucero del alba",
-  "GMNotes": "{\"id\": \"10039\"}",
+  "GMNotes": "{\n  \"id\": \"10039\"\n}",
   "GUID": "61ba7f",
   "Name": "Card",
   "Nickname": "Ascensión evanescente",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

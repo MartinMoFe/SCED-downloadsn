@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03074\"\n}",
   "GUID": "981fa3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Внутренний двор",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

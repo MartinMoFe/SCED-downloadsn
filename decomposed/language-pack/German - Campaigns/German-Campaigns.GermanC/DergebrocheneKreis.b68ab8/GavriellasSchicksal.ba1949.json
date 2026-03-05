@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05262\"\n}",
   "GUID": "ba1949",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gavriellas Schicksal",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 469409,
+  "CustomDeck": {
+    "4694": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LhU7wG0.jpg",
+      "FaceURL": "https://i.imgur.com/QsdadOj.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Canica de rubí macabra",
+  "GMNotes": "{\n  \"id\": \"09519\"\n}",
+  "GUID": "77f1cd",
+  "Name": "Card",
+  "Nickname": "El ojo de cuervos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

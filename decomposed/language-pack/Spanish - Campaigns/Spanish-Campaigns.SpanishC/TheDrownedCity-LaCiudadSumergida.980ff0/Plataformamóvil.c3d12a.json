@@ -1,0 +1,24 @@
+{
+  "CardID": 867102,
+  "CustomDeck": {
+    "8671": {
+      "BackIsHidden": false,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/50209154454753980/1DA00B925C18481D76E0B2F65B77C9BE4125EB86/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/50209154454753626/A709138D860C275B22B6706C5EBB52AEAE237DB6/",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Puesto de observación",
+  "GMNotes": "{\n  \"id\": \"11594\"\n}",
+  "GUID": "c3d12a",
+  "Name": "Card",
+  "Nickname": "Plataforma móvil",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

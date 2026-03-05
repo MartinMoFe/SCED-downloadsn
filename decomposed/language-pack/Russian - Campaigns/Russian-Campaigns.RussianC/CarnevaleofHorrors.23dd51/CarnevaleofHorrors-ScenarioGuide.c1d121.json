@@ -13,11 +13,9 @@
   "GMNotes": "{\n  \"id\": \"CG82\"\n}",
   "GUID": "c1d121",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Custom_PDF",
   "Nickname": "Карнавал Ужасов - Книга Сценария",
   "Transform": {
-    "rotY": 270,
     "scaleX": 2.2,
     "scaleY": 1,
     "scaleZ": 2.2

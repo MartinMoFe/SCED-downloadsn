@@ -8,17 +8,16 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "El arqueólogo",
-  "GMNotes": "{\"id\": \"08007-p\"}",
+  "GMNotes": "{\n  \"id\": \"08007-p\"\n}",
   "GUID": "2667d9",
   "Name": "Card",
   "Nickname": "Monterrey Jack",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

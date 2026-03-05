@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07335\"\n}",
   "GUID": "ee29c6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tückische Tiefen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

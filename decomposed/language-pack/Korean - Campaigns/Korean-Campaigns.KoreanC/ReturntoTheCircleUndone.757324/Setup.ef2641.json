@@ -14,11 +14,9 @@
   "Description": "Return to The Secret Name",
   "GMNotes": "{\n  \"id\": \"54029\"\n}",
   "GUID": "ef2641",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

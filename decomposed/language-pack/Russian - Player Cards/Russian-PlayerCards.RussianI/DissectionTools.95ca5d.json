@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13721521187253012821/7A700D7AD3521BD1F62DB3990B33F7ADED6F0C8F/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Вещь. Инструмент. Наука.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Инструменты для вскрытия",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08639\"\n}",
   "GUID": "a39cf3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verschütterter Durchgang",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

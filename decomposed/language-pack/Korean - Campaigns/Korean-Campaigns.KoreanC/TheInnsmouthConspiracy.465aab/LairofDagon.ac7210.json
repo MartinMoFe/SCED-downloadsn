@@ -14,11 +14,9 @@
   "Description": "Y'ha-nthlei. Lair.",
   "GMNotes": "{\n  \"id\": \"07291\"\n}",
   "GUID": "ac7210",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Lair of Dagon",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

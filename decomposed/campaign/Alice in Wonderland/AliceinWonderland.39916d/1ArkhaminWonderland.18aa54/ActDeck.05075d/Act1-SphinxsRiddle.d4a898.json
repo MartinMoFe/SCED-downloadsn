@@ -1,5 +1,5 @@
 {
-  "CardID": 269844,
+  "CardID": 266244,
   "CustomDeck": {
     "2662": {
       "BackIsHidden": true,
@@ -13,7 +13,6 @@
   },
   "GMNotes_path": "AliceinWonderland.39916d/1ArkhaminWonderland.18aa54/ActDeck.05075d/Act1-SphinxsRiddle.d4a898.gmnotes",
   "GUID": "d4a898",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Act 1 - Sphinx's Riddle",
   "SidewaysCard": true,

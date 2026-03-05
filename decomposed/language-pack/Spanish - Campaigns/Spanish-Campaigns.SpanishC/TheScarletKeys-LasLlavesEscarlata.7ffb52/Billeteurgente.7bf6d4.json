@@ -1,0 +1,22 @@
+{
+  "CardID": 469603,
+  "CustomDeck": {
+    "4696": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/dg6BNUr.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09765\"\n}",
+  "GUID": "7bf6d4",
+  "Name": "Card",
+  "Nickname": "Billete urgente",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

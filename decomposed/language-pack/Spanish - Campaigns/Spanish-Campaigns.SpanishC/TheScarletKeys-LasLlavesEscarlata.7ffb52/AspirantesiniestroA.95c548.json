@@ -1,0 +1,22 @@
+{
+  "CardID": 470612,
+  "CustomDeck": {
+    "4706": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/yo341se.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09586a\"\n}",
+  "GUID": "95c548",
+  "Name": "Card",
+  "Nickname": "Aspirante siniestro (A)",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

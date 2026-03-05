@@ -14,11 +14,9 @@
   "Description": "Dunwich. Central.",
   "GMNotes": "{\n  \"id\": \"02201\"\n}",
   "GUID": "47ff0e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Village Commons",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Aberrant Gateway",
   "GMNotes": "{\n  \"id\": \"50013\"\n}",
   "GUID": "670914",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Study",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

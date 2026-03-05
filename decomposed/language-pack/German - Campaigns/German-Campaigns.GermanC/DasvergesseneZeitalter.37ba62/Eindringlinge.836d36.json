@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04045\"\n}",
   "GUID": "836d36",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Eindringlinge",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

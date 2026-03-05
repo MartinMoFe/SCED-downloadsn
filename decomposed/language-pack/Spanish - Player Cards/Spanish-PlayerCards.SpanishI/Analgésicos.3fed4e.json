@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/LUhZf7j.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02117\"}",
+  "GMNotes": "{\n  \"id\": \"02117\"\n}",
   "GUID": "3fed4e",
   "Name": "Card",
   "Nickname": "Analgésicos",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

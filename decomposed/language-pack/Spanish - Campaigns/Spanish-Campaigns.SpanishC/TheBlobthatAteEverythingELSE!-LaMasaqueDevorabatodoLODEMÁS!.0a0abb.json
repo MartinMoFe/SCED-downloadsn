@@ -1,0 +1,51 @@
+{
+  "ColorDiffuse": {
+    "b": 0,
+    "g": 1,
+    "r": 0.6171
+  },
+  "ContainedObjects_order": [
+    "Ácidodelarealidad.c4ce94",
+    "Ácidodelarealidad.051f20",
+    "Voraz.2bca4a",
+    "Viejacolinadeenterramiento.829f47",
+    "Vehículoblindado.5bb208",
+    "Sujeto5U-21.e724ed",
+    "Regurgitación.948cd7",
+    "Reclamarelcerebro.7a8bb6",
+    "Recipientedecerebro.ec95c8",
+    "Nubecorrosiva.fe3a78",
+    "Molinoabandonado.3cfe03",
+    "Matadero.1ac5ac",
+    "LaMasaqueDevorabaTodoLODEMÁS!.5cebb4",
+    "InvestigadorMi-Go.e8c52c",
+    "Instrumentalalienígena.da07ae",
+    "Evitarsuinvestigación.b5808f",
+    "Escoltarelcoche.b01e86",
+    "DestructorMi-Go.6dd9a0",
+    "CientíficoMi-Go.01ddb6",
+    "Calleprincipal.63dbf4",
+    "Agentesdelgobierno.52ae80",
+    "Aberraciónreplicadora.f673bf",
+    "Aberraciónreplicadora.e5c320",
+    "Aberraciónreplicadora.da6387",
+    "Aberraciónreplicadora.7c13cb",
+    "Aberraciónreplicadora.4285e8",
+    "Aberraciónreplicadora.421118",
+    "Aberraciónreplicadora.330605",
+    "Aberraciónreplicadora.20f0e8",
+    "Aberraciónreplicadora.0f0d1f"
+  ],
+  "ContainedObjects_path": "TheBlobthatAteEverythingELSE!-LaMasaqueDevorabatodoLODEMÁS!.0a0abb",
+  "GUID": "0a0abb",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Memo": "[]",
+  "Name": "Bag",
+  "Nickname": "The Blob that Ate Everything ELSE! - La Masa que Devoraba todo ¡LO DEMÁS!",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

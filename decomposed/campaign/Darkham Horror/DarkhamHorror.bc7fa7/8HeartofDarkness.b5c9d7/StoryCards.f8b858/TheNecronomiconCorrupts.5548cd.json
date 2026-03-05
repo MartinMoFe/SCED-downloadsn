@@ -1,5 +1,5 @@
 {
-  "CardID": 565923,
+  "CardID": 561723,
   "CustomDeck": {
     "5617": {
       "BackIsHidden": true,
@@ -12,7 +12,6 @@
     }
   },
   "GUID": "5548cd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Necronomicon Corrupts",
   "Transform": {

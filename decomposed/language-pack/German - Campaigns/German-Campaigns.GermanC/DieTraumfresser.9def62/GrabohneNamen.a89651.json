@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06182\"\n}",
   "GUID": "a89651",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grab ohne Namen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

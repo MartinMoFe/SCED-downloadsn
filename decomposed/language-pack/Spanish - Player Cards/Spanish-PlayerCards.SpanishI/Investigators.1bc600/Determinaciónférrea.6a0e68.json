@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/50205178697218011/A9BFAAEE872AC31621462EE025D3119D3FB3A600/",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"11018\"}",
+  "GMNotes": "{\n  \"id\": \"11018\"\n}",
   "GUID": "6a0e68",
   "Name": "Card",
   "Nickname": "Determinación férrea",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 47616,
+  "CustomDeck": {
+    "476": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/OKog8AD.jpg",
+      "FaceURL": "https://i.imgur.com/irovrKG.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53057\"\n}",
+  "GUID": "234ede",
+  "Name": "Card",
+  "Nickname": "Vivero alienígena",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

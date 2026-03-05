@@ -7,18 +7,15 @@
       "FaceURL": "http://i.imgur.com/TW4VWMa.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "La hija olvidada",
-  "GMNotes": "{\"id\": \"01691\"}",
+  "GMNotes": "{\n  \"id\": \"01691\"\n}",
   "GUID": "e1df09",
   "Name": "Card",
   "Nickname": "Aquinnah (3)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

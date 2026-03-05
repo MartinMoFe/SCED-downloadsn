@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07178\"\n}",
   "GUID": "1655bd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fischkutter",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

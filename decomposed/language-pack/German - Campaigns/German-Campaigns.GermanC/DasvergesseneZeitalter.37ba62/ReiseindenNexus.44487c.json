@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04285\"\n}",
   "GUID": "44487c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Reise in den Nexus",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -19,8 +19,8 @@
   "Description": "Page 2",
   "GUID": "6020e7",
   "Hands": false,
-  "HideWhenFaceDown": false,
-  "LuaScript": "require(\"RiseRaptureRise/CampaignLog1\")",
+  "HideWhenFaceDown": true,
+  "LuaScript": "require(\"RiseRaptureRise/CampaignLog2\")",
   "Name": "Custom_Token",
   "Nickname": "Rise, Rapture, Rise - Campaign Log",
   "Tags": [

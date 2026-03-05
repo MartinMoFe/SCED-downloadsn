@@ -15,7 +15,6 @@
   "Description": "Верующий. Служитель.",
   "GMNotes": "{\n  \"id\": \"04004-pb\"\n}",
   "GUID": "eb96e8",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Отец Матео (альтернативный оборот)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "FatherMateoParallelBack.306f53"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

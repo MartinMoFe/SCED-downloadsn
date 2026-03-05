@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
-    "PiperofAzatoth.092d86",
     "DaemonicPiping.f84e0e",
     "DaemonicPiping.f84e0e",
-    "DaemonicPiping.f84e0e"
+    "DaemonicPiping.f84e0e",
+    "PiperofAzatoth.092d86"
   ],
   "ContainedObjects_path": "AgentsofAzathoth.65502d",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    231803,
     231804,
     231804,
-    231804
+    231804,
+    231803
   ],
   "GUID": "65502d",
   "Hands": false,

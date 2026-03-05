@@ -1,0 +1,22 @@
+{
+  "CardID": 878010,
+  "CustomDeck": {
+    "8780": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/sFHdTOv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07297\"\n}",
+  "GUID": "a0ea86",
+  "Name": "Card",
+  "Nickname": "Ritual esotérico",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

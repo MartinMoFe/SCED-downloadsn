@@ -1,0 +1,22 @@
+{
+  "CardID": 863606,
+  "CustomDeck": {
+    "8636": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/2cTg2rC.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06230\"\n}",
+  "GUID": "a9568e",
+  "Name": "Card",
+  "Nickname": "Vigilancia estrecha",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

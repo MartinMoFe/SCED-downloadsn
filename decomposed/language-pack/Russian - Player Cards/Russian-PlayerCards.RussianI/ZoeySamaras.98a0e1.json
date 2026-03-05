@@ -15,7 +15,6 @@
   "Description": "Верующий. Охотник.",
   "GMNotes": "{\n  \"id\": \"02001\"\n}",
   "GUID": "98a0e1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Зои Самарас",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "ZoeySamaras.4de691"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

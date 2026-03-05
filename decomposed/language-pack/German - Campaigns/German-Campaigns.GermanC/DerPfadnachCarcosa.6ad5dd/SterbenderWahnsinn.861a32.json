@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03319\"\n}",
   "GUID": "861a32",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sterbender Wahnsinn",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

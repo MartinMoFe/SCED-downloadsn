@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02128\"\n}",
   "GUID": "5128d9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Büro des Sicherheitsdienstes",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

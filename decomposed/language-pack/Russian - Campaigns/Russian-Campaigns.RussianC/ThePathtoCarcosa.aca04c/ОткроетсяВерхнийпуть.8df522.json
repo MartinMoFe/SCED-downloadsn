@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"03282\"\n}",
   "GUID": "8df522",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Откроется Верхний путь",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

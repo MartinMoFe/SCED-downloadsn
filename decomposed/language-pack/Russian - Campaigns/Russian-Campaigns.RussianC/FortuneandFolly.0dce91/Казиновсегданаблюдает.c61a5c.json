@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"88002\"\n}",
   "GUID": "c61a5c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Казино всегда наблюдает",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

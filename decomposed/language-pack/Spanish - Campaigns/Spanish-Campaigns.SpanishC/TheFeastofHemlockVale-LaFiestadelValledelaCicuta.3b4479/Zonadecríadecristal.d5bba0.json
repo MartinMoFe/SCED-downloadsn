@@ -1,0 +1,22 @@
+{
+  "CardID": 873802,
+  "CustomDeck": {
+    "8738": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/GOjacuJ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10560\"\n}",
+  "GUID": "d5bba0",
+  "Name": "Card",
+  "Nickname": "Zona de cría de cristal",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

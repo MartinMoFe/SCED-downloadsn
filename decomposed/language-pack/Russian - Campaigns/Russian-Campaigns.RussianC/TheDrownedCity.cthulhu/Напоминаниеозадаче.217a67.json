@@ -1,0 +1,18 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "Description": "Внимание, сыщик с задачей 'Лучше дома места нет' может изменить подготовку к сценарию!",
+  "GMNotes": "{\n  \"id\": \"SN110301\"\n}",
+  "GUID": "217a67",
+  "Hands": false,
+  "Name": "Notecard",
+  "Nickname": "Напоминание о задаче",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

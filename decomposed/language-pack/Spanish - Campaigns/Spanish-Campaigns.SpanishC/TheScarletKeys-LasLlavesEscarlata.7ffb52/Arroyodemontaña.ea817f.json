@@ -1,0 +1,23 @@
+{
+  "CardID": 470412,
+  "CustomDeck": {
+    "4704": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/UWBgJqu.jpg",
+      "FaceURL": "https://i.imgur.com/GoQyk36.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09619\"\n}",
+  "GUID": "ea817f",
+  "Name": "Card",
+  "Nickname": "Arroyo de montaña",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

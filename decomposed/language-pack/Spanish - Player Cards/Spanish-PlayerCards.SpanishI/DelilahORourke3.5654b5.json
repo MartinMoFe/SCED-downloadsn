@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/MDyVV7w.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Asesina del sindicato",
-  "GMNotes": "{\"id\": \"06281\"}",
+  "GMNotes": "{\n  \"id\": \"06281\"\n}",
   "GUID": "5654b5",
   "Name": "Card",
   "Nickname": "Delilah O'Rourke (3)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

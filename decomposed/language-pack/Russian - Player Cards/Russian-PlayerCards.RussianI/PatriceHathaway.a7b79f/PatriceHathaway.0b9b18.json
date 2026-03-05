@@ -1,5 +1,5 @@
 {
-  "CardID": "535031",
+  "CardID": 535031,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Проклятая. Артист.",
   "GMNotes": "{\n  \"id\": \"06005\"\n}",
   "GUID": "0b9b18",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Патрис Хатауэй",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03299\"\n}",
   "GUID": "b52eaf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Abbey Tower",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

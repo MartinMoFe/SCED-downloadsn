@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02318\"\n}",
   "GUID": "6e598e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schließe den Riss",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

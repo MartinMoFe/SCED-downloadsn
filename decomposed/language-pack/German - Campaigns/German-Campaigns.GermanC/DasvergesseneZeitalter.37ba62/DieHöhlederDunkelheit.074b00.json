@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04136\"\n}",
   "GUID": "074b00",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Höhle der Dunkelheit",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 866104,
+  "CustomDeck": {
+    "8661": {
+      "BackIsHidden": false,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/50200269936979827/6E1D0E9BDF78A6CFE14090574821CB39456DA8C3/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/50209154454754552/DF0FE2BD928A32B14EAEBC197BC60DCBE27E4C60/",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"11607\"\n}",
+  "GUID": "96fca6",
+  "Name": "Card",
+  "Nickname": "Mecanismos letales",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

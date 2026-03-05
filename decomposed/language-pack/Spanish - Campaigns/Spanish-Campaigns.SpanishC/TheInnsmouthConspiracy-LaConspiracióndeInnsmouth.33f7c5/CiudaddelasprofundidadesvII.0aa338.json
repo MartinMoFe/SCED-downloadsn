@@ -1,0 +1,24 @@
+{
+  "CardID": 878600,
+  "CustomDeck": {
+    "8786": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/Zr6YMR6.jpg",
+      "FaceURL": "https://i.imgur.com/PyYYVys.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07317\"\n}",
+  "GUID": "0aa338",
+  "Name": "CardCustom",
+  "Nickname": "Ciudad de las profundidades (v. II)",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 876100,
+  "CustomDeck": {
+    "8761": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/3q1T2cS.jpg",
+      "FaceURL": "https://i.imgur.com/zN5x2Vz.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04315\"\n}",
+  "GUID": "23d6bf",
+  "Name": "Card",
+  "Nickname": "Hebras de tiempo",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

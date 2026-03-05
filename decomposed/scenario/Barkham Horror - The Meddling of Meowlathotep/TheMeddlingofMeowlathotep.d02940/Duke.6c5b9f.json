@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes": "{\n  \"id\": \"80013-m\",\n  \"type\": \"Minicard\"\n}",
   "GUID": "6c5b9f",
   "Grid": false,
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Duke",
   "Tags": [

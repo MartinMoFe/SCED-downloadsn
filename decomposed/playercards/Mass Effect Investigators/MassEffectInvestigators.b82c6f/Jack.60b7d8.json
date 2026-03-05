@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Subject Zero",
-  "GMNotes_path": "MassEffectInvestigators.b82c6f/Jack.60b7d8.gmnotes",
+  "GMNotes": "{\n  \"id\": \"81b07751-306d-452a-a117-d3c7ea97cf95-m\",\n  \"type\": \"Minicard\"\n}",
   "GUID": "60b7d8",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Jack",
   "Tags": [

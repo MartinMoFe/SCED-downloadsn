@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09601\"\n}",
   "GUID": "306e0c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "El Malecón",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

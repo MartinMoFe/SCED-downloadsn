@@ -14,12 +14,10 @@
   "Description": "Сбежавший из приюта",
   "GMNotes": "{\n  \"id\": \"80007\"\n}",
   "GUID": "a6049c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Скат О'Слюн",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 469420,
+  "CustomDeck": {
+    "4694": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LhU7wG0.jpg",
+      "FaceURL": "https://i.imgur.com/QsdadOj.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09535\"\n}",
+  "GUID": "0aa02d",
+  "Name": "Card",
+  "Nickname": "Jardín del Palacio de la Bahía",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

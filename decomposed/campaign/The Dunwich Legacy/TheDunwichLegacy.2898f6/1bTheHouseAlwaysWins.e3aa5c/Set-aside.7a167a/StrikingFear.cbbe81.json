@@ -1,12 +1,12 @@
 {
   "ContainedObjects_order": [
-    "DissonantVoices.f5c831",
+    "DissonantVoices.97416f",
     "DissonantVoices.97416f",
     "FrozeninFear.0f4202",
-    "FrozeninFear.c70601",
-    "RottingRemains.ab3719",
+    "FrozeninFear.0f4202",
     "RottingRemains.435a47",
-    "RottingRemains.ab3719"
+    "RottingRemains.435a47",
+    "RottingRemains.435a47"
   ],
   "ContainedObjects_path": "StrikingFear.cbbe81",
   "CustomDeck": {
@@ -16,8 +16,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

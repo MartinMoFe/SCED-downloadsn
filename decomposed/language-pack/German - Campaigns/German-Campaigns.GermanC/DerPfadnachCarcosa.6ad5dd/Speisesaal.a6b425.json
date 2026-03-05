@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03173\"\n}",
   "GUID": "a6b425",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Speisesaal",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

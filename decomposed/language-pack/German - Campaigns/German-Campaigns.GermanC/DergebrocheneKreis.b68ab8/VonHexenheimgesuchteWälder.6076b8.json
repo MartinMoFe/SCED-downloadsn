@@ -14,11 +14,9 @@
   "Description": "Verlassene Mine",
   "GMNotes": "{\n  \"id\": \"05058\"\n}",
   "GUID": "6076b8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Von Hexen heimgesuchte Wälder",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

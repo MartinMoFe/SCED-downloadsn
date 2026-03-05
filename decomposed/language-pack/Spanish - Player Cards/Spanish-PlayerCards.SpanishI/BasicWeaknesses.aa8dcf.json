@@ -64,11 +64,9 @@
   "ContainedObjects_path": "BasicWeaknesses.aa8dcf",
   "GUID": "aa8dcf",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Bag",
   "Nickname": "Basic Weaknesses",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

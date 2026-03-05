@@ -1,0 +1,23 @@
+{
+  "CardID": 868301,
+  "CustomDeck": {
+    "8683": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/UV61SUf.jpg",
+      "FaceURL": "https://i.imgur.com/OetthHN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10593\"\n}",
+  "GUID": "28ed78",
+  "Name": "Card",
+  "Nickname": "Lodazal",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

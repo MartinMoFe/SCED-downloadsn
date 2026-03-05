@@ -1,0 +1,22 @@
+{
+  "CardID": 469717,
+  "CustomDeck": {
+    "4697": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/aUndFJo.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09724\"\n}",
+  "GUID": "e9a57b",
+  "Name": "Card",
+  "Nickname": "Viendo sombras",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

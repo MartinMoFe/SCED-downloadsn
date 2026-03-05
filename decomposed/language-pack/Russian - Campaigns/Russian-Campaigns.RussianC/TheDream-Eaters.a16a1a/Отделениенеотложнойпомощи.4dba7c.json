@@ -14,11 +14,9 @@
   "Description": "Больница святой Марии.",
   "GMNotes": "{\n  \"id\": \"06071\"\n}",
   "GUID": "4dba7c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Отделение неотложной помощи",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

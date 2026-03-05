@@ -14,11 +14,9 @@
   "Description": "Махинация.",
   "GMNotes": "{\n  \"id\": \"87035\"\n}",
   "GUID": "32a53f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Непростой союз",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

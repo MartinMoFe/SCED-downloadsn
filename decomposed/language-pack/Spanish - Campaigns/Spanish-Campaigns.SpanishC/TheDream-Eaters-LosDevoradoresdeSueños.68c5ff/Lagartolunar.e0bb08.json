@@ -1,0 +1,22 @@
+{
+  "CardID": 863602,
+  "CustomDeck": {
+    "8636": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/2cTg2rC.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06226\"\n}",
+  "GUID": "e0bb08",
+  "Name": "Card",
+  "Nickname": "Lagarto lunar",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

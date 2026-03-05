@@ -14,12 +14,10 @@
   "Description": "The Waitress",
   "GMNotes": "{\n  \"id\": \"01004\"\n}",
   "GUID": "6797bb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Agnes Baker",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

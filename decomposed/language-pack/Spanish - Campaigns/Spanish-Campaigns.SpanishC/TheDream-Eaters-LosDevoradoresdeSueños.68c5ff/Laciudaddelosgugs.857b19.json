@@ -1,0 +1,23 @@
+{
+  "CardID": 864002,
+  "CustomDeck": {
+    "8640": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LHCkJWX.jpg",
+      "FaceURL": "https://i.imgur.com/II1TTZH.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06255\"\n}",
+  "GUID": "857b19",
+  "Name": "Card",
+  "Nickname": "La ciudad de los gugs",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

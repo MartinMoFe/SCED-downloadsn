@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08583\"\n}",
   "GUID": "cca7c0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erinnerung an eine unerwiederte Liebe",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

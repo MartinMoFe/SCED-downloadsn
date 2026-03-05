@@ -14,11 +14,9 @@
   "Description": "Warped and Twisted",
   "GMNotes": "{\n  \"id\": \"51048\"\n}",
   "GUID": "caeb2f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Base of the Hill",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

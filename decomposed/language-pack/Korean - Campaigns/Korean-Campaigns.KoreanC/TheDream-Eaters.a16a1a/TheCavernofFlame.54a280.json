@@ -14,11 +14,9 @@
   "Description": "Cave. Steps.",
   "GMNotes": "{\n  \"id\": \"06046\"\n}",
   "GUID": "54a280",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Cavern of Flame",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

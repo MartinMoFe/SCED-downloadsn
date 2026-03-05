@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/MDyVV7w.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06280\"}",
+  "GMNotes": "{\n  \"id\": \"06280\"\n}",
   "GUID": "2bcc80",
   "Name": "Card",
   "Nickname": "Cable estrangulador (2)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

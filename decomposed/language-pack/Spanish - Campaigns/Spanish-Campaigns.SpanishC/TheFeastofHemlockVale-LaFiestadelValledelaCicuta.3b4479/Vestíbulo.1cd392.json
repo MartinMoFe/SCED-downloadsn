@@ -1,0 +1,23 @@
+{
+  "CardID": 873213,
+  "CustomDeck": {
+    "8732": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/1SIbZH2.jpg",
+      "FaceURL": "https://i.imgur.com/M4lY8Dw.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10543\"\n}",
+  "GUID": "1cd392",
+  "Name": "Card",
+  "Nickname": "Vestíbulo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "CardID": 455902,
+  "CustomDeck": {
+    "4559": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/0MTxzfg.jpg",
+      "FaceURL": "https://i.imgur.com/ecAU8sw.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07048\"\n}",
+  "GUID": "666bcc",
+  "Name": "Card",
+  "Nickname": "Pozo cubierto de huesos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

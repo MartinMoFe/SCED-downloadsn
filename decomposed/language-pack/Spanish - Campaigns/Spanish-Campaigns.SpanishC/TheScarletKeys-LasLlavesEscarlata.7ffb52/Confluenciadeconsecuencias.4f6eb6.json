@@ -1,0 +1,24 @@
+{
+  "CardID": 471406,
+  "CustomDeck": {
+    "4714": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/X4srRDK.jpg",
+      "FaceURL": "https://i.imgur.com/YekkzWe.jpg",
+      "NumHeight": 2,
+      "NumWidth": 8,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09695\"\n}",
+  "GUID": "4f6eb6",
+  "Name": "Card",
+  "Nickname": "Confluencia de consecuencias",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "The One with the Red Cravat",
   "GMNotes": "{\n  \"id\": \"09625a\"\n}",
   "GUID": "26b84f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Thorne",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

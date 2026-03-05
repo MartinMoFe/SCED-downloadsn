@@ -1,5 +1,5 @@
 {
-  "CardID": "535027",
+  "CardID": 535027,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Полиция. Служитель.",
   "GMNotes": "{\n  \"id\": \"06001\"\n}",
   "GUID": "822b14",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Томми Малдун",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

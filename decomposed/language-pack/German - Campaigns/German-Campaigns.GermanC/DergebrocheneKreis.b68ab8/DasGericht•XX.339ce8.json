@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05044\"\n}",
   "GUID": "339ce8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Gericht • XX",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

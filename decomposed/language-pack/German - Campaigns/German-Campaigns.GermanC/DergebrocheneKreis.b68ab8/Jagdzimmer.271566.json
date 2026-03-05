@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05073\"\n}",
   "GUID": "271566",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jagdzimmer",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

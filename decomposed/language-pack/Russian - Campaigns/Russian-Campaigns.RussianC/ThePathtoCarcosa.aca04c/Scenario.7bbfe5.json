@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03240\"\n}",
   "GUID": "7bbfe5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Бледная маска",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

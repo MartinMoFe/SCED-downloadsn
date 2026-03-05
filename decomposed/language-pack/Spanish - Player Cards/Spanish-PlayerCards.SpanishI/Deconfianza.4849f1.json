@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/Nk8BzI7.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04019\"}",
+  "GMNotes": "{\n  \"id\": \"04019\"\n}",
   "GUID": "4849f1",
   "Name": "Card",
   "Nickname": "De confianza",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

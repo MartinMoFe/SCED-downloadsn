@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06061\"\n}",
   "GUID": "4cdbed",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Uralter Zoog",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

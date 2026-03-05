@@ -1,0 +1,23 @@
+{
+  "CardID": 487212,
+  "CustomDeck": {
+    "4872": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/hQXO7rG.jpg",
+      "FaceURL": "https://i.imgur.com/jXuOn1T.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51030\"\n}",
+  "GUID": "289c30",
+  "Name": "Card",
+  "Nickname": "Vagón de equipaje",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

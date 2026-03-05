@@ -1,0 +1,24 @@
+{
+  "CardID": 863204,
+  "CustomDeck": {
+    "8632": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ARsWPgr.jpg",
+      "FaceURL": "https://i.imgur.com/lRVmqK1.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06252\"\n}",
+  "GUID": "dd6663",
+  "Name": "Card",
+  "Nickname": "El descenso",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

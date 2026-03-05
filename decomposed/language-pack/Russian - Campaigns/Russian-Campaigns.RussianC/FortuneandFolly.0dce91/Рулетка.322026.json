@@ -14,11 +14,9 @@
   "Description": "Публичная. Казино. Игорная.",
   "GMNotes": "{\n  \"id\": \"88011\"\n}",
   "GUID": "322026",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Рулетка",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

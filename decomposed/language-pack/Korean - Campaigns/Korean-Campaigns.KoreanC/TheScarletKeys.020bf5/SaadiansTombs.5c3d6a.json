@@ -14,11 +14,9 @@
   "Description": "Marrakesh. Abandoned.",
   "GMNotes": "{\n  \"id\": \"09533\"\n}",
   "GUID": "5c3d6a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Saadian's Tombs",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

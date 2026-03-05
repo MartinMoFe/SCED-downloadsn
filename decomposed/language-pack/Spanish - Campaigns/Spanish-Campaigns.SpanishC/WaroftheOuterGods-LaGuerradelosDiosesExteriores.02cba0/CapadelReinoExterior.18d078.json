@@ -1,0 +1,23 @@
+{
+  "CardID": 471800,
+  "CustomDeck": {
+    "4718": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/codq1VC.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0
+    }
+  },
+  "Description": "Distorsión entretejida",
+  "GMNotes": "{\n  \"id\": \"86051\"\n}",
+  "GUID": "18d078",
+  "Name": "Card",
+  "Nickname": "Capa del Reino Exterior",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "CardID": 460117,
+  "CustomDeck": {
+    "4601": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/eZ52T70.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"54074\"\n}",
+  "GUID": "787250",
+  "Name": "Card",
+  "Nickname": "Banshee chilladora",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

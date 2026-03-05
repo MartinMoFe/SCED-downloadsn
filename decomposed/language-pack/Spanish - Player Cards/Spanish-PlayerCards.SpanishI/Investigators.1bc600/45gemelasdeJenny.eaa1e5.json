@@ -8,16 +8,15 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "El complemento perfecto",
-  "GMNotes": "{\"id\": \"90085\"}",
+  "GMNotes": "{\n  \"id\": \"90085\"\n}",
   "GUID": "eaa1e5",
   "Name": "Card",
   "Nickname": ".45 gemelas de Jenny",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

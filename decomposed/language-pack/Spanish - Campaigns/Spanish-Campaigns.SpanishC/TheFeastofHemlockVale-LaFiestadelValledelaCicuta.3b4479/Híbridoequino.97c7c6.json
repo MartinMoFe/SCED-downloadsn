@@ -1,0 +1,22 @@
+{
+  "CardID": 875010,
+  "CustomDeck": {
+    "8750": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/NVeJ0Dk.jpg",
+      "FaceURL": "https://i.imgur.com/Q9hjrNv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10647a\"\n}",
+  "GUID": "97c7c6",
+  "Name": "Card",
+  "Nickname": "Híbrido equino",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 47602,
+  "CustomDeck": {
+    "476": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/OKog8AD.jpg",
+      "FaceURL": "https://i.imgur.com/irovrKG.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Reestructurada por el tiempo",
+  "GMNotes": "{\n  \"id\": \"53019\"\n}",
+  "GUID": "4029c5",
+  "Name": "Card",
+  "Nickname": "Entrada",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

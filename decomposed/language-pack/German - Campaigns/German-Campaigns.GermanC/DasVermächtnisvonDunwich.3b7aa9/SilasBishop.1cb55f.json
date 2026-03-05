@@ -14,11 +14,9 @@
   "Description": "Vom Bösen durchdrungen",
   "GMNotes": "{\n  \"id\": \"02216\"\n}",
   "GUID": "1cb55f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Silas Bishop",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

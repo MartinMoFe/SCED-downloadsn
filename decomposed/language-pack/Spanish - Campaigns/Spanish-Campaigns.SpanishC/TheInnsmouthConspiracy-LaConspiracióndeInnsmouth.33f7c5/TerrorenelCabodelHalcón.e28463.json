@@ -1,0 +1,24 @@
+{
+  "CardID": 461603,
+  "CustomDeck": {
+    "4616": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/D8lmIL3.jpg",
+      "FaceURL": "https://i.imgur.com/pCMCs8j.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07235\"\n}",
+  "GUID": "e28463",
+  "Name": "Card",
+  "Nickname": "Terror en el Cabo del Halcón",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

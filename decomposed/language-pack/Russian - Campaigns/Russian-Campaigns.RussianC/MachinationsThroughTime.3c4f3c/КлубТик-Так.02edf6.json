@@ -14,11 +14,9 @@
   "Description": "Аркхэм. Портал. Будущее.",
   "GMNotes": "{\n  \"id\": \"87026\"\n}",
   "GUID": "02edf6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Клуб «Тик-Так»",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

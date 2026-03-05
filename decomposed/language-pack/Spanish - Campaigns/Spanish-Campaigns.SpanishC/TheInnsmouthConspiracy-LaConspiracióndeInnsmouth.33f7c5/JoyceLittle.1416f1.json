@@ -1,0 +1,23 @@
+{
+  "CardID": 878410,
+  "CustomDeck": {
+    "8784": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/0vf6cPQ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Librera",
+  "GMNotes": "{\n  \"id\": \"07080\"\n}",
+  "GUID": "1416f1",
+  "Name": "Card",
+  "Nickname": "Joyce Little",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

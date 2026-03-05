@@ -1,0 +1,22 @@
+{
+  "CardID": 855720,
+  "CustomDeck": {
+    "8557": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/HU33G2U.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"83052\"\n}",
+  "GUID": "c6ff26",
+  "Name": "Card",
+  "Nickname": "Sacrificio oscuro",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,12 +14,10 @@
   "Description": "The Expedition Leader",
   "GMNotes": "{\n  \"id\": \"04001\"\n}",
   "GUID": "126932",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Leo Anderson",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

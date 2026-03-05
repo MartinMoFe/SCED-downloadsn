@@ -1,0 +1,23 @@
+{
+  "CardID": 877300,
+  "CustomDeck": {
+    "8773": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/mJV1WBv.jpg",
+      "FaceURL": "https://i.imgur.com/qPn8doW.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04314\"\n}",
+  "GUID": "8db4bd",
+  "Name": "Card",
+  "Nickname": "Eones destrozados",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

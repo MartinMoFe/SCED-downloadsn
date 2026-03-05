@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06292\"\n}",
   "GUID": "6f0016",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jenseits der Träume",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

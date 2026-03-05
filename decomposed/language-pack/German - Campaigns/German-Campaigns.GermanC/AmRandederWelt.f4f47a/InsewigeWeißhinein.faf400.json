@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08519\"\n}",
   "GUID": "faf400",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ins ewige Weiß hinein",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

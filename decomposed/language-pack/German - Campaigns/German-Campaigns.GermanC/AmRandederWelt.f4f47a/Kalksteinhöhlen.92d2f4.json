@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08668\"\n}",
   "GUID": "92d2f4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kalksteinhöhlen",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

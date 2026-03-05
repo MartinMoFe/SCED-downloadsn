@@ -15,7 +15,6 @@
   "Description": "Клерк. Бомонд.",
   "GMNotes": "{\n  \"id\": \"09018\"\n}",
   "GUID": "95fb5e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Чарли Кейн",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "CharlieKane.4a5f2b"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

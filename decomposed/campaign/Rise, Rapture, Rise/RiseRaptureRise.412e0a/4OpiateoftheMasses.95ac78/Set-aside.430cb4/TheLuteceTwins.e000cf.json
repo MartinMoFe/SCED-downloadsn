@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/4OpiateoftheMasses.95ac78/Set-aside.430cb4/TheLuteceTwins.e000cf.gmnotes",
   "GUID": "e000cf",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Lutece Twins",
   "Tags": [

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05197\"\n}",
   "GUID": "faa49f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ради высшего блага",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

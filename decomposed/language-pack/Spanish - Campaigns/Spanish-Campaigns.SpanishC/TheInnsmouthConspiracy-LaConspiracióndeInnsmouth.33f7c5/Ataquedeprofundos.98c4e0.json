@@ -1,0 +1,22 @@
+{
+  "CardID": 456112,
+  "CustomDeck": {
+    "4561": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/SIIG9do.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07090\"\n}",
+  "GUID": "98c4e0",
+  "Name": "Card",
+  "Nickname": "Ataque de profundos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

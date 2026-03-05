@@ -1,0 +1,23 @@
+{
+  "CardID": 454510,
+  "CustomDeck": {
+    "4545": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/hQXO7rG.jpg",
+      "FaceURL": "https://i.imgur.com/jXuOn1T.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51028\"\n}",
+  "GUID": "2c7865",
+  "Name": "Card",
+  "Nickname": "Locomotora",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

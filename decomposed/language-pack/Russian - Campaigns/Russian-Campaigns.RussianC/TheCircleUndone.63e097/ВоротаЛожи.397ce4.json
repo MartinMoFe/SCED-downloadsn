@@ -14,11 +14,9 @@
   "Description": "Ложа.",
   "GMNotes": "{\n  \"id\": \"05204\"\n}",
   "GUID": "397ce4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ворота Ложи",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

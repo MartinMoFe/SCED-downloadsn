@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06129\"\n}",
   "GUID": "6cf851",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dylath-Leen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,12 +14,10 @@
   "Description": "Замысел 1",
   "GMNotes": "{\n  \"id\": \"80023\"\n}",
   "GUID": "35a3cd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "О котах и псах",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

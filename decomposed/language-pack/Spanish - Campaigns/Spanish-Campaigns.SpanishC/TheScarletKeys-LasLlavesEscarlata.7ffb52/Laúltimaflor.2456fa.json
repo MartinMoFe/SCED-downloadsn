@@ -1,0 +1,24 @@
+{
+  "CardID": 469423,
+  "CustomDeck": {
+    "4694": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LhU7wG0.jpg",
+      "FaceURL": "https://i.imgur.com/QsdadOj.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Simbionte paracausal",
+  "GMNotes": "{\n  \"id\": \"09544\"\n}",
+  "GUID": "2456fa",
+  "Name": "Card",
+  "Nickname": "La última flor",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

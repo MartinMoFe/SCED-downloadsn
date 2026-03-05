@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/LUhZf7j.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02111\"}",
+  "GMNotes": "{\n  \"id\": \"02111\"\n}",
   "GUID": "644f70",
   "Name": "Card",
   "Nickname": "Ahondar demasiado",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

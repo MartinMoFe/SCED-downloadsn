@@ -14,11 +14,9 @@
   "Description": "Потусторонняя. Ведьмин дом.",
   "GMNotes": "{\n  \"id\": \"05133\"\n}",
   "GUID": "e2b8fc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Комната Кассии",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

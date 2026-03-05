@@ -1,0 +1,24 @@
+{
+  "CardID": 471304,
+  "CustomDeck": {
+    "4713": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/oraccYy.jpg",
+      "FaceURL": "https://i.imgur.com/ALWXE2f.jpg",
+      "NumHeight": 2,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09640\"\n}",
+  "GUID": "7e4dd5",
+  "Name": "Card",
+  "Nickname": "Conejos que huyen (v. II)",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

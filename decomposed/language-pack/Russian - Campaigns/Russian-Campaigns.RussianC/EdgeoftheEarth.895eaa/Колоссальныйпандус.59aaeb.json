@@ -14,11 +14,9 @@
   "Description": "Руины.",
   "GMNotes": "{\n  \"id\": \"08682\"\n}",
   "GUID": "59aaeb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Колоссальный пандус",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

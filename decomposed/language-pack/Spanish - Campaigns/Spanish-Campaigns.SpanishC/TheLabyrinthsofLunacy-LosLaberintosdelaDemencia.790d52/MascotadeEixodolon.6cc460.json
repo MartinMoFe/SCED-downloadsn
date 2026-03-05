@@ -1,0 +1,23 @@
+{
+  "CardID": 51110,
+  "CustomDeck": {
+    "511": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/lx9qMSJ.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "No eres su primera víctima, ni la última",
+  "GMNotes": "{\n  \"id\": \"70049\"\n}",
+  "GUID": "6cc460",
+  "Name": "Card",
+  "Nickname": "Mascota de Eixodolon",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

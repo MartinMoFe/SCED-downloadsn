@@ -1,5 +1,5 @@
 {
-  "CardID": "535038",
+  "CardID": 535038,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Мискатоник.",
   "GMNotes": "{\n  \"id\": \"08004\"\n}",
   "GUID": "02e55f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Норман Уизерс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

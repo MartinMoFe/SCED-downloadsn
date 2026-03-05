@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08578\"\n}",
   "GUID": "0546b5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erinnerung an ein verwüstetes Land",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

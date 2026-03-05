@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08606\"\n}",
   "GUID": "ffcf65",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Windumtoster Pfad",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

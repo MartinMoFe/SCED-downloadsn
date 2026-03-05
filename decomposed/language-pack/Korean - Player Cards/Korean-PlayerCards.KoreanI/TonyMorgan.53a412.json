@@ -14,12 +14,10 @@
   "Description": "The Bounty Hunter",
   "GMNotes": "{\n  \"id\": \"06003\"\n}",
   "GUID": "53a412",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tony Morgan",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

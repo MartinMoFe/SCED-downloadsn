@@ -14,11 +14,9 @@
   "Description": "Житель.",
   "GMNotes": "{\n  \"id\": \"10697\"\n}",
   "GUID": "1b7ed2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ривер Хоуторн",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

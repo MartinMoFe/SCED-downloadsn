@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09546\"\n}",
   "GUID": "c46a6a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Where is She...?",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

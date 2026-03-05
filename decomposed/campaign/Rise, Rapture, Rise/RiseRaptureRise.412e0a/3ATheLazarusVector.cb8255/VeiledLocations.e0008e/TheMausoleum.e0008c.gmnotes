@@ -1,5 +1,6 @@
 {
   "id": "15701e28-6945-431b-a163-9447e438b173",
+  "TtsZoopGuid": "15701e28-6945-431b-a163-9447e438b173",
   "type": "Location",
   "class": "Mythos",
   "traits": "Arboretum. Utility.",
@@ -16,7 +17,6 @@
   },
   "locationBack": {
     "icons": "Circle",
-    "connections": "Empty|Empty",
     "uses": [
       {
         "countPerInvestigator": 1,
@@ -24,6 +24,5 @@
         "token": "clue"
       }
     ]
-  },
-  "TtsZoopGuid": "15701e28-6945-431b-a163-9447e438b173"
+  }
 }

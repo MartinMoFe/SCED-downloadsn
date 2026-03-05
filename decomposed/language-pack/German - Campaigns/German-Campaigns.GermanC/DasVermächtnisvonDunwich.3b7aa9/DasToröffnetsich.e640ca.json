@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02281\"\n}",
   "GUID": "e640ca",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Tor öffnet sich",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

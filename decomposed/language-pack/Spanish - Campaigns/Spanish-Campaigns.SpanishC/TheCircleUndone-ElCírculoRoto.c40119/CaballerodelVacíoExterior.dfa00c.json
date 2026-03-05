@@ -1,0 +1,22 @@
+{
+  "CardID": 28604,
+  "CustomDeck": {
+    "286": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/BM1Pbak.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05222\"\n}",
+  "GUID": "dfa00c",
+  "Name": "Card",
+  "Nickname": "Caballero del Vacío Exterior",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

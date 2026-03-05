@@ -1,0 +1,23 @@
+{
+  "CardID": 864505,
+  "CustomDeck": {
+    "8645": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/TAG9cFp.jpg",
+      "FaceURL": "https://i.imgur.com/9mGLQCN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Red enmarañada",
+  "GMNotes": "{\n  \"id\": \"06342\"\n}",
+  "GUID": "01997d",
+  "Name": "Card",
+  "Nickname": "La gran red",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

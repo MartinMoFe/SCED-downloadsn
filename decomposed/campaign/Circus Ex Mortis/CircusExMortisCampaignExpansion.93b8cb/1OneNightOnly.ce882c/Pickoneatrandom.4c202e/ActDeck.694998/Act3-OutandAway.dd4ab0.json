@@ -1,5 +1,5 @@
 {
-  "CardID": 270908,
+  "CardID": 269608,
   "CustomDeck": {
     "2696": {
       "BackIsHidden": true,
@@ -13,7 +13,6 @@
   },
   "GMNotes_path": "CircusExMortisCampaignExpansion.93b8cb/1OneNightOnly.ce882c/Pickoneatrandom.4c202e/ActDeck.694998/Act3-OutandAway.dd4ab0.gmnotes",
   "GUID": "dd4ab0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Act 3 - Out and Away",
   "SidewaysCard": true,

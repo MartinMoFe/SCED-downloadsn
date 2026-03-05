@@ -14,12 +14,10 @@
   "Description": "The Redeemed Cultist",
   "GMNotes": "{\n  \"id\": \"05004\"\n}",
   "GUID": "32b091",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Diana Stanley",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

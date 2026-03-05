@@ -1,0 +1,22 @@
+{
+  "CardID": 45724,
+  "CustomDeck": {
+    "457": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/pd5BcbL.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53080\"\n}",
+  "GUID": "f7a1ff",
+  "Name": "Card",
+  "Nickname": "Ira de Yig",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

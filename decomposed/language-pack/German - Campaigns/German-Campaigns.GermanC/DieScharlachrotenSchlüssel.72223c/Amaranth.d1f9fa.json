@@ -14,11 +14,9 @@
   "Description": "Lurking Corruption",
   "GMNotes": "{\n  \"id\": \"09537\"\n}",
   "GUID": "d1f9fa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Amaranth",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

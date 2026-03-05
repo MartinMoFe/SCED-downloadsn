@@ -14,11 +14,9 @@
   "Description": "Hemlock Vale.",
   "GMNotes": "{\n  \"id\": \"10711\"\n}",
   "GUID": "b95c53",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Vale Schoolhouse",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

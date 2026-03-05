@@ -14,12 +14,10 @@
   "Description": "The Magician",
   "GMNotes": "{\n  \"id\": \"07004\"\n}",
   "GUID": "3925ce",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dexter Drake (promo version)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04137a\"\n}",
   "GUID": "bb59d0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fremdartige Relikte",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": "535000",
+  "CardID": 535000,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Агентство. Детектив.",
   "GMNotes": "{\n  \"id\": \"01001\"\n}",
   "GUID": "ab5668",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Роланд Бэнкс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

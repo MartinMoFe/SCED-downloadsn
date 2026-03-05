@@ -14,11 +14,9 @@
   "Description": "Поезд.",
   "GMNotes": "{\n  \"id\": \"02175\"\n}",
   "GUID": "f4b757",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Локомотив",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

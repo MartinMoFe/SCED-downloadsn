@@ -14,11 +14,9 @@
   "Description": "Подвал.",
   "GMNotes": "{\n  \"id\": \"52029\"\n}",
   "GUID": "0973f5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Тихие коридоры",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

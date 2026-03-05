@@ -14,11 +14,9 @@
   "Description": "Несломленная.",
   "GMNotes": "{\n  \"id\": \"08013a\"\n}",
   "GUID": "e8d38d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дисциплина",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

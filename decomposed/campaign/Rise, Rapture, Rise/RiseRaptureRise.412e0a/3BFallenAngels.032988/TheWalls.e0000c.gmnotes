@@ -1,11 +1,13 @@
 {
   "id": "0fd85e49-7dea-4217-8f1d-2ccbd5385af5",
+  "TtsZoopGuid": "0fd85e49-7dea-4217-8f1d-2ccbd5385af5",
   "type": "Location",
   "class": "Mythos",
   "traits": "Passageway.",
   "locationFront": {
+    "victory": 1,
     "icons": "Diamond",
-    "connections": "Cross|Moon",
+    "connections": "Cross",
     "uses": [
       {
         "countPerInvestigator": 1,
@@ -16,7 +18,6 @@
   },
   "locationBack": {
     "icons": "Diamond",
-    "connections": "Cross|Moon"
-  },
-  "TtsZoopGuid": "0fd85e49-7dea-4217-8f1d-2ccbd5385af5"
+    "connections": "Cross"
+  }
 }

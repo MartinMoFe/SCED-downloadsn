@@ -1,0 +1,24 @@
+{
+  "CardID": 465002,
+  "CustomDeck": {
+    "4650": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/EEs0t3u.jpg",
+      "FaceURL": "https://i.imgur.com/qV4CWlp.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07277\"\n}",
+  "GUID": "03a6ec",
+  "Name": "Card",
+  "Nickname": "Lo que acecha debajo (v. I)",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

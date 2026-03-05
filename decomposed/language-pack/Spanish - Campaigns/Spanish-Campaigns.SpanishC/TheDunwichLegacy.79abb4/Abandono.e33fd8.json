@@ -1,0 +1,24 @@
+{
+  "CardID": 463512,
+  "CustomDeck": {
+    "4635": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/EYOkos0.jpg",
+      "FaceURL": "https://i.imgur.com/SfjqkU0.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02069\"\n}",
+  "GUID": "e33fd8",
+  "Name": "Card",
+  "Nickname": "Abandono",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

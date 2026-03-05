@@ -1,5 +1,5 @@
 {
-  "CardID": 271206,
+  "CardID": 269606,
   "CustomDeck": {
     "2696": {
       "BackIsHidden": true,
@@ -13,7 +13,6 @@
   },
   "GMNotes_path": "CircusExMortisCampaignExpansion.93b8cb/1OneNightOnly.ce882c/Pickoneatrandom.4c202e/ActDeck.25e831/Act1-RatsinaCage.9c276f.gmnotes",
   "GUID": "9c276f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Act 1 - Rats in a Cage",
   "SidewaysCard": true,

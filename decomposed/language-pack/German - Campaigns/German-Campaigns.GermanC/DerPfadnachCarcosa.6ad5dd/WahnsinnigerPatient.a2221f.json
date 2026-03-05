@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03184\"\n}",
   "GUID": "a2221f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wahnsinniger Patient",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

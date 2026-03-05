@@ -1,5 +1,5 @@
 {
-  "CardID": "535233",
+  "CardID": 535233,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Скиталец.",
   "GMNotes": "{\n  \"id\": \"02005-pf\"\n}",
   "GUID": "97eb37",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пит Мусорщик (альтернативное лицо)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

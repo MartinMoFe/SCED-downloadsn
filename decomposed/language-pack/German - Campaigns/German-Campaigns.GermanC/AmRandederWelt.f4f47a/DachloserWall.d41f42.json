@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08636\"\n}",
   "GUID": "d41f42",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dachloser Wall",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

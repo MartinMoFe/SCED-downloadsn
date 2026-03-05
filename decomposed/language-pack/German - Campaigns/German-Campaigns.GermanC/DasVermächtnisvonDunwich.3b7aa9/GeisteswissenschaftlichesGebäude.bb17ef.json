@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02049\"\n}",
   "GUID": "bb17ef",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Geisteswissenschaftliches Gebäude",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

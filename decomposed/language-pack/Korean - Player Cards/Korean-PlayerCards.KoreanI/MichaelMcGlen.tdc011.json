@@ -14,12 +14,10 @@
   "Description": "The Gangster",
   "GMNotes": "{\n  \"id\": \"11011\"\n}",
   "GUID": "tdc011",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Michael McGlen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -8,9 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
+  "GMNotes": "{\n  \"id\": \"DM140\",\n  \"type\": \"Act\"}",
   "GUID": "55787b",
   "Name": "CardCustom",
   "Nickname": "Act 1",

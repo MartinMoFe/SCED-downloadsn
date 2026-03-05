@@ -1,0 +1,24 @@
+{
+  "CardID": 877903,
+  "CustomDeck": {
+    "8779": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/W6OYCBy.jpg",
+      "FaceURL": "https://i.imgur.com/HVc28gT.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07315\"\n}",
+  "GUID": "626319",
+  "Name": "Card",
+  "Nickname": "De vuelta a las profundidades",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

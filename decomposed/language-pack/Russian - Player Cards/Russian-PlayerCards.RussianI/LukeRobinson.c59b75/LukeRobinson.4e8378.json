@@ -1,5 +1,5 @@
 {
-  "CardID": "535030",
+  "CardID": 535030,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Сновидец. Скиталец. Путешественник.",
   "GMNotes": "{\n  \"id\": \"06004\"\n}",
   "GUID": "4e8378",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Люк Робинсон",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

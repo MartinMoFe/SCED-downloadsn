@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18050872151159716254/906292AC008E6CA9756369E03084BAE666DE0CB2/",
       "NumHeight": 2,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Колдовство.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Пожиная призраков",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

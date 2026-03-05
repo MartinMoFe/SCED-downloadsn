@@ -14,11 +14,9 @@
   "Description": "(Un)-Controlled Hunger",
   "GMNotes": "{\n  \"id\": \"89002\"\n}",
   "GUID": "558b0a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ravenous",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

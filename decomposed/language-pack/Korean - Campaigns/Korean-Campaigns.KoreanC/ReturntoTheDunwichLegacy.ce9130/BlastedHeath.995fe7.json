@@ -14,11 +14,9 @@
   "Description": "Dunwich.",
   "GMNotes": "{\n  \"id\": \"02249\"\n}",
   "GUID": "995fe7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Blasted Heath",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

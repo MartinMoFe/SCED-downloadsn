@@ -1,0 +1,23 @@
+{
+  "CardID": 51501,
+  "CustomDeck": {
+    "515": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/olhTOA3.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Volátil y malvada",
+  "GMNotes": "{\n  \"id\": \"03081\"\n}",
+  "GUID": "96509b",
+  "Name": "Card",
+  "Nickname": "Dianne Devine",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

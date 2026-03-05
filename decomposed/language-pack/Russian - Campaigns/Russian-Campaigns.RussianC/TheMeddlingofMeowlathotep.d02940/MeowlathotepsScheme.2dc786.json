@@ -14,12 +14,10 @@
   "Description": "Замысел 2",
   "GMNotes": "{\n  \"id\": \"80024\"\n}",
   "GUID": "2dc786",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Козни Мяулапхотепа",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

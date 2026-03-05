@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "UnofficialReturntoTheScarletKeys.300fcd/99D_GlobetrottingResurgence.e00292/99D_GlobetrottingResurgence-Portrait.e00293/LibraryofHlanith.e002a1.gmnotes",
@@ -16,8 +16,8 @@
   "Name": "Card",
   "Nickname": "Library of Hlanith",
   "Tags": [
-    "ScenarioCard",
-    "Location"
+    "Location",
+    "PlayerCard"
   ],
   "Transform": {
     "rotY": 270,

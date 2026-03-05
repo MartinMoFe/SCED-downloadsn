@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08520\"\n}",
   "GUID": "6c24a8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Zeit läuft ab",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

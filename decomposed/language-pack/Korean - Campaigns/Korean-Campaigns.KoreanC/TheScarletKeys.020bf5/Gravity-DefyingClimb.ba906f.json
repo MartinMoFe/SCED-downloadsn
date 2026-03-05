@@ -14,11 +14,9 @@
   "Description": "Otherworld. Tower.",
   "GMNotes": "{\n  \"id\": \"09713\"\n}",
   "GUID": "ba906f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gravity-Defying Climb",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

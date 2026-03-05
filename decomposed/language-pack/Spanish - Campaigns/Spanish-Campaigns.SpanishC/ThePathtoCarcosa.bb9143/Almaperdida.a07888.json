@@ -1,0 +1,22 @@
+{
+  "CardID": 879911,
+  "CustomDeck": {
+    "8799": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/OsSIIXb.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03227\"\n}",
+  "GUID": "a07888",
+  "Name": "Card",
+  "Nickname": "Alma perdida",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

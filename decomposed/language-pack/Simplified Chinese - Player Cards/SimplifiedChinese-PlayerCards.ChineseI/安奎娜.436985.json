@@ -1,5 +1,5 @@
 {
-  "CardID": "1154316",
+  "CardID": 1154316,
   "CustomDeck": {
     "11543": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14611473720125168763/A031A9DEFB8A6C7AF48902591616370D974F7EFF/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01082\"}",
+  "GMNotes": "{\n  \"id\": \"01082\"\n}",
   "GUID": "436985",
   "Name": "Card",
   "Nickname": "安奎娜",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

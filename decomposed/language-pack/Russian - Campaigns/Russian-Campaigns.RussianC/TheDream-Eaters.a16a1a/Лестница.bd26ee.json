@@ -14,11 +14,9 @@
   "Description": "Больница святой Марии.",
   "GMNotes": "{\n  \"id\": \"06074\"\n}",
   "GUID": "bd26ee",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Лестница",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

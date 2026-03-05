@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03125\"\n}",
   "GUID": "0e3dc7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fehler in der Vergangenheit",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 2817,
+  "CustomDeck": {
+    "28": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/olhTOA3.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03094\"\n}",
+  "GUID": "50bb7e",
+  "Name": "Card",
+  "Nickname": "Tormento del espíritu",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

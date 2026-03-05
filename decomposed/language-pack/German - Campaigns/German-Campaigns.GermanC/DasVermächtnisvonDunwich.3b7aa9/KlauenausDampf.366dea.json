@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02180\"\n}",
   "GUID": "366dea",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Klauen aus Dampf",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

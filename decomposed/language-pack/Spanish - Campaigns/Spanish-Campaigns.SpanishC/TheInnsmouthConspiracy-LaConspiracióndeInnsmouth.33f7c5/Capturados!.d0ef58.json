@@ -1,0 +1,23 @@
+{
+  "CardID": 461514,
+  "CustomDeck": {
+    "4615": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/4TlFaLS.jpg",
+      "FaceURL": "https://i.imgur.com/RiBaRT5.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07252\"\n}",
+  "GUID": "d0ef58",
+  "Name": "Card",
+  "Nickname": "¡Capturados!",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

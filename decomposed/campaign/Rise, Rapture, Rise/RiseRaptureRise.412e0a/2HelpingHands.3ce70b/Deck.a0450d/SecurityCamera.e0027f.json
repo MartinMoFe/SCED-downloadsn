@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/2HelpingHands.3ce70b/Deck.a0450d/SecurityCamera.e0027f.gmnotes",
   "GUID": "e0027f",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Security Camera",
   "Tags": [

@@ -1,0 +1,23 @@
+{
+  "CardID": 868403,
+  "CustomDeck": {
+    "8684": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/UV61SUf.jpg",
+      "FaceURL": "https://i.imgur.com/OetthHN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10594\"\n}",
+  "GUID": "64d3ed",
+  "Name": "Card",
+  "Nickname": "Espesura enmarañada",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

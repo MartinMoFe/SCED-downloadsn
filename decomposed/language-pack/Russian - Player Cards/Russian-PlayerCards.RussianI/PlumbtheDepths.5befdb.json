@@ -14,11 +14,9 @@
   "Description": "Мастерская проницательность",
   "GMNotes": "{\n  \"id\": \"11760b\"\n}",
   "GUID": "5befdb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Окунуться с головой",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05174\"\n}",
   "GUID": "1973de",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Krypta der Kapelle",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

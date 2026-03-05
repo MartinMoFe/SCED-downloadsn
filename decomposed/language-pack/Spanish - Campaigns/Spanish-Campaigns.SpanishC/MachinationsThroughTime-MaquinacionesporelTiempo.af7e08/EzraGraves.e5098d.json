@@ -1,0 +1,23 @@
+{
+  "CardID": 459101,
+  "CustomDeck": {
+    "4591": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/HbYHpuY.jpg",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0
+    }
+  },
+  "Description": "Profesor de lo arcano",
+  "GMNotes": "{\n  \"id\": \"87023\"\n}",
+  "GUID": "e5098d",
+  "Name": "Card",
+  "Nickname": "Ezra Graves",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

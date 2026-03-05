@@ -14,11 +14,9 @@
   "Description": "Гуманоид. Элитный.",
   "GMNotes": "{\n  \"id\": \"87037\"\n}",
   "GUID": "1f0788",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Эдвин Беннет",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

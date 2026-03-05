@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/Nk8BzI7.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04016\"}",
+  "GMNotes": "{\n  \"id\": \"04016\"\n}",
   "GUID": "3ecc8f",
   "Name": "Card",
   "Nickname": "Voz del mensajero",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

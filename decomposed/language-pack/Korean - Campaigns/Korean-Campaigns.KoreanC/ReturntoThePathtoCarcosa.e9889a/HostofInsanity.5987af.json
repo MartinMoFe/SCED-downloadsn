@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/51336781796254987/D1CE5F7E8A6EDA4E64892CAC7743B19C63933383/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Avatar. Elite.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Host of Insanity",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

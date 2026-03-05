@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09624\"\n}",
   "GUID": "dec26f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Condemned Gold Mine",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

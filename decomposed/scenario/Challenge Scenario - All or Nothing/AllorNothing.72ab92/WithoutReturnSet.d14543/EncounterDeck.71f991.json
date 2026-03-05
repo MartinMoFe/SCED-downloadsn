@@ -1,28 +1,28 @@
 {
   "ContainedObjects_order": [
-    "TwistofFate.a8cc8c",
+    "TwistofFate.9d6b4c",
     "Mobster.77205f",
-    "SwarmofRats.ab3719",
+    "SwarmofRats.a2cf85",
     "OBannionsThug.d269db",
     "HuntingShadow.14bfaf",
-    "HuntingShadow.ea8fcf",
-    "ArousingSuspicions.f3b1ad",
+    "HuntingShadow.14bfaf",
+    "ArousingSuspicions.de3bd5",
     "Mobster.77205f",
     "FalseLead.057d5f",
     "OBannionsThug.d269db",
     "CursedLuck.64281b",
-    "HuntingShadow.ab3719",
-    "HuntedDown.fb489f",
-    "FalseLead.2ceae2",
+    "HuntingShadow.14bfaf",
+    "HuntedDown.5da81c",
+    "FalseLead.057d5f",
     "ArousingSuspicions.de3bd5",
     "HuntedDown.5da81c",
-    "CursedLuck.de3bd5",
+    "CursedLuck.64281b",
     "SomethingintheDrinks.41c162",
-    "SwarmofRats.ab3719",
-    "SomethingintheDrinks.de3bd5",
-    "TwistofFate.a8cc8c",
+    "SwarmofRats.a2cf85",
+    "SomethingintheDrinks.41c162",
     "TwistofFate.9d6b4c",
-    "CursedLuck.de3bd5",
+    "TwistofFate.9d6b4c",
+    "CursedLuck.64281b",
     "SwarmofRats.a2cf85"
   ],
   "ContainedObjects_path": "EncounterDeck.71f991",
@@ -33,8 +33,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2328": {
       "BackIsHidden": true,
@@ -42,8 +41,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2664": {
       "BackIsHidden": true,
@@ -51,8 +49,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276627309509299/3B0E32939EB4599CCE3596975637C90FE4EE1DD6/",
       "NumHeight": 5,
       "NumWidth": 6,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

@@ -14,11 +14,9 @@
   "Description": "Возвращение.",
   "GMNotes": "{\n  \"id\": \"52048\"\n}",
   "GUID": "1c509b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Бледная маска. Возвращение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

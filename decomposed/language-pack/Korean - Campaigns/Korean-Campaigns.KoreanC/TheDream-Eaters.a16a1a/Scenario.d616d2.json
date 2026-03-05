@@ -14,11 +14,9 @@
   "Description": "Point of No Return",
   "GMNotes": "{\n  \"id\": \"06247\"\n}",
   "GUID": "d616d2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

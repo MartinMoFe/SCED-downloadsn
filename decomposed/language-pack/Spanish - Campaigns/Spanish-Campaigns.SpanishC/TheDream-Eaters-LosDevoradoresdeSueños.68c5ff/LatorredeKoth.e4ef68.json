@@ -1,0 +1,23 @@
+{
+  "CardID": 864003,
+  "CustomDeck": {
+    "8640": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LHCkJWX.jpg",
+      "FaceURL": "https://i.imgur.com/II1TTZH.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06256\"\n}",
+  "GUID": "e4ef68",
+  "Name": "Card",
+  "Nickname": "La torre de Koth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13372923241944590926/0FB2077820643A56B64590E62E03AFED2C6DB83C/",
       "NumHeight": 5,
       "NumWidth": 5,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Парадокс. Благословенный. Проклятый.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Эффект бабочки (1)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

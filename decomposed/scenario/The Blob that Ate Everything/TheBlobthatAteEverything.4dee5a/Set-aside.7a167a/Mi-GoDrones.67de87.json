@@ -1,8 +1,8 @@
 {
   "ContainedObjects_order": [
     "Mi-GoDrone.935c57",
-    "Mi-GoDrone.bd5c30",
-    "Mi-GoDrone.abeee2"
+    "Mi-GoDrone.935c57",
+    "Mi-GoDrone.935c57"
   ],
   "ContainedObjects_path": "Mi-GoDrones.67de87",
   "CustomDeck": {
@@ -12,8 +12,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

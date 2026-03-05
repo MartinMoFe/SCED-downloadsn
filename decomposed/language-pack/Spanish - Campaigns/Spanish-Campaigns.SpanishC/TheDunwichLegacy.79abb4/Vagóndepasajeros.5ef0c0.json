@@ -1,0 +1,23 @@
+{
+  "CardID": 472803,
+  "CustomDeck": {
+    "4728": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/pVZDCXm.jpg",
+      "FaceURL": "https://i.imgur.com/fXFPPEJ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02169\"\n}",
+  "GUID": "5ef0c0",
+  "Name": "Card",
+  "Nickname": "Vagón de pasajeros",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Paracausal Symbiote",
   "GMNotes": "{\n  \"id\": \"09544\"\n}",
   "GUID": "b2ce1f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Last Blossom",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

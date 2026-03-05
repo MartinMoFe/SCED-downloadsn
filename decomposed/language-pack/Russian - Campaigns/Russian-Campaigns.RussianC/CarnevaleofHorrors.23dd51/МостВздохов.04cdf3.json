@@ -14,11 +14,9 @@
   "Description": "Венеция. Мост.",
   "GMNotes": "{\n  \"id\": \"82013\"\n}",
   "GUID": "04cdf3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Мост Вздохов",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

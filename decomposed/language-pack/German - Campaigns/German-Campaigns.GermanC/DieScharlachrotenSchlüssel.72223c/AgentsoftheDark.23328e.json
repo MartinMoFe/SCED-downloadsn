@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09567\"\n}",
   "GUID": "23328e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Agents of the Dark",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

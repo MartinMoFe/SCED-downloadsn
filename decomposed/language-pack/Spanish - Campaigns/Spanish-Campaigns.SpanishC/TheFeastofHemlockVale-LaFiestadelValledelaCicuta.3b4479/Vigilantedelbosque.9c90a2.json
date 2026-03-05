@@ -1,0 +1,22 @@
+{
+  "CardID": 873417,
+  "CustomDeck": {
+    "8734": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/5ff26Ra.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10733\"\n}",
+  "GUID": "9c90a2",
+  "Name": "Card",
+  "Nickname": "Vigilante del bosque",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

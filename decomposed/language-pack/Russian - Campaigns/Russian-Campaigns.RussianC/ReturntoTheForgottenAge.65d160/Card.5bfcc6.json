@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"ES0401\"\n}",
   "GUID": "5bfcc6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Одеяло",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

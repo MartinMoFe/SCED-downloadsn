@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09605\"\n}",
   "GUID": "68a084",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Plaza Hotel",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

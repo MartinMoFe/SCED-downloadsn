@@ -14,11 +14,9 @@
   "Description": "Аркхэм.",
   "GMNotes": "{\n  \"id\": \"01130\"\n}",
   "GUID": "b5b8db",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Даунтаун",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

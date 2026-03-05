@@ -1,0 +1,23 @@
+{
+  "CardID": 460101,
+  "CustomDeck": {
+    "4601": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/eZ52T70.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Piensa a largo plazo",
+  "GMNotes": "{\n  \"id\": \"54026\"\n}",
+  "GUID": "0e4c2b",
+  "Name": "Card",
+  "Nickname": "Dmitri Konstantinov",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

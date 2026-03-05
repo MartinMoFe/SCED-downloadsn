@@ -1,0 +1,22 @@
+{
+  "CardID": 471226,
+  "CustomDeck": {
+    "4712": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/xfnGjqp.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09742\"\n}",
+  "GUID": "25ee08",
+  "Name": "Card",
+  "Nickname": "Más allá de lo pálido",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

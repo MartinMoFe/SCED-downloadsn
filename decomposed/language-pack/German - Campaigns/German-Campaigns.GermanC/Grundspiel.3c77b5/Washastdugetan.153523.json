@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"01110\"\n}",
   "GUID": "153523",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Was hast du getan?",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

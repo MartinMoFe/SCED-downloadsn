@@ -1,0 +1,23 @@
+{
+  "CardID": 455019,
+  "CustomDeck": {
+    "4550": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/iAJ1X3J.jpg",
+      "FaceURL": "https://i.imgur.com/1ErdQQ3.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06072\"\n}",
+  "GUID": "96edd8",
+  "Name": "Card",
+  "Nickname": "Pabellón de las terapias experimentales",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

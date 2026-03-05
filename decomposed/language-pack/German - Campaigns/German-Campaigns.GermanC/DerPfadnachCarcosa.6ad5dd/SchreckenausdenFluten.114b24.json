@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03300\"\n}",
   "GUID": "114b24",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schrecken aus den Fluten",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

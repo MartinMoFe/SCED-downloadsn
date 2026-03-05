@@ -21,13 +21,11 @@
   "Description": "Чародей.",
   "GMNotes": "{\n  \"id\": \"01004\"\n}",
   "GUID": "6797bb",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Агнес Бейкер",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

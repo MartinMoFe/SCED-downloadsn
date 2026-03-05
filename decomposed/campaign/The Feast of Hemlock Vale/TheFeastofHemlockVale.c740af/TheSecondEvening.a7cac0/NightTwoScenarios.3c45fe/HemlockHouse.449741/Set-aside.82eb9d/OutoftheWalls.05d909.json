@@ -1,8 +1,8 @@
 {
   "ContainedObjects_order": [
-    "OutoftheWalls.fc4710",
-    "OutoftheWalls.c33076",
-    "OutoftheWalls.b780c2",
+    "OutoftheWalls.2370ce",
+    "OutoftheWalls.2370ce",
+    "OutoftheWalls.2370ce",
     "OutoftheWalls.2370ce"
   ],
   "ContainedObjects_path": "OutoftheWalls.05d909",
@@ -13,8 +13,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2453969772006052261/19972DA9635CE5C7AD74D9BDAE6196359172335A/",
       "NumHeight": 2,
       "NumWidth": 7,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

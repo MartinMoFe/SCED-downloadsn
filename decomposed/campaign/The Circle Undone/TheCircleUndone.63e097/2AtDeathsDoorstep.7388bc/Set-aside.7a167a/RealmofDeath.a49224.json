@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
-    "RealmofTorment.0f6fce",
-    "RealmofTorment.c1d60f",
     "ShapesintheMist.37ebea",
-    "ShapesintheMist.37ebea"
+    "ShapesintheMist.37ebea",
+    "RealmofTorment.0f6fce",
+    "RealmofTorment.0f6fce"
   ],
   "ContainedObjects_path": "RealmofDeath.a49224",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    231820,
-    231820,
     231821,
-    231821
+    231821,
+    231820,
+    231820
   ],
   "GUID": "a49224",
   "Hands": false,

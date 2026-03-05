@@ -1,0 +1,24 @@
+{
+  "CardID": 475703,
+  "CustomDeck": {
+    "4757": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/lDfYOnw.jpg",
+      "FaceURL": "https://i.imgur.com/V1ZGSBh.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02199\"\n}",
+  "GUID": "dddd13",
+  "Name": "Card",
+  "Nickname": "Buscando respuestas",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

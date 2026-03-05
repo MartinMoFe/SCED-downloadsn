@@ -15,7 +15,6 @@
   "Description": "The Astronomer",
   "GMNotes": "{\n  \"id\": \"08004\"\n}",
   "GUID": "e0a155",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Norman Withers",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "NormanWitherspromoversion.49634c"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

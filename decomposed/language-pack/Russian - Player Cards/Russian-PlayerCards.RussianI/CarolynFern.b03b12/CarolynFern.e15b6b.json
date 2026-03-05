@@ -1,5 +1,5 @@
 {
-  "CardID": "535021",
+  "CardID": 535021,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Врач.",
   "GMNotes": "{\n  \"id\": \"05001\"\n}",
   "GUID": "e15b6b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кэролин Ферн",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

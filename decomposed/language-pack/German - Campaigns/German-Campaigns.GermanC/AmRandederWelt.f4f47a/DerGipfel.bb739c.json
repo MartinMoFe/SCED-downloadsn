@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08607\"\n}",
   "GUID": "bb739c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Gipfel",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

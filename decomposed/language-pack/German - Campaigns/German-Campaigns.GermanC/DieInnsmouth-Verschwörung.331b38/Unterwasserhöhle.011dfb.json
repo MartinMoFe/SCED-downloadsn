@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07102\"\n}",
   "GUID": "011dfb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unterwasserhöhle",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

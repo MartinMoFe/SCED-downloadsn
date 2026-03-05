@@ -15,7 +15,6 @@
   "Description": "Детектив.",
   "GMNotes": "{\n  \"id\": \"05002\"\n}",
   "GUID": "6dc626",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Джо Даймонд",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "JoeDiamond.ba5ae1"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

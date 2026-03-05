@@ -1,5 +1,5 @@
 {
-  "CardID": "1158128",
+  "CardID": 1158128,
   "CustomDeck": {
     "11581": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15689057046532457937/49914EC904671A594DB8AFB976EA73C2A245EDD0/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"10096\"}",
+  "GMNotes": "{\n  \"id\": \"10096\"\n}",
   "GUID": "5a9537",
   "Name": "Card",
   "Nickname": "催眠作用",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

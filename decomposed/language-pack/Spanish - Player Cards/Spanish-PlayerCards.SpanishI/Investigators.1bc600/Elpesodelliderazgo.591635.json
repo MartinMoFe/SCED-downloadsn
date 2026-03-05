@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/Yes26AN.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"09020\"}",
+  "GMNotes": "{\n  \"id\": \"09020\"\n}",
   "GUID": "591635",
   "Name": "Card",
   "Nickname": "El peso del liderazgo",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

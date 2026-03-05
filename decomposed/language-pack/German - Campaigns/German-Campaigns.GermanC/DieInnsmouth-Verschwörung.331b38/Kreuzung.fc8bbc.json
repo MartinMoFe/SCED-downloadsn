@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07207a\"\n}",
   "GUID": "fc8bbc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kreuzung",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

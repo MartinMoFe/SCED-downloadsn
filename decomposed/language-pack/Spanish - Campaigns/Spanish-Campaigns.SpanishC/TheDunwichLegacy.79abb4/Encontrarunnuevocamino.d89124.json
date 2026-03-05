@@ -1,0 +1,24 @@
+{
+  "CardID": 49707,
+  "CustomDeck": {
+    "497": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/dboCYka.jpg",
+      "FaceURL": "http://i.imgur.com/pBA3OJE.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02319\"\n}",
+  "GUID": "d89124",
+  "Name": "Card",
+  "Nickname": "Encontrar un nuevo camino",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

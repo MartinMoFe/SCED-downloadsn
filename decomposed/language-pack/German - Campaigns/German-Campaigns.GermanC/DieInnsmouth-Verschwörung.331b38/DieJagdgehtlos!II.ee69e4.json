@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07200\"\n}",
   "GUID": "ee69e4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Jagd geht los! (II)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

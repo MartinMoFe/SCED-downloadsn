@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/uJPS9oe.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60503\"}",
+  "GMNotes": "{\n  \"id\": \"60503\"\n}",
   "GUID": "6c7104",
   "Name": "Card",
   "Nickname": "Llamada de las nieblas",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

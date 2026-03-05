@@ -14,11 +14,9 @@
   "Description": "Мираж.",
   "GMNotes": "{\n  \"id\": \"08571\"\n}",
   "GUID": "c4ee1d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кабинет доктора Кенслер",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

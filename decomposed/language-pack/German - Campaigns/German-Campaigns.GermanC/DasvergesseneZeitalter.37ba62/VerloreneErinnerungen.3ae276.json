@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04239\"\n}",
   "GUID": "3ae276",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verlorene Erinnerungen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

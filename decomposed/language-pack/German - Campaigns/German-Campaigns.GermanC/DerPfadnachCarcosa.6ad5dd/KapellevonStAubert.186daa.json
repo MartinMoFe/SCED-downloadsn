@@ -14,11 +14,9 @@
   "Description": "Verbotenes Wasser",
   "GMNotes": "{\n  \"id\": \"03297\"\n}",
   "GUID": "186daa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kapelle von St. Aubert",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

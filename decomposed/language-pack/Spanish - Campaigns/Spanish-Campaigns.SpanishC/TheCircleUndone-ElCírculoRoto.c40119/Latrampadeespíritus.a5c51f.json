@@ -1,0 +1,23 @@
+{
+  "CardID": 862509,
+  "CustomDeck": {
+    "8625": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/EIQOhjB.jpg",
+      "FaceURL": "https://i.imgur.com/22XGKQD.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05257\"\n}",
+  "GUID": "a5c51f",
+  "Name": "Card",
+  "Nickname": "La trampa de espíritus",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Return to Curtain Call",
   "GMNotes": "{\n  \"id\": \"52014\"\n}",
   "GUID": "93a42f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

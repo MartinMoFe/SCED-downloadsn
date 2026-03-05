@@ -1,0 +1,23 @@
+{
+  "CardID": 44409,
+  "CustomDeck": {
+    "444": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/enDVUrF.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Pandemonio",
+  "GMNotes": "{\n  \"id\": \"06089\"\n}",
+  "GUID": "248b02",
+  "Name": "Card",
+  "Nickname": "Ley de 'Ygiroth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

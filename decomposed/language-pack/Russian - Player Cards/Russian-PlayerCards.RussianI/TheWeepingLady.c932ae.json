@@ -14,11 +14,9 @@
   "Description": "Устойчивый.",
   "GMNotes": "{\n  \"id\": \"09565\"\n}",
   "GUID": "c932ae",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Плачущая дева",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03278\"\n}",
   "GUID": "c65558",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Ritual beginnt",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

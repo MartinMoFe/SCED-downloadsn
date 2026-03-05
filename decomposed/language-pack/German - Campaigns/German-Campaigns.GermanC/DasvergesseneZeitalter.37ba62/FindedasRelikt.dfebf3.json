@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04123\"\n}",
   "GUID": "dfebf3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Finde das Relikt",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

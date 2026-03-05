@@ -1,0 +1,24 @@
+{
+  "CardID": 468200,
+  "CustomDeck": {
+    "4682": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/ZcmYaGB.jpg",
+      "FaceURL": "https://i.imgur.com/6ifk7St.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Lugar de poder",
+  "GMNotes": "{\n  \"id\": \"54022\"\n}",
+  "GUID": "8286e5",
+  "Name": "CardCustom",
+  "Nickname": "Bosques de Arkham",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

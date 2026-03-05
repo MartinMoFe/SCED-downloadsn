@@ -1,5 +1,5 @@
 {
-  "CardID": "1158626",
+  "CardID": 1158626,
   "CustomDeck": {
     "11586": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15746241747223284934/F54D6ECC13E8FF1D0A8281847A7AEEA97CA15DDB/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"11094\"}",
+  "GMNotes": "{\n  \"id\": \"11094\"\n}",
   "GUID": "bf3191",
   "Name": "Card",
   "Nickname": "诺登斯的馈礼",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"70007\"\n}",
   "GUID": "ae9723",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Запечатанные (группа A)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": 565915,
+  "CardID": 561715,
   "CustomDeck": {
     "5617": {
       "BackIsHidden": true,
@@ -12,7 +12,6 @@
     }
   },
   "GUID": "a9da46",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Memories of the Shard",
   "Transform": {

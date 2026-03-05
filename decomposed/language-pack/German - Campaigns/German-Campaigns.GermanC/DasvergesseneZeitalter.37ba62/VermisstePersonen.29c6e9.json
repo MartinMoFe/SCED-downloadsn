@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04126a\"\n}",
   "GUID": "29c6e9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Vermisste Personen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

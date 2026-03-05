@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/PAhixN3.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Hoja maldita",
-  "GMNotes": "{\"id\": \"10092\"}",
+  "GMNotes": "{\n  \"id\": \"10092\"\n}",
   "GUID": "a8e09a",
   "Name": "Card",
   "Nickname": "Athame siniestro",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09711\"\n}",
   "GUID": "add426",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Key Reliquary",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

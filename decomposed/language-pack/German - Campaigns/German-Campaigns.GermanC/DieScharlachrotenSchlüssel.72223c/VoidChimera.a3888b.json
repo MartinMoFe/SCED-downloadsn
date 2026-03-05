@@ -14,11 +14,9 @@
   "Description": "Gorefeaster",
   "GMNotes": "{\n  \"id\": \"09629\"\n}",
   "GUID": "a3888b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Void Chimera",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

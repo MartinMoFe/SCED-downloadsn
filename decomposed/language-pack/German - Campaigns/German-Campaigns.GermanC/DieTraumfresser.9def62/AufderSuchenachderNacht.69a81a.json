@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06125\"\n}",
   "GUID": "69a81a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Auf der Suche nach der Nacht",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

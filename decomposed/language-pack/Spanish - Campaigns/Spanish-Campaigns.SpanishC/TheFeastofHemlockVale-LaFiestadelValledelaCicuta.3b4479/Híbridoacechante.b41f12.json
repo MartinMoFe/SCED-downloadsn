@@ -1,0 +1,22 @@
+{
+  "CardID": 874905,
+  "CustomDeck": {
+    "8749": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/xXda4YV.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10625\"\n}",
+  "GUID": "b41f12",
+  "Name": "Card",
+  "Nickname": "Híbrido acechante",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

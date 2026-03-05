@@ -1,0 +1,23 @@
+{
+  "CardID": 456802,
+  "CustomDeck": {
+    "4568": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/aWuuea0.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Adiestrador de perros",
+  "GMNotes": "{\n  \"id\": \"08716\"\n}",
+  "GUID": "744e7e",
+  "Name": "Card",
+  "Nickname": "Eliyah Ashevak",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

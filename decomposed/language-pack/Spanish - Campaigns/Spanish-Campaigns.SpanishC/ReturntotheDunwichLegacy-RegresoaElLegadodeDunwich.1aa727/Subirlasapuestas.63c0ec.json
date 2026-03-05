@@ -1,0 +1,22 @@
+{
+  "CardID": 47902,
+  "CustomDeck": {
+    "479": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XiXrtxk.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51019\"\n}",
+  "GUID": "63c0ec",
+  "Name": "Card",
+  "Nickname": "Subir las apuestas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

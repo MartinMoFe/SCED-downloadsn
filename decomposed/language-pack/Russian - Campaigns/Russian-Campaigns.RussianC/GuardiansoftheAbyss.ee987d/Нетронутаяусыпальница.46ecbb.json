@@ -14,11 +14,9 @@
   "Description": "Экспедиция. Руины.",
   "GMNotes": "{\n  \"id\": \"83041\"\n}",
   "GUID": "46ecbb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Нетронутая усыпальница",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Монстр. Мир грёз. Шантак.",
   "GMNotes": "{\n  \"id\": \"83029\"\n}",
   "GUID": "5a91c0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ужасный шантак",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

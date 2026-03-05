@@ -15,7 +15,6 @@
         }
       },
       "GUID": "23ffdc",
-      "HideWhenFaceDown": false,
       "Name": "Card",
       "Nickname": "Tenuous Allies",
       "Transform": {
@@ -33,7 +32,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Here to Help",

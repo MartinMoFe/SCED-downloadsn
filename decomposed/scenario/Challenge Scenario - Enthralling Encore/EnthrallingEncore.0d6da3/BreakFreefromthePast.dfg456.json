@@ -14,7 +14,6 @@
   "Description": "Act 1",
   "GMNotes": "{\r\n  \"id\": \"90096\",\r\n  \"type\": \"Act\",\r\n  \"cycle\": \"Enthralling Encore\"\r\n}\r",
   "GUID": "dfg456",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Break Free from the Past",
   "SidewaysCard": true,

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09695\"\n}",
   "GUID": "91dd46",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Conflux of Consequence",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Горы. Неизведанная.",
   "GMNotes": "{\n  \"id\": \"08508\"\n}",
   "GUID": "33ae79",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Скалистые утёсы",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

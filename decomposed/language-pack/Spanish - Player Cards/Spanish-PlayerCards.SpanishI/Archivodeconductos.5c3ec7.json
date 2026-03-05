@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/5VfkUFo.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Sin identificar",
-  "GMNotes": "{\"id\": \"08033\"}",
+  "GMNotes": "{\n  \"id\": \"08033\"\n}",
   "GUID": "5c3ec7",
   "Name": "Card",
   "Nickname": "Archivo de conductos",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

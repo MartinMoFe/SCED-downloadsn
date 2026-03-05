@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/zhTED59.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Descubridor de conexiones ocultas",
-  "GMNotes": "{\"id\": \"08106\"}",
+  "GMNotes": "{\n  \"id\": \"08106\"\n}",
   "GUID": "7b7ad0",
   "Name": "Card",
   "Nickname": "Profesor William Webb (2)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

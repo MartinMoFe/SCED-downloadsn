@@ -1,0 +1,23 @@
+{
+  "CardID": 874207,
+  "CustomDeck": {
+    "8742": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/BWszyxz.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "Description": "Símbolo de la inocencia",
+  "GMNotes": "{\n  \"id\": \"10714\"\n}",
+  "GUID": "eb7c5d",
+  "Name": "Card",
+  "Nickname": "Muñeca de hojas de maíz",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

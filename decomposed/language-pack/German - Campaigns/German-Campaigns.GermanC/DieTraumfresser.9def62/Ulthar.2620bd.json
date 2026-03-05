@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06127\"\n}",
   "GUID": "2620bd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ulthar",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

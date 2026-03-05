@@ -14,11 +14,9 @@
   "Description": "Сверхпространственная. Расколотая.",
   "GMNotes": "{\n  \"id\": \"10670\"\n}",
   "GUID": "37391e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Бездна",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

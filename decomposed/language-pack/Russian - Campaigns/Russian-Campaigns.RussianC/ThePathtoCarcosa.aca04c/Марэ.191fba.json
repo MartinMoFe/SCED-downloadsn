@@ -14,11 +14,9 @@
   "Description": "Париж. Метро.",
   "GMNotes": "{\n  \"id\": \"03218\"\n}",
   "GUID": "191fba",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Марэ",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

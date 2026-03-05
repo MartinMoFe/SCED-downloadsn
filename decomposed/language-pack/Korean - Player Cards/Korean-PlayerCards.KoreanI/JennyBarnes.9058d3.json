@@ -15,7 +15,6 @@
   "Description": "The Dilettante",
   "GMNotes": "{\n  \"id\": \"02003\"\n}",
   "GUID": "9058d3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jenny Barnes",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "JennyBarnespromoversion.b954f6"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

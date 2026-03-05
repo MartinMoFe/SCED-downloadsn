@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06248\"\n}",
   "GUID": "66ae9b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ein düsteres Reich",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

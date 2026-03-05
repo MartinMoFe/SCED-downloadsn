@@ -1,0 +1,32 @@
+{
+  "ColorDiffuse": {
+    "b": 0,
+    "g": 0,
+    "r": 0
+  },
+  "ContainedObjects_order": [],
+  "CustomImage": {
+    "CustomTile": {
+      "Stackable": false,
+      "Stretch": true,
+      "Thickness": 0.1,
+      "Type": 3
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10381161073548015455/23FBC905B89B1C3810A61E8B9674645DD31E37A2/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/11191338444918426456/07E150C6BED995CA84D628C4E2F6E9BF8C9429A7/",
+    "WidthScale": 0
+  },
+  "GMNotes": "{\n  \"id\": \"RoundSequence\"\n}",
+  "GUID": "2eca7c",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Locked": true,
+  "Name": "Custom_Tile",
+  "Nickname": "Round Sequence",
+  "Transform": {
+    "scaleX": 3.3,
+    "scaleY": 1,
+    "scaleZ": 3.3
+  }
+}

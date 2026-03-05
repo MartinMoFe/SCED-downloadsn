@@ -1,0 +1,24 @@
+{
+  "CardID": 1501,
+  "CustomDeck": {
+    "15": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/ylehrGR.jpg",
+      "FaceURL": "http://i.imgur.com/IWoIdTa.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Sin ataduras de la realidad",
+  "GMNotes": "{\n  \"id\": \"02320\"\n}",
+  "GUID": "18c33f",
+  "Name": "Card",
+  "Nickname": "Otra dimensión",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

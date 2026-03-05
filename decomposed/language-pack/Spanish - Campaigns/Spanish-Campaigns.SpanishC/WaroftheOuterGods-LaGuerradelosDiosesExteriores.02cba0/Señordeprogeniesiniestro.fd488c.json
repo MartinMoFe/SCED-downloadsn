@@ -1,0 +1,23 @@
+{
+  "CardID": 459816,
+  "CustomDeck": {
+    "4598": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/j2K2Bf0.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Abominación grotesca",
+  "GMNotes": "{\n  \"id\": \"86042\"\n}",
+  "GUID": "fd488c",
+  "Name": "Card",
+  "Nickname": "Señor de progenie siniestro",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

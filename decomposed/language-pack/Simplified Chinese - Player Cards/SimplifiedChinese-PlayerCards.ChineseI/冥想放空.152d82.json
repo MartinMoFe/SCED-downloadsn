@@ -1,5 +1,5 @@
 {
-  "CardID": "1157021",
+  "CardID": 1157021,
   "CustomDeck": {
     "11570": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13572263826008278984/750C7DB7755E9FA951FFC88EC21BB0E6974E2ABD/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08061\"}",
+  "GMNotes": "{\n  \"id\": \"08061\"\n}",
   "GUID": "152d82",
   "Name": "Card",
   "Nickname": "冥想放空",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

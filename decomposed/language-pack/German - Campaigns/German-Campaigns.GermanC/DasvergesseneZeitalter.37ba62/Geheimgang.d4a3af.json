@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04067\"\n}",
   "GUID": "d4a3af",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Geheimgang",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

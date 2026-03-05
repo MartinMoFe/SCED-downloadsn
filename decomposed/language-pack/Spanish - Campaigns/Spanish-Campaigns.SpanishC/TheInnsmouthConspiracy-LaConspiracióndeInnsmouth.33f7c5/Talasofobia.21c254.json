@@ -1,0 +1,22 @@
+{
+  "CardID": 877711,
+  "CustomDeck": {
+    "8777": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/KDS8dCT.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07337\"\n}",
+  "GUID": "21c254",
+  "Name": "Card",
+  "Nickname": "Talasofobia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

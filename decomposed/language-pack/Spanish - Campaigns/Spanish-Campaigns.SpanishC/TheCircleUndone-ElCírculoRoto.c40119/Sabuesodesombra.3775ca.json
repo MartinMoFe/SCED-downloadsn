@@ -1,0 +1,22 @@
+{
+  "CardID": 816,
+  "CustomDeck": {
+    "8": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/gbPr7XL.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05101\"\n}",
+  "GUID": "3775ca",
+  "Name": "Card",
+  "Nickname": "Sabueso de sombra",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

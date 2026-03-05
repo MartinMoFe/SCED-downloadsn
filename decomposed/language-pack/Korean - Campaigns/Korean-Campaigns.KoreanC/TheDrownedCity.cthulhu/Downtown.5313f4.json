@@ -14,12 +14,9 @@
   "Description": "Ruined",
   "GMNotes": "{\n  \"id\": \"11693\"\n}",
   "GUID": "5313f4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Downtown",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

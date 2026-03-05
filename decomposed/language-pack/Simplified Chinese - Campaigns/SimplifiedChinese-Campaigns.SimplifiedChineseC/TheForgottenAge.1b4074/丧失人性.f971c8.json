@@ -1,24 +1,20 @@
 {
-  "CardID": 1590328,
+  "CardID": 2781328,
   "CustomDeck": {
-    "15903": {
-      "FaceURL": "https://res.cloudinary.com/dhujajmtk/image/upload/v1760424887/AH%20LCG%20-%20ZH/SheetZH04184-04263.jpg",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "NumWidth": 10,
-      "NumHeight": 3,
+    "27813": {
       "BackIsHidden": true,
-      "UniqueBack": false,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14424572945060855941/88EAEFED2981F6738C81BA1F04EA2D00A76679BC/",
+      "NumHeight": 3,
+      "NumWidth": 10,
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04262\"}",
+  "GMNotes": "{\n  \"id\": \"04262\"\n}",
   "GUID": "f971c8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "丧失人性",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

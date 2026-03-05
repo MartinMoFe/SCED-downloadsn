@@ -1,0 +1,23 @@
+{
+  "CardID": 29006,
+  "CustomDeck": {
+    "290": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/l1ED1Au.jpg",
+      "FaceURL": "https://i.imgur.com/ZQrJGL8.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04122\"\n}",
+  "GUID": "0ef7ce",
+  "Name": "Card",
+  "Nickname": "La maldición de Harlan",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

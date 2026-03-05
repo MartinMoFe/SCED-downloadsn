@@ -1,0 +1,24 @@
+{
+  "CardID": 851807,
+  "CustomDeck": {
+    "8518": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/G39DPz2.jpg",
+      "FaceURL": "https://i.imgur.com/7HhpwK6.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Noche tranquila",
+  "GMNotes": "{\n  \"id\": \"88015\"\n}",
+  "GUID": "84e161",
+  "Name": "Card",
+  "Nickname": "Bar del casino",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

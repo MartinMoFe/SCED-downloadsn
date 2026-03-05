@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04114\"\n}",
   "GUID": "56e96a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Drei Schicksale",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

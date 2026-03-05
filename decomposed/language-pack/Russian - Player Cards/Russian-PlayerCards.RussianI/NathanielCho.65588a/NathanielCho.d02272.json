@@ -1,5 +1,5 @@
 {
-  "CardID": "535055",
+  "CardID": 535055,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -21,13 +21,11 @@
   "Description": "Преступник. Служитель.",
   "GMNotes": "{\n  \"id\": \"60101\"\n}",
   "GUID": "d02272",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Натаниэль Чо",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

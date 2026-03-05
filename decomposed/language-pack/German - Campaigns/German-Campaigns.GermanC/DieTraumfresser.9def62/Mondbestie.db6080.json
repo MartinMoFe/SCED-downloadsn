@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06229\"\n}",
   "GUID": "db6080",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mondbestie",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

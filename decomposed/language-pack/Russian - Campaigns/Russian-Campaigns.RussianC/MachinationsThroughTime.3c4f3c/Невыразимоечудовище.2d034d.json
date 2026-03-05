@@ -14,11 +14,9 @@
   "Description": "Заговор.",
   "GMNotes": "{\n  \"id\": \"87042\"\n}",
   "GUID": "2d034d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Невыразимое чудовище",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

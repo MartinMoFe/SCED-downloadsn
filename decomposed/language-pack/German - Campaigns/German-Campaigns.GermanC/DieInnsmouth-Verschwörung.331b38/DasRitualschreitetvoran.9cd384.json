@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07279\"\n}",
   "GUID": "9cd384",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Ritual schreitet voran",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

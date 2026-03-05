@@ -1,0 +1,22 @@
+{
+  "CardID": 878011,
+  "CustomDeck": {
+    "8780": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/sFHdTOv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07298\"\n}",
+  "GUID": "5918a0",
+  "Name": "Card",
+  "Nickname": "Heraldos de las profundidades",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

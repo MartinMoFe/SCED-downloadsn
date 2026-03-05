@@ -14,12 +14,10 @@
   "Description": "Поэт",
   "GMNotes": "{\n  \"id\": \"11004\"\n}",
   "GUID": "tdc004",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Люциус Галлоуэй",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

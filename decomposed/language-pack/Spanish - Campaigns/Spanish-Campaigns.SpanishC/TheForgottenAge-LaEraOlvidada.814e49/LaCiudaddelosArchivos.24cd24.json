@@ -1,0 +1,23 @@
+{
+  "CardID": 50902,
+  "CustomDeck": {
+    "509": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/S7SwJR4.jpg",
+      "FaceURL": "https://i.imgur.com/edEUOYP.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04237\"\n}",
+  "GUID": "24cd24",
+  "Name": "Card",
+  "Nickname": "La Ciudad de los Archivos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

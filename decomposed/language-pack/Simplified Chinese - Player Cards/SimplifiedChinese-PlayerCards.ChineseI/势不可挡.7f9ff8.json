@@ -1,5 +1,5 @@
 {
-  "CardID": "1156207",
+  "CardID": 1156207,
   "CustomDeck": {
     "11562": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17870157356305021772/336E1EFEF459EE3173EC1C2304189598159E9615/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06115\"}",
+  "GMNotes": "{\n  \"id\": \"06115\"\n}",
   "GUID": "7f9ff8",
   "Name": "Card",
   "Nickname": "势不可挡",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

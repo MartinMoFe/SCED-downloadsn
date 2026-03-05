@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03225\"\n}",
   "GUID": "4c724c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Qualvolle Akkorde",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

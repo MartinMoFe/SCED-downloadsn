@@ -14,11 +14,9 @@
   "Description": "Мискатоник.",
   "GMNotes": "{\n  \"id\": \"02057\"\n}",
   "GUID": "685c14",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Алхимическая лаборатория",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

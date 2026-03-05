@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11579582977828276320/53CC2214B4F9EBA00F1C5D4FADDFE346DC0ECDBF/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Свидетельство.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Разоблачающие доказательства",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

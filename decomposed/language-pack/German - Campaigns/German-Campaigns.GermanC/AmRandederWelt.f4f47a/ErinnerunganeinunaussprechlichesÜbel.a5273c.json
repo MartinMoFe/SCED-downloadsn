@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08580\"\n}",
   "GUID": "a5273c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erinnerung an ein unaussprechliches Übel",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

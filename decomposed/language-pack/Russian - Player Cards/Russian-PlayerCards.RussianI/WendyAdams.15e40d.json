@@ -15,7 +15,6 @@
   "GMNotes": "{\n  \"id\": \"01005-m\"\n}",
   "GUID": "15e40d",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Венди Адамс",
   "Snap": false,
@@ -23,7 +22,6 @@
     "2": "WendyAdams.9b1e1f"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

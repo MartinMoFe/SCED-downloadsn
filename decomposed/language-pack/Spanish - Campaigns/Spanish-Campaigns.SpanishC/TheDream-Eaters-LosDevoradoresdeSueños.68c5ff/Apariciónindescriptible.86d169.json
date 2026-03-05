@@ -1,0 +1,22 @@
+{
+  "CardID": 863001,
+  "CustomDeck": {
+    "8630": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/VJNl8Ya.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06191\"\n}",
+  "GUID": "86d169",
+  "Name": "Card",
+  "Nickname": "Aparición indescriptible",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

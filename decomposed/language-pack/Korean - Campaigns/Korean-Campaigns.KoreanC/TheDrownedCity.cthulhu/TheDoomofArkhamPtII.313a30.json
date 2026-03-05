@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11688c\"\n}",
   "GUID": "313a30",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Doom of Arkham Pt II",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02166\"\n}",
   "GUID": "402140",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Bring den Motor zum Laufen!",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

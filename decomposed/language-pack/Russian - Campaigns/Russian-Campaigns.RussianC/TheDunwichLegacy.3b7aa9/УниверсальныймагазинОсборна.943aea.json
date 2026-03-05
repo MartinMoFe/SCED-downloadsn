@@ -14,11 +14,9 @@
   "Description": "Данвич.",
   "GMNotes": "{\n  \"id\": \"02207\"\n}",
   "GUID": "943aea",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Универсальный магазин Осборна",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

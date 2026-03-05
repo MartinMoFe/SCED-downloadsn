@@ -15,7 +15,6 @@
   "Description": "The Librarian",
   "GMNotes": "{\n  \"id\": \"01002\"\n}",
   "GUID": "6938eb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Daisy Walker",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "DaisyWalker.ac7047"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

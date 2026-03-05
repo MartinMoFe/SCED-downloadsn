@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/FouKhGc.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01094\"}",
+  "GMNotes": "{\n  \"id\": \"01094\"\n}",
   "GUID": "fc79de",
   "Name": "Card",
   "Nickname": "Chaleco antibalas (3)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03052\"\n}",
   "GUID": "4dba0c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Bereich hinter der Bühne",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

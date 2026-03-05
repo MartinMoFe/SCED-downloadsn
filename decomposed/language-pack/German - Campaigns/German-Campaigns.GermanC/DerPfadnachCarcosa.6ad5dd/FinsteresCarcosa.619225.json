@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03316\"\n}",
   "GUID": "619225",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Finsteres Carcosa",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

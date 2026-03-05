@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06228\"\n}",
   "GUID": "9027dd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Katzen vom Saturn",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

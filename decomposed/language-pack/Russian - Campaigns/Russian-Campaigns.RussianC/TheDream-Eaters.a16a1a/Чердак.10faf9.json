@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06181\"\n}",
   "GUID": "10faf9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Чердак",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

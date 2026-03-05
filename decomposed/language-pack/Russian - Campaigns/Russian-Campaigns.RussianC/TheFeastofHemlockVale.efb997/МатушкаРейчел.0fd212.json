@@ -14,11 +14,9 @@
   "Description": "Житель.",
   "GMNotes": "{\n  \"id\": \"10693\"\n}",
   "GUID": "0fd212",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Матушка Рейчел",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

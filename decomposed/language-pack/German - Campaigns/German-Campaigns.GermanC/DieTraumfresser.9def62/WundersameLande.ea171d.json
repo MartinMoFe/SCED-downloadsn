@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06154\"\n}",
   "GUID": "ea171d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wundersame Lande",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

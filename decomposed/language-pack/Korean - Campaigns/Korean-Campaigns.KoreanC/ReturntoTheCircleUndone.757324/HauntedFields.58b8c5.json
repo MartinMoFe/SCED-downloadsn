@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05167\"\n}",
   "GUID": "58b8c5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Haunted Fields",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

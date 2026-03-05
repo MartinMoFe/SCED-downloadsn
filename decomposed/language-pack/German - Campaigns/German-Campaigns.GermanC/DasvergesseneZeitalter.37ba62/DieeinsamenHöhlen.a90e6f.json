@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04211\"\n}",
   "GUID": "a90e6f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die einsamen Höhlen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

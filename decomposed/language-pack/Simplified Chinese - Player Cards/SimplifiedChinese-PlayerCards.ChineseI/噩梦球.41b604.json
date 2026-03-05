@@ -1,5 +1,5 @@
 {
-  "CardID": "1156405",
+  "CardID": 1156405,
   "CustomDeck": {
     "11564": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14388608471558237241/3FB11F7E00CD5293839EC5BF58E9724B7C0EA292/",
       "NumHeight": 1,
       "NumWidth": 8,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06330\"}",
+  "GMNotes": "{\n  \"id\": \"06330\"\n}",
   "GUID": "41b604",
   "Name": "Card",
   "Nickname": "噩梦球",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07201\"\n}",
   "GUID": "642d41",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Heiße Verfolgungsjagd",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

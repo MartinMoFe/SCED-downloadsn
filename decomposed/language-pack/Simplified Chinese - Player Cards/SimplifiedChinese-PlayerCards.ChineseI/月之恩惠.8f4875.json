@@ -1,5 +1,5 @@
 {
-  "CardID": "1156801",
+  "CardID": 1156801,
   "CustomDeck": {
     "11568": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17072893932994099309/547675CCECB0CCB07E7DD278281AD87CA5705903/",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07271\"}",
+  "GMNotes": "{\n  \"id\": \"07271\"\n}",
   "GUID": "8f4875",
   "Name": "Card",
   "Nickname": "月之恩惠",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

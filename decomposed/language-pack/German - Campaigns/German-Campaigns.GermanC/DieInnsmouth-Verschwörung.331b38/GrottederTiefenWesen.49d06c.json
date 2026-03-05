@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07175a\"\n}",
   "GUID": "49d06c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grotte der Tiefen Wesen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

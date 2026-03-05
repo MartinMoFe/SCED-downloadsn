@@ -1,0 +1,24 @@
+{
+  "CardID": 854114,
+  "CustomDeck": {
+    "8541": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/79XJGQG.jpg",
+      "FaceURL": "https://i.imgur.com/PtDq4nG.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Suplicante oscuro",
+  "GMNotes": "{\n  \"id\": \"83032a\"\n}",
+  "GUID": "37536c",
+  "Name": "Card",
+  "Nickname": "Dr. Wentworth Moore",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

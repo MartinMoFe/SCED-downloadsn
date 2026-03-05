@@ -14,11 +14,9 @@
   "Description": "Аркхэм.",
   "GMNotes": "{\n  \"id\": \"05293\"\n}",
   "GUID": "db4b20",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ривертаун",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

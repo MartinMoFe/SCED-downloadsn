@@ -14,11 +14,9 @@
   "Description": "Каир.",
   "GMNotes": "{\n  \"id\": \"83011\"\n}",
   "GUID": "893ca0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пригород Каира",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

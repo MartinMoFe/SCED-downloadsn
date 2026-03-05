@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08603\"\n}",
   "GUID": "2098ab",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schmaler Grad",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

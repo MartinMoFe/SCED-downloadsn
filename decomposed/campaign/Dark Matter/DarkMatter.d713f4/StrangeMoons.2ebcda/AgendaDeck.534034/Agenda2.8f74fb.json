@@ -8,10 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
-  "GMNotes": "{\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 8}",
+  "GMNotes": "{\n  \"id\": \"DM137\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 8}",
   "GUID": "8f74fb",
   "Name": "CardCustom",
   "Nickname": "Agenda 2",

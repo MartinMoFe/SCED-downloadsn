@@ -1,0 +1,24 @@
+{
+  "CardID": 469305,
+  "CustomDeck": {
+    "4693": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ZTaGA9F.jpg",
+      "FaceURL": "https://i.imgur.com/y4aLLfh.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Sólo para miembros",
+  "GMNotes": "{\n  \"id\": \"05209\"\n}",
+  "GUID": "b26434",
+  "Name": "Card",
+  "Nickname": "Sótano de la Logia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

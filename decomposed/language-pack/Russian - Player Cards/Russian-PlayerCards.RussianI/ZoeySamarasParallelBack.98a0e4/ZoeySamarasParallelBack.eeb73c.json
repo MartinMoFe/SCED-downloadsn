@@ -1,5 +1,5 @@
 {
-  "CardID": "535220",
+  "CardID": 535220,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Верующий. Охотник.",
   "GMNotes": "{\n  \"id\": \"02001-pb\"\n}",
   "GUID": "eeb73c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Зои Самарас (альтернативный оборот)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -1,0 +1,22 @@
+{
+  "CardID": 873402,
+  "CustomDeck": {
+    "8734": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/5ff26Ra.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10726\"\n}",
+  "GUID": "e0f643",
+  "Name": "Card",
+  "Nickname": "Mutaciones extrañas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

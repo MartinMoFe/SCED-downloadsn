@@ -14,11 +14,9 @@
   "Description": "Innsmouth. Coastal. Midtown.",
   "GMNotes": "{\n  \"id\": \"07131\"\n}",
   "GUID": "c0d0df",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Shoreward Slums",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

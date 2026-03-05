@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/ooG395S.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60408\"}",
+  "GMNotes": "{\n  \"id\": \"60408\"\n}",
   "GUID": "0db084",
   "Name": "Card",
   "Nickname": "Clarividencia",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

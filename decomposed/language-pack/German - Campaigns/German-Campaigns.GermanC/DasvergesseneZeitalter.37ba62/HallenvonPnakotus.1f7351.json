@@ -14,11 +14,9 @@
   "Description": "Östliche Korridore",
   "GMNotes": "{\n  \"id\": \"04249\"\n}",
   "GUID": "1f7351",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hallen von Pnakotus",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

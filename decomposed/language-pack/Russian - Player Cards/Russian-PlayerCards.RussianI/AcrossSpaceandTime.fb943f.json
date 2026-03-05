@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13445687524683620411/95ECFF5F6F63A1A9E144EFD5AB66AB3334DDD9EE/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Безумие.",
   "GMNotes": "{\n  \"id\": \"02178\"\n}",
   "GUID": "fb943f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сквозь время и пространство",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": "1157422",
+  "CardID": 1157422,
   "CustomDeck": {
     "11574": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15125322522728752629/8970D34C3793ABDECD0357C806F82437B44DFB7B/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"09029\"}",
+  "GMNotes": "{\n  \"id\": \"09029\"\n}",
   "GUID": "527df5",
   "Name": "Card",
   "Nickname": "还剩一枪",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02183\"\n}",
   "GUID": "3c0bea",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Auftauchende Monstrosität.",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

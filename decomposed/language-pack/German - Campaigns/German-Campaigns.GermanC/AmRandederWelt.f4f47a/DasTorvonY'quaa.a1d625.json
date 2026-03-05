@@ -14,12 +14,9 @@
   "Description": "Primordiales Siegel",
   "GMNotes": "{\n  \"id\": \"08649\"\n}",
   "GUID": "a1d625",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Tor von Y'quaa",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

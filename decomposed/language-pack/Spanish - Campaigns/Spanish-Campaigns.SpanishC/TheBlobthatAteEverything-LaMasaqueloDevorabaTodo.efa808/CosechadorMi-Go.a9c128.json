@@ -1,0 +1,22 @@
+{
+  "CardID": 48907,
+  "CustomDeck": {
+    "489": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/QRefUJ0.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85034\"\n}",
+  "GUID": "a9c128",
+  "Name": "Card",
+  "Nickname": "Cosechador Mi-Go",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

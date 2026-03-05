@@ -1,0 +1,23 @@
+{
+  "CardID": 851928,
+  "CustomDeck": {
+    "8519": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/ze7iQeY.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Hunter from Beyond",
+  "GMNotes": "{\n  \"id\": \"88048\"\n}",
+  "GUID": "12e445",
+  "Name": "Card",
+  "Nickname": "Vagabundo dimensional",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

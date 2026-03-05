@@ -14,11 +14,9 @@
   "Description": "Роль. Неумелая.",
   "GMNotes": "{\n  \"id\": \"88031\"\n}",
   "GUID": "1711c7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Катала",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

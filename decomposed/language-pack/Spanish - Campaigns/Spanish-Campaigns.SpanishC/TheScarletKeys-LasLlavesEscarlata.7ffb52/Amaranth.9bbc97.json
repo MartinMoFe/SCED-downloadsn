@@ -1,0 +1,23 @@
+{
+  "CardID": 470217,
+  "CustomDeck": {
+    "4702": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/HKrm23S.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Desdén escarlata",
+  "GMNotes": "{\n  \"id\": \"09759\"\n}",
+  "GUID": "9bbc97",
+  "Name": "Card",
+  "Nickname": "Amaranth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

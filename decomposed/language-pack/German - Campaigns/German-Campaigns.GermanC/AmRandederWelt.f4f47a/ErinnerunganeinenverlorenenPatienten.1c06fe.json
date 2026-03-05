@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08576\"\n}",
   "GUID": "1c06fe",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erinnerung an einen verlorenen Patienten",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

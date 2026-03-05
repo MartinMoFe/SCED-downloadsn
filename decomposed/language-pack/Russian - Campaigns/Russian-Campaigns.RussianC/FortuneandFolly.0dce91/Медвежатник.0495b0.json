@@ -14,11 +14,9 @@
   "Description": "Роль. Неумелая.",
   "GMNotes": "{\n  \"id\": \"88030\"\n}",
   "GUID": "0495b0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Медвежатник",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

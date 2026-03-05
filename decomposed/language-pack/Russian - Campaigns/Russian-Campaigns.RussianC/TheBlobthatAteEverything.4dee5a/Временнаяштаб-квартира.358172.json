@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"85012\"\n}",
   "GUID": "358172",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Временная штаб-квартира",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05239\"\n}",
   "GUID": "a6f4f7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Liebenden · VI",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

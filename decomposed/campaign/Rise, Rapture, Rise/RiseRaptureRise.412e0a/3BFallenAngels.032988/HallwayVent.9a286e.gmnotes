@@ -1,11 +1,12 @@
 {
   "id": "5a2064c5-c480-42ac-b63d-38e57140fcaf",
+  "TtsZoopGuid": "5a2064c5-c480-42ac-b63d-38e57140fcaf",
   "type": "Location",
   "class": "Mythos",
   "traits": "Abandoned. Facility.",
   "locationFront": {
     "icons": "Cross",
-    "connections": "Triangle|Diamond|Slash|Hourglass",
+    "connections": "Triangle|Slash|Moon|Diamond",
     "uses": [
       {
         "count": 0,
@@ -16,7 +17,7 @@
   },
   "locationBack": {
     "icons": "Cross",
-    "connections": "Triangle|Diamond|Slash|Hourglass",
+    "connections": "Triangle|Slash|Moon|Diamond",
     "uses": [
       {
         "count": 0,
@@ -24,6 +25,5 @@
         "token": "clue"
       }
     ]
-  },
-  "TtsZoopGuid": "5a2064c5-c480-42ac-b63d-38e57140fcaf"
+  }
 }

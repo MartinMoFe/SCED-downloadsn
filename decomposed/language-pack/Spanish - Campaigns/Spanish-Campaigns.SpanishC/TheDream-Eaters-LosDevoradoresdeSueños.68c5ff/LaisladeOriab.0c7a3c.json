@@ -1,0 +1,24 @@
+{
+  "CardID": 862903,
+  "CustomDeck": {
+    "8629": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/adXroOC.jpg",
+      "FaceURL": "https://i.imgur.com/8ggnzpO.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06123\"\n}",
+  "GUID": "0c7a3c",
+  "Name": "Card",
+  "Nickname": "La isla de Oriab",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

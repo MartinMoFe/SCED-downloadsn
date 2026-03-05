@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09523\"\n}",
   "GUID": "5b5306",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Find Amaranth",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

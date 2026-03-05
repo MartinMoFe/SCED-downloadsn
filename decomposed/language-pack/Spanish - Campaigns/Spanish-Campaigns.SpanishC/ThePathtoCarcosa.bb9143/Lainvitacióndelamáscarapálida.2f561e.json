@@ -1,0 +1,22 @@
+{
+  "CardID": 2828,
+  "CustomDeck": {
+    "28": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/olhTOA3.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03105\"\n}",
+  "GUID": "2f561e",
+  "Name": "Card",
+  "Nickname": "La invitación de la máscara pálida",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08577\"\n}",
   "GUID": "452a0f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erinnerung an einen vermissten Vater",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/HpCjL07.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"53003\"}",
+  "GMNotes": "{\n  \"id\": \"53003\"\n}",
   "GUID": "f41e14",
   "Name": "Card",
   "Nickname": "Verdad y ficción (2)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

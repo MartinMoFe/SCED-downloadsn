@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03177\"\n}",
   "GUID": "1b3a73",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kellerflur",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

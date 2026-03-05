@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2267067515299649635/F389973FC4DAB2E99DA832682581793C189419E4/",
       "NumHeight": 6,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Arctic Archaeologist",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Jeremiah Kirby (Taboo)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

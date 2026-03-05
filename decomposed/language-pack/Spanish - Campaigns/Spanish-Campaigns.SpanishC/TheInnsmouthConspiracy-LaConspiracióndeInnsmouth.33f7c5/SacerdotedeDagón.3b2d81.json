@@ -1,0 +1,22 @@
+{
+  "CardID": 456100,
+  "CustomDeck": {
+    "4561": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/SIIG9do.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07084\"\n}",
+  "GUID": "3b2d81",
+  "Name": "Card",
+  "Nickname": "Sacerdote de Dagón",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

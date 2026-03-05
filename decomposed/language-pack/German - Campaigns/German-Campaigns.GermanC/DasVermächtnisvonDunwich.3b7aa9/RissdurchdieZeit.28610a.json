@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02322\"\n}",
   "GUID": "28610a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Riss durch die Zeit",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"10696\"\n}",
   "GUID": "810948",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "William Hemlock",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Riverside.",
   "GMNotes": "{\n  \"id\": \"81012\"\n}",
   "GUID": "ab9d69",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Риверсайд",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

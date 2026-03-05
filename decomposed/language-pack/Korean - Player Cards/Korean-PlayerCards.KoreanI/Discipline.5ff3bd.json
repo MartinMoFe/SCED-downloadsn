@@ -14,11 +14,9 @@
   "Description": "Alignment of Spirit",
   "GMNotes": "{\n  \"id\": \"08011a\"\n}",
   "GUID": "5ff3bd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Discipline",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

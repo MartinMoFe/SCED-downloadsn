@@ -1,5 +1,5 @@
 {
-  "CardID": 8610200,
+  "CardID": 8598400,
   "CustomDeck": {
     "85984": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "TheGhostsofOnigawaCampaignExpansion.c6cf48/ScenarioITheHiddenVillage.9a9857/EncounterDeck.504793/FungalGrowth.a20dd0.gmnotes",

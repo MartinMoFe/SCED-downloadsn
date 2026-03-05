@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07257\"\n}",
   "GUID": "69ea2c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Salzwasserkuss",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 864411,
+  "CustomDeck": {
+    "8644": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/AbG8MgC.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06233\"\n}",
+  "GUID": "7338b7",
+  "Name": "Card",
+  "Nickname": "Falso despertar",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

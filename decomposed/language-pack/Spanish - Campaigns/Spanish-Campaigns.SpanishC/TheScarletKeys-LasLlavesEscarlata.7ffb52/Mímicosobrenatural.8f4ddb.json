@@ -1,0 +1,22 @@
+{
+  "CardID": 471208,
+  "CustomDeck": {
+    "4712": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/xfnGjqp.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09734\"\n}",
+  "GUID": "8f4ddb",
+  "Name": "Card",
+  "Nickname": "Mímico sobrenatural",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

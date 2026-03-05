@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02313\"\n}",
   "GUID": "1d8370",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Vergangenheit, Gegenwart und Zukunft",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

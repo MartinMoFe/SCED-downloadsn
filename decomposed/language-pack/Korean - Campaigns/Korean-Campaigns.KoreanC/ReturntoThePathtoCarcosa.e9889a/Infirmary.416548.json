@@ -14,11 +14,9 @@
   "Description": "Arkham Asylum.",
   "GMNotes": "{\n  \"id\": \"03174\"\n}",
   "GUID": "416548",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Infirmary",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

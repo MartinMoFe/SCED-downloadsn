@@ -14,11 +14,9 @@
   "Description": "Extradimensional. Witch House.",
   "GMNotes": "{\n  \"id\": \"05141\"\n}",
   "GUID": "09f034",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Site of the Sacrifice",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

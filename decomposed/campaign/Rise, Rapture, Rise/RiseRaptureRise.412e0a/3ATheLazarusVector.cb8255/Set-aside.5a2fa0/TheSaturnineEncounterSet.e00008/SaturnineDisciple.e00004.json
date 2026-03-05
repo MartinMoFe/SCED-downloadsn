@@ -1,5 +1,5 @@
 {
-  "CardID": 20256300,
+  "CardID": 100300,
   "CustomDeck": {
     "1003": {
       "BackIsHidden": true,
@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/3ATheLazarusVector.cb8255/Set-aside.5a2fa0/TheSaturnineEncounterSet.e00008/SaturnineDisciple.e00004.gmnotes",
   "GUID": "e00004",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Saturnine Disciple",
   "Tags": [

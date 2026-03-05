@@ -14,11 +14,9 @@
   "Description": "New Orleans.",
   "GMNotes": "{\n  \"id\": \"81009\"\n}",
   "GUID": "499281",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Новый Орлеан",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

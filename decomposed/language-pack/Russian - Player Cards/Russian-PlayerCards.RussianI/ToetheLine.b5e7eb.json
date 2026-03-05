@@ -14,11 +14,9 @@
   "Description": "Возобновлённая решимость",
   "GMNotes": "{\n  \"id\": \"11755b\"\n}",
   "GUID": "b5e7eb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "По струнке",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03281\"\n}",
   "GUID": "d1b083",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Öffne den unteren Pfad",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

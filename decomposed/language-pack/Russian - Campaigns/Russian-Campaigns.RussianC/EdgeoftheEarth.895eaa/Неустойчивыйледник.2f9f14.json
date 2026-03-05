@@ -14,11 +14,9 @@
   "Description": "Ледник.",
   "GMNotes": "{\n  \"id\": \"08505\"\n}",
   "GUID": "2f9f14",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Неустойчивый ледник",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

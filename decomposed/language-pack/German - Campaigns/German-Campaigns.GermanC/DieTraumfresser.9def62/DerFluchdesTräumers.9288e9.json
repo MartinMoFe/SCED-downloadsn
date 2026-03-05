@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1911233446822911150/32E0425A27BE30DA986F24BED2CB0CB29CB426A0/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "GMNotes": "{\n  \"id\": \"06093\"\n}",
@@ -16,7 +15,6 @@
   "Name": "Card",
   "Nickname": "Der Fluch des Träumers",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

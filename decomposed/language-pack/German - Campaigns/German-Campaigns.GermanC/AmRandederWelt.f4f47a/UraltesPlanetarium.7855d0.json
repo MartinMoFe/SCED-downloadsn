@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08631\"\n}",
   "GUID": "7855d0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Uraltes Planetarium",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05338\"\n}",
   "GUID": "76810f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unendlichkeit der Finsternis",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

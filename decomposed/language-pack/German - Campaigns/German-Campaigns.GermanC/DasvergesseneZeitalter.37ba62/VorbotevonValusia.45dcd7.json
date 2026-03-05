@@ -14,11 +14,9 @@
   "Description": "Der Schläfer erwacht",
   "GMNotes": "{\n  \"id\": \"04062\"\n}",
   "GUID": "45dcd7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Vorbote von Valusia",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": "1155710",
+  "CardID": 1155710,
   "CustomDeck": {
     "11557": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15793452864162924665/559F5AA68379D77F972FD38DE3899837DBD0E2FB/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"05017\"}",
+  "GMNotes": "{\n  \"id\": \"05017\"\n}",
   "GUID": "7ad575",
   "Name": "Card",
   "Nickname": "兜帽人",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

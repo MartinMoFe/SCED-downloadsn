@@ -1,0 +1,23 @@
+{
+  "CardID": 50800,
+  "CustomDeck": {
+    "508": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/NKLgJJ7.jpg",
+      "NumHeight": 5,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Guardiana de los eztli",
+  "GMNotes": "{\n  \"id\": \"04052\"\n}",
+  "GUID": "54b0d9",
+  "Name": "Card",
+  "Nickname": "Ichtaca",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

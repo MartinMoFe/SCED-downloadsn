@@ -1,0 +1,23 @@
+{
+  "CardID": 868300,
+  "CustomDeck": {
+    "8683": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/UV61SUf.jpg",
+      "FaceURL": "https://i.imgur.com/OetthHN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10588\"\n}",
+  "GUID": "5e3976",
+  "Name": "Card",
+  "Nickname": "La cosa de las profundidades",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07276\"\n}",
   "GUID": "5cb6d9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Initiation (II)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

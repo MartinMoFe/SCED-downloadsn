@@ -1,0 +1,23 @@
+{
+  "CardID": 468910,
+  "CustomDeck": {
+    "4689": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/98yMiCf.jpg",
+      "FaceURL": "https://i.imgur.com/QnGUHn9.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03256\"\n}",
+  "GUID": "edc711",
+  "Name": "Card",
+  "Nickname": "Pasadizo bloqueado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

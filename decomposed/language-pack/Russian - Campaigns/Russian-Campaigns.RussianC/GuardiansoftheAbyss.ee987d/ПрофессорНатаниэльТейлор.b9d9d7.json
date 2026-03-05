@@ -14,11 +14,9 @@
   "Description": "Гуманоид. Культист. Братство.",
   "GMNotes": "{\n  \"id\": \"83036a\"\n}",
   "GUID": "b9d9d7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Профессор Натаниэль Тейлор",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

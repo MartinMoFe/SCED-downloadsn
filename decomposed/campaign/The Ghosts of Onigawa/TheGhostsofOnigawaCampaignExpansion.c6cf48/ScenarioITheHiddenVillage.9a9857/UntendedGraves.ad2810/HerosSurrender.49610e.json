@@ -1,5 +1,5 @@
 {
-  "CardID": 8611300,
+  "CardID": 8606700,
   "CustomDeck": {
     "86067": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "TheGhostsofOnigawaCampaignExpansion.c6cf48/ScenarioITheHiddenVillage.9a9857/UntendedGraves.ad2810/HerosSurrender.49610e.gmnotes",

@@ -1,0 +1,22 @@
+{
+  "CardID": 873412,
+  "CustomDeck": {
+    "8734": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/5ff26Ra.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10731\"\n}",
+  "GUID": "9b34bb",
+  "Name": "Card",
+  "Nickname": "Resplandor cautivador",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

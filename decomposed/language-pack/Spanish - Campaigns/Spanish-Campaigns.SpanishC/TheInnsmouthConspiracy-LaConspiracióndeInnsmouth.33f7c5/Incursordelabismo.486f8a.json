@@ -1,0 +1,22 @@
+{
+  "CardID": 465301,
+  "CustomDeck": {
+    "4653": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/c4Guywo.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07145\"\n}",
+  "GUID": "486f8a",
+  "Name": "Card",
+  "Nickname": "Incursor del abismo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

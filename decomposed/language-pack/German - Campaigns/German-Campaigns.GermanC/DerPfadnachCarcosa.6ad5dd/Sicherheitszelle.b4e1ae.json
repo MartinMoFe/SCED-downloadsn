@@ -14,12 +14,9 @@
   "Description": "Belegte Zelle",
   "GMNotes": "{\n  \"id\": \"03179\"\n}",
   "GUID": "b4e1ae",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sicherheitszelle",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

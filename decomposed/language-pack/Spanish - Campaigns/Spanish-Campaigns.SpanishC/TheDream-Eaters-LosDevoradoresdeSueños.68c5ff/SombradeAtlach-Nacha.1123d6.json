@@ -1,0 +1,22 @@
+{
+  "CardID": 863108,
+  "CustomDeck": {
+    "8631": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/znVSYmb.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06274\"\n}",
+  "GUID": "1123d6",
+  "Name": "Card",
+  "Nickname": "Sombra de Atlach-Nacha",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

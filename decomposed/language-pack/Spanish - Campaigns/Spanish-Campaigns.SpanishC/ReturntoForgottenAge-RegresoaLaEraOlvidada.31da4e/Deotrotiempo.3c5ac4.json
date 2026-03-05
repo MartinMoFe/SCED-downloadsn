@@ -1,0 +1,22 @@
+{
+  "CardID": 45709,
+  "CustomDeck": {
+    "457": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/pd5BcbL.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53073\"\n}",
+  "GUID": "3c5ac4",
+  "Name": "Card",
+  "Nickname": "De otro tiempo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "CardID": 878408,
+  "CustomDeck": {
+    "8784": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/0vf6cPQ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Quiere irse",
+  "GMNotes": "{\n  \"id\": \"07078\"\n}",
+  "GUID": "c6ad02",
+  "Name": "Card",
+  "Nickname": "Brian Burnham",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

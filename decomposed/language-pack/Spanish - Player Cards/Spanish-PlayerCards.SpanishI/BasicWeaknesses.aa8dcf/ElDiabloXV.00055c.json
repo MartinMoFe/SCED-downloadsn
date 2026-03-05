@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/PLTFLw3.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Tu sombra tiene hambre",
-  "GMNotes": "{\"id\": \"54015\"}",
+  "GMNotes": "{\n  \"id\": \"54015\"\n}",
   "GUID": "00055c",
   "Name": "Card",
   "Nickname": "El Diablo • XV",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

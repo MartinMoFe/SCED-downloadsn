@@ -1,0 +1,23 @@
+{
+  "CardID": 467504,
+  "CustomDeck": {
+    "4675": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/HawLRcs.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Piedad",
+  "GMNotes": "{\n  \"id\": \"03186\"\n}",
+  "GUID": "509863",
+  "Name": "Card",
+  "Nickname": "Regalo de la locura",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "CardID": 20271300,
+  "CardID": 20250300,
   "CustomDeck": {
     "202503": {
       "BackIsHidden": true,
@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/4OpiateoftheMasses.95ac78/Deck.b68552/WisdomOfTheCrowd.e0000b.gmnotes",
   "GUID": "e0000b",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wisdom Of The Crowd",
   "Tags": [

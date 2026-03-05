@@ -1,0 +1,23 @@
+{
+  "CardID": 470214,
+  "CustomDeck": {
+    "4702": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/HKrm23S.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Te desprecia",
+  "GMNotes": "{\n  \"id\": \"09756\"\n}",
+  "GUID": "89ac59",
+  "Name": "Card",
+  "Nickname": "El caballero burdeos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

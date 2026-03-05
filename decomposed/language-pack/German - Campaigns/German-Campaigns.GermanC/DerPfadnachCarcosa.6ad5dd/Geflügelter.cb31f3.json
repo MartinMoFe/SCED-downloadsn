@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03336\"\n}",
   "GUID": "cb31f3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Geflügelter",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

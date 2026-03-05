@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04071\"\n}",
   "GUID": "e3570c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Seilbrücke",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

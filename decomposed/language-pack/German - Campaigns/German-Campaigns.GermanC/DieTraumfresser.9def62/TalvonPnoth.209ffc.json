@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06261\"\n}",
   "GUID": "209ffc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tal von Pnoth",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

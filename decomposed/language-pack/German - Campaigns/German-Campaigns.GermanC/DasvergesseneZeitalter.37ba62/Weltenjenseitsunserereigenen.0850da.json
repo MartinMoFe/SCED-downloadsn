@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04318\"\n}",
   "GUID": "0850da",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Welten jenseits unserer eigenen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/XiBDFv7.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "El León de Luisiana",
-  "GMNotes": "{\"id\": \"01054\"}",
+  "GMNotes": "{\n  \"id\": \"01054\"\n}",
   "GUID": "82868e",
   "Name": "Card",
   "Nickname": "Leo De Luca (1)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11068b-m\"\n}",
   "GUID": "abc068b",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Заблудший гомункул",
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

@@ -1,0 +1,23 @@
+{
+  "CardID": 1550315,
+  "CustomDeck": {
+    "15503": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/12576683902974304475/F7BD4CDFA5A943077FDD463BC15279C590A003C8/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/10307765390479316326/AAF9411D37CBD3AB6CF12CCE9F2E16F88A03420E/",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"54033\"\n}",
+  "GUID": "981c41",
+  "Name": "Card",
+  "Nickname": "埃勃拉图书馆",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

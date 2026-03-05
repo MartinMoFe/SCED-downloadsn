@@ -14,12 +14,10 @@
   "Description": "Mountains. Uncharted.",
   "GMNotes": "{\n  \"id\": \"08508\"\n}",
   "GUID": "33ae79",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Rocky Crags",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

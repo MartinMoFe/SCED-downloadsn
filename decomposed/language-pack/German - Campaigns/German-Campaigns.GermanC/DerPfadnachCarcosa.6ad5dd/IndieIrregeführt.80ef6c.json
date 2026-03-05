@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03145\"\n}",
   "GUID": "80ef6c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "In die Irre geführt",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

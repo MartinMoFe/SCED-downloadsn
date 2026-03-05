@@ -1,5 +1,5 @@
 {
-  "CardID": "535043",
+  "CardID": 535043,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Врач.",
   "GMNotes": "{\n  \"id\": \"09004\"\n}",
   "GUID": "5a5be8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Винсент Ли",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -1,0 +1,23 @@
+{
+  "CardID": 458502,
+  "CustomDeck": {
+    "4585": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/OEPl7ea.jpg",
+      "FaceURL": "https://i.imgur.com/af0Go99.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08557\"\n}",
+  "GUID": "6abae9",
+  "Name": "Card",
+  "Nickname": "Campamento base",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

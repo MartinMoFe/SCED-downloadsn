@@ -1,0 +1,22 @@
+{
+  "CardID": 874807,
+  "CustomDeck": {
+    "8748": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/gnSITrZ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10603\"\n}",
+  "GUID": "265fa4",
+  "Name": "Card",
+  "Nickname": "Perturbación terrestre",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

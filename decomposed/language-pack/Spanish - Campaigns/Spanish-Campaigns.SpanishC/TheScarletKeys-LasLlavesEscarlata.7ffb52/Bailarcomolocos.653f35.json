@@ -1,0 +1,23 @@
+{
+  "CardID": 470400,
+  "CustomDeck": {
+    "4704": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/UWBgJqu.jpg",
+      "FaceURL": "https://i.imgur.com/GoQyk36.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09591\"\n}",
+  "GUID": "653f35",
+  "Name": "Card",
+  "Nickname": "Bailar como locos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

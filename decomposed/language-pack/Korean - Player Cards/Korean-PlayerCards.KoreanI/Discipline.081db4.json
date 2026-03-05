@@ -14,11 +14,9 @@
   "Description": "Quiescence of Thought",
   "GMNotes": "{\n  \"id\": \"08012a\"\n}",
   "GUID": "081db4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Discipline",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

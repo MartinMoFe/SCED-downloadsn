@@ -14,12 +14,10 @@
   "Description": "Agenda 2",
   "GMNotes": "{\n  \"id\": \"06121\"\n}",
   "GUID": "a6ecc6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Agents of Outer Gods",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

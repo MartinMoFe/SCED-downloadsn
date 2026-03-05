@@ -14,11 +14,9 @@
   "Description": "Мехико. Современная.",
   "GMNotes": "{\n  \"id\": \"53043\"\n}",
   "GUID": "3fc05b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сочимилько",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

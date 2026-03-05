@@ -1,5 +1,5 @@
 {
-  "CardID": "535044",
+  "CardID": 535044,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Преступник.",
   "GMNotes": "{\n  \"id\": \"09008\"\n}",
   "GUID": "b39767",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Каймани Джонс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

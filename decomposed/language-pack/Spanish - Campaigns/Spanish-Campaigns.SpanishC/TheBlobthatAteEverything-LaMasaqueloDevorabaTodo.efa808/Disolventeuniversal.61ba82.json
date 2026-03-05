@@ -1,0 +1,23 @@
+{
+  "CardID": 49000,
+  "CustomDeck": {
+    "490": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/V8nE7GC.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85029\"\n}",
+  "GUID": "61ba82",
+  "Name": "CardCustom",
+  "Nickname": "Disolvente universal",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

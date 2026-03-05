@@ -1,0 +1,24 @@
+{
+  "CardID": 2512,
+  "CustomDeck": {
+    "25": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/kbgyWoJ.jpg",
+      "FaceURL": "https://i.imgur.com/7ZzqP3b.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70014\"\n}",
+  "GUID": "65fe70",
+  "Name": "Card",
+  "Nickname": "La huida",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

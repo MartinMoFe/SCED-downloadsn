@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08626\"\n}",
   "GUID": "f40c2c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Weitläufige Stadt (v. III)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 586013,
+  "CustomDeck": {
+    "5860": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fNwS83L.jpg",
+      "FaceURL": "https://i.imgur.com/tb4Yu0N.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Celda deprimente",
+  "GMNotes": "{\n  \"id\": \"03180\"\n}",
+  "GUID": "f2a5bf",
+  "Name": "Card",
+  "Nickname": "Aislamiento de pacientes",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

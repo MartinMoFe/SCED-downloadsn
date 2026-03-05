@@ -1,5 +1,5 @@
 {
-  "CardID": "535007",
+  "CardID": 535007,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Скиталец.",
   "GMNotes": "{\n  \"id\": \"02003\"\n}",
   "GUID": "4b35f4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дженни Барнс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

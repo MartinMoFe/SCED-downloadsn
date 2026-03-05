@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03295\"\n}",
   "GUID": "0a231c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Knight's Hall",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

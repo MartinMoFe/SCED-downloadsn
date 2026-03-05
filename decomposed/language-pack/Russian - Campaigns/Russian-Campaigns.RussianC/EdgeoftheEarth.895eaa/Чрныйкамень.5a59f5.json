@@ -14,11 +14,9 @@
   "Description": "Мираж.",
   "GMNotes": "{\n  \"id\": \"08574\"\n}",
   "GUID": "5a59f5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Чёрный камень",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

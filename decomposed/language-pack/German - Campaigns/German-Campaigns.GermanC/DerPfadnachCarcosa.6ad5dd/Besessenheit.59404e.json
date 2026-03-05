@@ -14,11 +14,9 @@
   "Description": "Mörderisch",
   "GMNotes": "{\n  \"id\": \"03342\"\n}",
   "GUID": "59404e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Besessenheit",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

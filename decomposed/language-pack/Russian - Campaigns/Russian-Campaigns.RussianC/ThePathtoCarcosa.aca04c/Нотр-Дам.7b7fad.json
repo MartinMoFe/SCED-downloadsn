@@ -14,11 +14,9 @@
   "Description": "Париж. Метро.",
   "GMNotes": "{\n  \"id\": \"03219\"\n}",
   "GUID": "7b7fad",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Нотр-Дам",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

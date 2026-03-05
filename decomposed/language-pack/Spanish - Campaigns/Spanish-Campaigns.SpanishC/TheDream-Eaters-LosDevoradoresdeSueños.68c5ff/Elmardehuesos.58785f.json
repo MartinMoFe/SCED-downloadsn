@@ -1,0 +1,23 @@
+{
+  "CardID": 864006,
+  "CustomDeck": {
+    "8640": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/LHCkJWX.jpg",
+      "FaceURL": "https://i.imgur.com/II1TTZH.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06259\"\n}",
+  "GUID": "58785f",
+  "Name": "Card",
+  "Nickname": "El mar de huesos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

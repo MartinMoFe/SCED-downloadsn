@@ -1,0 +1,23 @@
+{
+  "CardID": 470100,
+  "CustomDeck": {
+    "4701": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/DYCv4ab.jpg",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0
+    }
+  },
+  "Description": "Siempre estuvo allí",
+  "GMNotes": "{\n  \"id\": \"09692\"\n}",
+  "GUID": "f03e50",
+  "Name": "Card",
+  "Nickname": "El hombre de los guantes rojos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

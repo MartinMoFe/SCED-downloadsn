@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11277323320980247351/27CC29AC1D274AACC0BA0D4673EAA2B79CF1304C/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Монстр.",
   "GMNotes": "{\n  \"id\": \"03300\"\n}",
   "GUID": "09396d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Приливный ужас",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Город.",
   "GMNotes": "{\n  \"id\": \"08630\"\n}",
   "GUID": "1c772e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Тайный ход",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

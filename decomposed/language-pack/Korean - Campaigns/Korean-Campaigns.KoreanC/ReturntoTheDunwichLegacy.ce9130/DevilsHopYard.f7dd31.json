@@ -14,11 +14,9 @@
   "Description": "Dunwich.",
   "GMNotes": "{\n  \"id\": \"02252\"\n}",
   "GUID": "f7dd31",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Devil's Hop Yard",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

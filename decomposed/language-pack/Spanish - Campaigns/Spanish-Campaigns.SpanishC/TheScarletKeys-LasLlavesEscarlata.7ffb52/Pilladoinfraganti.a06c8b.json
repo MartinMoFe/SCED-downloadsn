@@ -1,0 +1,24 @@
+{
+  "CardID": 471107,
+  "CustomDeck": {
+    "4711": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/dsRf3sg.jpg",
+      "FaceURL": "https://i.imgur.com/VDJIuj6.jpg",
+      "NumHeight": 2,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09509\"\n}",
+  "GUID": "a06c8b",
+  "Name": "Card",
+  "Nickname": "Pillado in fraganti",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

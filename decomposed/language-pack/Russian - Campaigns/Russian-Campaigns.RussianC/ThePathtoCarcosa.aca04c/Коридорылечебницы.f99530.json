@@ -14,11 +14,9 @@
   "Description": "Аркхэмская лечебница.",
   "GMNotes": "{\n  \"id\": \"03168\"\n}",
   "GUID": "f99530",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Коридоры лечебницы",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

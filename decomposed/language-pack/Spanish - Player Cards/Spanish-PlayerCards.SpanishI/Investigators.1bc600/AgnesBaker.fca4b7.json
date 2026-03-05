@@ -8,17 +8,16 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "La camarera",
-  "GMNotes": "{\"id\": \"01004\"}",
+  "GMNotes": "{\n  \"id\": \"01004\"\n}",
   "GUID": "fca4b7",
   "Name": "Card",
   "Nickname": "Agnes Baker",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

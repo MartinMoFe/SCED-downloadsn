@@ -1,0 +1,22 @@
+{
+  "CardID": 471200,
+  "CustomDeck": {
+    "4712": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/xfnGjqp.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09730\"\n}",
+  "GUID": "ecec3d",
+  "Name": "Card",
+  "Nickname": "Carga de Llave",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

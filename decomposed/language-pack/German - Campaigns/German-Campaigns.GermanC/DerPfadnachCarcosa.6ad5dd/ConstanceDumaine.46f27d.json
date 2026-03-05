@@ -12,13 +12,11 @@
     }
   },
   "Description": "Kontaktfreudige Gastgeberin",
-  "GMNotes": "{\n  \"id\": \"03076\"\n}",
+  "GMNotes": "{\n  \"id\": \"03076a\"\n}",
   "GUID": "46f27d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Constance Dumaine",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

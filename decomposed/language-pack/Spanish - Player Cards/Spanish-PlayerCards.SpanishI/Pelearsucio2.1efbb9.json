@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/f6mL9E4.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"09073\"}",
+  "GMNotes": "{\n  \"id\": \"09073\"\n}",
   "GUID": "1efbb9",
   "Name": "Card",
   "Nickname": "Pelear sucio (2)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

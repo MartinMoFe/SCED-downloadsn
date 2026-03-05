@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05225\"\n}",
   "GUID": "502f52",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unterhalb der Loge",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

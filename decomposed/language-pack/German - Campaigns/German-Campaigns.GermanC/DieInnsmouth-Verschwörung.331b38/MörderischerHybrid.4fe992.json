@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07215\"\n}",
   "GUID": "4fe992",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mörderischer Hybrid",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Herr über Carcosa",
   "GMNotes": "{\n  \"id\": \"03333\"\n}",
   "GUID": "115a7c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hastur",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

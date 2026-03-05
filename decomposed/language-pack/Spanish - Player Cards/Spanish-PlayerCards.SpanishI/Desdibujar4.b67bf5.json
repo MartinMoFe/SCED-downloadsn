@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/zhTED59.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08111\"}",
+  "GMNotes": "{\n  \"id\": \"08111\"\n}",
   "GUID": "b67bf5",
   "Name": "Card",
   "Nickname": "Desdibujar (4)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

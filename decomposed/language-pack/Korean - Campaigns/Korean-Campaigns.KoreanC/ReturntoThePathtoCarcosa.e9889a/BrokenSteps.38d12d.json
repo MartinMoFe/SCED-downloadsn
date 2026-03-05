@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03290\"\n}",
   "GUID": "38d12d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Broken Steps",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

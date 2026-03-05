@@ -1,0 +1,24 @@
+{
+  "CardID": 471709,
+  "CustomDeck": {
+    "4717": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ThGCIi8.jpg",
+      "FaceURL": "https://i.imgur.com/EXf8Rzo.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"86011\"\n}",
+  "GUID": "54948f",
+  "Name": "Card",
+  "Nickname": "La guerra de los Dioses Exteriores",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

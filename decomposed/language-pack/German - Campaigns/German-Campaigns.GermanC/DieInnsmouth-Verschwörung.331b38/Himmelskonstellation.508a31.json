@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07313\"\n}",
   "GUID": "508a31",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Himmelskonstellation",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

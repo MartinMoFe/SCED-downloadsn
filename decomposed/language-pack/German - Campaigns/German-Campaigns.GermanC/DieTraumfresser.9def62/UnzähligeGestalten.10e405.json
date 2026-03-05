@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06318\"\n}",
   "GUID": "10e405",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unzählige Gestalten",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

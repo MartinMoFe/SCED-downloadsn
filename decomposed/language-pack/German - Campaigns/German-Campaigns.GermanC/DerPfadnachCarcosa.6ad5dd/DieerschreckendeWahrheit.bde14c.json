@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03063\"\n}",
   "GUID": "bde14c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die erschreckende Wahrheit",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

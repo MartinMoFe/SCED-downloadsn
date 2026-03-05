@@ -1,5 +1,5 @@
 {
-  "CardID": 20271400,
+  "CardID": 100600,
   "CustomDeck": {
     "1006": {
       "BackIsHidden": true,
@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/6LambstotheSlaughter.eb7109/6LambstotheSlaughtervI.c777b6/PrisonerDeck.66e3bf/ThuggishSplicer.e00008.gmnotes",
   "GUID": "e00008",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Thuggish Splicer",
   "Tags": [

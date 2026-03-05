@@ -1,0 +1,23 @@
+{
+  "CardID": 471602,
+  "CustomDeck": {
+    "4716": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nYd6dmF.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0
+    }
+  },
+  "Description": "Infiltradora de realidades",
+  "GMNotes": "{\n  \"id\": \"09715\"\n}",
+  "GUID": "36343d",
+  "Name": "Card",
+  "Nickname": "Némesis mimética",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

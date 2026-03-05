@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/lLrlNi1.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07111\"}",
+  "GMNotes": "{\n  \"id\": \"07111\"\n}",
   "GUID": "42bed9",
   "Name": "Card",
   "Nickname": "Sofista arcano",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

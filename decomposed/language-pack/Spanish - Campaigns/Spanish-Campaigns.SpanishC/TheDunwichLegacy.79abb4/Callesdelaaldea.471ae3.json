@@ -1,0 +1,24 @@
+{
+  "CardID": 455514,
+  "CustomDeck": {
+    "4555": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/hQXO7rG.jpg",
+      "FaceURL": "https://i.imgur.com/jXuOn1T.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Decadencia silenciosa",
+  "GMNotes": "{\n  \"id\": \"51033\"\n}",
+  "GUID": "471ae3",
+  "Name": "Card",
+  "Nickname": "Calles de la aldea",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

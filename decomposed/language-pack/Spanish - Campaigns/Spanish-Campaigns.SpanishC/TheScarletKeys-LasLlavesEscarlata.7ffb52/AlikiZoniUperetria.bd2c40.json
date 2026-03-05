@@ -1,0 +1,23 @@
+{
+  "CardID": 470219,
+  "CustomDeck": {
+    "4702": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/HKrm23S.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Habla en la muerte",
+  "GMNotes": "{\n  \"id\": \"09761\"\n}",
+  "GUID": "bd2c40",
+  "Name": "Card",
+  "Nickname": "Aliki Zoni Uperetria",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

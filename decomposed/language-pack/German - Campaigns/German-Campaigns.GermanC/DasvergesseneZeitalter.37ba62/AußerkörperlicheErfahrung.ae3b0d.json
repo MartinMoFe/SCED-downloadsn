@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04264\"\n}",
   "GUID": "ae3b0d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Außerkörperliche Erfahrung",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

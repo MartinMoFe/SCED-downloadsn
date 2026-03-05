@@ -14,12 +14,9 @@
   "Description": "Vertraute Zelle",
   "GMNotes": "{\n  \"id\": \"03181\"\n}",
   "GUID": "bc1cda",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sicherheitszelle",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

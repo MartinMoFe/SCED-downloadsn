@@ -1,0 +1,22 @@
+{
+  "CardID": 3602,
+  "CustomDeck": {
+    "36": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/HawLRcs.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03184\"\n}",
+  "GUID": "254183",
+  "Name": "Card",
+  "Nickname": "Paciente loco",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

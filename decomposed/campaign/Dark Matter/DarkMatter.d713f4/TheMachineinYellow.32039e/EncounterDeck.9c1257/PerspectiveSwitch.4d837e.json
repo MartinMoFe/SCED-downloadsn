@@ -1,14 +1,14 @@
 {
   "CardID": 613600,
   "CustomDeck": {
-    "6131": {
+    "6136": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1704034818586753849/F2A01A4CF26E6C8B15D935BD5BC4F674DA335EFC/",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "DarkMatter.d713f4/TheMachineinYellow.32039e/EncounterDeck.9c1257/PerspectiveSwitch.4d837e.gmnotes",

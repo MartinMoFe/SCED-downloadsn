@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "UnofficialReturntoTheScarletKeys.300fcd/File130-mConsternationontheConstellation.r806c53/130_ConsternationontheConstellation-Portrait.e001c7/FleeingCrew.e001ef.gmnotes",
@@ -16,8 +16,8 @@
   "Name": "Card",
   "Nickname": "Fleeing Crew",
   "Tags": [
-    "PlayerCard",
-    "Asset"
+    "Asset",
+    "ScenarioCard"
   ],
   "Transform": {
     "rotY": 270,

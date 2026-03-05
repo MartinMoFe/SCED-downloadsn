@@ -1,0 +1,24 @@
+{
+  "CardID": 585908,
+  "CustomDeck": {
+    "5859": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/BPhLlXu.jpg",
+      "FaceURL": "https://i.imgur.com/gckBSts.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Archivos polvorientos",
+  "GMNotes": "{\n  \"id\": \"52030\"\n}",
+  "GUID": "3f3a3f",
+  "Name": "Card",
+  "Nickname": "Sociedad Histórica",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

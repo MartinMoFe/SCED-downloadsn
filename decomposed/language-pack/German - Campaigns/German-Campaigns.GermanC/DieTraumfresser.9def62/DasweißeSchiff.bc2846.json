@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06223\"\n}",
   "GUID": "bc2846",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das weiße Schiff",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

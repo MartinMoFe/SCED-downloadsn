@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
-    "BlackStarsRise.0afc45",
-    "BlackStarsRise.f1bceb",
     "FalseLead.057d5f",
-    "FalseLead.2ceae2"
+    "FalseLead.057d5f",
+    "BlackStarsRise.0afc45",
+    "BlackStarsRise.0afc45"
   ],
   "ContainedObjects_path": "AddtoEncounterDeck.90bef0",
   "CustomDeck": {
@@ -13,8 +13,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378761608/B291D276D6FF71FDB43B69DE7507D56767BE975E/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2333": {
       "BackIsHidden": true,
@@ -22,15 +21,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    232214,
-    232214,
     233304,
-    233304
+    233304,
+    232214,
+    232214
   ],
   "GUID": "90bef0",
   "Hands": false,

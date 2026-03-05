@@ -1,0 +1,22 @@
+{
+  "CardID": 872503,
+  "CustomDeck": {
+    "8725": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/ptiE2Lz.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10678\"\n}",
+  "GUID": "e851c6",
+  "Name": "Card",
+  "Nickname": "Aguacero",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06297\"\n}",
   "GUID": "e2f43b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Monasterium von Leng",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

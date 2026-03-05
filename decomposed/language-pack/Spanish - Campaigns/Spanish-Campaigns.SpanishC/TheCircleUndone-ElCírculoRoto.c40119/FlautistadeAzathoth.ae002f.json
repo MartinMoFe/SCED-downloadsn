@@ -1,0 +1,22 @@
+{
+  "CardID": 803,
+  "CustomDeck": {
+    "8": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/gbPr7XL.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05088\"\n}",
+  "GUID": "ae002f",
+  "Name": "Card",
+  "Nickname": "Flautista de Azathoth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

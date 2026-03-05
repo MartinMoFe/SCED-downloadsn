@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/x9dbpKg.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Conocimiento de los ancianos",
-  "GMNotes": "{\"id\": \"04230\"}",
+  "GMNotes": "{\n  \"id\": \"04230\"\n}",
   "GUID": "df42ac",
   "Name": "Card",
   "Nickname": "Piedra antigua (4)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

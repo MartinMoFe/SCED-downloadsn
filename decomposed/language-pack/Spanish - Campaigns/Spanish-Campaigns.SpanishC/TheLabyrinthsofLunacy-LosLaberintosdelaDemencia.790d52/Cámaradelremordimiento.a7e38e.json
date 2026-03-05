@@ -1,0 +1,23 @@
+{
+  "CardID": 51209,
+  "CustomDeck": {
+    "512": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/95v6gaE.jpg",
+      "FaceURL": "https://i.imgur.com/nSQcL0X.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70024\"\n}",
+  "GUID": "a7e38e",
+  "Name": "Card",
+  "Nickname": "Cámara del remordimiento",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

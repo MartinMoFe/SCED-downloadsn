@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"01134\"\n}",
   "GUID": "546edf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nordstadt",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

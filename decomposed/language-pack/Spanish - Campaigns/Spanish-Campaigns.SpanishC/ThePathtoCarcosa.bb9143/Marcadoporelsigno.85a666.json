@@ -1,0 +1,22 @@
+{
+  "CardID": 2827,
+  "CustomDeck": {
+    "28": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/olhTOA3.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03104\"\n}",
+  "GUID": "85a666",
+  "Name": "Card",
+  "Nickname": "Marcado por el signo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

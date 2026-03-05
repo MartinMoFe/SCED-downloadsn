@@ -14,11 +14,9 @@
   "Description": "Александрия.",
   "GMNotes": "{\n  \"id\": \"09643\"\n}",
   "GUID": "5a2222",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Фондовая биржа",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 874404,
+  "CustomDeck": {
+    "8744": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/M40ZgpC.jpg",
+      "FaceURL": "https://i.imgur.com/bi8FJmd.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10656\"\n}",
+  "GUID": "98677d",
+  "Name": "Card",
+  "Nickname": "Yo perdido",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

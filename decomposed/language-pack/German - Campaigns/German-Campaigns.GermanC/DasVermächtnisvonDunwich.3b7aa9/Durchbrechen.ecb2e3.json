@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02314\"\n}",
   "GUID": "ecb2e3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Durchbrechen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

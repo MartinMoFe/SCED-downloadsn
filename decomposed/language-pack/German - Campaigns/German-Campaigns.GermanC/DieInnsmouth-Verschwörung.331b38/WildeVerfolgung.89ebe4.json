@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07059\"\n}",
   "GUID": "89ebe4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wilde Verfolgung",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

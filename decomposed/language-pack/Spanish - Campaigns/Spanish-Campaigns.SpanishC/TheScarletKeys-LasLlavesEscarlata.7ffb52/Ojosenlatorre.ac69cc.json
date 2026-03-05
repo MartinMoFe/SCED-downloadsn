@@ -1,0 +1,24 @@
+{
+  "CardID": 471106,
+  "CustomDeck": {
+    "4711": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/dsRf3sg.jpg",
+      "FaceURL": "https://i.imgur.com/VDJIuj6.jpg",
+      "NumHeight": 2,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09508\"\n}",
+  "GUID": "ac69cc",
+  "Name": "Card",
+  "Nickname": "Ojos en la torre",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

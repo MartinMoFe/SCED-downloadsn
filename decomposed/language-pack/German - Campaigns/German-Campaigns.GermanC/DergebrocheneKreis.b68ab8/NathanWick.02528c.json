@@ -14,11 +14,9 @@
   "Description": "Meister der Initiation",
   "GMNotes": "{\n  \"id\": \"05217\"\n}",
   "GUID": "02528c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nathan Wick",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

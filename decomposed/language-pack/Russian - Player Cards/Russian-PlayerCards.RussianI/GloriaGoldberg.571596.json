@@ -15,7 +15,6 @@
   "Description": "Ясновидящая.",
   "GMNotes": "{\n  \"id\": \"98019\"\n}",
   "GUID": "571596",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Глория Голдберг",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "GloriaGoldberg.500c80"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -14,11 +14,9 @@
   "Description": "Lüge",
   "GMNotes": "{\n  \"id\": \"06321\"\n}",
   "GUID": "5c1367",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Rastlose Reise (Lüge)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

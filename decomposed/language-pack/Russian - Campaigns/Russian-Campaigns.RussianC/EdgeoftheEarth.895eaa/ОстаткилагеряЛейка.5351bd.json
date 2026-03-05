@@ -14,11 +14,9 @@
   "Description": "Материк. Неизведанная.",
   "GMNotes": "{\n  \"id\": \"08513\"\n}",
   "GUID": "5351bd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Остатки лагеря Лейка",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

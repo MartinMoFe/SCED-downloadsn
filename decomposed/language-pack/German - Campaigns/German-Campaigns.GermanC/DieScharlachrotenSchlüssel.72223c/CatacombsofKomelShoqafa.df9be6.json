@@ -14,11 +14,9 @@
   "Description": "Ancient Tomb",
   "GMNotes": "{\n  \"id\": \"09652\"\n}",
   "GUID": "df9be6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Catacombs of Kom el Shoqafa",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

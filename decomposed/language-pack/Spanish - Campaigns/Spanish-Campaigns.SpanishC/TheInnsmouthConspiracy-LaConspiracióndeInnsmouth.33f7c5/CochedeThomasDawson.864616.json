@@ -1,0 +1,24 @@
+{
+  "CardID": 878800,
+  "CustomDeck": {
+    "8788": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/B4jLAlE.jpg",
+      "FaceURL": "https://i.imgur.com/nvx8dQB.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "En marcha",
+  "GMNotes": "{\n  \"id\": \"07211a\"\n}",
+  "GUID": "864616",
+  "Name": "CardCustom",
+  "Nickname": "Coche de Thomas Dawson",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

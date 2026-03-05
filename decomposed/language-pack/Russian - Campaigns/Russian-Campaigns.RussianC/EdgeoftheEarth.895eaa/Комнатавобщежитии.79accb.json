@@ -14,11 +14,9 @@
   "Description": "Мираж.",
   "GMNotes": "{\n  \"id\": \"08568\"\n}",
   "GUID": "79accb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Комната в общежитии",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

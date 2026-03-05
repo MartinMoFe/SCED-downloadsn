@@ -1,0 +1,23 @@
+{
+  "CardID": 48806,
+  "CustomDeck": {
+    "488": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fc5xGPi.jpg",
+      "FaceURL": "https://i.imgur.com/FXCJX6P.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85015\"\n}",
+  "GUID": "c5674d",
+  "Name": "Card",
+  "Nickname": "Puente",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

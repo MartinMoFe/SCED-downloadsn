@@ -1,0 +1,22 @@
+{
+  "CardID": 50005,
+  "CustomDeck": {
+    "500": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/RWH5bx8.jpg",
+      "FaceURL": "http://i.imgur.com/LwWeD3J.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02259\"\n}",
+  "GUID": "103fab",
+  "Name": "Card",
+  "Nickname": "Los rastros de las criaturas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

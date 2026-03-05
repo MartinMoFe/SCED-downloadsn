@@ -14,11 +14,9 @@
   "Description": "Ist er es wirklich?",
   "GMNotes": "{\n  \"id\": \"04326\"\n}",
   "GUID": "1186b6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Alejandro Vela",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

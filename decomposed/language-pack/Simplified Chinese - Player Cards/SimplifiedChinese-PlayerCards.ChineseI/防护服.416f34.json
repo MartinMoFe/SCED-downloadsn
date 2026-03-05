@@ -1,5 +1,5 @@
 {
-  "CardID": "1157125",
+  "CardID": 1157125,
   "CustomDeck": {
     "11571": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12337240063979282792/5A2C5D8744B9CA512256EC762CC2FCE6047904DD/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08095\"}",
+  "GMNotes": "{\n  \"id\": \"08095\"\n}",
   "GUID": "416f34",
   "Name": "Card",
   "Nickname": "防护服",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

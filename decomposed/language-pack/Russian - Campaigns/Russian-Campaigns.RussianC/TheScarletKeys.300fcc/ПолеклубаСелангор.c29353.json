@@ -14,11 +14,9 @@
   "Description": "Куала-Лумпур.",
   "GMNotes": "{\n  \"id\": \"09670\"\n}",
   "GUID": "c29353",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Поле клуба «Селангор»",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

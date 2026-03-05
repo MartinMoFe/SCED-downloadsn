@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07072\"\n}",
   "GUID": "586852",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Elendsviertel an der Küste",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

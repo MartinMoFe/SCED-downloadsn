@@ -1,5 +1,5 @@
 {
-  "CardID": "535058",
+  "CardID": 535058,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Ясновидящая.",
   "GMNotes": "{\n  \"id\": \"60401\"\n}",
   "GUID": "ddf0d6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Жаклин Файн",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

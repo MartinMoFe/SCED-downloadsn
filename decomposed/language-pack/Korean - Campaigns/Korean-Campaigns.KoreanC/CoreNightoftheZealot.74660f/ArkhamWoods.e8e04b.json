@@ -14,11 +14,9 @@
   "Description": "Woods.",
   "GMNotes": "{\n  \"id\": \"01155\"\n}",
   "GUID": "e8e04b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Arkham Woods",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

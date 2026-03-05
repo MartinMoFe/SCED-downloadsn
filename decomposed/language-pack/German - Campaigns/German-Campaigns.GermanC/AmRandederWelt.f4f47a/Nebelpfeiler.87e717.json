@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08678\"\n}",
   "GUID": "87e717",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nebelpfeiler",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

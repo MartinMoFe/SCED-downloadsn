@@ -14,12 +14,10 @@
   "Description": "The Martial Artist",
   "GMNotes": "{\n  \"id\": \"08010\"\n}",
   "GUID": "cc21e0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Lily Chen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

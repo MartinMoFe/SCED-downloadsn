@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/Nk8BzI7.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "finis omnium nunc est",
-  "GMNotes": "{\"id\": \"90082\"}",
+  "GMNotes": "{\n  \"id\": \"90082\"\n}",
   "GUID": "f6f8a7",
   "Name": "Card",
   "Nickname": "El códice de las eras",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

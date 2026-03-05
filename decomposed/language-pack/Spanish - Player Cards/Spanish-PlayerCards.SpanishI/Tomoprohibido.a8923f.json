@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/Lwpp917.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Sin traducir",
-  "GMNotes": "{\"id\": \"60210\"}",
+  "GMNotes": "{\n  \"id\": \"60210\"\n}",
   "GUID": "a8923f",
   "Name": "Card",
   "Nickname": "Tomo prohibido",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 2421,
+  "CustomDeck": {
+    "24": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/x9dbpKg.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04264\"\n}",
+  "GUID": "5e633a",
+  "Name": "Card",
+  "Nickname": "Experiencia extracorpórea",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

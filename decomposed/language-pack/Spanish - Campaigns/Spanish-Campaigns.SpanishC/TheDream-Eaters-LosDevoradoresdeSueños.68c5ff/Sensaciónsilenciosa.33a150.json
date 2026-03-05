@@ -1,0 +1,24 @@
+{
+  "CardID": 463400,
+  "CustomDeck": {
+    "4634": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/zu2nE8M.jpg",
+      "FaceURL": "https://i.imgur.com/eBXsqxw.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06207\"\n}",
+  "GUID": "33a150",
+  "Name": "Card",
+  "Nickname": "Sensación silenciosa",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

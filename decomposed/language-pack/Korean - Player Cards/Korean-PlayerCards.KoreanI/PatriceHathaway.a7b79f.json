@@ -14,12 +14,10 @@
   "Description": "The Violinist",
   "GMNotes": "{\n  \"id\": \"06005\"\n}",
   "GUID": "a7b79f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Patrice Hathaway",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

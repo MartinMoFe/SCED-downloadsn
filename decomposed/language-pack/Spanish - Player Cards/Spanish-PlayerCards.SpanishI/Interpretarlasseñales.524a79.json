@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/xsBmVSN.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06117\"}",
+  "GMNotes": "{\n  \"id\": \"06117\"\n}",
   "GUID": "524a79",
   "Name": "Card",
   "Nickname": "Interpretar las señales",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

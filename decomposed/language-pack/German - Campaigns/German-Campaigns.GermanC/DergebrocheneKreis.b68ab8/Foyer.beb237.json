@@ -14,11 +14,9 @@
   "Description": "Nur für Mitglieder",
   "GMNotes": "{\n  \"id\": \"05207\"\n}",
   "GUID": "beb237",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Foyer",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

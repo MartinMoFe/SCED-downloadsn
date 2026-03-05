@@ -14,11 +14,9 @@
   "Description": "Mexico City. Present-Day.",
   "GMNotes": "{\n  \"id\": \"04171\"\n}",
   "GUID": "941f46",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zócalo",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

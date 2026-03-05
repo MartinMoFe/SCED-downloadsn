@@ -14,11 +14,9 @@
   "Description": "Потусторонняя.",
   "GMNotes": "{\n  \"id\": \"05081\"\n}",
   "GUID": "349eb6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Бильярдная",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

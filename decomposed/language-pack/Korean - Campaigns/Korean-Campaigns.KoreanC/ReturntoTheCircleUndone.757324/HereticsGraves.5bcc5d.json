@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05172\"\n}",
   "GUID": "5bcc5d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Heretics' Graves",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

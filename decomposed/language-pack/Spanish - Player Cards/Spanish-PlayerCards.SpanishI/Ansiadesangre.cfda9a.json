@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/sryrY1n.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06019\"}",
+  "GMNotes": "{\n  \"id\": \"06019\"\n}",
   "GUID": "cfda9a",
   "Name": "Card",
   "Nickname": "Ansia de sangre",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

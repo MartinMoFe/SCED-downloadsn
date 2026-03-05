@@ -1,5 +1,5 @@
 {
-  "CardID": "1155822",
+  "CardID": 1155822,
   "CustomDeck": {
     "11558": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16571144986024296648/7ACCB6629E3BA6543F14154693C863721B53D01D/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"05156\"}",
+  "GMNotes": "{\n  \"id\": \"05156\"\n}",
   "GUID": "bb7d34",
   "Name": "Card",
   "Nickname": "反应灵敏",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

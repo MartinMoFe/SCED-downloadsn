@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02287\"\n}",
   "GUID": "0dc71e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zerstörter Weg",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

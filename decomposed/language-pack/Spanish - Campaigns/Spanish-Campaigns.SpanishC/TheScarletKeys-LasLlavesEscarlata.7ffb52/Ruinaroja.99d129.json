@@ -1,0 +1,24 @@
+{
+  "CardID": 471404,
+  "CustomDeck": {
+    "4714": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/X4srRDK.jpg",
+      "FaceURL": "https://i.imgur.com/YekkzWe.jpg",
+      "NumHeight": 2,
+      "NumWidth": 8,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09686\"\n}",
+  "GUID": "99d129",
+  "Name": "Card",
+  "Nickname": "Ruina roja",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

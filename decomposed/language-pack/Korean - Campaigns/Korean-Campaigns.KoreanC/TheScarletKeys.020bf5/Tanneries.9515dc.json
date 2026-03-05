@@ -14,11 +14,9 @@
   "Description": "Marrakesh.",
   "GMNotes": "{\n  \"id\": \"09529\"\n}",
   "GUID": "9515dc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tanneries",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

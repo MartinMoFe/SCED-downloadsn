@@ -14,11 +14,9 @@
   "Description": "Lodge.",
   "GMNotes": "{\n  \"id\": \"05208\"\n}",
   "GUID": "8ea4fd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Lodge Cellar",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

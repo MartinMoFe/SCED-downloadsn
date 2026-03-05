@@ -15,7 +15,6 @@
   "Description": "Мискатоник.",
   "GMNotes": "{\n  \"id\": \"01002-pb\"\n}",
   "GUID": "2f2e0d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дейзи Уокер (альтернативый оборот)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "DaisyWalkerParallelBack.584d74"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -14,11 +14,9 @@
   "Description": "Третий этаж.",
   "GMNotes": "{\n  \"id\": \"03135\"\n}",
   "GUID": "93aee3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Тихие коридоры",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

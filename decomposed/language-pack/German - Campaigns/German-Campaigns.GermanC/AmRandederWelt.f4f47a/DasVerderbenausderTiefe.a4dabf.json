@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08623\"\n}",
   "GUID": "a4dabf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Verderben aus der Tiefe",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08523\"\n}",
   "GUID": "6ab0d8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Es weht ein rauer Wind",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

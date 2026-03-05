@@ -1,14 +1,14 @@
 {
   "ContainedObjects_order": [
-    "Snakescourge.4e8b8c",
+    "SerpentsCall.40b279",
     "Snakescourge.0555a6",
-    "ArrowsfromtheTrees.6c4607",
-    "ArrowsfromtheTrees.28a7f3",
-    "EztliGuardian.f6a0da",
-    "EztliGuardian.acdff0",
-    "FangofYig.d06083",
+    "Snakescourge.0555a6",
     "FangofYig.21a13b",
-    "SerpentsCall.40b279"
+    "FangofYig.21a13b",
+    "ArrowsfromtheTrees.28a7f3",
+    "ArrowsfromtheTrees.28a7f3",
+    "EztliGuardian.acdff0",
+    "EztliGuardian.acdff0"
   ],
   "ContainedObjects_path": "2ormoreTabletTokens.af38eb",
   "CustomDeck": {
@@ -18,8 +18,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2699": {
       "BackIsHidden": true,
@@ -28,19 +27,19 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [
+    269900,
     235741,
     235741,
+    235740,
+    235740,
     235729,
     235729,
     235728,
-    235728,
-    235740,
-    235740,
-    269900
+    235728
   ],
   "GUID": "af38eb",
   "Hands": false,

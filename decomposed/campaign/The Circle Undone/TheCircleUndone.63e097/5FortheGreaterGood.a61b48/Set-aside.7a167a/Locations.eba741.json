@@ -3,8 +3,8 @@
     "InnerSanctum.d76c9f",
     "SanctumDoorway.4da6c3",
     "SanctumDoorway.112a15",
-    "Vault.dcf02a",
-    "Library.5e3b52"
+    "Library.5e3b52",
+    "Vault.dcf02a"
   ],
   "ContainedObjects_path": "Locations.eba741",
   "CustomDeck": {
@@ -22,8 +22,8 @@
     312912,
     312911,
     312910,
-    312907,
-    312908
+    312908,
+    312907
   ],
   "GUID": "eba741",
   "Hands": false,

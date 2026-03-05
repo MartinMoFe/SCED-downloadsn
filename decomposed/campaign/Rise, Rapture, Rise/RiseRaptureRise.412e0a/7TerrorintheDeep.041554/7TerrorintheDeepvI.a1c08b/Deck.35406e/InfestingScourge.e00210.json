@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/7TerrorintheDeep.041554/7TerrorintheDeepvI.a1c08b/Deck.35406e/InfestingScourge.e00210.gmnotes",
   "GUID": "e00210",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Infesting Scourge",
   "Tags": [

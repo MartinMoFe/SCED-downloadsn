@@ -13,11 +13,9 @@
   },
   "Description": "Remnant of Humanity",
   "GUID": "e2df6e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Old Memory",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

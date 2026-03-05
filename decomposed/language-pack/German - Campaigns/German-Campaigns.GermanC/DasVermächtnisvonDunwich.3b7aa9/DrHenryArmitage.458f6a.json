@@ -14,11 +14,9 @@
   "Description": "Leiter der Bibliothek",
   "GMNotes": "{\n  \"id\": \"02040\"\n}",
   "GUID": "458f6a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dr. Henry Armitage",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

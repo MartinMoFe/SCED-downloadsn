@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13445687524683620411/95ECFF5F6F63A1A9E144EFD5AB66AB3334DDD9EE/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Союзник. Данвич.",
   "GMNotes": "{\n  \"id\": \"02218\"\n}",
   "GUID": "f14dce",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Эрл Сойер",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

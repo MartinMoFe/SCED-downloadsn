@@ -14,11 +14,9 @@
   "Description": "Данвич.",
   "GMNotes": "{\n  \"id\": \"02244\"\n}",
   "GUID": "e58475",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ущелье Холодных ключей",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

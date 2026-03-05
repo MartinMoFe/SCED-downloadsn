@@ -1,5 +1,5 @@
 {
-  "CardID": "1156915",
+  "CardID": 1156915,
   "CustomDeck": {
     "11569": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15312719161028857915/7AAF36115FE3CDA64C3CC2E1EFBFA105119D0EF2/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08025\"}",
+  "GMNotes": "{\n  \"id\": \"08025\"\n}",
   "GUID": "556788",
   "Name": "Card",
   "Nickname": "蝴蝶对剑",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

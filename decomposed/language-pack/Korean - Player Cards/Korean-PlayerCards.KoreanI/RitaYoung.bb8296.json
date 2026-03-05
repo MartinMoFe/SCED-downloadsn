@@ -14,12 +14,10 @@
   "Description": "The Athlete",
   "GMNotes": "{\n  \"id\": \"05005\"\n}",
   "GUID": "bb8296",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Rita Young",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -7,17 +7,14 @@
       "FaceURL": "http://i.imgur.com/tPRiPGX.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02231\"}",
+  "GMNotes": "{\n  \"id\": \"02231\"\n}",
   "GUID": "5483c5",
   "Name": "Card",
   "Nickname": "Oportunista (2)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

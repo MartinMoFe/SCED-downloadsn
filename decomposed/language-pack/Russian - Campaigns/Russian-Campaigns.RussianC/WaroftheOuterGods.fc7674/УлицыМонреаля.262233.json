@@ -14,11 +14,9 @@
   "Description": "Монреаль.",
   "GMNotes": "{\n  \"id\": \"86018\"\n}",
   "GUID": "262233",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Улицы Монреаля",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 463802,
+  "CustomDeck": {
+    "4638": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/P548Mxa.jpg",
+      "FaceURL": "https://i.imgur.com/04aM8ON.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02049\"\n}",
+  "GUID": "0604e5",
+  "Name": "Card",
+  "Nickname": "Edificio de Humanidades",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "CardID": "1154400",
+  "CardID": 1154400,
   "CustomDeck": {
     "11544": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11070413811998918469/EF5D64C6F6C027CCCBFC6B72AB7461016DDE4E18/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01096\"}",
+  "GMNotes": "{\n  \"id\": \"01096\"\n}",
   "GUID": "197dbf",
   "Name": "Card",
   "Nickname": "失忆",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

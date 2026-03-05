@@ -1,0 +1,22 @@
+{
+  "CardID": 471601,
+  "CustomDeck": {
+    "4716": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nYd6dmF.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09691\"\n}",
+  "GUID": "12f628",
+  "Name": "Card",
+  "Nickname": "Reensamblador protoplásmico",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

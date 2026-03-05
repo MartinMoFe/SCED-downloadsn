@@ -1,5 +1,5 @@
 {
-  "CardID": "535201",
+  "CardID": 535201,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Агентство. Детектив.",
   "GMNotes": "{\n  \"id\": \"07003-t\"\n}",
   "GUID": "f78b1b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Триш Скарборо (Табу)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -1,0 +1,22 @@
+{
+  "CardID": 873807,
+  "CustomDeck": {
+    "8738": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/GOjacuJ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10563\"\n}",
+  "GUID": "b93e45",
+  "Name": "Card",
+  "Nickname": "Larva incolora",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

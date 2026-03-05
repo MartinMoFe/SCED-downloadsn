@@ -14,11 +14,9 @@
   "Description": "Locus Safeguard",
   "GMNotes": "{\n  \"id\": \"09642\"\n}",
   "GUID": "39c755",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Bourse",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

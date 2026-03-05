@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06211\"\n}",
   "GUID": "0ae812",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Erkundung des Mondes",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

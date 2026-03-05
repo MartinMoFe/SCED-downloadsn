@@ -14,11 +14,9 @@
   "Description": "Helle Seite",
   "GMNotes": "{\n  \"id\": \"06221\"\n}",
   "GUID": "858bca",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Höhlen unterhalb des Mondes",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

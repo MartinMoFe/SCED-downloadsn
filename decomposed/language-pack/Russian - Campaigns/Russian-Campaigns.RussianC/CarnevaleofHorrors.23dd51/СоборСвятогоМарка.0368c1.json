@@ -14,11 +14,9 @@
   "Description": "Венеция.",
   "GMNotes": "{\n  \"id\": \"82008\"\n}",
   "GUID": "0368c1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Собор Святого Марка",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

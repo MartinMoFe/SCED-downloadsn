@@ -1,6 +1,6 @@
 {
   "ContainedObjects_order": [
-    "CrystalParasite.f23c46",
+    "CrystalParasite.a1b9ec",
     "CrystalParasite.a1b9ec"
   ],
   "ContainedObjects_path": "CrystalParasites.a20967",
@@ -11,8 +11,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2453969772006048567/4C173CF8E2E2F69C7374D65AAA2D842C048FC792/",
       "NumHeight": 5,
       "NumWidth": 8,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

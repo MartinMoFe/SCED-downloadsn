@@ -1,5 +1,5 @@
 {
-  "CardID": "1156713",
+  "CardID": 1156713,
   "CustomDeck": {
     "11567": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9526883303981979576/930720F88B10324B74D8A2A9A09F8DF93E07FD4B/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07223\"}",
+  "GMNotes": "{\n  \"id\": \"07223\"\n}",
   "GUID": "d7578c",
   "Name": "Card",
   "Nickname": "隐形指引",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

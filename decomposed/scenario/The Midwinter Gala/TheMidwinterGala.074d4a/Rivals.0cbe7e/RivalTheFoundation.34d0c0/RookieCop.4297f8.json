@@ -7,12 +7,11 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2407823725609449730/C570E67837928FB374DF50F4AA7FA2039DA9633B/",
       "NumHeight": 5,
       "NumWidth": 8,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Humanoid. Police. Rival.",
-  "GMNotes_path": "TheMidwinterGala.074d4a/Rivals.0cbe7e/RivalTheFoundation.34d0c0/RookieCop.4297f8.gmnotes",
+  "GMNotes": "{\n  \"id\": \"71020\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Police. Rival.\"\n}",
   "GUID": "4297f8",
   "Name": "Card",
   "Nickname": "Rookie Cop",

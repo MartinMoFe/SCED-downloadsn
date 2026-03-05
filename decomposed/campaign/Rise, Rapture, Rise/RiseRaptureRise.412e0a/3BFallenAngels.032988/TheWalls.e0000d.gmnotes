@@ -1,11 +1,13 @@
 {
   "id": "235cdaf0-92ad-44eb-b20c-58fa8601015a",
+  "TtsZoopGuid": "235cdaf0-92ad-44eb-b20c-58fa8601015a",
   "type": "Location",
   "class": "Mythos",
   "traits": "Passageway.",
   "locationFront": {
+    "victory": 1,
     "icons": "Spade",
-    "connections": "Clover|Star",
+    "connections": "Heart",
     "uses": [
       {
         "countPerInvestigator": 1,
@@ -16,7 +18,6 @@
   },
   "locationBack": {
     "icons": "Spade",
-    "connections": "Clover|Star"
-  },
-  "TtsZoopGuid": "235cdaf0-92ad-44eb-b20c-58fa8601015a"
+    "connections": "Heart"
+  }
 }

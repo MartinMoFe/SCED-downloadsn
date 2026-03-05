@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06192\"\n}",
   "GUID": "454c9d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Glühende Augen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

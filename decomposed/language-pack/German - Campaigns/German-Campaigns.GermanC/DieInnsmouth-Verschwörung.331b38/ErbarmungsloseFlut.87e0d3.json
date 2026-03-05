@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07125\"\n}",
   "GUID": "87e0d3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erbarmungslose Flut",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

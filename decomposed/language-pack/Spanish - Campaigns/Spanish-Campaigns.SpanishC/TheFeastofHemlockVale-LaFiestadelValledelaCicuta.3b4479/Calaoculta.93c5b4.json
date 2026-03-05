@@ -1,0 +1,23 @@
+{
+  "CardID": 868104,
+  "CustomDeck": {
+    "8681": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/5vCwS4c.jpg",
+      "FaceURL": "https://i.imgur.com/LkXibns.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10577\"\n}",
+  "GUID": "93c5b4",
+  "Name": "Card",
+  "Nickname": "Cala oculta",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

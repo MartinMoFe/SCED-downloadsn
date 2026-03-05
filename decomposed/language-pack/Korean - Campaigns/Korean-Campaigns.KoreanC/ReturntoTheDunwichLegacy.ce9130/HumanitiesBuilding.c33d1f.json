@@ -14,11 +14,9 @@
   "Description": "Miskatonic.",
   "GMNotes": "{\n  \"id\": \"02049\"\n}",
   "GUID": "c33d1f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Humanities Building",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

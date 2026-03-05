@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06042\"\n}",
   "GUID": "d18f05",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Probe von Nasht und Kaman-Thah",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "GMNotes": "{\n  \"id\": \"05047-m\"\n}",
   "GUID": "bbade1",
   "Grid": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jerome Davids",
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

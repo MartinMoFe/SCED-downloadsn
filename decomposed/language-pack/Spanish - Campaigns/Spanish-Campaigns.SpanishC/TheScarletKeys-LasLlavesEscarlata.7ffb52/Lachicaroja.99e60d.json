@@ -1,0 +1,24 @@
+{
+  "CardID": 470809,
+  "CustomDeck": {
+    "4708": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/czq5IoX.jpg",
+      "FaceURL": "https://i.imgur.com/pN9LrCR.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "La chica del abrigo carmín",
+  "GMNotes": "{\n  \"id\": \"09557\"\n}",
+  "GUID": "99e60d",
+  "Name": "Card",
+  "Nickname": "La chica roja",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "CardID": 537411,
   "CustomDeck": {
     "5374": {
       "BackIsHidden": true,
@@ -6,17 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13873772073698120336/B5171C838476538F0F412EE85E7450DAECAAA873/",
       "NumHeight": 3,
       "NumWidth": 9,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Существо. Монстр. Мутант. Элитный.",
-  "GMNotes": "{\n  \"id\": \"10645\"\n}",
+  "GMNotes": "{\n  \"id\": \"10645a\"\n}",
   "GUID": "0bfbb4",
   "Name": "Card",
   "Nickname": "Волчий гибрид",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

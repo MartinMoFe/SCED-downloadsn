@@ -14,12 +14,10 @@
   "Description": "The Haunted",
   "GMNotes": "{\n  \"id\": \"04005\"\n}",
   "GUID": "b02a1e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Calvin Wright",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

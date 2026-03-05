@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04132\"\n}",
   "GUID": "280e1a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Alejandros Notlage",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

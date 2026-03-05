@@ -1,0 +1,22 @@
+{
+  "CardID": 47915,
+  "CustomDeck": {
+    "479": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XiXrtxk.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51059\"\n}",
+  "GUID": "6cd2cc",
+  "Name": "Card",
+  "Nickname": "Luminosidad imponente",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

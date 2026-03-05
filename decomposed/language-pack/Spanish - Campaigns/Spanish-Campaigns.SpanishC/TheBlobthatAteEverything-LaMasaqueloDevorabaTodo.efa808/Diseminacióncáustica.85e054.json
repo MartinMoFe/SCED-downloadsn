@@ -1,0 +1,22 @@
+{
+  "CardID": 48708,
+  "CustomDeck": {
+    "487": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/43x1K1A.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85049\"\n}",
+  "GUID": "85e054",
+  "Name": "Card",
+  "Nickname": "Diseminación cáustica",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

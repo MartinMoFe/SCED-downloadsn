@@ -1,5 +1,5 @@
 {
-  "CardID": 112500,
+  "CardID": 107200,
   "CustomDeck": {
     "1072": {
       "BackIsHidden": true,
@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "TheWoodsoftheBlackGoat.667111/FortificationDeck.e0004f/StackedFurniture.e0005b.gmnotes",

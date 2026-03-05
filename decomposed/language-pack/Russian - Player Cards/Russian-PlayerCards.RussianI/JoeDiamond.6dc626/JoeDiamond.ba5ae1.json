@@ -1,5 +1,5 @@
 {
-  "CardID": "535022",
+  "CardID": 535022,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Детектив.",
   "GMNotes": "{\n  \"id\": \"05002\"\n}",
   "GUID": "ba5ae1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Джо Даймонд",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

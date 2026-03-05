@@ -1,0 +1,22 @@
+{
+  "CardID": 47901,
+  "CustomDeck": {
+    "479": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XiXrtxk.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51018\"\n}",
+  "GUID": "81606d",
+  "Name": "Card",
+  "Nickname": "Pillado haciendo trampas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 862505,
+  "CustomDeck": {
+    "8625": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/EIQOhjB.jpg",
+      "FaceURL": "https://i.imgur.com/22XGKQD.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Bosque desolado",
+  "GMNotes": "{\n  \"id\": \"05253\"\n}",
+  "GUID": "e097ed",
+  "Name": "Card",
+  "Nickname": "Isla ignota",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

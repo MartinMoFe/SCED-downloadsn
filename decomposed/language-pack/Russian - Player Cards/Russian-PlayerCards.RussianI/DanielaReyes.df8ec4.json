@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08001-m\"\n}",
   "GUID": "df8ec4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Даниэла Рейес",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2260311182045039605/13429756686DCE2A136B520487CD3036549A7EF0/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Olaus Wormius Translation",
   "GMNotes": "{\n  \"id\": \"02140\"\n}",
   "GUID": "d45f10",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Necronomicon",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

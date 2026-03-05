@@ -1,0 +1,23 @@
+{
+  "CardID": 51309,
+  "CustomDeck": {
+    "513": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/rkduU2W.jpg",
+      "FaceURL": "https://i.imgur.com/XzJynWP.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03291\"\n}",
+  "GUID": "c486bb",
+  "Name": "Card",
+  "Nickname": "Iglesia de la abadía",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

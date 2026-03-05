@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06286\"\n}",
   "GUID": "f003bb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Где обитают боги",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

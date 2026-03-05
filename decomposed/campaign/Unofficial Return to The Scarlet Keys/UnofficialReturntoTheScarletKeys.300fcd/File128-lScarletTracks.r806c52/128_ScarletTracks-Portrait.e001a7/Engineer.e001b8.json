@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "UnofficialReturntoTheScarletKeys.300fcd/File128-lScarletTracks.r806c52/128_ScarletTracks-Portrait.e001a7/Engineer.e001b8.gmnotes",
@@ -16,8 +16,8 @@
   "Name": "Card",
   "Nickname": "Engineer",
   "Tags": [
-    "PlayerCard",
-    "Asset"
+    "Asset",
+    "ScenarioCard"
   ],
   "Transform": {
     "rotY": 270,

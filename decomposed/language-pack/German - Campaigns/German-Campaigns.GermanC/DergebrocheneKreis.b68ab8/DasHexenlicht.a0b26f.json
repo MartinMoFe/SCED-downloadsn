@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05123\"\n}",
   "GUID": "a0b26f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Hexenlicht",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

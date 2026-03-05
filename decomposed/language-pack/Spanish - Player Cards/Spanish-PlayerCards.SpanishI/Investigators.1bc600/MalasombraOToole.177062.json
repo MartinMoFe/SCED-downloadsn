@@ -8,17 +8,16 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "El exconvicto",
-  "GMNotes": "{\"id\": \"01003\"}",
+  "GMNotes": "{\n  \"id\": \"01003\"\n}",
   "GUID": "177062",
   "Name": "Card",
   "Nickname": "\"Malasombra\" O'Toole",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

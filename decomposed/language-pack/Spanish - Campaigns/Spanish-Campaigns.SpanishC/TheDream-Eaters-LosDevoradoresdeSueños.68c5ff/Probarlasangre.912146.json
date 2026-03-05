@@ -1,0 +1,22 @@
+{
+  "CardID": 454402,
+  "CustomDeck": {
+    "4544": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/znVSYmb.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06268\"\n}",
+  "GUID": "912146",
+  "Name": "Card",
+  "Nickname": "Probar la sangre",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

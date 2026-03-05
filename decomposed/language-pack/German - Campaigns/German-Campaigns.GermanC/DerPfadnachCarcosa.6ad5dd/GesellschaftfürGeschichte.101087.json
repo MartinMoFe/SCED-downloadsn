@@ -14,12 +14,9 @@
   "Description": "Historische Bibliothek",
   "GMNotes": "{\n  \"id\": \"03133\"\n}",
   "GUID": "101087",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gesellschaft für Geschichte",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

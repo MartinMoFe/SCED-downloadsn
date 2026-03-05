@@ -1,5 +1,5 @@
 {
-  "CardID": "1157922",
+  "CardID": 1157922,
   "CustomDeck": {
     "11579": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17801790434423508726/7C79238A615BCBB394991AFFB44087E3774F905F/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"10030\"}",
+  "GMNotes": "{\n  \"id\": \"10030\"\n}",
   "GUID": "7b19b9",
   "Name": "Card",
   "Nickname": "手眼协调",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

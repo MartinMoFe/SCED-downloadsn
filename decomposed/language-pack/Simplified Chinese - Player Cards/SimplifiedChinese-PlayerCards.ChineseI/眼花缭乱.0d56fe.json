@@ -1,5 +1,5 @@
 {
-  "CardID": "1156521",
+  "CardID": 1156521,
   "CustomDeck": {
     "11565": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9598942811173443953/36FF637C8B90E2173DD365C0496330AD45CBC917/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07027\"}",
+  "GMNotes": "{\n  \"id\": \"07027\"\n}",
   "GUID": "0d56fe",
   "Name": "Card",
   "Nickname": "眼花缭乱",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

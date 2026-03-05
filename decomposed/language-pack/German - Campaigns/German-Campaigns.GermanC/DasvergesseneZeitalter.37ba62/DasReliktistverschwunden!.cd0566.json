@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04117a\"\n}",
   "GUID": "cd0566",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Relikt ist verschwunden!",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

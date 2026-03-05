@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07103\"\n}",
   "GUID": "571c7d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gezeitentümpel",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

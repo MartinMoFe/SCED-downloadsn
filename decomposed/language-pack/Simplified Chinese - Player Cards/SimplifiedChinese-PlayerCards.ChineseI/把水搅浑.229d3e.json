@@ -1,5 +1,5 @@
 {
-  "CardID": "1158105",
+  "CardID": 1158105,
   "CustomDeck": {
     "11581": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15689057046532457937/49914EC904671A594DB8AFB976EA73C2A245EDD0/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"10073\"}",
+  "GMNotes": "{\n  \"id\": \"10073\"\n}",
   "GUID": "229d3e",
   "Name": "Card",
   "Nickname": "把水搅浑",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Standing on Your Own",
   "GMNotes": "{\n  \"id\": \"11757b\"\n}",
   "GUID": "e857fb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Prove Your Worth",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

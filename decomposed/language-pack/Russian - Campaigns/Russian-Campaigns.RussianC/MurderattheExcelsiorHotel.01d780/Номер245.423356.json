@@ -14,11 +14,9 @@
   "Description": "Место преступления.",
   "GMNotes": "{\n  \"id\": \"84017\"\n}",
   "GUID": "423356",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Номер 245",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

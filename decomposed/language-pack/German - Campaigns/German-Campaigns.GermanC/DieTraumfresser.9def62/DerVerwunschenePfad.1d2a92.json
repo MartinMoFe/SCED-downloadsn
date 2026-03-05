@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06049\"\n}",
   "GUID": "1d2a92",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Verwunschene Pfad",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

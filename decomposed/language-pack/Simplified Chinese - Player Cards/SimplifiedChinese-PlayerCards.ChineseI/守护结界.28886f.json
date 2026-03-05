@@ -1,5 +1,5 @@
 {
-  "CardID": "1154229",
+  "CardID": 1154229,
   "CustomDeck": {
     "11542": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18376624772064374879/C2F38F1615344546595F6E0A688E302ADCFFFAF2/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01065\"}",
+  "GMNotes": "{\n  \"id\": \"01065\"\n}",
   "GUID": "28886f",
   "Name": "Card",
   "Nickname": "守护结界",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

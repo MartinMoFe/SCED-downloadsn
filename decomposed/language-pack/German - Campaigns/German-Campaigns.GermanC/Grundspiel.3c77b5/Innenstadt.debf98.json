@@ -14,11 +14,9 @@
   "Description": "Bank von Arkham",
   "GMNotes": "{\n  \"id\": \"01130\"\n}",
   "GUID": "debf98",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Innenstadt",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

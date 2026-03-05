@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09767\"\n}",
   "GUID": "919c4c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Paradimensional Understanding",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

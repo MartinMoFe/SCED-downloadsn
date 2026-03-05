@@ -1,0 +1,23 @@
+{
+  "CardID": 39504,
+  "CustomDeck": {
+    "395": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/98yMiCf.jpg",
+      "FaceURL": "https://i.imgur.com/QnGUHn9.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03250\"\n}",
+  "GUID": "eb0c9b",
+  "Name": "Card",
+  "Nickname": "Caverna repleta de huesos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

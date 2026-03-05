@@ -14,11 +14,9 @@
   "Description": "Стамбул.",
   "GMNotes": "{\n  \"id\": \"09575\"\n}",
   "GUID": "d25e49",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Стамбульский университет",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

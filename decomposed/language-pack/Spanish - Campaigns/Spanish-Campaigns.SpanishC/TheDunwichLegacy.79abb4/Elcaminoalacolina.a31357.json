@@ -1,0 +1,24 @@
+{
+  "CardID": 1102,
+  "CustomDeck": {
+    "11": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/JwHArfY.jpg",
+      "FaceURL": "http://i.imgur.com/6BgKs06.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02277\"\n}",
+  "GUID": "a31357",
+  "Name": "Card",
+  "Nickname": "El camino a la colina",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

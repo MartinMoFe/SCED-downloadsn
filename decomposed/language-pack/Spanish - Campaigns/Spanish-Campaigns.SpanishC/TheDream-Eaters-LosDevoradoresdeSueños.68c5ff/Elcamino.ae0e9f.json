@@ -1,0 +1,24 @@
+{
+  "CardID": 44609,
+  "CustomDeck": {
+    "446": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/n4gWyyb.jpg",
+      "FaceURL": "https://i.imgur.com/I3FyT9k.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06044\"\n}",
+  "GUID": "ae0e9f",
+  "Name": "Card",
+  "Nickname": "El camino",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

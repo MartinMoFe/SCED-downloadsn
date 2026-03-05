@@ -14,11 +14,9 @@
   "Description": "Руины.",
   "GMNotes": "{\n  \"id\": \"08677\"\n}",
   "GUID": "932807",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дымчатый пилон",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

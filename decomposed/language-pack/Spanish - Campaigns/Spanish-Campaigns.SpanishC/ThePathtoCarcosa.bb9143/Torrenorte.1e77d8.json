@@ -1,0 +1,23 @@
+{
+  "CardID": 467606,
+  "CustomDeck": {
+    "4676": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/rkduU2W.jpg",
+      "FaceURL": "https://i.imgur.com/XzJynWP.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03288\"\n}",
+  "GUID": "1e77d8",
+  "Name": "Card",
+  "Nickname": "Torre norte",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "CardID": 862205,
+  "CustomDeck": {
+    "8622": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/If5376o.jpg",
+      "FaceURL": "https://i.imgur.com/gcRNpXg.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05203\"\n}",
+  "GUID": "6c130b",
+  "Name": "Card",
+  "Nickname": "Las cuatro llaves",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

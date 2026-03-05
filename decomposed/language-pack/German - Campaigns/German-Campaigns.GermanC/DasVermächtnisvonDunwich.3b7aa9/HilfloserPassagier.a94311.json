@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02179\"\n}",
   "GUID": "a94311",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hilfloser Passagier",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

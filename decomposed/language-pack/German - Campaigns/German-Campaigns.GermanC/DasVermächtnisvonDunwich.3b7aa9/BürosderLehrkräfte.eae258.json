@@ -14,11 +14,9 @@
   "Description": "Die Nacht ist noch jung",
   "GMNotes": "{\n  \"id\": \"02054\"\n}",
   "GUID": "eae258",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Büros der Lehrkräfte",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

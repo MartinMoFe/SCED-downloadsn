@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08640\"\n}",
   "GUID": "7c5dd1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tempel der Alten Wesen",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

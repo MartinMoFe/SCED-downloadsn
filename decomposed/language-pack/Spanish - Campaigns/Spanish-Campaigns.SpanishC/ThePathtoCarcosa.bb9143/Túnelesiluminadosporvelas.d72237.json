@@ -1,0 +1,23 @@
+{
+  "CardID": 39506,
+  "CustomDeck": {
+    "395": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/98yMiCf.jpg",
+      "FaceURL": "https://i.imgur.com/QnGUHn9.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03252\"\n}",
+  "GUID": "d72237",
+  "Name": "Card",
+  "Nickname": "Túneles iluminados por velas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

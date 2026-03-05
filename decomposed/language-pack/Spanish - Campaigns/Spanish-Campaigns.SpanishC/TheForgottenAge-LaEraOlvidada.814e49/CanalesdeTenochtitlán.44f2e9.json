@@ -1,0 +1,22 @@
+{
+  "CardID": 876406,
+  "CustomDeck": {
+    "8764": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/K0KZc6F.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04180\"\n}",
+  "GUID": "44f2e9",
+  "Name": "Card",
+  "Nickname": "Canales de Tenochtitlán",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

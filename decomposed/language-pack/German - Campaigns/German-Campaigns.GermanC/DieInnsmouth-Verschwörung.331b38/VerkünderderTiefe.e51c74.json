@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07298\"\n}",
   "GUID": "e51c74",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verkünder der Tiefe",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

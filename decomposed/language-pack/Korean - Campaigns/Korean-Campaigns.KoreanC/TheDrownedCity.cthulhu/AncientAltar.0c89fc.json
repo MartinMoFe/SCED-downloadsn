@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11623\"\n}",
   "GUID": "0c89fc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ancient Altar",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

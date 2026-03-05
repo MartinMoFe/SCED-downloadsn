@@ -14,12 +14,9 @@
   "Description": "Spectral.",
   "GMNotes": "{\n  \"id\": \"05083\"\n}",
   "GUID": "3b69ae",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Balcony",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

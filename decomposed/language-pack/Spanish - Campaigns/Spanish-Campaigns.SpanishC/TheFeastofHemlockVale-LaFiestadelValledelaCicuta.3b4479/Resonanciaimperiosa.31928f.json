@@ -1,0 +1,22 @@
+{
+  "CardID": 873803,
+  "CustomDeck": {
+    "8738": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/GOjacuJ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10561\"\n}",
+  "GUID": "31928f",
+  "Name": "Card",
+  "Nickname": "Resonancia imperiosa",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

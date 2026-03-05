@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05328\"\n}",
   "GUID": "04fda6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die letzten Stunden",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

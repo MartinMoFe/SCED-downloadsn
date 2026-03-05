@@ -1,0 +1,23 @@
+{
+  "CardID": 50714,
+  "CustomDeck": {
+    "507": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nHlSl0H.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Yithiano curioso",
+  "GMNotes": "{\n  \"id\": \"04256\"\n}",
+  "GUID": "e67da9",
+  "Name": "Card",
+  "Nickname": "El custodio",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

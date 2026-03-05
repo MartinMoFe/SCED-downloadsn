@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06139\"\n}",
   "GUID": "e4f91e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Celephais",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02332\"\n}",
   "GUID": "a68624",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wurmloch",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

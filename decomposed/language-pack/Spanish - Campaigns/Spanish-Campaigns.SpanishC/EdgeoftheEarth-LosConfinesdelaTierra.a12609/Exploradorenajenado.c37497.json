@@ -1,0 +1,22 @@
+{
+  "CardID": 456714,
+  "CustomDeck": {
+    "4567": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/pxOZaUg.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08701\"\n}",
+  "GUID": "c37497",
+  "Name": "Card",
+  "Nickname": "Explorador enajenado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

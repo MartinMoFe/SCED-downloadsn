@@ -14,11 +14,9 @@
   "Description": "Данвич.",
   "GMNotes": "{\n  \"id\": \"02212\"\n}",
   "GUID": "6e0f3d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Школа",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

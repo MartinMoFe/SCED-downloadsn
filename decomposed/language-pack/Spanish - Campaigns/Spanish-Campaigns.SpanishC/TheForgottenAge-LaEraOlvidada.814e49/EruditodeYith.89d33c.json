@@ -1,0 +1,22 @@
+{
+  "CardID": 876317,
+  "CustomDeck": {
+    "8763": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nHlSl0H.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04259\"\n}",
+  "GUID": "89d33c",
+  "Name": "Card",
+  "Nickname": "Erudito de Yith",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

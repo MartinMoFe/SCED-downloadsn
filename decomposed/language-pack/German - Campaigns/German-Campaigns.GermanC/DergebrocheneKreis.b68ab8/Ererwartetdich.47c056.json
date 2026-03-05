@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05327\"\n}",
   "GUID": "47c056",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Er erwartet dich",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

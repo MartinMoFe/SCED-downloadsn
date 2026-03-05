@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08502\"\n}",
   "GUID": "433e06",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Место крушения",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

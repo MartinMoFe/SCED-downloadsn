@@ -14,11 +14,9 @@
   "Description": "Arkham.",
   "GMNotes": "{\n  \"id\": \"01132\"\n}",
   "GUID": "692e5f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Easttown",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

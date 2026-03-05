@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05074\"\n}",
   "GUID": "33990b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Бильярдная",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Аркхэм.",
   "GMNotes": "{\n  \"id\": \"90036\"\n}",
   "GUID": "28560b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Полицейский участок Аркхэма",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

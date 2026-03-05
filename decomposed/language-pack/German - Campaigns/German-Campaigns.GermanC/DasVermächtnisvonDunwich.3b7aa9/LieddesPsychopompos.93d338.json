@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02221\"\n}",
   "GUID": "93d338",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Lied des Psychopompos",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 878211,
+  "CustomDeck": {
+    "8782": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/EtbcGUb.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07218\"\n}",
+  "GUID": "d8c91a",
+  "Name": "Card",
+  "Nickname": "Ojos en los árboles",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

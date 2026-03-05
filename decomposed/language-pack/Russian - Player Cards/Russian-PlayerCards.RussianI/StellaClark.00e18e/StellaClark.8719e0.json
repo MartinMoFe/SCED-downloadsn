@@ -1,5 +1,5 @@
 {
-  "CardID": "535059",
+  "CardID": 535059,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -26,13 +26,11 @@
   "Description": "Избранник. Клерк.",
   "GMNotes": "{\n  \"id\": \"60501\"\n}",
   "GUID": "8719e0",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/cards/StellaClark\")",
   "Name": "Card",
   "Nickname": "Стелла Кларк",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

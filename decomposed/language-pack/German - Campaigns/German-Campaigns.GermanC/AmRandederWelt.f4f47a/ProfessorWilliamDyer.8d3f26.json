@@ -14,11 +14,9 @@
   "Description": "Professor für Geologie",
   "GMNotes": "{\n  \"id\": \"08587\"\n}",
   "GUID": "8d3f26",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Professor William Dyer",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

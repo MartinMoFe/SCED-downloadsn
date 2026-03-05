@@ -14,11 +14,9 @@
   "Description": "Устойчивый.",
   "GMNotes": "{\n  \"id\": \"09770\"\n}",
   "GUID": "531050",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Губительный колокол",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

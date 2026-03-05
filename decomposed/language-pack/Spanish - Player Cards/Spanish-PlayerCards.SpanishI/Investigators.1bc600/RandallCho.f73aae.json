@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/lHJ2ABf.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Hermano preocupado",
-  "GMNotes": "{\"id\": \"60102\"}",
+  "GMNotes": "{\n  \"id\": \"60102\"\n}",
   "GUID": "f73aae",
   "Name": "Card",
   "Nickname": "Randall Cho",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

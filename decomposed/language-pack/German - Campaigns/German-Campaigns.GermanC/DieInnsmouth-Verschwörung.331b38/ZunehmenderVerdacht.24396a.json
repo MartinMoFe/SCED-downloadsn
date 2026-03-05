@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07058\"\n}",
   "GUID": "24396a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zunehmender Verdacht",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

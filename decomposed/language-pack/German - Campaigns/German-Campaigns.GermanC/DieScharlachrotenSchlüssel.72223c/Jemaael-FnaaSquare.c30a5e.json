@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09532\"\n}",
   "GUID": "c30a5e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jemaa el-Fnaa Square",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

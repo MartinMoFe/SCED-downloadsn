@@ -1,0 +1,932 @@
+{
+  "metadata": {
+    "last_updated": "2026-03-02 10:36:59",
+    "language": "Russian",
+    "overall_completion": "95.95 %",
+    "total_found": 5375,
+    "total_required": 5602,
+    "orphan_count": 0,
+    "missing_id_count": 0
+  },
+  "orphans": [],
+  "files_without_id": [],
+  "content": {
+    "campaign\\Edge of the Earth": {
+      "completion": "100.00 %",
+      "stats": "230 / 230",
+      "missing": []
+    },
+    "campaign\\Night of the Zealot": {
+      "completion": "100.00 %",
+      "stats": "7 / 7",
+      "missing": []
+    },
+    "campaign\\Return to Night of the Zealot": {
+      "completion": "100.00 %",
+      "stats": "64 / 64",
+      "missing": []
+    },
+    "campaign\\Return to The Circle Undone": {
+      "completion": "100.00 %",
+      "stats": "74 / 74",
+      "missing": []
+    },
+    "campaign\\Return to The Dunwich Legacy": {
+      "completion": "100.00 %",
+      "stats": "66 / 66",
+      "missing": []
+    },
+    "campaign\\Return to The Forgotten Age": {
+      "completion": "100.00 %",
+      "stats": "79 / 79",
+      "missing": []
+    },
+    "campaign\\Return to The Path to Carcosa": {
+      "completion": "100.00 %",
+      "stats": "75 / 75",
+      "missing": []
+    },
+    "campaign\\The Circle Undone": {
+      "completion": "100.00 %",
+      "stats": "222 / 222",
+      "missing": []
+    },
+    "campaign\\The Dream-Eaters": {
+      "completion": "100.00 %",
+      "stats": "258 / 258",
+      "missing": []
+    },
+    "campaign\\The Drowned City": {
+      "completion": "100.00 %",
+      "stats": "278 / 278",
+      "missing": []
+    },
+    "campaign\\The Dunwich Legacy": {
+      "completion": "100.00 %",
+      "stats": "190 / 190",
+      "missing": []
+    },
+    "campaign\\The Feast of Hemlock Vale": {
+      "completion": "96.98 %",
+      "stats": "257 / 265",
+      "missing": [
+        "10517",
+        "10527",
+        "SB10P1",
+        "SB10P2",
+        "SB10P3",
+        "SB10P4",
+        "SB10P5",
+        "SB10P6"
+      ]
+    },
+    "campaign\\The Forgotten Age": {
+      "completion": "100.00 %",
+      "stats": "227 / 227",
+      "missing": []
+    },
+    "campaign\\The Innsmouth Conspiracy": {
+      "completion": "100.00 %",
+      "stats": "223 / 223",
+      "missing": []
+    },
+    "campaign\\The Path to Carcosa": {
+      "completion": "100.00 %",
+      "stats": "231 / 231",
+      "missing": []
+    },
+    "campaign\\The Scarlet Keys": {
+      "completion": "100.00 %",
+      "stats": "324 / 324",
+      "missing": []
+    },
+    "playercards\\A Light in the Fog": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\A Phantom of Truth": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\A Thousand Shapes of Horror": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\All or Nothing": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90008"
+      ]
+    },
+    "playercards\\Aura of Faith": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90081"
+      ]
+    },
+    "playercards\\Bad Blood": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90017"
+      ]
+    },
+    "playercards\\Before the Black Throne": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Black Stars Rise": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\Blood of Baalshandor": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98016"
+      ]
+    },
+    "playercards\\Blood on the Altar": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\By the Book": {
+      "completion": "87.50 %",
+      "stats": "7 / 8",
+      "missing": [
+        "90024"
+      ]
+    },
+    "playercards\\Carnevale of Horrors": {
+      "completion": "100.00 %",
+      "stats": "5 / 5",
+      "missing": []
+    },
+    "playercards\\Core Set": {
+      "completion": "99.05 %",
+      "stats": "104 / 105",
+      "missing": [
+        "01000"
+      ]
+    },
+    "playercards\\Curse of the Rougarou": {
+      "completion": "100.00 %",
+      "stats": "3 / 3",
+      "missing": []
+    },
+    "playercards\\Dark Revelations": {
+      "completion": "100.00 %",
+      "stats": "3 / 3",
+      "missing": []
+    },
+    "playercards\\Dark Side of the Moon": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Devil Reef": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\Dim Carcosa": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Echoes of the Past": {
+      "completion": "100.00 %",
+      "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\Edge of the Earth Campaign Expansion": {
+      "completion": "100.00 %",
+      "stats": "25 / 25",
+      "missing": []
+    },
+    "playercards\\Edge of the Earth Investigator Expansion": {
+      "completion": "100.00 %",
+      "stats": "133 / 133",
+      "missing": []
+    },
+    "playercards\\Enthralling Encore": {
+      "completion": "85.71 %",
+      "stats": "6 / 7",
+      "missing": [
+        "90087"
+      ]
+    },
+    "playercards\\Film Fatale": {
+      "completion": "0.00 %",
+      "stats": "0 / 1",
+      "missing": [
+        "72024"
+      ]
+    },
+    "playercards\\For the Greater Good": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Fortune and Folly": {
+      "completion": "100.00 %",
+      "stats": "2 / 2",
+      "missing": []
+    },
+    "playercards\\Guardians of the Abyss": {
+      "completion": "100.00 %",
+      "stats": "4 / 4",
+      "missing": []
+    },
+    "playercards\\Harvey Walters": {
+      "completion": "90.91 %",
+      "stats": "30 / 33",
+      "missing": [
+        "60212",
+        "60218",
+        "60219"
+      ]
+    },
+    "playercards\\Heart of the Elders": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\Horror in High Gear": {
+      "completion": "100.00 %",
+      "stats": "9 / 9",
+      "missing": []
+    },
+    "playercards\\Hour of the Huntress": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98001"
+      ]
+    },
+    "playercards\\Hunting for Answers": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90078"
+      ]
+    },
+    "playercards\\In Too Deep": {
+      "completion": "100.00 %",
+      "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\In the Clutches of Chaos": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\Into the Maelstrom": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Ire of the Void": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98007"
+      ]
+    },
+    "playercards\\Jacqueline Fine": {
+      "completion": "84.38 %",
+      "stats": "27 / 32",
+      "missing": [
+        "60405",
+        "60413",
+        "60414",
+        "60417",
+        "60418"
+      ]
+    },
+    "playercards\\Laid to Rest": {
+      "completion": "80.00 %",
+      "stats": "4 / 5",
+      "missing": [
+        "90049"
+      ]
+    },
+    "playercards\\Lost in Time and Space": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Machinations Through Time": {
+      "completion": "100.00 %",
+      "stats": "3 / 3",
+      "missing": []
+    },
+    "playercards\\Murder at the Excelsior Hotel": {
+      "completion": "100.00 %",
+      "stats": "3 / 3",
+      "missing": []
+    },
+    "playercards\\Nathaniel Cho": {
+      "completion": "90.62 %",
+      "stats": "29 / 32",
+      "missing": [
+        "60108",
+        "60113",
+        "60119"
+      ]
+    },
+    "playercards\\On the Road Again": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90046"
+      ]
+    },
+    "playercards\\Path of the Righteous": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90059"
+      ]
+    },
+    "playercards\\Pistols and Pearls": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90084"
+      ]
+    },
+    "playercards\\Point of No Return": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\Promo": {
+      "completion": "0.00 %",
+      "stats": "0 / 3",
+      "missing": [
+        "99001",
+        "99002",
+        "99003"
+      ]
+    },
+    "playercards\\Read or Die": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90001"
+      ]
+    },
+    "playercards\\Red Tide Rising": {
+      "completion": "75.00 %",
+      "stats": "3 / 4",
+      "missing": [
+        "90037"
+      ]
+    },
+    "playercards\\Relics of the Past": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "90062"
+      ]
+    },
+    "playercards\\Return to the Circle Undone": {
+      "completion": "100.00 %",
+      "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\Return to the Dunwich Legacy": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\Return to the Forgotten Age": {
+      "completion": "100.00 %",
+      "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\Return to the Night of the Zealot": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Return to the Path to Carcosa": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\Revised Core Set": {
+      "completion": "14.66 %",
+      "stats": "17 / 116",
+      "missing": [
+        "01501",
+        "01502",
+        "01503",
+        "01504",
+        "01505",
+        "01506",
+        "01507",
+        "01509",
+        "01510",
+        "01511",
+        "01512",
+        "01516",
+        "01517",
+        "01518",
+        "01520",
+        "01522",
+        "01523",
+        "01524",
+        "01525",
+        "01526",
+        "01527",
+        "01528",
+        "01529",
+        "01530",
+        "01531",
+        "01532",
+        "01533",
+        "01534",
+        "01536",
+        "01538",
+        "01540",
+        "01541",
+        "01542",
+        "01543",
+        "01544",
+        "01546",
+        "01547",
+        "01548",
+        "01550",
+        "01551",
+        "01552",
+        "01553",
+        "01554",
+        "01555",
+        "01556",
+        "01557",
+        "01558",
+        "01559",
+        "01560",
+        "01561",
+        "01562",
+        "01563",
+        "01564",
+        "01565",
+        "01566",
+        "01567",
+        "01568",
+        "01569",
+        "01570",
+        "01571",
+        "01572",
+        "01575",
+        "01576",
+        "01577",
+        "01578",
+        "01579",
+        "01580",
+        "01581",
+        "01582",
+        "01583",
+        "01584",
+        "01586",
+        "01587",
+        "01588",
+        "01589",
+        "01590",
+        "01592",
+        "01594",
+        "01595",
+        "01596",
+        "01597",
+        "01598",
+        "01599",
+        "01600",
+        "01601",
+        "01602",
+        "01603",
+        "01684",
+        "01685",
+        "01686",
+        "01687",
+        "01688",
+        "01689",
+        "01690",
+        "01691",
+        "01692",
+        "01693",
+        "01694",
+        "01695"
+      ]
+    },
+    "playercards\\Shattered Aeons": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\Stella Clark": {
+      "completion": "80.65 %",
+      "stats": "25 / 31",
+      "missing": [
+        "60510",
+        "60514",
+        "60516",
+        "60517",
+        "60518",
+        "60519"
+      ]
+    },
+    "playercards\\The Blob That Ate Everything": {
+      "completion": "100.00 %",
+      "stats": "4 / 4",
+      "missing": []
+    },
+    "playercards\\The Blob That Ate Everything ELSE!": {
+      "completion": "87.50 %",
+      "stats": "7 / 8",
+      "missing": [
+        "89002b"
+      ]
+    },
+    "playercards\\The Boundary Beyond": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\The Circle Undone": {
+      "completion": "100.00 %",
+      "stats": "42 / 42",
+      "missing": []
+    },
+    "playercards\\The City of Archives": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\The Deep Gate": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98013"
+      ]
+    },
+    "playercards\\The Depths of Yoth": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\The Dirge of Reason": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98004"
+      ]
+    },
+    "playercards\\The Dream-Eaters": {
+      "completion": "97.56 %",
+      "stats": "40 / 41",
+      "missing": [
+        "06015b"
+      ]
+    },
+    "playercards\\The Drowned City Campaign Expansion": {
+      "completion": "100.00 %",
+      "stats": "21 / 21",
+      "missing": []
+    },
+    "playercards\\The Drowned City Investigator Expansion": {
+      "completion": "100.00 %",
+      "stats": "130 / 130",
+      "missing": []
+    },
+    "playercards\\The Dunwich Legacy": {
+      "completion": "100.00 %",
+      "stats": "42 / 42",
+      "missing": []
+    },
+    "playercards\\The Essex County Express": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\The Feast of Hemlock Vale Campaign Expansion": {
+      "completion": "100.00 %",
+      "stats": "9 / 9",
+      "missing": []
+    },
+    "playercards\\The Feast of Hemlock Vale Investigator Expansion": {
+      "completion": "97.86 %",
+      "stats": "137 / 140",
+      "missing": [
+        "10005b",
+        "10016a",
+        "10016b"
+      ]
+    },
+    "playercards\\The Forgotten Age": {
+      "completion": "100.00 %",
+      "stats": "45 / 45",
+      "missing": []
+    },
+    "playercards\\The Innsmouth Conspiracy": {
+      "completion": "97.67 %",
+      "stats": "42 / 43",
+      "missing": [
+        "07062"
+      ]
+    },
+    "playercards\\The Labyrinths of Lunacy": {
+      "completion": "100.00 %",
+      "stats": "1 / 1",
+      "missing": []
+    },
+    "playercards\\The Lair of Dagon": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\The Midwinter Gala": {
+      "completion": "100.00 %",
+      "stats": "15 / 15",
+      "missing": []
+    },
+    "playercards\\The Miskatonic Museum": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\The Pallid Mask": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\The Path to Carcosa": {
+      "completion": "100.00 %",
+      "stats": "43 / 43",
+      "missing": []
+    },
+    "playercards\\The Scarlet Keys Campaign Expansion": {
+      "completion": "100.00 %",
+      "stats": "6 / 6",
+      "missing": []
+    },
+    "playercards\\The Scarlet Keys Investigator Expansion": {
+      "completion": "100.00 %",
+      "stats": "128 / 128",
+      "missing": []
+    },
+    "playercards\\The Search for Kadath": {
+      "completion": "100.00 %",
+      "stats": "9 / 9",
+      "missing": []
+    },
+    "playercards\\The Secret Name": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\The Unspeakable Oath": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\The Wages of Sin": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Threads of Fate": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
+      "missing": []
+    },
+    "playercards\\To Fight the Black Wind": {
+      "completion": "66.67 %",
+      "stats": "2 / 3",
+      "missing": [
+        "98010"
+      ]
+    },
+    "playercards\\Undimensioned and Unseen": {
+      "completion": "100.00 %",
+      "stats": "11 / 11",
+      "missing": []
+    },
+    "playercards\\Union and Disillusion": {
+      "completion": "100.00 %",
+      "stats": "13 / 13",
+      "missing": []
+    },
+    "playercards\\War of the Outer Gods": {
+      "completion": "100.00 %",
+      "stats": "5 / 5",
+      "missing": []
+    },
+    "playercards\\Weaver of the Cosmos": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Where Doom Awaits": {
+      "completion": "100.00 %",
+      "stats": "14 / 14",
+      "missing": []
+    },
+    "playercards\\Where the Gods Dwell": {
+      "completion": "100.00 %",
+      "stats": "10 / 10",
+      "missing": []
+    },
+    "playercards\\Winifred Habbamock": {
+      "completion": "81.25 %",
+      "stats": "26 / 32",
+      "missing": [
+        "60307",
+        "60308",
+        "60312",
+        "60313",
+        "60314",
+        "60319"
+      ]
+    },
+    "scenario\\Barkham Horror - The Meddling of Meowlathotep": {
+      "completion": "100.00 %",
+      "stats": "59 / 59",
+      "missing": []
+    },
+    "scenario\\Carnevale of Horrors": {
+      "completion": "100.00 %",
+      "stats": "34 / 34",
+      "missing": []
+    },
+    "scenario\\Challenge Scenario - All or Nothing": {
+      "completion": "100.00 %",
+      "stats": "28 / 28",
+      "missing": []
+    },
+    "scenario\\Challenge Scenario - Bad Blood": {
+      "completion": "100.00 %",
+      "stats": "20 / 20",
+      "missing": []
+    },
+    "scenario\\Challenge Scenario - By the Book": {
+      "completion": "100.00 %",
+      "stats": "29 / 29",
+      "missing": []
+    },
+    "scenario\\Challenge Scenario - Enthralling Encore": {
+      "completion": "100.00 %",
+      "stats": "31 / 31",
+      "missing": []
+    },
+    "scenario\\Challenge Scenario - Laid to Rest": {
+      "completion": "100.00 %",
+      "stats": "43 / 43",
+      "missing": []
+    },
+    "scenario\\Challenge Scenario - Read or Die": {
+      "completion": "100.00 %",
+      "stats": "28 / 28",
+      "missing": []
+    },
+    "scenario\\Challenge Scenario - Red Tide Rising": {
+      "completion": "80.56 %",
+      "stats": "29 / 36",
+      "missing": [
+        "90041",
+        "90042",
+        "90043",
+        "90044",
+        "90045a",
+        "CB905",
+        "CG905"
+      ]
+    },
+    "scenario\\Challenge Scenario - Relics of the Past": {
+      "completion": "100.00 %",
+      "stats": "39 / 39",
+      "missing": []
+    },
+    "scenario\\Curse of the Rougarou": {
+      "completion": "100.00 %",
+      "stats": "35 / 35",
+      "missing": []
+    },
+    "scenario\\Film Fatale": {
+      "completion": "0.00 %",
+      "stats": "0 / 60",
+      "missing": [
+        "72001",
+        "72002",
+        "72003",
+        "72004",
+        "72005",
+        "72006",
+        "72007",
+        "72008",
+        "72009",
+        "72010",
+        "72011",
+        "72012",
+        "72013",
+        "72014",
+        "72015",
+        "72016",
+        "72017",
+        "72018",
+        "72019",
+        "72020",
+        "72021",
+        "72022",
+        "72023",
+        "72025",
+        "72026",
+        "72027",
+        "72028",
+        "72029",
+        "72030",
+        "72031",
+        "72032",
+        "72033",
+        "72034",
+        "72035",
+        "72036",
+        "72037",
+        "72038",
+        "72039",
+        "72040",
+        "72041",
+        "72042",
+        "72043",
+        "72044",
+        "72045",
+        "72046",
+        "72047",
+        "72048",
+        "72049",
+        "72050",
+        "72051",
+        "72052",
+        "72053",
+        "72054",
+        "72055",
+        "72056",
+        "72057",
+        "72058",
+        "72059",
+        "CB72",
+        "CG72"
+      ]
+    },
+    "scenario\\Fortune and Folly": {
+      "completion": "100.00 %",
+      "stats": "81 / 81",
+      "missing": []
+    },
+    "scenario\\Guardians of the Abyss": {
+      "completion": "100.00 %",
+      "stats": "58 / 58",
+      "missing": []
+    },
+    "scenario\\Machinations Through Time": {
+      "completion": "100.00 %",
+      "stats": "56 / 56",
+      "missing": []
+    },
+    "scenario\\Murder at the Excelsior Hotel": {
+      "completion": "100.00 %",
+      "stats": "51 / 51",
+      "missing": []
+    },
+    "scenario\\The Blob that Ate Everything": {
+      "completion": "100.00 %",
+      "stats": "73 / 73",
+      "missing": []
+    },
+    "scenario\\The Labyrinths of Lunacy": {
+      "completion": "100.00 %",
+      "stats": "62 / 62",
+      "missing": []
+    },
+    "scenario\\The Midwinter Gala": {
+      "completion": "100.00 %",
+      "stats": "49 / 49",
+      "missing": []
+    },
+    "scenario\\War of the Outer Gods": {
+      "completion": "100.00 %",
+      "stats": "55 / 55",
+      "missing": []
+    }
+  }
+}

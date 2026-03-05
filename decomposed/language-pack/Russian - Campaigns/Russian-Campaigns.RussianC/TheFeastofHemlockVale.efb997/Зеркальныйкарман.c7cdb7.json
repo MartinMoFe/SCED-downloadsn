@@ -14,11 +14,9 @@
   "Description": "Расколотая. Обитель.",
   "GMNotes": "{\n  \"id\": \"10669\"\n}",
   "GUID": "c7cdb7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Зеркальный карман",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

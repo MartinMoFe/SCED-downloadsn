@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/LUhZf7j.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02108\"}",
+  "GMNotes": "{\n  \"id\": \"02108\"\n}",
   "GUID": "ae5fb7",
   "Name": "Card",
   "Nickname": "Batidor (1)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

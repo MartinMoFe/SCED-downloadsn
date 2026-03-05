@@ -14,11 +14,9 @@
   "Description": "Netzgewirr",
   "GMNotes": "{\n  \"id\": \"06342\"\n}",
   "GUID": "8d004b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das große Netz",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

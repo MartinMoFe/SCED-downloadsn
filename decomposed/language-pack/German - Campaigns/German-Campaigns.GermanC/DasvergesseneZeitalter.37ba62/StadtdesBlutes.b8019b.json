@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04281\"\n}",
   "GUID": "b8019b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Stadt des Blutes",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

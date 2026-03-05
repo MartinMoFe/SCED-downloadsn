@@ -14,11 +14,9 @@
   "Description": "Return to The Witching Hour",
   "GMNotes": "{\n  \"id\": \"54017\"\n}",
   "GUID": "f15e6b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

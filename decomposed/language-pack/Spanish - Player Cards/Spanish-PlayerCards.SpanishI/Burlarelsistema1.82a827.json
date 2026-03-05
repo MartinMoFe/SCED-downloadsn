@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/5VfkUFo.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08050\"}",
+  "GMNotes": "{\n  \"id\": \"08050\"\n}",
   "GUID": "82a827",
   "Name": "Card",
   "Nickname": "Burlar el sistema (1)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

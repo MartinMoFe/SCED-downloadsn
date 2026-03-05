@@ -1,0 +1,25 @@
+{
+  "CardID": 1007,
+  "CustomDeck": {
+    "10": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/o2iolyt.jpg",
+      "FaceURL": "https://i.imgur.com/bYqVGkN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "El secretario de Josef",
+  "GMNotes": "{\n  \"id\": \"05047\"\n}",
+  "GUID": "75d178",
+  "Name": "Card",
+  "Nickname": "Jerome Davids",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Miskatonic.",
   "GMNotes": "{\n  \"id\": \"02131\"\n}",
   "GUID": "c3915f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Administration Office",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

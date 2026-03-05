@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09547\"\n}",
   "GUID": "339f3d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Scarlet Shadow",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

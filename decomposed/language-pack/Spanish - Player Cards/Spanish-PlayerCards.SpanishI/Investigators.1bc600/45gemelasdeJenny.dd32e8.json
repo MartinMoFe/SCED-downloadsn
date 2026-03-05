@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/PJdtW6G.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "El complemento perfecto",
-  "GMNotes": "{\"id\": \"02010\"}",
+  "GMNotes": "{\n  \"id\": \"02010\"\n}",
   "GUID": "dd32e8",
   "Name": "Card",
   "Nickname": ".45 gemelas de Jenny",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

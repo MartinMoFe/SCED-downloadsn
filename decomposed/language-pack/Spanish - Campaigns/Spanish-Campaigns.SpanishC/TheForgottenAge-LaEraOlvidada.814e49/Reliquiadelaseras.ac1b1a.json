@@ -1,0 +1,23 @@
+{
+  "CardID": 877510,
+  "CustomDeck": {
+    "8775": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/dE8gunN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Desatar la corriente temporal",
+  "GMNotes": "{\n  \"id\": \"04343\"\n}",
+  "GUID": "ac1b1a",
+  "Name": "Card",
+  "Nickname": "Reliquia de las eras",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

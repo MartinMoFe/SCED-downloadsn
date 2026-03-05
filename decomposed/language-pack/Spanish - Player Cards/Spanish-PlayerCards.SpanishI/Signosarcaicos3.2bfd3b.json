@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/9mPlFKr.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Marcas de Isis",
-  "GMNotes": "{\"id\": \"52004\"}",
+  "GMNotes": "{\n  \"id\": \"52004\"\n}",
   "GUID": "2bfd3b",
   "Name": "Card",
   "Nickname": "Signos arcaicos (3)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

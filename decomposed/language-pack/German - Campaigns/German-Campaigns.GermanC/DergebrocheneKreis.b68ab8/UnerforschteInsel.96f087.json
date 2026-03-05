@@ -14,11 +14,9 @@
   "Description": "Verlassene Wälder",
   "GMNotes": "{\n  \"id\": \"05253\"\n}",
   "GUID": "96f087",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unerforschte Insel",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

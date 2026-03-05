@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"01148\"\n}",
   "GUID": "ae7476",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unterbrechung des Rituals",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

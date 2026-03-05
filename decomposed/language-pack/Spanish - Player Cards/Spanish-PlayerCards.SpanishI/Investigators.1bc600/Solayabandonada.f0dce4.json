@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/5xnlSNd.jpg",
       "NumHeight": 2,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Avanzada",
-  "GMNotes": "{\"id\": \"90040\"}",
+  "GMNotes": "{\n  \"id\": \"90040\"\n}",
   "GUID": "f0dce4",
   "Name": "Card",
   "Nickname": "Sola y abandonada",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

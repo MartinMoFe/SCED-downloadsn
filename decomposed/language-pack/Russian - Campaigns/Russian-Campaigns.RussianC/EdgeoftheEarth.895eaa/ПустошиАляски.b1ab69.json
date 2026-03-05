@@ -14,11 +14,9 @@
   "Description": "Мираж.",
   "GMNotes": "{\n  \"id\": \"08567\"\n}",
   "GUID": "b1ab69",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пустоши Аляски",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

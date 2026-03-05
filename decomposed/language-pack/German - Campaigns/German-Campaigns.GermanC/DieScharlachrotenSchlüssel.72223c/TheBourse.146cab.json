@@ -14,11 +14,9 @@
   "Description": "Coterie Post",
   "GMNotes": "{\n  \"id\": \"09643\"\n}",
   "GUID": "146cab",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Bourse",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/lHJ2ABf.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60120\"}",
+  "GMNotes": "{\n  \"id\": \"60120\"\n}",
   "GUID": "755834",
   "Name": "Card",
   "Nickname": "¡Una prueba! (1)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

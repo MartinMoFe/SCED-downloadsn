@@ -1,0 +1,23 @@
+{
+  "CardID": 876901,
+  "CustomDeck": {
+    "8769": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/5fa8IBI.jpg",
+      "FaceURL": "https://i.imgur.com/iQoNTAB.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04168\"\n}",
+  "GUID": "6b362d",
+  "Name": "Card",
+  "Nickname": "Ruinas del templo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

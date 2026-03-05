@@ -14,11 +14,9 @@
   "Description": "Часть 1.",
   "GMNotes": "{\n  \"id\": \"85022\"\n}",
   "GUID": "e643e5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Добыть образец",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

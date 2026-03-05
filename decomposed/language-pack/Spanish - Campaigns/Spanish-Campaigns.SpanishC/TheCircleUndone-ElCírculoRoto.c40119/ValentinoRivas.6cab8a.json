@@ -1,0 +1,25 @@
+{
+  "CardID": 1008,
+  "CustomDeck": {
+    "10": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/o2iolyt.jpg",
+      "FaceURL": "https://i.imgur.com/bYqVGkN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Filántropo acaudalado",
+  "GMNotes": "{\n  \"id\": \"05048\"\n}",
+  "GUID": "6cab8a",
+  "Name": "Card",
+  "Nickname": "Valentino Rivas",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

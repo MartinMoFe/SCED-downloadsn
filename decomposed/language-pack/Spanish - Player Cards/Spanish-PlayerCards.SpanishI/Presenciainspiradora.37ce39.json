@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/p8esm8c.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03228\"}",
+  "GMNotes": "{\n  \"id\": \"03228\"\n}",
   "GUID": "37ce39",
   "Name": "Card",
   "Nickname": "Presencia inspiradora",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

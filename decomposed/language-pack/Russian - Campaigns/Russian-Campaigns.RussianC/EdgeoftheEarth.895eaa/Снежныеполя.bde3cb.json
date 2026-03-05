@@ -14,11 +14,9 @@
   "Description": "Материк. Неизведанная.",
   "GMNotes": "{\n  \"id\": \"08506\"\n}",
   "GUID": "bde3cb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Снежные поля",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

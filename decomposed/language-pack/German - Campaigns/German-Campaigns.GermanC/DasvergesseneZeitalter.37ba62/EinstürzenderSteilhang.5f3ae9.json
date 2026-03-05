@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04289\"\n}",
   "GUID": "5f3ae9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Einstürzender Steilhang",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

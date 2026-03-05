@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"01145\"\n}",
   "GUID": "55c401",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Rache wartet schon",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

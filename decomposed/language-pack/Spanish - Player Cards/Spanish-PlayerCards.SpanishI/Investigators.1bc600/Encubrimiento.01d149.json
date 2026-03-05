@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/SDEvnX3.jpg",
       "NumHeight": 2,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Avanzada",
-  "GMNotes": "{\"id\": \"01007\"}",
+  "GMNotes": "{\n  \"id\": \"01007\"\n}",
   "GUID": "01d149",
   "Name": "Card",
   "Nickname": "Encubrimiento",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

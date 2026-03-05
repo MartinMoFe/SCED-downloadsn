@@ -1,0 +1,22 @@
+{
+  "CardID": 1601,
+  "CustomDeck": {
+    "16": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/RWH5bx8.jpg",
+      "FaceURL": "http://i.imgur.com/LwWeD3J.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02255\"\n}",
+  "GUID": "06162c",
+  "Name": "Card",
+  "Nickname": "Progenie de Yog-Sothoth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

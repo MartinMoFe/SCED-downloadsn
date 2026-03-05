@@ -14,12 +14,9 @@
   "Description": "Theater der großen Marionette",
   "GMNotes": "{\n  \"id\": \"03211\"\n}",
   "GUID": "f79e02",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grand Guignol",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

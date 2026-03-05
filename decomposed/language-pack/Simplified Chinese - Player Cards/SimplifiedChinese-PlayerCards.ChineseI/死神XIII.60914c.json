@@ -1,5 +1,5 @@
 {
-  "CardID": "1155720",
+  "CardID": 1155720,
   "CustomDeck": {
     "11557": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15793452864162924665/559F5AA68379D77F972FD38DE3899837DBD0E2FB/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"05027\"}",
+  "GMNotes": "{\n  \"id\": \"05027\"\n}",
   "GUID": "60914c",
   "Name": "Card",
   "Nickname": "死神·XIII",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

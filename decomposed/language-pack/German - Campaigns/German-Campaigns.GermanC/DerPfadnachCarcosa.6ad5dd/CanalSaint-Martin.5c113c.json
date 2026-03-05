@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03216\"\n}",
   "GUID": "5c113c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Canal Saint-Martin",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

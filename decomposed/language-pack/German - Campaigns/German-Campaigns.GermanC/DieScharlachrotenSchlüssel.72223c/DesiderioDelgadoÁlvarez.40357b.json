@@ -14,11 +14,9 @@
   "Description": "The Man in the Blood-Soaked Suit",
   "GMNotes": "{\n  \"id\": \"09606\"\n}",
   "GUID": "40357b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Desiderio Delgado Álvarez",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

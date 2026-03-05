@@ -14,11 +14,9 @@
   "Description": "Ступени.",
   "GMNotes": "{\n  \"id\": \"06045\"\n}",
   "GUID": "1b07cc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Семьдесят ступеней",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 47600,
+  "CustomDeck": {
+    "476": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/OKog8AD.jpg",
+      "FaceURL": "https://i.imgur.com/irovrKG.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53016\"\n}",
+  "GUID": "d584e3",
+  "Name": "Card",
+  "Nickname": "Regreso a Naturaleza salvaje",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/4k8lKd9.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"09025\"}",
+  "GMNotes": "{\n  \"id\": \"09025\"\n}",
   "GUID": "8bc46c",
   "Name": "Card",
   "Nickname": "Boleadora",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

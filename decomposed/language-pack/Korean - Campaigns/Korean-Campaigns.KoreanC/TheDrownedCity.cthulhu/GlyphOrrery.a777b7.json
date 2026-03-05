@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11662\"\n}",
   "GUID": "a777b7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Glyph Orrery",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

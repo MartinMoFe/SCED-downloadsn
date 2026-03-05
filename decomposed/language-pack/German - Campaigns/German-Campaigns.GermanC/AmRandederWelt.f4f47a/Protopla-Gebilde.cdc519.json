@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08669\"\n}",
   "GUID": "cdc519",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Protopla-Gebilde",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

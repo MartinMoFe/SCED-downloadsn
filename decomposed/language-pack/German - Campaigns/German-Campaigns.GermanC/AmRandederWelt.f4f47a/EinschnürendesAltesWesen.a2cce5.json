@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08609\"\n}",
   "GUID": "a2cce5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Einschnürendes Altes Wesen",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

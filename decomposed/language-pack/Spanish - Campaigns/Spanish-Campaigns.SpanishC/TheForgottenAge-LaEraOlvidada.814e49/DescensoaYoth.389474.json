@@ -1,0 +1,22 @@
+{
+  "CardID": 876312,
+  "CustomDeck": {
+    "8763": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nHlSl0H.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04227\"\n}",
+  "GUID": "389474",
+  "Name": "Card",
+  "Nickname": "Descenso a Yoth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

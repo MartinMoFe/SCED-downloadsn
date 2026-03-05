@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14137629559230342933/CB7B690826850212852E1AFE6FA692F1052D4EAD/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Данвич.",
   "GMNotes": "{\n  \"id\": \"02250\"\n}",
   "GUID": "1eacd2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Руины фермы Уэйтли",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

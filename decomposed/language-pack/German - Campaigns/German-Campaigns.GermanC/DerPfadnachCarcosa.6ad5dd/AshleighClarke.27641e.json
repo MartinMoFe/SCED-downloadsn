@@ -14,11 +14,9 @@
   "Description": "Lieder verklingen ungehört",
   "GMNotes": "{\n  \"id\": \"03069b\"\n}",
   "GUID": "27641e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ashleigh Clarke",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

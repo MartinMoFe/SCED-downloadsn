@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04144\"\n}",
   "GUID": "e1bcc8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Geheimnis muss gewahrt bleiben",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08642\"\n}",
   "GUID": "b683bb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Bedachtes Altes Wesen",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

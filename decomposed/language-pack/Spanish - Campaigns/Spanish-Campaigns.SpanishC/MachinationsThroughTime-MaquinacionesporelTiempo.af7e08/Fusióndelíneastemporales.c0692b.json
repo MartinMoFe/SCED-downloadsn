@@ -1,0 +1,22 @@
+{
+  "CardID": 459005,
+  "CustomDeck": {
+    "4590": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/KroZD46.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"87054\"\n}",
+  "GUID": "c0692b",
+  "Name": "Card",
+  "Nickname": "Fusión de líneas temporales",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

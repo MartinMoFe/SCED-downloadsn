@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/aKX9GKZ.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"09081\"}",
+  "GMNotes": "{\n  \"id\": \"09081\"\n}",
   "GUID": "3d8104",
   "Name": "Card",
   "Nickname": "Palabra de poder",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 586115,
+  "CustomDeck": {
+    "5861": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/gckBSts.jpg",
+      "FaceURL": "https://i.imgur.com/BPhLlXu.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"52043\"\n}",
+  "GUID": "75f0d3",
+  "Name": "Card",
+  "Nickname": "Cementerio Père Lachaise",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

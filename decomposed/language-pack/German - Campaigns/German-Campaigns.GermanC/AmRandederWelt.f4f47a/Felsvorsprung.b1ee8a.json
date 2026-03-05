@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08604\"\n}",
   "GUID": "b1ee8a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Felsvorsprung",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

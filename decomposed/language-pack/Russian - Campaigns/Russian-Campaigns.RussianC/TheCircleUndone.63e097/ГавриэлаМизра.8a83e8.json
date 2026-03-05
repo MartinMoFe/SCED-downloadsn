@@ -14,12 +14,10 @@
   "Description": "Ветеран.",
   "GMNotes": "{\n  \"id\": \"05046\"\n}",
   "GUID": "8a83e8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Гавриэла Мизра",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

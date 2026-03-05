@@ -1,0 +1,24 @@
+{
+  "CardID": 853627,
+  "CustomDeck": {
+    "8536": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/G39DPz2.jpg",
+      "FaceURL": "https://i.imgur.com/7HhpwK6.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Símbolo de providencia",
+  "GMNotes": "{\n  \"id\": \"88045\"\n}",
+  "GUID": "199472",
+  "Name": "Card",
+  "Nickname": "El manantial de la fortuna",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

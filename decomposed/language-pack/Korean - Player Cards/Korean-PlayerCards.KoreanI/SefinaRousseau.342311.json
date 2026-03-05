@@ -14,12 +14,10 @@
   "Description": "The Painter",
   "GMNotes": "{\n  \"id\": \"03003\"\n}",
   "GUID": "342311",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sefina Rousseau",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -14,11 +14,9 @@
   "Description": "Sicherheitsdienst des Museums",
   "GMNotes": "{\n  \"id\": \"02139\"\n}",
   "GUID": "ad7d98",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Adam Lynch",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

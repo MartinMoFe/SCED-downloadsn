@@ -1,0 +1,24 @@
+{
+  "CardID": 877201,
+  "CustomDeck": {
+    "8772": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/REAUEqP.jpg",
+      "FaceURL": "https://i.imgur.com/ZNliRox.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04163\"\n}",
+  "GUID": "6b395d",
+  "Name": "Card",
+  "Nickname": "La barrera es delgada",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

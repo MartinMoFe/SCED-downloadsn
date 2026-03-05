@@ -1,5 +1,5 @@
 {
-  "CardID": "535018",
+  "CardID": 535018,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Преступник.",
   "GMNotes": "{\n  \"id\": \"04003\"\n}",
   "GUID": "49aca9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Финн Эдвардс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

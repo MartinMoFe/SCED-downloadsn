@@ -1,0 +1,22 @@
+{
+  "CardID": 2018,
+  "CustomDeck": {
+    "20": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/NKLgJJ7.jpg",
+      "NumHeight": 5,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04078\"\n}",
+  "GUID": "fb1646",
+  "Name": "Card",
+  "Nickname": "Víbora de foso",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

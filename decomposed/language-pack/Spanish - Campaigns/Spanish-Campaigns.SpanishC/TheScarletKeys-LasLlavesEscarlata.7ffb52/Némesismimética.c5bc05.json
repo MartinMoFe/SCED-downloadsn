@@ -1,0 +1,23 @@
+{
+  "CardID": 471600,
+  "CustomDeck": {
+    "4716": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nYd6dmF.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0
+    }
+  },
+  "Description": "Subyugador sobrenatural",
+  "GMNotes": "{\n  \"id\": \"09690\"\n}",
+  "GUID": "c5bc05",
+  "Name": "Card",
+  "Nickname": "Némesis mimética",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

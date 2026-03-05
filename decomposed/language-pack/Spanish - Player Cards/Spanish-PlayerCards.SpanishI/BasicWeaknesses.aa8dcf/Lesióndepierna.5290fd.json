@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/hiAcCCa.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08131\"}",
+  "GMNotes": "{\n  \"id\": \"08131\"\n}",
   "GUID": "5290fd",
   "Name": "Card",
   "Nickname": "Lesión de pierna",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

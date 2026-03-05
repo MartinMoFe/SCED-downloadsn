@@ -1,0 +1,23 @@
+{
+  "CardID": 861812,
+  "CustomDeck": {
+    "8618": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/OKJbtww.jpg",
+      "FaceURL": "https://i.imgur.com/Fkwa8ZI.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05139\"\n}",
+  "GUID": "d5d7ed",
+  "Name": "Card",
+  "Nickname": "Aula de física",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

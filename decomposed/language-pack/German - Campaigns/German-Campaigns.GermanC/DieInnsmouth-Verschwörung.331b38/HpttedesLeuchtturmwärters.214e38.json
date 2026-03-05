@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07243\"\n}",
   "GUID": "214e38",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hptte des Leuchtturmwärters",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

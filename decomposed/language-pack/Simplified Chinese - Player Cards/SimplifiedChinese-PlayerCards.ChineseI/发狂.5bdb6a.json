@@ -1,5 +1,5 @@
 {
-  "CardID": "1158801",
+  "CardID": 1158801,
   "CustomDeck": {
     "11588": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15145596890197951339/409794B33B646685A441090881CCCC235417A703/",
       "NumHeight": 1,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"11129\"}",
+  "GMNotes": "{\n  \"id\": \"11129\"\n}",
   "GUID": "5bdb6a",
   "Name": "Card",
   "Nickname": "发狂",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

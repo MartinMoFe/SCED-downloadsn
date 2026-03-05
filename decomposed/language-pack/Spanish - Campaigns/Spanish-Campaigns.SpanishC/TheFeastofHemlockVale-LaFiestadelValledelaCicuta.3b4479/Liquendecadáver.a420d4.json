@@ -1,0 +1,22 @@
+{
+  "CardID": 872809,
+  "CustomDeck": {
+    "8728": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/yGVahkc.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10739\"\n}",
+  "GUID": "a420d4",
+  "Name": "Card",
+  "Nickname": "Liquen de cadáver",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

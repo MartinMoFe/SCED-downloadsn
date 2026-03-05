@@ -1,0 +1,22 @@
+{
+  "CardID": 50814,
+  "CustomDeck": {
+    "508": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/NKLgJJ7.jpg",
+      "NumHeight": 5,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04074\"\n}",
+  "GUID": "e5dc28",
+  "Name": "Card",
+  "Nickname": "Templo del colmillo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

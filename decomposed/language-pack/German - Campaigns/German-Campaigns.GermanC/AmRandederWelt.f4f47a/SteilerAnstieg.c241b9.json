@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08602\"\n}",
   "GUID": "c241b9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Steiler Anstieg",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

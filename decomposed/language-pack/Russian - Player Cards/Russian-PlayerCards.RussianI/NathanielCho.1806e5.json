@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"60101-m\"\n}",
   "GUID": "1806e5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Натаниэль Чо",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

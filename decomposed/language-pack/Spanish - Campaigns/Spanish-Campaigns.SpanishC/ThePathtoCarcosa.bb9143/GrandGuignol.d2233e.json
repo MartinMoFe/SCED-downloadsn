@@ -1,0 +1,24 @@
+{
+  "CardID": 591204,
+  "CustomDeck": {
+    "5912": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/0ESUomm.jpg",
+      "FaceURL": "https://i.imgur.com/oPRSnbc.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Teatro del gran guiñol",
+  "GMNotes": "{\n  \"id\": \"03211\"\n}",
+  "GUID": "d2233e",
+  "Name": "Card",
+  "Nickname": "Grand Guignol",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -7,17 +7,14 @@
       "FaceURL": "http://i.imgur.com/w5VrdCE.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02272\"}",
+  "GMNotes": "{\n  \"id\": \"02272\"\n}",
   "GUID": "076cbd",
   "Name": "Card",
   "Nickname": "Ropas elegantes",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

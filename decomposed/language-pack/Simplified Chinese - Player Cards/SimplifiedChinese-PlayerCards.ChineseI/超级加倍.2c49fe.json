@@ -1,5 +1,5 @@
 {
-  "CardID": "1156005",
+  "CardID": 1156005,
   "CustomDeck": {
     "11560": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14321712477132444442/7C6FDDBF1D40491648D25B6BB8372520FD11CE75/",
       "NumHeight": 1,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"05320\"}",
+  "GMNotes": "{\n  \"id\": \"05320\"\n}",
   "GUID": "2c49fe",
   "Name": "Card",
   "Nickname": "超级加倍",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

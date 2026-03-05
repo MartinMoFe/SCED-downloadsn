@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03284\"\n}",
   "GUID": "5f5417",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grand Rue",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

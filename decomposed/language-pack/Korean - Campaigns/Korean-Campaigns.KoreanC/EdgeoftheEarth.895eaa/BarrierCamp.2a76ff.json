@@ -14,12 +14,10 @@
   "Description": "Glacier. Uncharted.",
   "GMNotes": "{\n  \"id\": \"08512\"\n}",
   "GUID": "2a76ff",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Barrier Camp",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

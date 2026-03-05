@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09591\"\n}",
   "GUID": "675a43",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Безумные танцы",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

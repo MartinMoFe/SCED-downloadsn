@@ -14,11 +14,9 @@
   "Description": "Josefs Haushälterin",
   "GMNotes": "{\n  \"id\": \"05049\"\n}",
   "GUID": "0db4eb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Penny White",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

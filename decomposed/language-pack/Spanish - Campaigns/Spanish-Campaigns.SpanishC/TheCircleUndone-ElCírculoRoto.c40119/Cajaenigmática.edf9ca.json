@@ -1,0 +1,23 @@
+{
+  "CardID": 862111,
+  "CustomDeck": {
+    "8621": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/5PJIuNO.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Dispositivo enigmático",
+  "GMNotes": "{\n  \"id\": \"05228\"\n}",
+  "GUID": "edf9ca",
+  "Name": "Card",
+  "Nickname": "Caja enigmática",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

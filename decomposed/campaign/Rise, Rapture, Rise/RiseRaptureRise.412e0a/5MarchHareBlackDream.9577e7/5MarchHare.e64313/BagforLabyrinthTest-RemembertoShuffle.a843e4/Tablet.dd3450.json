@@ -18,16 +18,12 @@
   },
   "GUID": "dd3450",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Custom_Tile",
   "Nickname": "Tablet",
-  "Tags": [
-    "tempToken"
-  ],
   "Transform": {
     "rotX": 35,
     "rotY": 255,
-    "rotZ": 180,
+    "rotZ": 155,
     "scaleX": 0.81,
     "scaleY": 1,
     "scaleZ": 0.81

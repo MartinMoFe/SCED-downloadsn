@@ -1,0 +1,25 @@
+{
+  "CardID": 875900,
+  "CustomDeck": {
+    "8759": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/63YHW0r.jpg",
+      "FaceURL": "https://i.imgur.com/1P1hQ0U.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "¿Quién eres?",
+  "GMNotes": "{\n  \"id\": \"10661\"\n}",
+  "GUID": "744958",
+  "Name": "CardCustom",
+  "Nickname": "Yo fragmentado",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

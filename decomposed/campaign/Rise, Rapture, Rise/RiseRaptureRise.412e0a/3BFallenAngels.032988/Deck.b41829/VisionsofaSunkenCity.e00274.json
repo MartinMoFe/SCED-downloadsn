@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/3BFallenAngels.032988/Deck.b41829/VisionsofaSunkenCity.e00274.gmnotes",
   "GUID": "e00274",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Visions of a Sunken City",
   "Tags": [

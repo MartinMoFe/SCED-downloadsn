@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08660\"\n}",
   "GUID": "1525fd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Miasma lockt",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

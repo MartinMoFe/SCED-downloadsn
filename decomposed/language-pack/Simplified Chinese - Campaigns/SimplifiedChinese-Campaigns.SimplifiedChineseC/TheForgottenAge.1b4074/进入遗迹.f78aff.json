@@ -1,25 +1,22 @@
 {
-  "CardID": 2334800,
+  "CardID": 2781611,
   "CustomDeck": {
-    "23348": {
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16102658039814708376/D3AFD474C7EB0A5026CE2255F56F6A24ABC5504F/",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14353945735420210598/72D777F72157DA4F286CA963B56654E963176019/",
-      "NumWidth": 1,
-      "NumHeight": 1,
+    "27816": {
       "BackIsHidden": true,
-      "UniqueBack": true,
-      "Type": 0
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10908304147856316886/5144DE59EC29160532B65307C845C35984146279/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15737952938087224830/81938DDB7FB2681D29490D25D9DE6E01A2D31CDD/",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
     }
   },
-  "GMNotes": "{\"id\": \"04057\"}",
+  "GMNotes": "{\n  \"id\": \"04057\"\n}",
   "GUID": "f78aff",
-  "HideWhenFaceDown": false,
-  "SidewaysCard": true,
   "Name": "Card",
   "Nickname": "进入遗迹",
+  "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

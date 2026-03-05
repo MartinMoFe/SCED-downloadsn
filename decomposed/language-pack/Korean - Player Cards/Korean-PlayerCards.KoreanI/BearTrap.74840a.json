@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2495648990716517203/530E772B1DF7B4C26DCFDB243D3764DD08631080/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Trap.",
   "GMNotes": "{\n  \"id\": \"81020\"\n}",
   "GUID": "74840a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Bear Trap",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 50300,
+  "CustomDeck": {
+    "503": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/RWH5bx8.jpg",
+      "FaceURL": "http://i.imgur.com/Gx46LCq.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Hechicero de Dunwich",
+  "GMNotes": "{\n  \"id\": \"02293\"\n}",
+  "GUID": "e1b179",
+  "Name": "Card",
+  "Nickname": "Seth Bishop",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

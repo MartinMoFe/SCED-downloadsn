@@ -1,5 +1,5 @@
 {
-  "CardID": 274735,
+  "CardID": 269635,
   "CustomDeck": {
     "2696": {
       "BackIsHidden": true,
@@ -13,7 +13,6 @@
   },
   "GMNotes_path": "CircusExMortisCampaignExpansion.93b8cb/6Bacchanalia.a6c6f4/ActDeck.4ca4f5/Act1-BehindClosedDoors.810518.gmnotes",
   "GUID": "810518",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Act 1 - Behind Closed Doors",
   "SidewaysCard": true,

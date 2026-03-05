@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2495648990682366353/86708EF019AACA59A4B29F2FB403081E2998C31C/",
       "NumHeight": 2,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Advanced",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Final Rhapsody",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

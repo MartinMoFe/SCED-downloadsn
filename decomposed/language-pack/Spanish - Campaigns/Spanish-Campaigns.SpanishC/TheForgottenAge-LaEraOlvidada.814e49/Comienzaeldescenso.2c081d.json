@@ -1,0 +1,24 @@
+{
+  "CardID": 877000,
+  "CustomDeck": {
+    "8770": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/Yu3pNS3.jpg",
+      "FaceURL": "https://i.imgur.com/S2IEjFI.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04278\"\n}",
+  "GUID": "2c081d",
+  "Name": "Card",
+  "Nickname": "Comienza el descenso",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

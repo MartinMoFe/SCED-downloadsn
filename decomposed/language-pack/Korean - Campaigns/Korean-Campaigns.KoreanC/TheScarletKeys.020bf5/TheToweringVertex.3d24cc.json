@@ -14,11 +14,9 @@
   "Description": "Ruinous Conflux",
   "GMNotes": "{\n  \"id\": \"09714\"\n}",
   "GUID": "3d24cc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Towering Vertex",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

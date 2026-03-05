@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05170\"\n}",
   "GUID": "1042cb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Эшафот",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

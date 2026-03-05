@@ -14,11 +14,9 @@
   "Description": "Мискатоник. Выставка.",
   "GMNotes": "{\n  \"id\": \"02136\"\n}",
   "GUID": "f3ffb6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Выставочный зал",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

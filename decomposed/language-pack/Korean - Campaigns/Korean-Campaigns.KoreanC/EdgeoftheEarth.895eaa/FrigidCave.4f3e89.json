@@ -14,12 +14,10 @@
   "Description": "Mountains. Uncharted.",
   "GMNotes": "{\n  \"id\": \"08511\"\n}",
   "GUID": "4f3e89",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Frigid Cave",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"01135\"\n}",
   "GUID": "c4fba1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hetzender Schatten",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

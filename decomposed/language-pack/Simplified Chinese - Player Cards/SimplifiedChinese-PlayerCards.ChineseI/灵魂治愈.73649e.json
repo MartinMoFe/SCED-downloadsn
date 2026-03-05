@@ -1,5 +1,5 @@
 {
-  "CardID": "1158700",
+  "CardID": 1158700,
   "CustomDeck": {
     "11587": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13166016471370537530/33B03D3E0360E8C818F58C17FF570144C2E4F57B/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"11098\"}",
+  "GMNotes": "{\n  \"id\": \"11098\"\n}",
   "GUID": "73649e",
   "Name": "Card",
   "Nickname": "灵魂治愈",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

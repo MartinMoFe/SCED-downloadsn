@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07177b\"\n}",
   "GUID": "1d52f0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tempel der Vereinigung",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

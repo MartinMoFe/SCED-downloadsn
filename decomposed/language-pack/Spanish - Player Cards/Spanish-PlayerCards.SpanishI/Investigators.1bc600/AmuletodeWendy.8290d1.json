@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/5xnlSNd.jpg",
       "NumHeight": 2,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Avanzada",
-  "GMNotes": "{\"id\": \"090039\"}",
+  "GMNotes": "{\n  \"id\": \"90039\"\n}",
   "GUID": "8290d1",
   "Name": "Card",
   "Nickname": "Amuleto de Wendy",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

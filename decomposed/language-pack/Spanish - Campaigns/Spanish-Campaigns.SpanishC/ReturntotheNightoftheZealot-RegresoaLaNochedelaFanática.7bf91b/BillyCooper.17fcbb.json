@@ -1,0 +1,23 @@
+{
+  "CardID": 34712,
+  "CustomDeck": {
+    "347": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/it7jsDx.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "El poli corrupto",
+  "GMNotes": "{\n  \"id\": \"50045\"\n}",
+  "GUID": "17fcbb",
+  "Name": "Card",
+  "Nickname": "Billy Cooper",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "CardID": 876311,
+  "CustomDeck": {
+    "8763": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/nHlSl0H.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04226\"\n}",
+  "GUID": "add763",
+  "Name": "Card",
+  "Nickname": "Columnas de cristal",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

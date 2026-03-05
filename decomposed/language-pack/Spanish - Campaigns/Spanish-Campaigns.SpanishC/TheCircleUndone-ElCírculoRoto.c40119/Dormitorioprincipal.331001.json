@@ -1,0 +1,23 @@
+{
+  "CardID": 862415,
+  "CustomDeck": {
+    "8624": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/X5EUfmb.jpg",
+      "FaceURL": "https://i.imgur.com/LjkOpen.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05075\"\n}",
+  "GUID": "331001",
+  "Name": "Card",
+  "Nickname": "Dormitorio principal",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

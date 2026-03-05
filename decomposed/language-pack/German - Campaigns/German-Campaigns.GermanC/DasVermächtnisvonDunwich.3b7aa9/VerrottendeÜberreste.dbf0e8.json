@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02223\"\n}",
   "GUID": "dbf0e8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verrottende Überreste",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

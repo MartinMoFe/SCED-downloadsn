@@ -14,11 +14,9 @@
   "Description": "Die vergessene Wächterin",
   "GMNotes": "{\n  \"id\": \"04147\"\n}",
   "GUID": "0da96c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ichtaca",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

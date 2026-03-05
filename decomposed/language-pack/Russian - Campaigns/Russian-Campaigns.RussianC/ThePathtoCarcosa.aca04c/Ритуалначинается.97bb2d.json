@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"03278\"\n}",
   "GUID": "97bb2d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ритуал начинается",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

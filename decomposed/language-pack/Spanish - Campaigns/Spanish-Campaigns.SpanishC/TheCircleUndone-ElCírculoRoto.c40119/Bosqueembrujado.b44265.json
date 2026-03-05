@@ -1,0 +1,24 @@
+{
+  "CardID": 464706,
+  "CustomDeck": {
+    "4647": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/X5EUfmb.jpg",
+      "FaceURL": "https://i.imgur.com/LjkOpen.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Casa en el árbol infantil",
+  "GMNotes": "{\n  \"id\": \"05061\"\n}",
+  "GUID": "b44265",
+  "Name": "Card",
+  "Nickname": "Bosque embrujado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08597\"\n}",
   "GUID": "a4596a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Verbotenen Gipfel",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

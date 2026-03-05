@@ -1,5 +1,5 @@
 {
-  "CardID": "535211",
+  "CardID": 535211,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Мискатоник.",
   "GMNotes": "{\n  \"id\": \"01002-pb\"\n}",
   "GUID": "584d74",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дейзи Уокер (альтернативый оборот)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

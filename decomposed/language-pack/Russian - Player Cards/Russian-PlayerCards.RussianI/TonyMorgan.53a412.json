@@ -15,7 +15,6 @@
   "Description": "Преступник. Охотник.",
   "GMNotes": "{\n  \"id\": \"06003\"\n}",
   "GUID": "53a412",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Тони Морган",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "TonyMorgan.213a7d"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

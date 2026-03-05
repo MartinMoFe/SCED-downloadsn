@@ -15,7 +15,6 @@
   "Description": "Агентство. Детектив.",
   "GMNotes": "{\n  \"id\": \"01001-pf\"\n}",
   "GUID": "f7361e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Роланд Бэнкс (альтернативное лицо)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "RolandBanksParallelFront.8d8479"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

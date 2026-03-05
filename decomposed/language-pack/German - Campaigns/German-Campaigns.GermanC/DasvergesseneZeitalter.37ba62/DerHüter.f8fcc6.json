@@ -14,11 +14,9 @@
   "Description": "Neugieriger Yithianer",
   "GMNotes": "{\n  \"id\": \"04256\"\n}",
   "GUID": "f8fcc6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Hüter",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

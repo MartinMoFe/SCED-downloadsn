@@ -14,11 +14,9 @@
   "Description": "Кладбище.",
   "GMNotes": "{\n  \"id\": \"06183\"\n}",
   "GUID": "6cd2aa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Таинственная лестница",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

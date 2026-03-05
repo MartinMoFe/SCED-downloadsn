@@ -1,0 +1,23 @@
+{
+  "CardID": 868108,
+  "CustomDeck": {
+    "8681": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/5vCwS4c.jpg",
+      "FaceURL": "https://i.imgur.com/LkXibns.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10581\"\n}",
+  "GUID": "bfd1c6",
+  "Name": "Card",
+  "Nickname": "Cueva abierta",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

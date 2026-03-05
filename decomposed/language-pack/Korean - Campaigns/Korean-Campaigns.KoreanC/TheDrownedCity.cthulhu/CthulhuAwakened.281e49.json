@@ -11,13 +11,12 @@
       "UniqueBack": true
     }
   },
-  "GMNotes": "{\n  \"id\": \"11689\"\n}",
+  "GMNotes": "{\n  \"id\": \"11675\"\n}",
   "GUID": "281e49",
   "Name": "Card",
   "Nickname": "Cthulhu Awakened",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

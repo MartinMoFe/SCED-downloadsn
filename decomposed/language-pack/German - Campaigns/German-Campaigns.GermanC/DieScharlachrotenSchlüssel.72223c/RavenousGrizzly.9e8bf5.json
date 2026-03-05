@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09631\"\n}",
   "GUID": "9e8bf5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ravenous Grizzly",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

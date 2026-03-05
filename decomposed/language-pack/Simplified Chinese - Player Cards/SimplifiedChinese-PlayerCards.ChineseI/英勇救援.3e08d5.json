@@ -1,5 +1,5 @@
 {
-  "CardID": "1155005",
+  "CardID": 1155005,
   "CustomDeck": {
     "11550": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14694169083067785108/911C276083AD8AD10B0B248A4EE13DE2EC653BCD/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03106\"}",
+  "GMNotes": "{\n  \"id\": \"03106\"\n}",
   "GUID": "3e08d5",
   "Name": "Card",
   "Nickname": "英勇救援",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

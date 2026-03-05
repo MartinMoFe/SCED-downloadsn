@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06312\"\n}",
   "GUID": "d8cbc7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dhole aus der Öde",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

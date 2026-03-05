@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"84001\"\n}",
   "GUID": "b1e599",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Убийство в отеле «Эксельсиор»",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

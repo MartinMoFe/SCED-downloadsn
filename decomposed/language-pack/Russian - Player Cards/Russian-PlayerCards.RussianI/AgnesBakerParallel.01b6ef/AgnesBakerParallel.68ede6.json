@@ -1,5 +1,5 @@
 {
-  "CardID": "535216",
+  "CardID": 535216,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Чародей.",
   "GMNotes": "{\n  \"id\": \"01004-p\"\n}",
   "GUID": "68ede6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Агнес Бейкер (альтернативная)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

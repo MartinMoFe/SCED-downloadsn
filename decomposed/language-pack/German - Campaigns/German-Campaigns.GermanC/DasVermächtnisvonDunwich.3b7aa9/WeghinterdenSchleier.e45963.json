@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02144\"\n}",
   "GUID": "e45963",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Weg hinter den Schleier",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

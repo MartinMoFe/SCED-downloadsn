@@ -1,0 +1,24 @@
+{
+  "CardID": 876217,
+  "CustomDeck": {
+    "8762": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vsORDxB.jpg",
+      "FaceURL": "https://i.imgur.com/iioPWYS.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04131\"\n}",
+  "GUID": "33805f",
+  "Name": "Card",
+  "Nickname": "La prisión de Alejandro",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

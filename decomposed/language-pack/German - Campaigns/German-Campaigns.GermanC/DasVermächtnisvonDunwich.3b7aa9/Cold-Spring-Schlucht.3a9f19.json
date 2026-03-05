@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02245\"\n}",
   "GUID": "3a9f19",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Cold-Spring-Schlucht",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

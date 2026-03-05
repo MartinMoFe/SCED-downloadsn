@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"83022b\"\n}",
   "GUID": "19bf4f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "В Мир грёз",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

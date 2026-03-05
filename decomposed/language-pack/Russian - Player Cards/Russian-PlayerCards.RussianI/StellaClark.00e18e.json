@@ -27,7 +27,6 @@
   "Description": "Избранник. Клерк.",
   "GMNotes": "{\n  \"id\": \"60501\"\n}",
   "GUID": "00e18e",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/cards/StellaClark\")",
   "Name": "Card",
   "Nickname": "Стелла Кларк",
@@ -36,7 +35,6 @@
     "2": "StellaClark.8719e0"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

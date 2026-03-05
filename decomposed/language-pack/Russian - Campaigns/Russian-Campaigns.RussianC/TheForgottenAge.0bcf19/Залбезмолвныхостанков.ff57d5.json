@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04346\"\n}",
   "GUID": "ff57d5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Зал безмолвных останков",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 454815,
+  "CustomDeck": {
+    "4548": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/iAJ1X3J.jpg",
+      "FaceURL": "https://i.imgur.com/1ErdQQ3.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Sacerdote de las Tierras del Sueño",
+  "GMNotes": "{\n  \"id\": \"06058\"\n}",
+  "GUID": "a68681",
+  "Name": "Card",
+  "Nickname": "Nasht",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

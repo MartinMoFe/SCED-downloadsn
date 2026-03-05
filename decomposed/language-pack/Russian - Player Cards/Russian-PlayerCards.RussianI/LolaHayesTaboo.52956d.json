@@ -15,7 +15,6 @@
   "Description": "Артист.",
   "GMNotes": "{\n  \"id\": \"03006-t\"\n}",
   "GUID": "52956d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Лола Хейз (Табу)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "LolaHayesTaboo.3ae9a6"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

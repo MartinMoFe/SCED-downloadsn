@@ -14,11 +14,9 @@
   "Description": "Й'ха-нтлеи. Иной мир.",
   "GMNotes": "{\n  \"id\": \"07320\"\n}",
   "GUID": "e0573a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Врата Й'ха-нтлеи",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

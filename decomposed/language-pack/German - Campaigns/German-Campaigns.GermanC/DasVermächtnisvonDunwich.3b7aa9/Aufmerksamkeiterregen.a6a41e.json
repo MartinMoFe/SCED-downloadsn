@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02258\"\n}",
   "GUID": "a6a41e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Aufmerksamkeit erregen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 454507,
+  "CustomDeck": {
+    "4545": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/hQXO7rG.jpg",
+      "FaceURL": "https://i.imgur.com/jXuOn1T.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Los archivos",
+  "GMNotes": "{\n  \"id\": \"51022\"\n}",
+  "GUID": "6a5f34",
+  "Name": "Card",
+  "Nickname": "Sala de exposición",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

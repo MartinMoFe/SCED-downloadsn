@@ -1,0 +1,22 @@
+{
+  "CardID": 47917,
+  "CustomDeck": {
+    "479": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XiXrtxk.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51061\"\n}",
+  "GUID": "c1f0d6",
+  "Name": "Card",
+  "Nickname": "Recuerdos inquietantes",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

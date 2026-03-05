@@ -1,5 +1,5 @@
 {
-  "CardID": "535046",
+  "CardID": 535046,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Репортёр.",
   "GMNotes": "{\n  \"id\": \"09015\"\n}",
   "GUID": "7928e0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Даррелл Симмонс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

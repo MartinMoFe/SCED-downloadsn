@@ -1,0 +1,24 @@
+{
+  "CardID": 864205,
+  "CustomDeck": {
+    "8642": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/zu2nE8M.jpg",
+      "FaceURL": "https://i.imgur.com/eBXsqxw.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06212\"\n}",
+  "GUID": "018f4c",
+  "Name": "Card",
+  "Nickname": "El núcleo de la Luna",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "CardID": 461014,
+  "CustomDeck": {
+    "4610": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/X5EUfmb.jpg",
+      "FaceURL": "https://i.imgur.com/LjkOpen.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05074\"\n}",
+  "GUID": "ec1898",
+  "Name": "Card",
+  "Nickname": "Sala de billar",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

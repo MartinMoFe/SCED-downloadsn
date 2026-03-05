@@ -15,7 +15,6 @@
   "Description": "Преступник.",
   "GMNotes": "{\n  \"id\": \"09008\"\n}",
   "GUID": "9a9830",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Каймани Джонс",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "KymaniJones.b39767"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

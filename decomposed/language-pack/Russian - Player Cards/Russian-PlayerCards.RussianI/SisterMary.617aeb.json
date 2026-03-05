@@ -15,7 +15,6 @@
   "Description": "Верующая. Благословенная.",
   "GMNotes": "{\n  \"id\": \"07001\"\n}",
   "GUID": "617aeb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сестра Мэри",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "SisterMary.8d6769"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

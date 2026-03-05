@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"ES0406\"\n}",
   "GUID": "e2cfc5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Компас",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

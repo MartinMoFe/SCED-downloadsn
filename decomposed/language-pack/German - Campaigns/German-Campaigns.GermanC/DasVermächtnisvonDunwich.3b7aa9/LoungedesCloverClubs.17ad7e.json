@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02071\"\n}",
   "GUID": "17ad7e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Lounge des Clover Clubs",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

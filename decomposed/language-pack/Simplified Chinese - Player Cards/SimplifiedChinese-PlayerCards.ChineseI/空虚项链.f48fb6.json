@@ -1,5 +1,5 @@
 {
-  "CardID": "1156318",
+  "CardID": 1156318,
   "CustomDeck": {
     "11563": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17448787901805099228/4668C7577D85FA8DCF68C40BDAAA2E892A0BAF62/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06276\"}",
+  "GMNotes": "{\n  \"id\": \"06276\"\n}",
   "GUID": "f48fb6",
   "Name": "Card",
   "Nickname": "空虚项链",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 457106,
+  "CustomDeck": {
+    "4571": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/hscDe9i.jpg",
+      "FaceURL": "https://i.imgur.com/IirVFqF.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"08525\"\n}",
+  "GUID": "7bcc5e",
+  "Name": "Card",
+  "Nickname": "Locura y muerte",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

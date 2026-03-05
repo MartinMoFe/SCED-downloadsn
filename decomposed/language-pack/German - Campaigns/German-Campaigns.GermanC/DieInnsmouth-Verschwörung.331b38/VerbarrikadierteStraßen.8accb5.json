@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07124\"\n}",
   "GUID": "8accb5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verbarrikadierte Straßen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

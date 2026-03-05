@@ -14,11 +14,9 @@
   "Description": "Махинация.",
   "GMNotes": "{\n  \"id\": \"87034\"\n}",
   "GUID": "47a22f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Вразумить бывшего коллегу",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

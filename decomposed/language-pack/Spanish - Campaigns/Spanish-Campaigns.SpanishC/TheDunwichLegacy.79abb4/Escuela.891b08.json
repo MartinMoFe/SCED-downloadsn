@@ -1,0 +1,23 @@
+{
+  "CardID": 476613,
+  "CustomDeck": {
+    "4766": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/wBlOHNv.jpg",
+      "FaceURL": "https://i.imgur.com/1OstsLe.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02213\"\n}",
+  "GUID": "891b08",
+  "Name": "Card",
+  "Nickname": "Escuela",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

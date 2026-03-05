@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"51032\"\n}",
   "GUID": "d34a97",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кровь на алтаре. Возвращение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

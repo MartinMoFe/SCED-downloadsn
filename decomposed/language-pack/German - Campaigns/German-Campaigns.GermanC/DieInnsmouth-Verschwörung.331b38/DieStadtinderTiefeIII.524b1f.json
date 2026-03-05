@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07318\"\n}",
   "GUID": "524b1f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Stadt in der Tiefe (III)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

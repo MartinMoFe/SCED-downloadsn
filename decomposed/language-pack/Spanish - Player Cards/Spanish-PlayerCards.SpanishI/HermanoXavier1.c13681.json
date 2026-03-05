@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/LUhZf7j.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Puro de espíritu",
-  "GMNotes": "{\"id\": \"02106\"}",
+  "GMNotes": "{\n  \"id\": \"02106\"\n}",
   "GUID": "c13681",
   "Name": "Card",
   "Nickname": "Hermano Xavier (1)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

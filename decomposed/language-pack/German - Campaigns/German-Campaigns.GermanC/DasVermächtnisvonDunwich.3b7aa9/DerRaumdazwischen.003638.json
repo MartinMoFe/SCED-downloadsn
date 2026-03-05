@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02297\"\n}",
   "GUID": "003638",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Raum dazwischen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

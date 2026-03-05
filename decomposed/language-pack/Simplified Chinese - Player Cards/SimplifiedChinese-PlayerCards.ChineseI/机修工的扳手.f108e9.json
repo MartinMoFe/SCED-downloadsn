@@ -1,5 +1,5 @@
 {
-  "CardID": "1156900",
+  "CardID": 1156900,
   "CustomDeck": {
     "11569": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15312719161028857915/7AAF36115FE3CDA64C3CC2E1EFBFA105119D0EF2/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08002\"}",
+  "GMNotes": "{\n  \"id\": \"08002\"\n}",
   "GUID": "f108e9",
   "Name": "Card",
   "Nickname": "机修工的扳手",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

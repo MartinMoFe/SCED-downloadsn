@@ -1,0 +1,24 @@
+{
+  "CardID": 862904,
+  "CustomDeck": {
+    "8629": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/adXroOC.jpg",
+      "FaceURL": "https://i.imgur.com/8ggnzpO.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06124\"\n}",
+  "GUID": "36c61e",
+  "Name": "Card",
+  "Nickname": "La perdición que vino antes",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -12,12 +12,11 @@
     }
   },
   "Description": "Agenda 0",
-  "GMNotes": "{\n  \"id\": \"51026b\"\n}",
+  "GMNotes": "{\n  \"id\": \"51026\"\n}",
   "GUID": "a6f731",
   "Name": "Card",
   "Nickname": "Where There's Smoke",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

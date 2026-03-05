@@ -1,5 +1,5 @@
 {
-  "CardID": 20260700,
+  "CardID": 100600,
   "CustomDeck": {
     "1006": {
       "BackIsHidden": true,
@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/4OpiateoftheMasses.95ac78/Deck.8d617b/ChainofCommand.e00007.gmnotes",
   "GUID": "e00007",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Chain of Command",
   "Tags": [

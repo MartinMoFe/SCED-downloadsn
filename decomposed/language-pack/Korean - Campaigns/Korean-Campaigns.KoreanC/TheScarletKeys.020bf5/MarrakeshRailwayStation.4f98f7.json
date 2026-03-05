@@ -14,11 +14,9 @@
   "Description": "Marrakesh.",
   "GMNotes": "{\n  \"id\": \"09526\"\n}",
   "GUID": "4f98f7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Marrakesh Railway Station",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

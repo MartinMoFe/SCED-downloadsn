@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/xPqKjre.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Sueños de un niño",
-  "GMNotes": "{\"id\": \"06238\"}",
+  "GMNotes": "{\n  \"id\": \"06238\"\n}",
   "GUID": "8933df",
   "Name": "Card",
   "Nickname": "Diario onírico (3)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

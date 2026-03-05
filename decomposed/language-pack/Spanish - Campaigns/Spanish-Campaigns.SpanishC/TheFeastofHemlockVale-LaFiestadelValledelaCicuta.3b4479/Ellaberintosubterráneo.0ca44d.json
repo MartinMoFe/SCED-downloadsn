@@ -1,0 +1,24 @@
+{
+  "CardID": 873903,
+  "CustomDeck": {
+    "8739": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/CgbkYLA.jpg",
+      "FaceURL": "https://i.imgur.com/7jfajuh.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10506\"\n}",
+  "GUID": "0ca44d",
+  "Name": "Card",
+  "Nickname": "El laberinto subterráneo",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

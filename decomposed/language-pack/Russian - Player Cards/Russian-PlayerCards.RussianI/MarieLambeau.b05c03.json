@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"05006-m\"\n}",
   "GUID": "b05c03",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Мари Ламбо",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

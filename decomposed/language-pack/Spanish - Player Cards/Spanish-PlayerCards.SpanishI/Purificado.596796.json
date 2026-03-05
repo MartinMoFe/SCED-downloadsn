@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/zeYrb60.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"10029\"}",
+  "GMNotes": "{\n  \"id\": \"10029\"\n}",
   "GUID": "596796",
   "Name": "Card",
   "Nickname": "Purificado",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

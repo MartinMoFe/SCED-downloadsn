@@ -1,14 +1,16 @@
 {
   "id": "b2ad3449-8a9a-418b-bac7-ff82c7b9a7b6",
+  "TtsZoopGuid": "b2ad3449-8a9a-418b-bac7-ff82c7b9a7b6",
   "type": "Location",
   "class": "Mythos",
   "traits": "Abandoned. Facility.",
   "locationFront": {
+    "victory": 1,
     "icons": "Slash",
-    "connections": "Cross|T",
+    "connections": "Cross",
     "uses": [
       {
-        "count": 1,
+        "countPerInvestigator": 1,
         "type": "Clue",
         "token": "clue"
       }
@@ -16,7 +18,7 @@
   },
   "locationBack": {
     "icons": "Slash",
-    "connections": "Cross|T",
+    "connections": "Cross",
     "uses": [
       {
         "count": 1,
@@ -24,6 +26,5 @@
         "token": "clue"
       }
     ]
-  },
-  "TtsZoopGuid": "b2ad3449-8a9a-418b-bac7-ff82c7b9a7b6"
+  }
 }

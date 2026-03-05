@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes": "{\n  \"id\": \"29606e5b-1f73-4d43-991e-55213c733610-c\",\n  \"type\": \"UpgradeSheet\"\n}",

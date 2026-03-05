@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03050\"\n}",
   "GUID": "3e29a0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Foyer",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

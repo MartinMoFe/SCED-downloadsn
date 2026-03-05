@@ -1,7 +1,5 @@
 {
   "ContainedObjects_order": [
-    "HelenPeters.33bfa1",
-    "DrRosaMarquez.62d5a6",
     "BertieMusgrave.c6707d",
     "TheoPeters.4e9425",
     "JudithPark.3f5605",
@@ -10,7 +8,9 @@
     "WilliamHemlock.810948",
     "SimeonAtwood.cb3e9b",
     "LeahAtwood.3dec2a",
-    "MotherRachel.6c7c27"
+    "MotherRachel.6c7c27",
+    "HelenPeters.33bfa1",
+    "DrRosaMarquez.62d5a6"
   ],
   "ContainedObjects_path": "Residents.112b75",
   "CustomDeck": {
@@ -20,8 +20,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2453969772006048567/4C173CF8E2E2F69C7374D65AAA2D842C048FC792/",
       "NumHeight": 5,
       "NumWidth": 8,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5378": {
       "BackIsHidden": true,
@@ -34,8 +33,6 @@
     }
   },
   "DeckIDs": [
-    536428,
-    536427,
     537835,
     537834,
     537833,
@@ -44,7 +41,9 @@
     537830,
     537829,
     537828,
-    537827
+    537827,
+    536428,
+    536427
   ],
   "GUID": "112b75",
   "Hands": false,

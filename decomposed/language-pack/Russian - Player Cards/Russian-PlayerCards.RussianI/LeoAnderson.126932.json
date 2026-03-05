@@ -15,7 +15,6 @@
   "Description": "Ветеран. Путешественник.",
   "GMNotes": "{\n  \"id\": \"04001\"\n}",
   "GUID": "126932",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Лео Андерсон",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "LeoAnderson.b7509b"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

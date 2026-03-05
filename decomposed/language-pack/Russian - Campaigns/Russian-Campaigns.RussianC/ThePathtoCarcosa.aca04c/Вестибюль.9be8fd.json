@@ -14,11 +14,9 @@
   "Description": "Первый этаж.",
   "GMNotes": "{\n  \"id\": \"03127\"\n}",
   "GUID": "9be8fd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Вестибюль",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

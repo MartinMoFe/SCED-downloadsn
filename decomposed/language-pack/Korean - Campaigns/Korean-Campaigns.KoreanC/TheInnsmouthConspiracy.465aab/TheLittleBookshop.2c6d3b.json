@@ -14,11 +14,9 @@
   "Description": "Innsmouth.",
   "GMNotes": "{\n  \"id\": \"07069\"\n}",
   "GUID": "2c6d3b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Little Bookshop",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

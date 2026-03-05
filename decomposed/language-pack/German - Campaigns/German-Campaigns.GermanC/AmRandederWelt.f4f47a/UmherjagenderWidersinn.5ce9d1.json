@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08515\"\n}",
   "GUID": "5ce9d1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Umherjagender Widersinn",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

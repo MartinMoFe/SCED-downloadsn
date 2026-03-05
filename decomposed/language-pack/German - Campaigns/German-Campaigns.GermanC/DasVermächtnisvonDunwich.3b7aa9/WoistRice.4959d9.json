@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02046\"\n}",
   "GUID": "4959d9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wo ist Rice?",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

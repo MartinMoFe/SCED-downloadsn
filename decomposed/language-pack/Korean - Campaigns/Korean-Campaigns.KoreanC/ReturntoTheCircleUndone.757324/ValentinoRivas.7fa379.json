@@ -14,11 +14,9 @@
   "GMNotes": "{\n  \"id\": \"05048-m\"\n}",
   "GUID": "7fa379",
   "Grid": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Valentino Rivas",
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

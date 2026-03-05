@@ -1,0 +1,22 @@
+{
+  "CardID": 2038,
+  "CustomDeck": {
+    "20": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/NKLgJJ7.jpg",
+      "NumHeight": 5,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04098\"\n}",
+  "GUID": "f9e55a",
+  "Name": "Card",
+  "Nickname": "Colmillo de Yig",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

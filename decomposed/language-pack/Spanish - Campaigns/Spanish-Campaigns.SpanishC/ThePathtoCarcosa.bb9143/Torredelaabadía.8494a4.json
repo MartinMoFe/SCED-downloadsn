@@ -1,0 +1,24 @@
+{
+  "CardID": 467616,
+  "CustomDeck": {
+    "4676": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/rkduU2W.jpg",
+      "FaceURL": "https://i.imgur.com/XzJynWP.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "El camino está abierto",
+  "GMNotes": "{\n  \"id\": \"03298\"\n}",
+  "GUID": "8494a4",
+  "Name": "Card",
+  "Nickname": "Torre de la abadía",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

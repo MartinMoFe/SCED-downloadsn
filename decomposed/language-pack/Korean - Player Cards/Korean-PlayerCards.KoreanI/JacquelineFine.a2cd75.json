@@ -14,12 +14,10 @@
   "Description": "The Psychic",
   "GMNotes": "{\n  \"id\": \"60401\"\n}",
   "GUID": "a2cd75",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jacqueline Fine",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

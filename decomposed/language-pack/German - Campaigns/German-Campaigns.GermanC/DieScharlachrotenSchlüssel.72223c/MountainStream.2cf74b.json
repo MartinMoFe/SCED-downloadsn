@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09619\"\n}",
   "GUID": "2cf74b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mountain Stream",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

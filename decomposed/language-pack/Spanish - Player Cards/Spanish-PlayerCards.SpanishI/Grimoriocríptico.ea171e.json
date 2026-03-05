@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/GpSHUxj.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Sin traducir",
-  "GMNotes": "{\"id\": \"07022\"}",
+  "GMNotes": "{\n  \"id\": \"07022\"\n}",
   "GUID": "ea171e",
   "Name": "Card",
   "Nickname": "Grimorio críptico",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

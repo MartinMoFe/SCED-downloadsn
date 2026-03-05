@@ -1,0 +1,24 @@
+{
+  "CardID": 49407,
+  "CustomDeck": {
+    "494": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/U2bLkY3.jpg",
+      "FaceURL": "https://i.imgur.com/CKcYKcI.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"06294\"\n}",
+  "GUID": "767501",
+  "Name": "Card",
+  "Nickname": "Los devoradores de sueño",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

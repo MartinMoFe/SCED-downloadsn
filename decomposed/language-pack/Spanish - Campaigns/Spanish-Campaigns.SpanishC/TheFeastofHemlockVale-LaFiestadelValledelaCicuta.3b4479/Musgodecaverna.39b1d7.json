@@ -1,0 +1,22 @@
+{
+  "CardID": 873700,
+  "CustomDeck": {
+    "8737": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/xtCRXjm.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10585\"\n}",
+  "GUID": "39b1d7",
+  "Name": "Card",
+  "Nickname": "Musgo de caverna",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

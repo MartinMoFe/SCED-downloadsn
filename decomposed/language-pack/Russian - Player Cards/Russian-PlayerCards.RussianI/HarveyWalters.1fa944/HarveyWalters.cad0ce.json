@@ -1,5 +1,5 @@
 {
-  "CardID": "535056",
+  "CardID": 535056,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Мискатоник.",
   "GMNotes": "{\n  \"id\": \"60201\"\n}",
   "GUID": "cad0ce",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Харви Уолтерс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -1,0 +1,22 @@
+{
+  "CardID": 461709,
+  "CustomDeck": {
+    "4617": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/BO2Xf1E.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07256\"\n}",
+  "GUID": "b0723f",
+  "Name": "Card",
+  "Nickname": "Nana horrenda",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

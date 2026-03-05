@@ -1,5 +1,5 @@
 {
-  "CardID": "535060",
+  "CardID": 535060,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Реплика.",
   "GMNotes": "{\n  \"id\": \"89001\"\n}",
   "GUID": "3209e0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Объект 5U-21",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

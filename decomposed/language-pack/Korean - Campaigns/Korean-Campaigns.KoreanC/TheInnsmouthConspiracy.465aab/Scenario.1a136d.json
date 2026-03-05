@@ -14,11 +14,9 @@
   "Description": "The Lair of Dagon",
   "GMNotes": "{\n  \"id\": \"07274\"\n}",
   "GUID": "1a136d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

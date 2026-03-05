@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"01121a\"\n}",
   "GUID": "105266",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Jäger oder Beute?",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

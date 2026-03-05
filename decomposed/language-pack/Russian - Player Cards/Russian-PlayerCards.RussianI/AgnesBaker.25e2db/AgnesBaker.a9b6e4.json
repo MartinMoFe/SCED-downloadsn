@@ -1,5 +1,5 @@
 {
-  "CardID": "535205",
+  "CardID": 535205,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -21,13 +21,11 @@
   "Description": "Чародей.",
   "GMNotes": "{\n  \"id\": \"01004\"\n}",
   "GUID": "a9b6e4",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Агнес Бейкер",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"85002\"\n}",
   "GUID": "cdd1c2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Аномалия распространяется",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05224\"\n}",
   "GUID": "f64c7a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verstoßen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

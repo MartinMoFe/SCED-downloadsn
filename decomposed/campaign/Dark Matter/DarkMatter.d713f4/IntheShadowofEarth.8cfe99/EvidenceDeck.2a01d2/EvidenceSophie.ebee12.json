@@ -8,9 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
+  "GMNotes": "{\n  \"id\": \"DMS123f\"\n}",
   "GUID": "ebee12",
   "Name": "CardCustom",
   "Nickname": "Evidence (Sophie)",

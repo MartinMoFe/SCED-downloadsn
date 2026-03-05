@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08566\"\n}",
   "GUID": "8884fd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Flugplatz",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

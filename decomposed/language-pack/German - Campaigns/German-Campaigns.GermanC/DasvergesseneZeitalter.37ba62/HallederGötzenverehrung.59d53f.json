@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04223\"\n}",
   "GUID": "59d53f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Halle der Götzenverehrung",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

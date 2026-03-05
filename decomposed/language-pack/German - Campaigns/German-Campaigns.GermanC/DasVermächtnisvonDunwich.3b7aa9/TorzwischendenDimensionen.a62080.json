@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02328\"\n}",
   "GUID": "a62080",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tor zwischen den Dimensionen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

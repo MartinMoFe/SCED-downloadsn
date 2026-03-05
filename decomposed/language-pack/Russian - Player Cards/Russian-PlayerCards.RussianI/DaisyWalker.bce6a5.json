@@ -15,7 +15,6 @@
   "GMNotes": "{\n  \"id\": \"01002-m\"\n}",
   "GUID": "bce6a5",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дейзи Уокер",
   "Snap": false,
@@ -23,7 +22,6 @@
     "2": "DaisyWalker.5fa10d"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

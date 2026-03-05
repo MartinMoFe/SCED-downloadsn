@@ -14,11 +14,9 @@
   "Description": "Ein schändliches Schicksal",
   "GMNotes": "{\n  \"id\": \"03140\"\n}",
   "GUID": "c0ebfd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Besessener Eidsprecher",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

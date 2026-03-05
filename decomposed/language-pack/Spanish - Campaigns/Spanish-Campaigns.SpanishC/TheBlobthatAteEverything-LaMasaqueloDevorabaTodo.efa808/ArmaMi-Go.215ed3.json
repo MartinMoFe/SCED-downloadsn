@@ -1,0 +1,23 @@
+{
+  "CardID": 48600,
+  "CustomDeck": {
+    "486": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/3U0DFfX.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85031\"\n}",
+  "GUID": "215ed3",
+  "Name": "CardCustom",
+  "Nickname": "Arma Mi-Go",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

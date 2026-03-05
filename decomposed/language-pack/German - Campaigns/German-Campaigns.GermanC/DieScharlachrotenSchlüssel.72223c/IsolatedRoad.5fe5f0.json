@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09621\"\n}",
   "GUID": "5fe5f0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Isolated Road",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

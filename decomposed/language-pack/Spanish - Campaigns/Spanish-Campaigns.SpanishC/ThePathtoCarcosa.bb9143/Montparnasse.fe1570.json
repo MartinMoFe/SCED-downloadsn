@@ -1,0 +1,23 @@
+{
+  "CardID": 591201,
+  "CustomDeck": {
+    "5912": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/0ESUomm.jpg",
+      "FaceURL": "https://i.imgur.com/oPRSnbc.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03208\"\n}",
+  "GUID": "fe1570",
+  "Name": "Card",
+  "Nickname": "Montparnasse",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

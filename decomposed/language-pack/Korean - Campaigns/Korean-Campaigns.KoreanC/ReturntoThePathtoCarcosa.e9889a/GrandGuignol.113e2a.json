@@ -14,11 +14,9 @@
   "Description": "Theatre of the Great Puppet",
   "GMNotes": "{\n  \"id\": \"52042\"\n}",
   "GUID": "113e2a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grand Guignol",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

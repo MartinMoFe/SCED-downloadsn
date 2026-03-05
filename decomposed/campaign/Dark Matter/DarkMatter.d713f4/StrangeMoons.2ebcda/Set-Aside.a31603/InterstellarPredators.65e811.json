@@ -1,13 +1,13 @@
 {
   "ContainedObjects_order": [
-    "StalkingByakhee.5d055e",
-    "StalkingByakhee.e618ad",
     "ViciousByakhee.63e2ec",
-    "ExtraterrestrialAssault.ebeea6",
-    "ExtraterrestrialAssault.7e17c2",
+    "ViciousByakhee.63e2ec",
+    "ViciousByakhee.63e2ec",
     "StalkingByakhee.5d055e",
-    "ViciousByakhee.e60f7a",
-    "ViciousByakhee.a73a20"
+    "StalkingByakhee.5d055e",
+    "StalkingByakhee.5d055e",
+    "ExtraterrestrialAssault.7e17c2",
+    "ExtraterrestrialAssault.7e17c2"
   ],
   "ContainedObjects_path": "InterstellarPredators.65e811",
   "CustomDeck": {
@@ -18,7 +18,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5867": {
       "BackIsHidden": true,
@@ -27,7 +27,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5868": {
       "BackIsHidden": true,
@@ -36,18 +36,18 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [
-    586700,
-    586700,
     586800,
-    586600,
-    586600,
-    586700,
     586800,
-    586800
+    586800,
+    586700,
+    586700,
+    586700,
+    586600,
+    586600
   ],
   "GUID": "65e811",
   "Hands": false,

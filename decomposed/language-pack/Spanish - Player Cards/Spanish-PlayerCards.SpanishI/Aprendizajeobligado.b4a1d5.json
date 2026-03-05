@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/5VfkUFo.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08031\"}",
+  "GMNotes": "{\n  \"id\": \"08031\"\n}",
   "GUID": "b4a1d5",
   "Name": "Card",
   "Nickname": "Aprendizaje obligado",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

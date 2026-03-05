@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08673\"\n}",
   "GUID": "c0ec4e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Pfeiler zum Einsturz bringen",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

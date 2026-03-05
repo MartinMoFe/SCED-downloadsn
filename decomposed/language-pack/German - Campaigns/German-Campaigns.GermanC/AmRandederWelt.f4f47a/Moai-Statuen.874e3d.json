@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08572\"\n}",
   "GUID": "874e3d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Moai-Statuen",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

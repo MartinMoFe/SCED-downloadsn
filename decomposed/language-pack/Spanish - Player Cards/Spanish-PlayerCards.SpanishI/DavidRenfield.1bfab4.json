@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/ifTXWIb.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Reputado escatólogo",
-  "GMNotes": "{\"id\": \"03112\"}",
+  "GMNotes": "{\n  \"id\": \"03112\"\n}",
   "GUID": "1bfab4",
   "Name": "Card",
   "Nickname": "David Renfield",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

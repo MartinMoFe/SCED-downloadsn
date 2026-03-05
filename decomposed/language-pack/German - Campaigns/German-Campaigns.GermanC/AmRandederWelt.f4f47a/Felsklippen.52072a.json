@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08508\"\n}",
   "GUID": "52072a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Felsklippen",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Warped and Twisted",
   "GMNotes": "{\n  \"id\": \"51049\"\n}",
   "GUID": "b1bd40",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ascending Path",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

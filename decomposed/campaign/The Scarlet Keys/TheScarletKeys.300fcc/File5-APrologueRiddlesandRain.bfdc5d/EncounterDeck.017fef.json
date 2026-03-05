@@ -1,16 +1,5 @@
 {
   "ContainedObjects_order": [
-    "HuntingShadow.ea8fcf",
-    "HuntingShadow.ea8fcf",
-    "HuntingShadow.ea8fcf",
-    "FalseLead.2ceae2",
-    "FalseLead.2ceae2",
-    "ObscuringFog.50e716",
-    "ObscuringFog.50e716",
-    "CryptChill.16d6d6",
-    "CryptChill.16d6d6",
-    "LockedDoor.4904d0",
-    "LockedDoor.4904d0",
     "FiguresintheDark.1aed87",
     "FiguresintheDark.1aed87",
     "SeeingShadows.eb26d8",
@@ -22,7 +11,18 @@
     "HeavyRain.7fd5e7",
     "HeavyRain.7fd5e7",
     "PinchinReality.986903",
-    "PinchinReality.986903"
+    "PinchinReality.986903",
+    "LockedDoor.4904d0",
+    "LockedDoor.4904d0",
+    "ObscuringFog.50e716",
+    "ObscuringFog.50e716",
+    "CryptChill.16d6d6",
+    "CryptChill.16d6d6",
+    "FalseLead.2ceae2",
+    "FalseLead.2ceae2",
+    "HuntingShadow.ea8fcf",
+    "HuntingShadow.ea8fcf",
+    "HuntingShadow.ea8fcf"
   ],
   "ContainedObjects_path": "EncounterDeck.017fef",
   "CustomDeck": {
@@ -32,8 +32,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2664": {
       "BackIsHidden": true,
@@ -41,22 +40,10 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387188537/4CC41E1E791083C05B668EEFFB2AF7B6F62AA429/",
       "NumHeight": 3,
       "NumWidth": 5,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    231703,
-    231703,
-    231703,
-    231704,
-    231704,
-    231721,
-    231721,
-    231720,
-    231720,
-    231727,
-    231727,
     266409,
     266409,
     266408,
@@ -68,7 +55,18 @@
     266405,
     266405,
     266404,
-    266404
+    266404,
+    231727,
+    231727,
+    231721,
+    231721,
+    231720,
+    231720,
+    231704,
+    231704,
+    231703,
+    231703,
+    231703
   ],
   "GUID": "017fef",
   "Hands": false,

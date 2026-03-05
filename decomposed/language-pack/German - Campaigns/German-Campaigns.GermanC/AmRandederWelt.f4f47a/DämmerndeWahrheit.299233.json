@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08644\"\n}",
   "GUID": "299233",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dämmernde Wahrheit",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

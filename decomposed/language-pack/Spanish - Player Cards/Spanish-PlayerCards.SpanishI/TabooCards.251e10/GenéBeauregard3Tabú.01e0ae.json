@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/QnoK3zZ.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Exploradora intrépida",
-  "GMNotes": "{\"id\": \"08099-t\"}",
+  "GMNotes": "{\n  \"id\": \"08099-t\"\n}",
   "GUID": "01e0ae",
   "Name": "Card",
   "Nickname": "Gené Beauregard (3) (Tabú)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,11 +1,11 @@
 {
   "ContainedObjects_order": [
-    "UnvisitedIsle.b6bad1",
-    "UnvisitedIsle.763808",
     "UnvisitedIsle.d3d507",
-    "UnvisitedIsle.0e7c75",
     "UnvisitedIsle.7b8b0d",
-    "UnvisitedIsle.0b9471"
+    "UnvisitedIsle.0e7c75",
+    "UnvisitedIsle.763808",
+    "UnvisitedIsle.0b9471",
+    "UnvisitedIsle.b6bad1"
   ],
   "ContainedObjects_path": "UnvisitedIsle.7cd1b4",
   "CustomDeck": {
@@ -20,12 +20,12 @@
     }
   },
   "DeckIDs": [
-    312915,
-    312917,
     312920,
-    312918,
     312919,
-    312916
+    312918,
+    312917,
+    312916,
+    312915
   ],
   "Description": "Shuffle and draw two random cards and put them into play. Set the remaining locations aside.",
   "GUID": "7cd1b4",

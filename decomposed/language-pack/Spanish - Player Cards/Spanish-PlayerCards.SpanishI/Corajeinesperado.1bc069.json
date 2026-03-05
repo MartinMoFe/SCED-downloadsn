@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/FouKhGc.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01093\"}",
+  "GMNotes": "{\n  \"id\": \"01093\"\n}",
   "GUID": "1bc069",
   "Name": "Card",
   "Nickname": "Coraje inesperado",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"01147\"\n}",
   "GUID": "091adb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "In die Dunkelheit",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

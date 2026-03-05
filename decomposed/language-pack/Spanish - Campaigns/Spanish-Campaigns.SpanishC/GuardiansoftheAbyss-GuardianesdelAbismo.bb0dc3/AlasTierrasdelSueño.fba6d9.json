@@ -1,0 +1,23 @@
+{
+  "CardID": 855307,
+  "CustomDeck": {
+    "8553": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/79XJGQG.jpg",
+      "FaceURL": "https://i.imgur.com/PtDq4nG.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"83022b\"\n}",
+  "GUID": "fba6d9",
+  "Name": "Card",
+  "Nickname": "A las Tierras del Sueño",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

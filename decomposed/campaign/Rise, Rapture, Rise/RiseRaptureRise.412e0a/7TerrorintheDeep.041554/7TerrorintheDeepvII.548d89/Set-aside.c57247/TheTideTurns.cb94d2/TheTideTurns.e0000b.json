@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/7TerrorintheDeep.041554/7TerrorintheDeepvII.548d89/Set-aside.c57247/TheTideTurns.cb94d2/TheTideTurns.e0000b.gmnotes",
   "GUID": "e0000b",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Tide Turns",
   "Tags": [

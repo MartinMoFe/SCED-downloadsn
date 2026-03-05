@@ -1,5 +1,5 @@
 {
-  "CardID": "535214",
+  "CardID": 535214,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Преступник.",
   "GMNotes": "{\n  \"id\": \"01003-pb\"\n}",
   "GUID": "15c8d9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Скат О'Тул (альтернативный оборот)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes": "{\n  \"id\": \"80004-m\",\n  \"type\": \"Minicard\"\n}",
   "GUID": "3549e7",
   "Grid": false,
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Kate Winthpup",
   "Tags": [

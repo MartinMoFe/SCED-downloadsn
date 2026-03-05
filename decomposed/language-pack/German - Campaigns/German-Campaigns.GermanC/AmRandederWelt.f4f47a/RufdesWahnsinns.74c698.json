@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08661\"\n}",
   "GUID": "74c698",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ruf des Wahnsinns",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

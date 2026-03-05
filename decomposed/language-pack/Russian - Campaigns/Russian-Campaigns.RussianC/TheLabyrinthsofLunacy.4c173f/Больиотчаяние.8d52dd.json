@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"70005\"\n}",
   "GUID": "8d52dd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Боль и отчаяние",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

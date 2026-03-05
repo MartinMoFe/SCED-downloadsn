@@ -15,7 +15,6 @@
   "Description": "The Psychologist",
   "GMNotes": "{\n  \"id\": \"05001\"\n}",
   "GUID": "b03b12",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Carolyn Fern",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "CarolynFernpromoversion.9900a3"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

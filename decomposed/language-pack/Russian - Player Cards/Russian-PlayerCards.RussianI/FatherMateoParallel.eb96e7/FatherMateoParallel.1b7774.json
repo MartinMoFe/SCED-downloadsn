@@ -1,5 +1,5 @@
 {
-  "CardID": "535234",
+  "CardID": 535234,
   "CustomDeck": {
     "5352": {
       "BackIsHidden": true,
@@ -21,13 +21,11 @@
   "Description": "Верующий. Служитель.",
   "GMNotes": "{\n  \"id\": \"04004-p\"\n}",
   "GUID": "1b7774",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/cards/FatherMateoParallel\")",
   "Name": "CardCustom",
   "Nickname": "Отец Матео (альтернативный)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

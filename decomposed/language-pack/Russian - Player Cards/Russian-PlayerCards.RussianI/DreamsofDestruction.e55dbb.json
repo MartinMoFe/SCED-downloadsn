@@ -14,11 +14,9 @@
   "Description": "Будущее изменчиво",
   "GMNotes": "{\n  \"id\": \"11759b\"\n}",
   "GUID": "e55dbb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сны о разрушении",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

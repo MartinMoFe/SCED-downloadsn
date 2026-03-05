@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04217\"\n}",
   "GUID": "4b9d29",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Von der Zeit gequälter Wald",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07208b\"\n}",
   "GUID": "ada940",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scharfe Kurve",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

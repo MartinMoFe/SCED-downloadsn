@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02050\"\n}",
   "GUID": "16b028",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Orne-Bibliothek",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

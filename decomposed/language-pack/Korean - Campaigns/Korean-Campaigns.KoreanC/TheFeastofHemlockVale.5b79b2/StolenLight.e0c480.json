@@ -7,8 +7,7 @@
       "FaceURL": "https://github.com/Forgotin/HLV/blob/main/HLV_12.jpg?raw=true",
       "NumHeight": 3,
       "NumWidth": 9,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Scheme.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Stolen Light",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

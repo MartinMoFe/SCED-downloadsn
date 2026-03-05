@@ -14,11 +14,9 @@
   "GMNotes": "{\n  \"id\": \"05046-m\"\n}",
   "GUID": "1f7376",
   "Grid": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gavriella Mizrah",
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

@@ -8,9 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
+  "GMNotes": "{\n  \"id\": \"DMS123d\"\n}",
   "GUID": "5e2a2a",
   "Name": "CardCustom",
   "Nickname": "Evidence (Lt. \"Archer\" Michaels)",

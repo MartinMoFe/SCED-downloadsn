@@ -1,0 +1,23 @@
+{
+  "CardID": 874800,
+  "CustomDeck": {
+    "8748": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/gnSITrZ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Emergiendo desde lo profundo",
+  "GMNotes": "{\n  \"id\": \"10600\"\n}",
+  "GUID": "e5e736",
+  "Name": "Card",
+  "Nickname": "La cosa de las profundidades",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

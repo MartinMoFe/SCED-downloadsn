@@ -1,0 +1,23 @@
+{
+  "CardID": 463600,
+  "CustomDeck": {
+    "4636": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/04aM8ON.jpg",
+      "FaceURL": "https://i.imgur.com/P548Mxa.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02041\"\n}",
+  "GUID": "8c6124",
+  "Name": "Card",
+  "Nickname": "Actividad extracurricular",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

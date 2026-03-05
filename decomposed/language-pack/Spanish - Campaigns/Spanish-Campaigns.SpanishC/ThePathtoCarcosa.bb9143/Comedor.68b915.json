@@ -1,0 +1,23 @@
+{
+  "CardID": 586606,
+  "CustomDeck": {
+    "5866": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fNwS83L.jpg",
+      "FaceURL": "https://i.imgur.com/tb4Yu0N.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03173\"\n}",
+  "GUID": "68b915",
+  "Name": "Card",
+  "Nickname": "Comedor",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

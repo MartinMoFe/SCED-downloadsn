@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06258\"\n}",
   "GUID": "3bb039",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Felsen der Ghule",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

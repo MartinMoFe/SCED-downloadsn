@@ -14,11 +14,9 @@
   "Description": "Аркхэм.",
   "GMNotes": "{\n  \"id\": \"05305\"\n}",
   "GUID": "79a987",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ложа Серебряных Сумерек",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

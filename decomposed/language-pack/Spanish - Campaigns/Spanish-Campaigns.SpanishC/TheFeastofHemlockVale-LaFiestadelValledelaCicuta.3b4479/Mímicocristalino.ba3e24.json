@@ -1,0 +1,22 @@
+{
+  "CardID": 874700,
+  "CustomDeck": {
+    "8747": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/4p5azUs.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10671\"\n}",
+  "GUID": "ba3e24",
+  "Name": "Card",
+  "Nickname": "Mímico cristalino",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

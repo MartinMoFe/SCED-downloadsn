@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/3MRpf6t.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Cáliz del corazón",
-  "GMNotes": "{\"id\": \"05035\"}",
+  "GMNotes": "{\n  \"id\": \"05035\"\n}",
   "GUID": "b4d17f",
   "Name": "Card",
   "Nickname": "Cuatro de copas (1)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

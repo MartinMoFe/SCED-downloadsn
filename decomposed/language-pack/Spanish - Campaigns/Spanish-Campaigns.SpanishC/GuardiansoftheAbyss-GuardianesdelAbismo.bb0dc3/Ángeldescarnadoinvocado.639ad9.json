@@ -1,0 +1,23 @@
+{
+  "CardID": 858003,
+  "CustomDeck": {
+    "8580": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/hJAcbEb.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Regalo de Nodens",
+  "GMNotes": "{\n  \"id\": \"83058\"\n}",
+  "GUID": "639ad9",
+  "Name": "Card",
+  "Nickname": "Ángel descarnado invocado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

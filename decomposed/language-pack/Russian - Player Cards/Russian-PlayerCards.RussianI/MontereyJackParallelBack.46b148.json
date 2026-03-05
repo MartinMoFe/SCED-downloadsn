@@ -9,13 +9,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Путешественник.",
   "GMNotes": "{\n  \"id\": \"08007-pb\"\n}",
   "GUID": "46b148",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Монтерей Джек (альтернативный оборот)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "MontereyJackParallelBack.b88c6e"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

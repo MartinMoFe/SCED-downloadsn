@@ -14,11 +14,9 @@
   "Description": "Гавкхэм.",
   "GMNotes": "{\n  \"id\": \"80033\"\n}",
   "GUID": "56fc9d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пёсотоникский университет",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02212\"\n}",
   "GUID": "c4e77b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schulhaus",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

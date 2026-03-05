@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02091\"\n}",
   "GUID": "d08fc6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Begierig auf den Tod",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

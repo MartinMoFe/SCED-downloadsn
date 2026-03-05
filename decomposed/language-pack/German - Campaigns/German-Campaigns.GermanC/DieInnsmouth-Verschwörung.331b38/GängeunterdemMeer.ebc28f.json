@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07323\"\n}",
   "GUID": "ebc28f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gänge unter dem Meer",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

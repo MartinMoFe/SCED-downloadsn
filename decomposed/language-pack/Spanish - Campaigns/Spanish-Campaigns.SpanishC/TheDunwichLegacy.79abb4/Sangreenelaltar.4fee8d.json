@@ -1,0 +1,23 @@
+{
+  "CardID": 476700,
+  "CustomDeck": {
+    "4767": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/1OstsLe.jpg",
+      "FaceURL": "https://i.imgur.com/wBlOHNv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02195\"\n}",
+  "GUID": "4fee8d",
+  "Name": "Card",
+  "Nickname": "Sangre en el altar",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

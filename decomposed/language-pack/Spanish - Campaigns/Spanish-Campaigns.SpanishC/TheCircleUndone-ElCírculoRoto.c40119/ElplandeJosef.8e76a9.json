@@ -1,0 +1,23 @@
+{
+  "CardID": 461025,
+  "CustomDeck": {
+    "4610": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/X5EUfmb.jpg",
+      "FaceURL": "https://i.imgur.com/LjkOpen.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05085b\"\n}",
+  "GUID": "8e76a9",
+  "Name": "Card",
+  "Nickname": "El plan de Josef",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Eroded By Winds",
   "GMNotes": "{\n  \"id\": \"11663\"\n}",
   "GUID": "7dcbb2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sky Relic",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

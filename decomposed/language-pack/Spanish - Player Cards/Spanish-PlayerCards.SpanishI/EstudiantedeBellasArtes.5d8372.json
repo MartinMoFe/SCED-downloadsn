@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/LUhZf7j.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02149\"}",
+  "GMNotes": "{\n  \"id\": \"02149\"\n}",
   "GUID": "5d8372",
   "Name": "Card",
   "Nickname": "Estudiante de Bellas Artes",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

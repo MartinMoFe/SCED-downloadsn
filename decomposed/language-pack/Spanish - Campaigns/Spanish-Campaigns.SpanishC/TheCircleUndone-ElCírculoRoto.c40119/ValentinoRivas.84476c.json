@@ -1,0 +1,23 @@
+{
+  "CardID": 862612,
+  "CustomDeck": {
+    "8626": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/sGrLY2C.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Sí que habéis tardado",
+  "GMNotes": "{\n  \"id\": \"05261\"\n}",
+  "GUID": "84476c",
+  "Name": "Card",
+  "Nickname": "Valentino Rivas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

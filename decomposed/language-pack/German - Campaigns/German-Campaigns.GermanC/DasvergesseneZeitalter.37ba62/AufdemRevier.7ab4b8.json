@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04127\"\n}",
   "GUID": "7ab4b8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Auf dem Revier",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/5VfkUFo.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08038\"}",
+  "GMNotes": "{\n  \"id\": \"08038\"\n}",
   "GUID": "b1fc70",
   "Name": "Card",
   "Nickname": "Textos médicos (2)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

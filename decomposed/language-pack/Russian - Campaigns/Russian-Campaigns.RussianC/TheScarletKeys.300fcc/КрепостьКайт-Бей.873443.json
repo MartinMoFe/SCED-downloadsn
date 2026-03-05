@@ -14,11 +14,9 @@
   "Description": "Александрия.",
   "GMNotes": "{\n  \"id\": \"09647\"\n}",
   "GUID": "873443",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Крепость Кайт-Бей",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

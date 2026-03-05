@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03172\"\n}",
   "GUID": "c89360",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Küche",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

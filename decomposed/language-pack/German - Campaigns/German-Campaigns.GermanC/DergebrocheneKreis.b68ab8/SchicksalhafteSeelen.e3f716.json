@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05242\"\n}",
   "GUID": "e3f716",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schicksalhafte Seelen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

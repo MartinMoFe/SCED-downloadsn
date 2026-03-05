@@ -14,11 +14,9 @@
   "Description": "Ground Floor.",
   "GMNotes": "{\n  \"id\": \"07283\"\n}",
   "GUID": "0b3f66",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grand Entryway",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05270\"\n}",
   "GUID": "0fa2a9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Tod rückt näher",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

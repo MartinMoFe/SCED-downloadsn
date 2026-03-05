@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/dE8gunN.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04310\"}",
+  "GMNotes": "{\n  \"id\": \"04310\"\n}",
   "GUID": "8e222a",
   "Name": "Card",
   "Nickname": "Fragmentos del vacío (3)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

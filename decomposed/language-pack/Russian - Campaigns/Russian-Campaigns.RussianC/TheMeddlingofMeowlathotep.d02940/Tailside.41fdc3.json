@@ -14,11 +14,9 @@
   "Description": "Гавкхэм. Центр.",
   "GMNotes": "{\n  \"id\": \"80028\"\n}",
   "GUID": "41fdc3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Хвостсайд",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

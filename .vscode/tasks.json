@@ -20,7 +20,10 @@
       "type": "shell",
       "command": "python",
       "args": [
-        "${workspaceFolder}${pathSeparator}.vscode${pathSeparator}build_saved_object.py",
+        "${workspaceFolder}${pathSeparator}.vscode${pathSeparator}process_saved_object.py",
+        "--action",
+        "build",
+        "--input",
         "${file}"
       ],
       "problemMatcher": [],
@@ -34,10 +37,94 @@
       "type": "shell",
       "command": "python",
       "args": [
-        "${workspaceFolder}${pathSeparator}.vscode${pathSeparator}decompose_saved_object.py",
+        "${workspaceFolder}${pathSeparator}.vscode${pathSeparator}process_saved_object.py",
+        "--action",
+        "decompose",
+        "--input",
         "${file}"
       ],
-      "problemMatcher": [],
+      "problemMatcher": []
+    },
+    {
+      "label": "Add Card",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "${workspaceFolder}${pathSeparator}.vscode${pathSeparator}add_card.py",
+        "${file}",
+        "${input:cardId}",
+        "${input:cardTitle}",
+        "${input:cardLevel}",
+        "${input:cardType}",
+        "${input:cardClass}"
+      ],
+      "problemMatcher": []
+    },
+    {
+      "label": "Sync Contained Objects",
+      "type": "shell",
+      "command": "python",
+      "args": [
+        "${workspaceFolder}${pathSeparator}.vscode${pathSeparator}sync_contained_objects.py",
+        "${file}"
+      ],
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "cardId",
+      "type": "promptString",
+      "description": "ID of the card (example: 12015)"
+    },
+    {
+      "id": "cardTitle",
+      "type": "promptString",
+      "description": "Title of the card"
+    },
+    {
+      "id": "cardLevel",
+      "type": "pickString",
+      "description": "Level of the card",
+      "default": "0",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+    },
+    {
+      "id": "cardType",
+      "type": "pickString",
+      "description": "Type of the card",
+      "default": "Asset",
+      "options": [
+        "Asset",
+        "Event",
+        "Skill",
+        "Asset (Weakness)",
+        "Event (Weakness)",
+        "Skill (Weakness)",
+        "Enemy (Weakness)",
+        "Treachery (Weakness)"
+      ]
+    },
+    {
+      "id": "cardClass",
+      "type": "pickString",
+      "description": "Class of the card",
+      "default": "Neutral",
+      "options": [
+        "Neutral",
+        "Guardian",
+        "Seeker",
+        "Rogue",
+        "Mystic",
+        "Survivor"
+      ]
     }
   ]
 }

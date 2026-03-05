@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04119\"\n}",
   "GUID": "e933bd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "In der Ausstellung",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Return to The Wages of Sin",
   "GMNotes": "{\n  \"id\": \"54034\"\n}",
   "GUID": "7b5be5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

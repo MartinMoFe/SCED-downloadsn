@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02200\"\n}",
   "GUID": "995e29",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Kammer der Bestie",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

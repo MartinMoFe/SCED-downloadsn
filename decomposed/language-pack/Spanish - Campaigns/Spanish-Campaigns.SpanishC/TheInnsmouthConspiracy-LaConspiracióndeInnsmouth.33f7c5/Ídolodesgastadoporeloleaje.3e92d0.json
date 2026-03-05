@@ -1,0 +1,22 @@
+{
+  "CardID": 456600,
+  "CustomDeck": {
+    "4566": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/OOQJcZL.jpg",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07179\"\n}",
+  "GUID": "3e92d0",
+  "Name": "Card",
+  "Nickname": "Ídolo desgastado por el oleaje",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

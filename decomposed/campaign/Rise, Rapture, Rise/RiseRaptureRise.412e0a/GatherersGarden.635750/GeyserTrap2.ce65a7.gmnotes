@@ -1,10 +1,17 @@
 {
   "id": "32a81014-d923-4d68-81d3-406e09abeffc",
+  "TtsZoopGuid": "32a81014-d923-4d68-81d3-406e09abeffc",
   "type": "Asset",
   "class": "Neutral",
   "cost": 2,
   "level": 2,
   "traits": "Plasmid. ADAM.",
   "agilityIcons": 1,
-  "TtsZoopGuid": "32a81014-d923-4d68-81d3-406e09abeffc"
+  "uses": [
+    {
+      "count": 3,
+      "type": "Eve",
+      "token": "resource"
+    }
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "CardID": 858002,
+  "CustomDeck": {
+    "8580": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/hJAcbEb.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Malicia manifestada",
+  "GMNotes": "{\n  \"id\": \"83057\"\n}",
+  "GUID": "bc46d5",
+  "Name": "Card",
+  "Nickname": "Khopesh del Abismo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

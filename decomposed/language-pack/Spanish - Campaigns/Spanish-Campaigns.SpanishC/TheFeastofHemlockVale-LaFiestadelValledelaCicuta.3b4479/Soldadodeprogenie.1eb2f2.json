@@ -1,0 +1,22 @@
+{
+  "CardID": 873810,
+  "CustomDeck": {
+    "8738": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/GOjacuJ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10564\"\n}",
+  "GUID": "1eb2f2",
+  "Name": "Card",
+  "Nickname": "Soldado de progenie",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

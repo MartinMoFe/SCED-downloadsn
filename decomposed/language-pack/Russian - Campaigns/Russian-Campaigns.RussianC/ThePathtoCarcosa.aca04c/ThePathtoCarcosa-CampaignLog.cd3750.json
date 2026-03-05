@@ -20,14 +20,12 @@
   "GMNotes": "{\n  \"id\": \"CL0301\"\n}",
   "GUID": "cd3750",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Custom_Tile",
   "Nickname": "Путь в Каркозу - Журнал Кампании",
   "States_path": {
     "2": "ThePathtoCarcosa-CampaignLog.3ebd39"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 7,
     "scaleY": 1,
     "scaleZ": 7

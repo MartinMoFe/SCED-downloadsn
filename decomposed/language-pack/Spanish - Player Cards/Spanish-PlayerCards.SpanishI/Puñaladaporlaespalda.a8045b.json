@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/XiBDFv7.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01051\"}",
+  "GMNotes": "{\n  \"id\": \"01051\"\n}",
   "GUID": "a8045b",
   "Name": "Card",
   "Nickname": "Puñalada por la espalda",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

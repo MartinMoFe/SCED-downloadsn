@@ -1,0 +1,22 @@
+{
+  "CardID": 48900,
+  "CustomDeck": {
+    "489": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/QRefUJ0.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85025\"\n}",
+  "GUID": "b22dab",
+  "Name": "Card",
+  "Nickname": "Química de la universidad",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03303\"\n}",
   "GUID": "e33bdc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Welten verschmelzen",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

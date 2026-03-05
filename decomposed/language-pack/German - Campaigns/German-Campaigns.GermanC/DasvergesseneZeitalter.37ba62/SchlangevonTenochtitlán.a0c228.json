@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04187\"\n}",
   "GUID": "a0c228",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schlange von Tenochtitlán",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

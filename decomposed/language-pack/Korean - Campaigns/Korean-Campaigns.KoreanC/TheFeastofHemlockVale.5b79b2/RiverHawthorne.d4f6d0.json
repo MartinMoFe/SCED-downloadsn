@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"10697\"\n}",
   "GUID": "d4f6d0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "River Hawthorne",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

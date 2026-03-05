@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08596\"\n}",
   "GUID": "78ddb7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zu den verbotenen Gipfeln",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

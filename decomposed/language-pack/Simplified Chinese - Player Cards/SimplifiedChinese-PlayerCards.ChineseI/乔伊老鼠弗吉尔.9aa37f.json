@@ -1,5 +1,5 @@
 {
-  "CardID": "1156401",
+  "CardID": 1156401,
   "CustomDeck": {
     "11564": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14388608471558237241/3FB11F7E00CD5293839EC5BF58E9724B7C0EA292/",
       "NumHeight": 1,
       "NumWidth": 8,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"06326\"}",
+  "GMNotes": "{\n  \"id\": \"06326\"\n}",
   "GUID": "9aa37f",
   "Name": "Card",
   "Nickname": "乔伊\"老鼠\"弗吉尔",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

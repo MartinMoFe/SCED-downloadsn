@@ -1,0 +1,23 @@
+{
+  "CardID": 35606,
+  "CustomDeck": {
+    "356": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/LLffidA.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "…Una especie de dispositivo",
+  "GMNotes": "{\n  \"id\": \"04061\"\n}",
+  "GUID": "2b5c47",
+  "Name": "Card",
+  "Nickname": "Reliquia de las eras",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

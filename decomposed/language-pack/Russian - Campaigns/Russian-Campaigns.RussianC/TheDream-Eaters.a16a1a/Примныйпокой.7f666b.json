@@ -14,11 +14,9 @@
   "Description": "Больница святой Марии.",
   "GMNotes": "{\n  \"id\": \"06070\"\n}",
   "GUID": "7f666b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Приёмный покой",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

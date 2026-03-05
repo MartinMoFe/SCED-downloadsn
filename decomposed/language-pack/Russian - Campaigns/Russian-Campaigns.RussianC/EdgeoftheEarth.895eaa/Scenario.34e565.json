@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08501\"\n}",
   "GUID": "34e565",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Лёд и смерть",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

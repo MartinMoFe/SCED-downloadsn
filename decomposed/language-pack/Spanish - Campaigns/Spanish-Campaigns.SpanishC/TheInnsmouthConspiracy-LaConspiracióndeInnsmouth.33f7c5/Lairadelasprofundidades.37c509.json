@@ -1,0 +1,24 @@
+{
+  "CardID": 878303,
+  "CustomDeck": {
+    "8783": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/RmSteP7.jpg",
+      "FaceURL": "https://i.imgur.com/JmS606T.jpg",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07127\"\n}",
+  "GUID": "37c509",
+  "Name": "Card",
+  "Nickname": "La ira de las profundidades",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

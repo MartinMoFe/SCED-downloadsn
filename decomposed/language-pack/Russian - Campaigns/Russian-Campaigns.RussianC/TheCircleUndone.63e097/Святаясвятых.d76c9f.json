@@ -14,11 +14,9 @@
   "Description": "Ложа. Святилище.",
   "GMNotes": "{\n  \"id\": \"05216\"\n}",
   "GUID": "d76c9f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Святая святых",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

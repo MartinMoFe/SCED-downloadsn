@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/Vn3QtLm.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"05191\"}",
+  "GMNotes": "{\n  \"id\": \"05191\"\n}",
   "GUID": "1a4c2e",
   "Name": "Card",
   "Nickname": "Whisky de mosto ácido (3)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 873101,
+  "CustomDeck": {
+    "8731": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/PNk8E7q.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "Description": "Hijos de las estrellas",
+  "GMNotes": "{\n  \"id\": \"10641\"\n}",
+  "GUID": "a38cb2",
+  "Name": "Card",
+  "Nickname": "Los cautivos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

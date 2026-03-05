@@ -1,0 +1,24 @@
+{
+  "CardID": 1106,
+  "CustomDeck": {
+    "11": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/JwHArfY.jpg",
+      "FaceURL": "http://i.imgur.com/6BgKs06.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02281\"\n}",
+  "GUID": "a039b3",
+  "Name": "Card",
+  "Nickname": "El portal se abre",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

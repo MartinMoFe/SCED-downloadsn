@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02160\"\n}",
   "GUID": "141dcb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ein Riss in der Realität",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

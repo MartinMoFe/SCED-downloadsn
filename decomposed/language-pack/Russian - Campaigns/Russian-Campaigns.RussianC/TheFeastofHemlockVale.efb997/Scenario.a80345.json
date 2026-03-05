@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"10626\"\n}",
   "GUID": "a80345",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Самая долгая ночь",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Аркхэм.",
   "GMNotes": "{\n  \"id\": \"02070\"\n}",
   "GUID": "7faf81",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "La Bella Luna",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

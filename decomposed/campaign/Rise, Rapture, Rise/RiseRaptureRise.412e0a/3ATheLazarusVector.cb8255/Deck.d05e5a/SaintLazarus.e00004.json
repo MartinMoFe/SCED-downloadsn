@@ -1,5 +1,5 @@
 {
-  "CardID": 20255000,
+  "CardID": 100300,
   "CustomDeck": {
     "1003": {
       "BackIsHidden": true,
@@ -14,7 +14,6 @@
   "GMNotes_path": "RiseRaptureRise.412e0a/3ATheLazarusVector.cb8255/Deck.d05e5a/SaintLazarus.e00004.gmnotes",
   "GUID": "e00004",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Saint Lazarus",
   "Tags": [

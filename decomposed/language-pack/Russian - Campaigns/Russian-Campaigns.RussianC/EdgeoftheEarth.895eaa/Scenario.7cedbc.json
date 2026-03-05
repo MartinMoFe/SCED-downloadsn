@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08596\"\n}",
   "GUID": "7cedbc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "К запретным вершинам",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

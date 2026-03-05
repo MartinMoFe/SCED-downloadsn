@@ -1,0 +1,23 @@
+{
+  "CardID": 862513,
+  "CustomDeck": {
+    "8625": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/EIQOhjB.jpg",
+      "FaceURL": "https://i.imgur.com/22XGKQD.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05265\"\n}",
+  "GUID": "cc6df9",
+  "Name": "Card",
+  "Nickname": "El destino de Valentino",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

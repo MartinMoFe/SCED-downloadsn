@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
+    "TheShadow.e9a973",
     "TheShadow.2dd15e",
-    "TheShadow.717484",
-    "TheShadow.737afb",
-    "TheShadow.e9a973"
+    "TheShadow.2dd15e",
+    "TheShadow.2dd15e"
   ],
   "ContainedObjects_path": "TheShadows.6cbb68",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1692775970050687148/D5D043182B182DE9DB9EE78518202736AAE7551E/",
       "NumHeight": 2,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
+    561601,
     561600,
     561600,
-    561600,
-    561601
+    561600
   ],
   "GUID": "6cbb68",
   "Hands": false,

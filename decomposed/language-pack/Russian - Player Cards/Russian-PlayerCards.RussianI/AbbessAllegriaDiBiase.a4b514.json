@@ -7,18 +7,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14647045099618396800/F3A7C69F880A3C1FFBE5EC6346997F0EEE4D9C77/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Союзник. Верующий.",
   "GMNotes": "{\n  \"id\": \"82022\"\n}",
   "GUID": "a4b514",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Аббатиса Аллегрия Ди Бьязе",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 48903,
+  "CustomDeck": {
+    "489": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/QRefUJ0.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85028\"\n}",
+  "GUID": "09c304",
+  "Name": "Card",
+  "Nickname": "El plan de los militares",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

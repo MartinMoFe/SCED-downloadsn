@@ -13,7 +13,6 @@
   },
   "Description": "Use this aid to track announcements.",
   "GUID": "check",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"MachinationsThroughTime/AnnouncementChecklist\")",
   "Name": "Card",
   "Nickname": "Announcement Checklist",

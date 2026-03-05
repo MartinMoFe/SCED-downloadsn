@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09646\"\n}",
   "GUID": "545aff",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Victoria College",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

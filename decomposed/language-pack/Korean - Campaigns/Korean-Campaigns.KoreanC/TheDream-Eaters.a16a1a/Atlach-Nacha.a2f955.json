@@ -14,12 +14,10 @@
   "Description": "The Spider God",
   "GMNotes": "{\n  \"id\": \"06346\"\n}",
   "GUID": "a2f955",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Atlach-Nacha",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

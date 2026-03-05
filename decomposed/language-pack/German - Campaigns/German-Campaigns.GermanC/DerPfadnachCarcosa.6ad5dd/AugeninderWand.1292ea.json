@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03260\"\n}",
   "GUID": "1292ea",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Augen in der Wand",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,24 +1,20 @@
 {
-  "CardID": 1590218,
+  "CardID": 2781218,
   "CustomDeck": {
-    "15902": {
-      "FaceURL": "https://res.cloudinary.com/dhujajmtk/image/upload/v1760424884/AH%20LCG%20-%20ZH/SheetZH04088-04183.jpg",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "NumWidth": 10,
-      "NumHeight": 3,
+    "27812": {
       "BackIsHidden": true,
-      "UniqueBack": false,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11966037350917268246/71C7A9EF9D66D13E3DCED604931BB6EF8018413F/",
+      "NumHeight": 3,
+      "NumWidth": 10,
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04147\"}",
+  "GMNotes": "{\n  \"id\": \"04147\"\n}",
   "GUID": "97f6a2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "伊塔卡",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06299\"\n}",
   "GUID": "aa5e4b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Große Halle",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

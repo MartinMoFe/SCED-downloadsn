@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04115\"\n}",
   "GUID": "8c87e2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hinter dem Vorhang",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

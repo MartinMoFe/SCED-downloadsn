@@ -14,11 +14,9 @@
   "Description": "Hemlock House",
   "GMNotes": "{\n  \"id\": \"10523\"\n}",
   "GUID": "732042",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

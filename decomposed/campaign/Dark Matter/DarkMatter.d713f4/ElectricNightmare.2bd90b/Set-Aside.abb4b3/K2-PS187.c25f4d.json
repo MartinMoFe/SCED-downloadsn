@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
-    "K2-PS187.77ff35",
-    "K2-PS187.1af547",
     "K2-PS187.d51e37",
-    "K2-PS187.b52142"
+    "K2-PS187.b52142",
+    "K2-PS187.77ff35",
+    "K2-PS187.1af547"
   ],
   "ContainedObjects_path": "K2-PS187.c25f4d",
   "CustomDeck": {
@@ -14,7 +14,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5703": {
       "BackIsHidden": true,
@@ -23,7 +23,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5704": {
       "BackIsHidden": true,
@@ -32,7 +32,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5705": {
       "BackIsHidden": true,
@@ -41,14 +41,14 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [
-    570200,
-    570300,
     570400,
-    570500
+    570500,
+    570200,
+    570300
   ],
   "GUID": "c25f4d",
   "Hands": false,

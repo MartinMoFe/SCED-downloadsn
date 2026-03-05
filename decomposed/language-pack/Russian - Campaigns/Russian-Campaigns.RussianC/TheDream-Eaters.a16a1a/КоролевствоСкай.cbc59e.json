@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06122\"\n}",
   "GUID": "cbc59e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Королевство Скай",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

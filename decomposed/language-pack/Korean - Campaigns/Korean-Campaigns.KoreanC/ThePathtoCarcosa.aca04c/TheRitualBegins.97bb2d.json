@@ -14,12 +14,10 @@
   "Description": "Agenda 1c",
   "GMNotes": "{\n  \"id\": \"03278\"\n}",
   "GUID": "97bb2d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Ritual Begins",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

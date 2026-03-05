@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06287\"\n}",
   "GUID": "314838",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Auge des Chaos",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

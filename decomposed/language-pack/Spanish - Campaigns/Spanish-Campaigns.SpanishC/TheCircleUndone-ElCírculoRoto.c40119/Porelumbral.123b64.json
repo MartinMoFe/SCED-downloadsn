@@ -1,0 +1,24 @@
+{
+  "CardID": 608,
+  "CustomDeck": {
+    "6": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/fD4hFj7.jpg",
+      "FaceURL": "https://i.imgur.com/PjJX3fL.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05067\"\n}",
+  "GUID": "123b64",
+  "Name": "Card",
+  "Nickname": "Por el umbral",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

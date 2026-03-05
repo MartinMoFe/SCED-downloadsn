@@ -1,0 +1,23 @@
+{
+  "CardID": 469600,
+  "CustomDeck": {
+    "4696": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/dg6BNUr.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0
+    }
+  },
+  "Description": "Con orgullo y cuidado",
+  "GMNotes": "{\n  \"id\": \"09762\"\n}",
+  "GUID": "911b87",
+  "Name": "Card",
+  "Nickname": "Inspector Flint",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

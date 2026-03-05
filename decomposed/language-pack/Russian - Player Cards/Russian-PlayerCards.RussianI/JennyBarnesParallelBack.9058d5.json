@@ -9,13 +9,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Drifter. Socialite.",
   "GMNotes": "{\n  \"id\": \"02003-pb\"\n}",
   "GUID": "9058d5",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Дженни Барнс (альтернативный оборот)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "JennyBarnesParallelBack.2f4627"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -14,13 +14,10 @@
   "Description": "Josef's Housekeeper",
   "GMNotes": "{\n  \"id\": \"05049\"\n}",
   "GUID": "23b99c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Penny White",
   "SidewaysCard": true,
   "Transform": {
-    "rotX": 330,
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

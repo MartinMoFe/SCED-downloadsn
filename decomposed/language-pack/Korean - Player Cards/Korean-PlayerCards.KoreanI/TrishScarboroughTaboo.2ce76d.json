@@ -14,12 +14,10 @@
   "Description": "The Spy",
   "GMNotes": "{\n  \"id\": \"07003-t\"\n}",
   "GUID": "2ce76d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Trish Scarborough (Taboo)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

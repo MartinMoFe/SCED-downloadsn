@@ -1,0 +1,23 @@
+{
+  "CardID": 471021,
+  "CustomDeck": {
+    "4710": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ZnhZ6Q1.jpg",
+      "FaceURL": "https://i.imgur.com/7dldCWs.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09672\"\n}",
+  "GUID": "a37e74",
+  "Name": "Card",
+  "Nickname": "Teatro de wayang kulit",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

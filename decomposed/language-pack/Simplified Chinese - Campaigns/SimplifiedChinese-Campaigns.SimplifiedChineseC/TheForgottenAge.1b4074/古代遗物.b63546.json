@@ -1,24 +1,20 @@
 {
-  "CardID": 1590505,
+  "CardID": 2781505,
   "CustomDeck": {
-    "15905": {
-      "FaceURL": "https://res.cloudinary.com/dhujajmtk/image/upload/v1760424891/AH%20LCG%20-%20ZH/SheetZH04338-04343.jpg",
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "NumWidth": 6,
-      "NumHeight": 1,
+    "27815": {
       "BackIsHidden": true,
-      "UniqueBack": false,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14994496468980248857/6F45DDA5299A37E1F99AB4E92EFA08A76D6B2C1D/",
+      "NumHeight": 1,
+      "NumWidth": 6,
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04343\"}",
+  "GMNotes": "{\n  \"id\": \"04343\"\n}",
   "GUID": "b63546",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "古代遗物",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

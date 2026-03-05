@@ -14,11 +14,9 @@
   "Description": "Campsite. Jungle.",
   "GMNotes": "{\n  \"id\": \"04050\"\n}",
   "GUID": "994e23",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Expedition Camp",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

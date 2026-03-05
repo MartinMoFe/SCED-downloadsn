@@ -15,7 +15,6 @@
   "Description": "Репортёр.",
   "GMNotes": "{\n  \"id\": \"02002\"\n}",
   "GUID": "4271cb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Рекс Мерфи",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "RexMurphy.7139ac"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -14,11 +14,9 @@
   "Description": "Потусторонняя.",
   "GMNotes": "{\n  \"id\": \"05084\"\n}",
   "GUID": "060886",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кабинет",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

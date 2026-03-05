@@ -1,5 +1,5 @@
 {
-  "CardID": "1155200",
+  "CardID": 1155200,
   "CustomDeck": {
     "11552": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9289334614874866029/25D4E5BC591E396642525F0200ADF2A54E0CAA10/",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"03269\"}",
+  "GMNotes": "{\n  \"id\": \"03269\"\n}",
   "GUID": "d1ff3a",
   "Name": "Card",
   "Nickname": "圣胡伯的钥匙",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

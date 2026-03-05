@@ -14,11 +14,9 @@
   "Description": "Das Haus des Eremiten",
   "GMNotes": "{\n  \"id\": \"05063\"\n}",
   "GUID": "c3b094",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Von Hexen heimgesuchte Wälder",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

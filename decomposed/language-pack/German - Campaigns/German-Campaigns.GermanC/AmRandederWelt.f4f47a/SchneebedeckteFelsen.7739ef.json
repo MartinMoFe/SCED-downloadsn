@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08605\"\n}",
   "GUID": "7739ef",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schneebedeckte Felsen",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

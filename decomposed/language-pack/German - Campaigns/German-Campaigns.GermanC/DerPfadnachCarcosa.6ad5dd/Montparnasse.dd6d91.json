@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03208\"\n}",
   "GUID": "dd6d91",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Montparnasse",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

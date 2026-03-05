@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/fG2h7Ok.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08060\"}",
+  "GMNotes": "{\n  \"id\": \"08060\"\n}",
   "GUID": "d03e9f",
   "Name": "Card",
   "Nickname": "Vara de dragón",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

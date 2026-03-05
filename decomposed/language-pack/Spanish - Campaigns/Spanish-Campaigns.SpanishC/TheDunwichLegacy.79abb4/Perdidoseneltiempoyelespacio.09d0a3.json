@@ -1,0 +1,23 @@
+{
+  "CardID": 1700,
+  "CustomDeck": {
+    "17": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/IWoIdTa.jpg",
+      "FaceURL": "http://i.imgur.com/ylehrGR.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02311\"\n}",
+  "GUID": "09d0a3",
+  "Name": "Card",
+  "Nickname": "Perdidos en el tiempo y el espacio",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

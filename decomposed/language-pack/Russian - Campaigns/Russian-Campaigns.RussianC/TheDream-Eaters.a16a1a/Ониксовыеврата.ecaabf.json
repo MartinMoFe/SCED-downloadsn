@@ -14,11 +14,9 @@
   "Description": "Ленг. Кадат.",
   "GMNotes": "{\n  \"id\": \"06298\"\n}",
   "GUID": "ecaabf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ониксовые врата",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

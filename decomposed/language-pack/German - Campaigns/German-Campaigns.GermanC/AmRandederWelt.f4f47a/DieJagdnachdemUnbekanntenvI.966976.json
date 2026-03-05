@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08627\"\n}",
   "GUID": "966976",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Jagd nach dem Unbekannten (v. I)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

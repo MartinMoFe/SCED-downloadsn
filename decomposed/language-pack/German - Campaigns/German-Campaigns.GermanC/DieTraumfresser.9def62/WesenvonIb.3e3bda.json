@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06148\"\n}",
   "GUID": "3e3bda",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wesen von Ib",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

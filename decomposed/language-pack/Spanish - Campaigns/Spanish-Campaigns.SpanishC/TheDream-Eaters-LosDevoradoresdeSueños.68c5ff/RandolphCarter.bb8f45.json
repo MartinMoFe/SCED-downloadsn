@@ -1,0 +1,23 @@
+{
+  "CardID": 44832,
+  "CustomDeck": {
+    "448": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/sryrY1n.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Encadenado al mundo de la vigilia",
+  "GMNotes": "{\n  \"id\": \"06079\"\n}",
+  "GUID": "bb8f45",
+  "Name": "Card",
+  "Nickname": "Randolph Carter",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

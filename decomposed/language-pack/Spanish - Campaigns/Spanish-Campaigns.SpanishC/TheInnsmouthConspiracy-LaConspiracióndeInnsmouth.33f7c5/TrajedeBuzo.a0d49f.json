@@ -1,0 +1,22 @@
+{
+  "CardID": 877715,
+  "CustomDeck": {
+    "8777": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/KDS8dCT.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07338\"\n}",
+  "GUID": "a0d49f",
+  "Name": "Card",
+  "Nickname": "Traje de Buzo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

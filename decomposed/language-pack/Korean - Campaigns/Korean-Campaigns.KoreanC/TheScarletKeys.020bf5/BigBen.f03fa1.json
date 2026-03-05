@@ -14,11 +14,9 @@
   "Description": "London.",
   "GMNotes": "{\n  \"id\": \"09511\"\n}",
   "GUID": "f03fa1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Big Ben",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

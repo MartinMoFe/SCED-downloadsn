@@ -1,0 +1,22 @@
+{
+  "CardID": 48710,
+  "CustomDeck": {
+    "487": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/43x1K1A.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85050\"\n}",
+  "GUID": "542a34",
+  "Name": "Card",
+  "Nickname": "Pies pegajosos",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

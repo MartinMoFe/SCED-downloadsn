@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07213\"\n}",
   "GUID": "88cba2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verfolgendes Automobil",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

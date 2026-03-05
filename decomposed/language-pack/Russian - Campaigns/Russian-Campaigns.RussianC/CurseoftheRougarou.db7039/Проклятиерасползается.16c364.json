@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"81004\"\n}",
   "GUID": "16c364",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Проклятие расползается",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": "535011",
+  "CardID": 535011,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Ассистент.",
   "GMNotes": "{\n  \"id\": \"03002\"\n}",
   "GUID": "e28f5a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Минь Тхи Фан",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

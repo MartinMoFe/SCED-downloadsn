@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09555\"\n}",
   "GUID": "ac4193",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Banco de la Provincia",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 877612,
+  "CustomDeck": {
+    "8776": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/RnlUarC.jpg",
+      "FaceURL": "https://i.imgur.com/drjONHv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07325\"\n}",
+  "GUID": "5820a0",
+  "Name": "Card",
+  "Nickname": "Tempo Sumergido",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

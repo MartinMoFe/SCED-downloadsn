@@ -14,11 +14,9 @@
   "Description": "Горы. Неизведанная.",
   "GMNotes": "{\n  \"id\": \"08511\"\n}",
   "GUID": "1f3d6e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Стылая пещера",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/Nk8BzI7.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"04032\"}",
+  "GMNotes": "{\n  \"id\": \"04032\"\n}",
   "GUID": "108599",
   "Name": "Card",
   "Nickname": "Profecía oscura",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Macabre Ruby Marble",
   "GMNotes": "{\n  \"id\": \"09519\"\n}",
   "GUID": "337d3b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Eye of Ravens",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

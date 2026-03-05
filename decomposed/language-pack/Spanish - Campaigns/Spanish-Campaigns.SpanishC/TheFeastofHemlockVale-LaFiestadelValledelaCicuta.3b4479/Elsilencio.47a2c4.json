@@ -1,0 +1,24 @@
+{
+  "CardID": 874400,
+  "CustomDeck": {
+    "8744": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/M40ZgpC.jpg",
+      "FaceURL": "https://i.imgur.com/bi8FJmd.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10652\"\n}",
+  "GUID": "47a2c4",
+  "Name": "Card",
+  "Nickname": "El silencio",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

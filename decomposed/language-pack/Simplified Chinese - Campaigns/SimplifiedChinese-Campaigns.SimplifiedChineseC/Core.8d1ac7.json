@@ -106,11 +106,9 @@
   "Description": "by Fantasy Flight Games",
   "GUID": "8d1ac7",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Custom_Model_Bag",
   "Nickname": "Core/Night of the Zealot",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 0.14,
     "scaleZ": 1

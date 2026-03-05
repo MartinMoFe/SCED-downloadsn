@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Campaign Play-Along",
   "GMNotes_path": "MythosBustersCampaignPlayalong.12a9ee/TheInnsmouthConspiracy2025.e00001/AngryMob.6dfbfa.gmnotes",
   "GUID": "6dfbfa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Angry Mob",
   "Tags": [

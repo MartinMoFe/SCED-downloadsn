@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07235\"\n}",
   "GUID": "d91fa7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schrecken am Falcon Point",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

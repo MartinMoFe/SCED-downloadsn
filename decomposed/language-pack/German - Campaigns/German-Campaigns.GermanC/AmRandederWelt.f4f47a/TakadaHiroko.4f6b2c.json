@@ -14,11 +14,9 @@
   "Description": "Flugzeugmechanikerin",
   "GMNotes": "{\n  \"id\": \"08595\"\n}",
   "GUID": "4f6b2c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Takada Hiroko",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

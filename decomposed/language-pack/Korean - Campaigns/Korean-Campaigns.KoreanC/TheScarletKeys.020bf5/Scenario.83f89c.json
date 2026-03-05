@@ -14,11 +14,9 @@
   "Description": "Dealings in the Dark",
   "GMNotes": "{\n  \"id\": \"09566\"\n}",
   "GUID": "83f89c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -15,7 +15,6 @@
   "Description": "The Urchin",
   "GMNotes": "{\n  \"id\": \"01005\"\n}",
   "GUID": "fc1d17",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wendy Adams",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "WendyAdams.11bcb3"
   },
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

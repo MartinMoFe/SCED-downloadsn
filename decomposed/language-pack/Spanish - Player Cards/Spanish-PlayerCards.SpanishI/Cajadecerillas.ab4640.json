@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/yuJseZU.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"10108\"}",
+  "GMNotes": "{\n  \"id\": \"10108\"\n}",
   "GUID": "ab4640",
   "Name": "Card",
   "Nickname": "Caja de cerillas",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 463808,
+  "CustomDeck": {
+    "4638": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/P548Mxa.jpg",
+      "FaceURL": "https://i.imgur.com/04aM8ON.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Se ha hecho tarde",
+  "GMNotes": "{\n  \"id\": \"02055\"\n}",
+  "GUID": "c1d734",
+  "Name": "Card",
+  "Nickname": "Despachos del profesorado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

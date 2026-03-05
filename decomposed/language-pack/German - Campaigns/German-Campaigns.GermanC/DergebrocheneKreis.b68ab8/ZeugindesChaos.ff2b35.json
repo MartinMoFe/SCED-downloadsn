@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05311\"\n}",
   "GUID": "ff2b35",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zeugin des Chaos",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

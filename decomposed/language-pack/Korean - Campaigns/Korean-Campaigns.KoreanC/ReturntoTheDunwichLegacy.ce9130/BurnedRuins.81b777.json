@@ -8,17 +8,15 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Dunwich.",
   "GMNotes": "{\n  \"id\": \"02205\"\n}",
   "GUID": "81b777",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Burned Ruins",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,6 @@
 {
   "id": "36c9d323-979c-454c-b123-48daa37e97ed",
+  "TtsZoopGuid": "36c9d323-979c-454c-b123-48daa37e97ed",
   "type": "Asset",
   "class": "Rogue",
   "cost": 2,
@@ -8,5 +9,11 @@
   "combatIcons": 1,
   "agilityIcons": 1,
   "wildIcons": 1,
-  "TtsZoopGuid": "36c9d323-979c-454c-b123-48daa37e97ed"
+  "uses": [
+    {
+      "count": 3,
+      "type": "Eve",
+      "token": "resource"
+    }
+  ]
 }

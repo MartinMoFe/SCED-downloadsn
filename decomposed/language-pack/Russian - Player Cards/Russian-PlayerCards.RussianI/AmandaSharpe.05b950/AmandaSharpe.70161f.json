@@ -1,5 +1,5 @@
 {
-  "CardID": "535033",
+  "CardID": 535033,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Мискатоник. Учёный.",
   "GMNotes": "{\n  \"id\": \"07002\"\n}",
   "GUID": "70161f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Аманда Шарп",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

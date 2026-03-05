@@ -14,12 +14,10 @@
   "Description": "The Priest",
   "GMNotes": "{\n  \"id\": \"04004-pf\"\n}",
   "GUID": "eb96e9",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Father Mateo (Parallel Front)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

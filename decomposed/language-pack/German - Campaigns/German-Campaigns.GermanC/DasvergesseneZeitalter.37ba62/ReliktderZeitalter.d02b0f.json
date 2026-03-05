@@ -14,11 +14,9 @@
   "Description": "Lasse die Vergangenheit wiederaufleben",
   "GMNotes": "{\n  \"id\": \"04303\"\n}",
   "GUID": "d02b0f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Relikt der Zeitalter",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

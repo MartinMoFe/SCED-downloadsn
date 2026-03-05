@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07282\"\n}",
   "GUID": "e0d28b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der dritte Eid",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

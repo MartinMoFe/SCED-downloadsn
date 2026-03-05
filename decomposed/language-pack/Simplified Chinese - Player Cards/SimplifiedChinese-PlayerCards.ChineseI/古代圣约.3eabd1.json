@@ -1,5 +1,5 @@
 {
-  "CardID": "1156619",
+  "CardID": 1156619,
   "CustomDeck": {
     "11566": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14415793536110952389/783928DAF745F49B9B1E66A2F574A97D66D16A50/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"07122\"}",
+  "GMNotes": "{\n  \"id\": \"07122\"\n}",
   "GUID": "3eabd1",
   "Name": "Card",
   "Nickname": "古代圣约",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

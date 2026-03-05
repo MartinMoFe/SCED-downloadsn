@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03254\"\n}",
   "GUID": "30b4ee",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Enger Schacht",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

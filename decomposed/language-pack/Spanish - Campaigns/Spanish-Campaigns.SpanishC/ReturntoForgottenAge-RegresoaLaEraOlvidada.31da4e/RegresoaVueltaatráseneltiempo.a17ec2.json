@@ -1,0 +1,23 @@
+{
+  "CardID": 47619,
+  "CustomDeck": {
+    "476": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/OKog8AD.jpg",
+      "FaceURL": "https://i.imgur.com/irovrKG.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"53066\"\n}",
+  "GUID": "a17ec2",
+  "Name": "Card",
+  "Nickname": "Regreso a Vuelta atrás en el tiempo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

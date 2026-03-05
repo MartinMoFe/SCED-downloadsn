@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05333\"\n}",
   "GUID": "0a93ac",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grässlicher Palast",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

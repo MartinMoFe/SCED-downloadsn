@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06188\"\n}",
   "GUID": "9f4bf1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mysteriöse Stufen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

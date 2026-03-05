@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02169\"\n}",
   "GUID": "8b484e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Waggon",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

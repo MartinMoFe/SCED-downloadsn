@@ -1,0 +1,22 @@
+{
+  "CardID": 873706,
+  "CustomDeck": {
+    "8737": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/xtCRXjm.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10587\"\n}",
+  "GUID": "daa57d",
+  "Name": "Card",
+  "Nickname": "Crecimiento luminoso",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

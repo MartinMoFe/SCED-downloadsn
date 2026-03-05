@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09501\"\n}",
   "GUID": "0cc9d5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Riddles and Rain",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

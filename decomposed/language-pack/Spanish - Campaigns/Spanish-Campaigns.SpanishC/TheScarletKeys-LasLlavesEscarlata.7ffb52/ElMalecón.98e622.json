@@ -1,0 +1,23 @@
+{
+  "CardID": 470402,
+  "CustomDeck": {
+    "4704": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/UWBgJqu.jpg",
+      "FaceURL": "https://i.imgur.com/GoQyk36.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"09601\"\n}",
+  "GUID": "98e622",
+  "Name": "Card",
+  "Nickname": "El Malecón",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

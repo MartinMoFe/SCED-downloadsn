@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/jft6qv0.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Sin traducir",
-  "GMNotes": "{\"id\": \"03025\"}",
+  "GMNotes": "{\n  \"id\": \"03025\"\n}",
   "GUID": "296e99",
   "Name": "Card",
   "Nickname": "Signos arcaicos",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

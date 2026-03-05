@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08654\"\n}",
   "GUID": "9cf592",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Halle des sonnenlosen Sees",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

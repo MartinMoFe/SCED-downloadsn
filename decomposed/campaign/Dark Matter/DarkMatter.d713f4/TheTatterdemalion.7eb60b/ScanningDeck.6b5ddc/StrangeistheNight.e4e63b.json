@@ -8,10 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
-  "GMNotes": "{\n  \"id\": \"DMS01\",\n  \"type\": \"Story\",\n  \"victory\": 1\n}",
+  "GMNotes": "{\n  \"id\": \"DMS027\",\n  \"type\": \"Story\",\n  \"victory\": 1\n}",
   "GUID": "e4e63b",
   "Name": "CardCustom",
   "Nickname": "Strange is the Night",

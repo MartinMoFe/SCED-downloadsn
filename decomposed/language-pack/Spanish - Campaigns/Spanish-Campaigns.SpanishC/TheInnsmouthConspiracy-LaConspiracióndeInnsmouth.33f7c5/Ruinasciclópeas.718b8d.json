@@ -1,0 +1,23 @@
+{
+  "CardID": 456212,
+  "CustomDeck": {
+    "4562": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ApV6XqF.jpg",
+      "FaceURL": "https://i.imgur.com/M1EEJ5O.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07176a\"\n}",
+  "GUID": "718b8d",
+  "Name": "Card",
+  "Nickname": "Ruinas ciclópeas",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

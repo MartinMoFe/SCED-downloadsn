@@ -12,14 +12,12 @@
     }
   },
   "Description": "El granjero",
-  "GMNotes": "{\"id\": \"10015\"}",
+  "GMNotes": "{\n  \"id\": \"10015\"\n}",
   "GUID": "bba7af",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hank Samson",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

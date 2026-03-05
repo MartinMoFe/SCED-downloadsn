@@ -1,0 +1,23 @@
+{
+  "CardID": 869806,
+  "CustomDeck": {
+    "8698": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/QNzlpXl.jpg",
+      "FaceURL": "https://i.imgur.com/6DThIjw.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10710\"\n}",
+  "GUID": "0f4508",
+  "Name": "Card",
+  "Nickname": "Almacén general de Tad",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

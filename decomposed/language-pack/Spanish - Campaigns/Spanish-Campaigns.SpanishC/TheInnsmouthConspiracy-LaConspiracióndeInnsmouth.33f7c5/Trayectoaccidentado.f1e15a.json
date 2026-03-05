@@ -1,0 +1,22 @@
+{
+  "CardID": 878207,
+  "CustomDeck": {
+    "8782": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/EtbcGUb.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07216\"\n}",
+  "GUID": "f1e15a",
+  "Name": "Card",
+  "Nickname": "Trayecto accidentado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

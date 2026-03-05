@@ -14,11 +14,9 @@
   "Description": "Disavowed and Disgraced",
   "GMNotes": "{\n  \"id\": \"11755a\"\n}",
   "GUID": "b5e7e3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Toe the Line",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

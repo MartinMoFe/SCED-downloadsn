@@ -14,11 +14,9 @@
   "Description": "Die Fäden entwirren",
   "GMNotes": "{\n  \"id\": \"04324\"\n}",
   "GUID": "5fae1a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nexus von N'kai",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

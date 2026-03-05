@@ -8,9 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
+  "GMNotes": "{\n  \"id\": \"DMS123a\"\n}",
   "GUID": "e48dbe",
   "Name": "CardCustom",
   "Nickname": "Evidence (Adam Tanner)",

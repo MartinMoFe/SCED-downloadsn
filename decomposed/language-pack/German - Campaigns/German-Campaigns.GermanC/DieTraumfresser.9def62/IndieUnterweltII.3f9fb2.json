@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06251\"\n}",
   "GUID": "3f9fb2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "In die Unterwelt (II)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

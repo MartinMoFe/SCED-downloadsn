@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07127\"\n}",
   "GUID": "37e07d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Zorn der Tiefe",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

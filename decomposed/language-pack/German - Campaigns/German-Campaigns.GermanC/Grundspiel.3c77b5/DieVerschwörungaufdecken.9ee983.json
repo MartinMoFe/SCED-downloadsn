@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"01123\"\n}",
   "GUID": "9ee983",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Verschwörung aufdecken",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

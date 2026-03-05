@@ -1,0 +1,24 @@
+{
+  "CardID": 471014,
+  "CustomDeck": {
+    "4710": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ZnhZ6Q1.jpg",
+      "FaceURL": "https://i.imgur.com/7dldCWs.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Prisma coral",
+  "GMNotes": "{\n  \"id\": \"09659\"\n}",
+  "GUID": "fb5dab",
+  "Name": "Card",
+  "Nickname": "La luz de Faros",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "CardID": 872800,
+  "CustomDeck": {
+    "8728": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/yGVahkc.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10734\"\n}",
+  "GUID": "a65781",
+  "Name": "Card",
+  "Nickname": "Venado coclear",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

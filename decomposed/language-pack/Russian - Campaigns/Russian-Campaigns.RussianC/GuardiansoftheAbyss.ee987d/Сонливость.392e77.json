@@ -14,11 +14,9 @@
   "Description": "Проклятие. Бездна.",
   "GMNotes": "{\n  \"id\": \"83051\"\n}",
   "GUID": "392e77",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сонливость",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

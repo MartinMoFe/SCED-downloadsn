@@ -14,11 +14,9 @@
   "Description": "Arkham.",
   "GMNotes": "{\n  \"id\": \"01124\"\n}",
   "GUID": "377b20",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Your House",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

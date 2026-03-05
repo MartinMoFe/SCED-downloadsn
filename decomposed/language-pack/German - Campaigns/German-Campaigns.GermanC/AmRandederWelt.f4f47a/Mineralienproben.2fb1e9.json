@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08618\"\n}",
   "GUID": "2fb1e9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mineralienproben",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

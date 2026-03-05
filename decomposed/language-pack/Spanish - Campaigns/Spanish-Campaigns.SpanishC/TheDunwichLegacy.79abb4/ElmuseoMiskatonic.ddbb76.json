@@ -1,0 +1,23 @@
+{
+  "CardID": 473300,
+  "CustomDeck": {
+    "4733": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/H9Wk7bW.jpg",
+      "FaceURL": "https://i.imgur.com/ovUqSqT.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02118\"\n}",
+  "GUID": "ddbb76",
+  "Name": "Card",
+  "Nickname": "El museo Miskatonic",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

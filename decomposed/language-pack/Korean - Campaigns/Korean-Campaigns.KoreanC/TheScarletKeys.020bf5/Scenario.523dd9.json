@@ -14,11 +14,9 @@
   "Description": "Congress of the Keys",
   "GMNotes": "{\n  \"id\": \"09694\"\n}",
   "GUID": "523dd9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

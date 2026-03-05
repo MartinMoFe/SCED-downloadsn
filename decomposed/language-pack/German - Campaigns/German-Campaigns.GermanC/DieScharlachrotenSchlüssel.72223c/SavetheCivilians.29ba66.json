@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09536\"\n}",
   "GUID": "29ba66",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Save the Civilians",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

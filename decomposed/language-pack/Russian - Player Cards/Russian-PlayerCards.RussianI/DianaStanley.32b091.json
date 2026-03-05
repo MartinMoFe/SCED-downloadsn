@@ -22,7 +22,6 @@
   "Description": "Культист. Серебряные Сумерки.",
   "GMNotes": "{\n  \"id\": \"05004\"\n}",
   "GUID": "32b091",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Диана Стэнли",
@@ -31,7 +30,6 @@
     "2": "DianaStanley.63542e"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

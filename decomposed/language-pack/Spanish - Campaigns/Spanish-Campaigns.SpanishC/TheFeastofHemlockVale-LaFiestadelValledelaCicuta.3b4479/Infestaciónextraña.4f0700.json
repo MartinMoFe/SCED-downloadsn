@@ -1,0 +1,24 @@
+{
+  "CardID": 873604,
+  "CustomDeck": {
+    "8736": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/WLyngkl.jpg",
+      "FaceURL": "https://i.imgur.com/UQhaJYr.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10529\"\n}",
+  "GUID": "4f0700",
+  "Name": "Card",
+  "Nickname": "Infestación extraña",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

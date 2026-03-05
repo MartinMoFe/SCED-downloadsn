@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2492268755031844910/80C27E3E13BC95251871583104CB06B4C568C1E1/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Arctic Archaeologist",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Jeremiah Kirby",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

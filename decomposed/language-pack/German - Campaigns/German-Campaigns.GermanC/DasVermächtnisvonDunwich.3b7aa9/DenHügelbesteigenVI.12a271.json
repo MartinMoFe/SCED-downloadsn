@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02278\"\n}",
   "GUID": "12a271",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Den Hügel besteigen (V. I)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

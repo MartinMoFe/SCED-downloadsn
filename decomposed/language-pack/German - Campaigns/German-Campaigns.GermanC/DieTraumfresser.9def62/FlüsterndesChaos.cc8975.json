@@ -14,11 +14,9 @@
   "Description": "Westen",
   "GMNotes": "{\n  \"id\": \"06317\"\n}",
   "GUID": "cc8975",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Flüsterndes Chaos",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

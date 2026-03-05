@@ -14,11 +14,9 @@
   "Description": "Fatal Mirage",
   "GMNotes": "{\n  \"id\": \"08549\"\n}",
   "GUID": "1b1af6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Promo version",
   "GMNotes": "{\n  \"id\": \"05001-m\"\n}",
   "GUID": "9b07a5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кэролин Ферн",
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

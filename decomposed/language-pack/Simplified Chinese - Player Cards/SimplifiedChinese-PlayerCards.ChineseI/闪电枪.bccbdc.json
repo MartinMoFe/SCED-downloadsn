@@ -1,5 +1,5 @@
 {
-  "CardID": "1154807",
+  "CardID": 1154807,
   "CustomDeck": {
     "11548": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14341712861610507757/38A77F239D14724CC43F6AF6A9EB23B2BBAF728A/",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02301\"}",
+  "GMNotes": "{\n  \"id\": \"02301\"\n}",
   "GUID": "bccbdc",
   "Name": "Card",
   "Nickname": "闪电枪",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

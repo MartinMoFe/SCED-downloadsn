@@ -14,11 +14,9 @@
   "Description": "Венеция.",
   "GMNotes": "{\n  \"id\": \"82014\"\n}",
   "GUID": "8d6af5",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Затопленная площадь",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -15,7 +15,6 @@
   "Description": "Агентство. Детектив.",
   "GMNotes": "{\n  \"id\": \"07003-t\"\n}",
   "GUID": "2ce76d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Триш Скарборо (Табу)",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "TrishScarboroughTaboo.f78b1b"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

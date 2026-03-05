@@ -14,12 +14,10 @@
   "Description": "The Shaman",
   "GMNotes": "{\n  \"id\": \"03004\"\n}",
   "GUID": "452ed8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Akachi Onyele",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -1,0 +1,24 @@
+{
+  "CardID": 2373307,
+  "CustomDeck": {
+    "23733": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15027511377192844443/F607715A81CFB0DB079BD5651F22C9DBAA119626/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13067146164942031195/4DA9AC47C15E430535EDF2412592DEFC097D5838/",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"52022\"\n}",
+  "GUID": "7786fb",
+  "Name": "Card",
+  "Nickname": "宁缺毋迟",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

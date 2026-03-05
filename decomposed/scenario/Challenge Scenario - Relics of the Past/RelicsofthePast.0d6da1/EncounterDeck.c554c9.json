@@ -1,38 +1,38 @@
 {
   "ContainedObjects_order": [
     "HuntingShadow.14bfaf",
-    "SnakeBite.4b97ed",
+    "SnakeBite.141202",
     "FalseLead.057d5f",
     "Entombed.de9a86",
-    "Snakescourge.4e8b8c",
+    "Snakescourge.0555a6",
     "CreepingPoison.410638",
-    "FalseLead.2ceae2",
+    "FalseLead.057d5f",
     "SerpentsCall.b04c08",
     "DeepDark.04a5d2",
     "LockedDoor.ab3719",
     "CryptChill.16d6d6",
-    "AncestralFear.e7b322",
+    "AncestralFear.6491e0",
     "ObscuringFog.50e716",
-    "HuntingShadow.ab3719",
+    "HuntingShadow.14bfaf",
     "BoaConstrictor.81fcc3",
-    "CryptChill.ab3719",
+    "CryptChill.16d6d6",
     "FangofYig.35dd7c",
-    "FangofYig.5eac6e",
-    "SnakeBite.6ddb16",
-    "HuntingShadow.ea8fcf",
-    "DeepDark.89b67a",
-    "FinalMistake.a8e039",
-    "ObscuringFog.c4ce76",
-    "IllOmen.81edd7",
+    "FangofYig.35dd7c",
+    "SnakeBite.141202",
+    "HuntingShadow.14bfaf",
+    "DeepDark.04a5d2",
     "FinalMistake.49130a",
-    "CreepingPoison.cb9931",
+    "ObscuringFog.50e716",
+    "IllOmen.6bff4f",
+    "FinalMistake.49130a",
+    "CreepingPoison.410638",
     "SnakeBite.141202",
     "AncestralFear.6491e0",
     "IllOmen.6bff4f",
     "CurseofYig.0b33ea",
     "Snakescourge.0555a6",
     "SerpentfromYoth.716be4",
-    "CurseofYig.b7a7ec"
+    "CurseofYig.0b33ea"
   ],
   "ContainedObjects_path": "EncounterDeck.c554c9",
   "CustomDeck": {
@@ -42,8 +42,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2357": {
       "BackIsHidden": true,
@@ -51,8 +50,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "2699": {
       "BackIsHidden": true,
@@ -61,7 +59,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [

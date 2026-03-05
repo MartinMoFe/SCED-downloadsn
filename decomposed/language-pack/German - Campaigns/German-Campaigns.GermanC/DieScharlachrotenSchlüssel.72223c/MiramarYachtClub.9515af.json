@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09604\"\n}",
   "GUID": "9515af",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Miramar Yacht Club",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

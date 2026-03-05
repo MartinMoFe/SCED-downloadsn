@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"06226\"\n}",
   "GUID": "88c379",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mondechse",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

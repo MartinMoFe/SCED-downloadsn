@@ -14,11 +14,9 @@
   "Description": "Гуманоид. Казино. Клика. Элитный.",
   "GMNotes": "{\n  \"id\": \"88034a\"\n}",
   "GUID": "824779",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Абарран Арригорриагакоа",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 48716,
+  "CustomDeck": {
+    "487": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/43x1K1A.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85053\"\n}",
+  "GUID": "f9ae39",
+  "Name": "Card",
+  "Nickname": "Cadena alimentaria alienígena",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11676\"\n}",
   "GUID": "51f354",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dreamer's Rest",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

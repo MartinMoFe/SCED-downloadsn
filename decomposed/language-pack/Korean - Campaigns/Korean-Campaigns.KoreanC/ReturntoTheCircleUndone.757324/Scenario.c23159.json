@@ -14,11 +14,9 @@
   "Description": "Before the Black Throne",
   "GMNotes": "{\n  \"id\": \"05325\"\n}",
   "GUID": "c23159",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

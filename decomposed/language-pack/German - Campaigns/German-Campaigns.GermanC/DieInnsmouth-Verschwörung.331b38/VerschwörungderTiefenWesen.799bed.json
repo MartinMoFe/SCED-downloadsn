@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07336\"\n}",
   "GUID": "799bed",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verschwörung der Tiefen Wesen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

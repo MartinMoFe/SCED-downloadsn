@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/OsSIIXb.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Piedras guía",
-  "GMNotes": "{\"id\": \"03192\"}",
+  "GMNotes": "{\n  \"id\": \"03192\"\n}",
   "GUID": "6806e4",
   "Name": "Card",
   "Nickname": "Signos arcaicos (3)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

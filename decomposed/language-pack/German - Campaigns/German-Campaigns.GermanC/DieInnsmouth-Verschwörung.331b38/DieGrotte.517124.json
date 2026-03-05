@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"07045\"\n}",
   "GUID": "517124",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Die Grotte",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

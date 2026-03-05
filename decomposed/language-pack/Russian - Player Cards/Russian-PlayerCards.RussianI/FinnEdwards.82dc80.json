@@ -14,12 +14,10 @@
   "GMNotes": "{\n  \"id\": \"04003-m\"\n}",
   "GUID": "82dc80",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Финн Эдвардс",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

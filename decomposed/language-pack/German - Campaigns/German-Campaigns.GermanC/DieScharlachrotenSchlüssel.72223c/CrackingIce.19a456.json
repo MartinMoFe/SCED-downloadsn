@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09632\"\n}",
   "GUID": "19a456",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Cracking Ice",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

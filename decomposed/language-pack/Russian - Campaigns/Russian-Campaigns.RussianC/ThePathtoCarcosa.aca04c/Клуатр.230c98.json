@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03294\"\n}",
   "GUID": "230c98",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Клуатр",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

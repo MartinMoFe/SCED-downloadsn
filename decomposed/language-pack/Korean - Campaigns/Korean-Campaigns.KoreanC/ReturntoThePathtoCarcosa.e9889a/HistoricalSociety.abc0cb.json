@@ -14,11 +14,9 @@
   "Description": "Basement.",
   "GMNotes": "{\n  \"id\": \"52031\"\n}",
   "GUID": "abc0cb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Historical Society",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

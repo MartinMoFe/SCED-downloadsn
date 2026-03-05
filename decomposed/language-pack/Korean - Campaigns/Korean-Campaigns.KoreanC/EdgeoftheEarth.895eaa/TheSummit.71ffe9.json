@@ -14,11 +14,9 @@
   "Description": "Mountain.",
   "GMNotes": "{\n  \"id\": \"08607\"\n}",
   "GUID": "71ffe9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Summit",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

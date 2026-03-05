@@ -1,0 +1,24 @@
+{
+  "CardID": 47001,
+  "CustomDeck": {
+    "470": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/guBiJqB.jpg",
+      "FaceURL": "https://i.imgur.com/oBrs10Q.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Escena del crimen",
+  "GMNotes": "{\n  \"id\": \"84010\"\n}",
+  "GUID": "9307ad",
+  "Name": "Card",
+  "Nickname": "Habitación 225",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

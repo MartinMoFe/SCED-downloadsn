@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07311\"\n}",
   "GUID": "4de3c6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "In den Mahlstrom hinein",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

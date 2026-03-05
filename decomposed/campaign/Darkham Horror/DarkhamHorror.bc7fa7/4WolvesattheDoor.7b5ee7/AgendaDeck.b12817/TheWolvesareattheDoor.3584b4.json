@@ -1,5 +1,5 @@
 {
-  "CardID": 562809,
+  "CardID": 266509,
   "CustomDeck": {
     "2665": {
       "BackIsHidden": true,
@@ -12,7 +12,6 @@
     }
   },
   "GUID": "3584b4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Wolves are at the Door",
   "SidewaysCard": true,

@@ -1,0 +1,24 @@
+{
+  "CardID": 49104,
+  "CustomDeck": {
+    "491": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/W9rUN8O.jpg",
+      "FaceURL": "https://i.imgur.com/5af2Tau.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85006\"\n}",
+  "GUID": "5e1ff6",
+  "Name": "Card",
+  "Nickname": "Exponer la anomalía",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

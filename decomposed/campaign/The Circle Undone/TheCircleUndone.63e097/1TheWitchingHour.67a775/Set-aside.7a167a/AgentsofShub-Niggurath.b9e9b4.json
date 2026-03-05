@@ -1,27 +1,26 @@
 {
   "ContainedObjects_order": [
-    "GoatSpawn.e4ae63",
     "GoatSpawn.3f2e83",
-    "GoatSpawn.e4ae63",
+    "GoatSpawn.3f2e83",
+    "GoatSpawn.3f2e83",
     "RelentlessDarkYoung.ab3719"
   ],
   "ContainedObjects_path": "AgentsofShub-Niggurath.b9e9b4",
   "CustomDeck": {
-    "5360": {
+    "2317": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    536033,
-    536033,
-    536033,
-    536032
+    231733,
+    231733,
+    231733,
+    231732
   ],
   "GUID": "b9e9b4",
   "Hands": false,

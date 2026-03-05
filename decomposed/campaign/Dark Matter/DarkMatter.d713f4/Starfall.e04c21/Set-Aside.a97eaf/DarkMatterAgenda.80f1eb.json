@@ -8,9 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
+  "GMNotes": "{\n  \"id\": \"DM247\",\n  \"type\": \"Agenda\"\n}",
   "GUID": "80f1eb",
   "Name": "CardCustom",
   "Nickname": "Dark Matter Agenda",

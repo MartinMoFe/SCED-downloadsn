@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05079\"\n}",
   "GUID": "9692cf",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Viktorianische Flure",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

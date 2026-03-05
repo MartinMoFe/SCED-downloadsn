@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04261\"\n}",
   "GUID": "d4eba2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grausame Verhöre",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

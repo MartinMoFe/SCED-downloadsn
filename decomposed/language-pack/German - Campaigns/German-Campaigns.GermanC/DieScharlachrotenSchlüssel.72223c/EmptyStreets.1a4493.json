@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09522\"\n}",
   "GUID": "1a4493",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Empty Streets",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/1JlmGL6.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Grimorio hiperbóreo",
-  "GMNotes": "{\"id\": \"08005\"}",
+  "GMNotes": "{\n  \"id\": \"08005\"\n}",
   "GUID": "10517b",
   "Name": "Card",
   "Nickname": "Livre d'Eibon",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

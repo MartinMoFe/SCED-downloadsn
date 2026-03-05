@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09597\"\n}",
   "GUID": "e6d2c6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "False Step (v. II)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

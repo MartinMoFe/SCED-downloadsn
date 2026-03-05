@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09766\"\n}",
   "GUID": "d4406e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Foundation Intel",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

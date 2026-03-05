@@ -1,0 +1,22 @@
+{
+  "CardID": 459301,
+  "CustomDeck": {
+    "4593": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/5xnlSNd.jpg",
+      "NumHeight": 2,
+      "NumWidth": 2,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"90039\"\n}",
+  "GUID": "7be1fb",
+  "Name": "Card",
+  "Nickname": "Amuleto de Wendy",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07206a\"\n}",
   "GUID": "32970a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Weggabelung",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

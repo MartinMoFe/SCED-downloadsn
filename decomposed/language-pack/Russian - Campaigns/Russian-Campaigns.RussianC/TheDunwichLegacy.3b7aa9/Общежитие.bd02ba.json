@@ -14,11 +14,9 @@
   "Description": "Мискатоник.",
   "GMNotes": "{\n  \"id\": \"02052\"\n}",
   "GUID": "bd02ba",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Общежитие",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

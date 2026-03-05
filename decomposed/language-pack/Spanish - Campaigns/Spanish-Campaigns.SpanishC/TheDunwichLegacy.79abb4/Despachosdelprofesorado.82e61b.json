@@ -1,0 +1,24 @@
+{
+  "CardID": 463807,
+  "CustomDeck": {
+    "4638": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/P548Mxa.jpg",
+      "FaceURL": "https://i.imgur.com/04aM8ON.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "La noche aún es joven",
+  "GMNotes": "{\n  \"id\": \"02054\"\n}",
+  "GUID": "82e61b",
+  "Name": "Card",
+  "Nickname": "Despachos del profesorado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

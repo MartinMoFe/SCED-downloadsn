@@ -14,11 +14,9 @@
   "Description": "Место преступления.",
   "GMNotes": "{\n  \"id\": \"84011\"\n}",
   "GUID": "0f58ed",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Балкон номера",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

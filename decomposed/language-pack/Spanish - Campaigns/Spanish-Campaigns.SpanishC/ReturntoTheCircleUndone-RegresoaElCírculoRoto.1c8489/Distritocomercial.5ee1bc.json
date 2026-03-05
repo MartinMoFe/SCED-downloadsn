@@ -1,0 +1,23 @@
+{
+  "CardID": 459927,
+  "CustomDeck": {
+    "4599": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/hSetrC8.jpg",
+      "FaceURL": "https://i.imgur.com/W5NLNlQ.jpg",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"54055\"\n}",
+  "GUID": "5ee1bc",
+  "Name": "Card",
+  "Nickname": "Distrito comercial",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

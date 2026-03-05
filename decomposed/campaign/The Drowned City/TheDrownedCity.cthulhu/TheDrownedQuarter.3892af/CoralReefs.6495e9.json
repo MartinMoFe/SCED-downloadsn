@@ -1,7 +1,7 @@
 {
   "ContainedObjects_order": [
-    "CoralReef.d5c0af",
-    "CoralReef.a83320"
+    "CoralReef.a83320",
+    "CoralReef.d5c0af"
   ],
   "ContainedObjects_path": "CoralReefs.6495e9",
   "CustomDeck": {
@@ -11,13 +11,12 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/62595225072292606/C53C0AD592E119E93B89780A87FFBB51D5101B4F/",
       "NumHeight": 2,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    267005,
-    267006
+    267006,
+    267005
   ],
   "GUID": "6495e9",
   "Hands": false,

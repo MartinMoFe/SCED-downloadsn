@@ -14,12 +14,10 @@
   "Description": "Лабораторный Лабрадор",
   "GMNotes": "{\n  \"id\": \"80004\"\n}",
   "GUID": "673295",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кейт Тявтроп",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

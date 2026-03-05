@@ -1,0 +1,24 @@
+{
+  "CardID": 874600,
+  "CustomDeck": {
+    "8746": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/FY5xlJh.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Meteorito alienígena",
+  "GMNotes": "{\n  \"id\": \"10522\"\n}",
+  "GUID": "ff989b",
+  "Name": "CardCustom",
+  "Nickname": "Esquirla prismática",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

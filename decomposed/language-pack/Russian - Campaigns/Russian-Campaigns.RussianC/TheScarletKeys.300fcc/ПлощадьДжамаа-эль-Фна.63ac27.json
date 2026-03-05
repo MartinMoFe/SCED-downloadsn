@@ -14,11 +14,9 @@
   "Description": "Марракеш.",
   "GMNotes": "{\n  \"id\": \"09527\"\n}",
   "GUID": "63ac27",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Площадь Джамаа-эль-Фна",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

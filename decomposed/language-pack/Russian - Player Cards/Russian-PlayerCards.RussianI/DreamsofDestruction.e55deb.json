@@ -14,11 +14,9 @@
   "Description": "Видения тёмного будущего",
   "GMNotes": "{\n  \"id\": \"11759a\"\n}",
   "GUID": "e55deb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Сны о разрушении",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

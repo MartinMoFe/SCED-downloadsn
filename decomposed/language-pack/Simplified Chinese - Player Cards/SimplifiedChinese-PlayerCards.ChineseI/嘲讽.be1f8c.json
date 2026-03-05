@@ -1,5 +1,5 @@
 {
-  "CardID": "1154513",
+  "CardID": 1154513,
   "CustomDeck": {
     "11545": {
       "BackIsHidden": true,
@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16902703218626220278/30779843F3AF823CE24FD749B8C11364083B37A1/",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"02019\"}",
+  "GMNotes": "{\n  \"id\": \"02019\"\n}",
   "GUID": "be1f8c",
   "Name": "Card",
   "Nickname": "嘲讽",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

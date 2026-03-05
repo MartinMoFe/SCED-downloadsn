@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"70011\"\n}",
   "GUID": "7d3634",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Искажённое время (группа A)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

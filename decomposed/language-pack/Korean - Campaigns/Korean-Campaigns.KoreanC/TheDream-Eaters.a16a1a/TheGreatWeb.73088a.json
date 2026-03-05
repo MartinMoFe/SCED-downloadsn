@@ -14,11 +14,9 @@
   "Description": "Otherworld. Extradimensional.",
   "GMNotes": "{\n  \"id\": \"06345\"\n}",
   "GUID": "73088a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Great Web",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

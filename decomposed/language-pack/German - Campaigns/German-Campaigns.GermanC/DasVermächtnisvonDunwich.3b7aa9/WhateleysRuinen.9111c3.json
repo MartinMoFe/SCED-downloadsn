@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02250\"\n}",
   "GUID": "9111c3",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Whateleys Ruinen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

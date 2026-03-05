@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"86007\"\n}",
   "GUID": "d54e23",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Созревание почти завершено",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

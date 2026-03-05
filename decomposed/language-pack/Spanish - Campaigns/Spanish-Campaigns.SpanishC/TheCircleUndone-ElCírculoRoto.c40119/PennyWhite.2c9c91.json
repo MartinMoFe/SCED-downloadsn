@@ -1,0 +1,25 @@
+{
+  "CardID": 1009,
+  "CustomDeck": {
+    "10": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/o2iolyt.jpg",
+      "FaceURL": "https://i.imgur.com/bYqVGkN.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "La ama de llaves de Josef",
+  "GMNotes": "{\n  \"id\": \"05049\"\n}",
+  "GUID": "2c9c91",
+  "Name": "Card",
+  "Nickname": "Penny White",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

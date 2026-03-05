@@ -1,5 +1,6 @@
 {
   "id": "da054562-494c-4f44-84fb-1fc7ba8ad381",
+  "TtsZoopGuid": "da054562-494c-4f44-84fb-1fc7ba8ad381",
   "type": "Asset",
   "class": "Survivor",
   "cost": 0,
@@ -7,5 +8,11 @@
   "traits": "Plasmid. ADAM.",
   "willpowerIcons": 1,
   "agilityIcons": 1,
-  "TtsZoopGuid": "da054562-494c-4f44-84fb-1fc7ba8ad381"
+  "uses": [
+    {
+      "count": 3,
+      "type": "Eve",
+      "token": "resource"
+    }
+  ]
 }

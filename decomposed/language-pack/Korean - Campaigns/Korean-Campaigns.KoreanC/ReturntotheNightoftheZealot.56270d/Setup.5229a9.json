@@ -14,11 +14,9 @@
   "Description": "Return to The Gathering",
   "GMNotes": "{\n  \"id\": \"50011\"\n}",
   "GUID": "5229a9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Setup",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,24 @@
+{
+  "CardID": 854113,
+  "CustomDeck": {
+    "8541": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/79XJGQG.jpg",
+      "FaceURL": "https://i.imgur.com/PtDq4nG.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Traductora hierática",
+  "GMNotes": "{\n  \"id\": \"83031a\"\n}",
+  "GUID": "5c4826",
+  "Name": "Card",
+  "Nickname": "Dr. Layla El Masri",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,12 +14,9 @@
   "Description": "Ruined",
   "GMNotes": "{\n  \"id\": \"11696\"\n}",
   "GUID": "8d4365",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Rivertown",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

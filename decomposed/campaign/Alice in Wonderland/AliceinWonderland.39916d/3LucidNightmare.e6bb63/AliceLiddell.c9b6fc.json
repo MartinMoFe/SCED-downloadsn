@@ -8,7 +8,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes": "{\"TtsZoopGuid\":\"3729000f-eab3-429b-b593-d7573c5f440e\",\"type\":\"Minicard\"}",

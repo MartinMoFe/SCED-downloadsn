@@ -1,5 +1,5 @@
 {
-  "CardID": 20255000,
+  "CardID": 100100,
   "CustomDeck": {
     "1001": {
       "BackIsHidden": true,
@@ -14,7 +14,6 @@
   "GMNotes_path": "RiseRaptureRise.412e0a/7TerrorintheDeep.041554/7TerrorintheDeepvI.a1c08b/Deck.fef40a/JustalittledeepervI.e00002.gmnotes",
   "GUID": "e00002",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "\"Just a little deeper...\" (v. I)",
   "Tags": [

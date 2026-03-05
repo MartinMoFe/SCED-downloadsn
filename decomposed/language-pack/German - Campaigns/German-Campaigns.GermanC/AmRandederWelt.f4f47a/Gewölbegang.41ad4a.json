@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08656\"\n}",
   "GUID": "41ad4a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gewölbegang",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

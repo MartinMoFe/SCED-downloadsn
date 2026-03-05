@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07287\"\n}",
   "GUID": "8641bd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Halle der Loyalität",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

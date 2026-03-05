@@ -14,12 +14,10 @@
   "Description": "The Trawler",
   "GMNotes": "{\n  \"id\": \"11001\"\n}",
   "GUID": "tdc001",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Marion Tavares",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

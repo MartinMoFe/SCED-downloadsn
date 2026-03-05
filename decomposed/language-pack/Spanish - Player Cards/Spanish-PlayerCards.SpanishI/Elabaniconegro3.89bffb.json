@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/5VfkUFo.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Símbolo de poder",
-  "GMNotes": "{\"id\": \"08057\"}",
+  "GMNotes": "{\n  \"id\": \"08057\"\n}",
   "GUID": "89bffb",
   "Name": "Card",
   "Nickname": "El abanico negro (3)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

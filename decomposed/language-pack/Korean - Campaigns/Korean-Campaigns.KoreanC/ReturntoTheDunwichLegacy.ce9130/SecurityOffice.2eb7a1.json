@@ -14,11 +14,9 @@
   "Description": "Miskatonic.",
   "GMNotes": "{\n  \"id\": \"02129\"\n}",
   "GUID": "2eb7a1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Security Office",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

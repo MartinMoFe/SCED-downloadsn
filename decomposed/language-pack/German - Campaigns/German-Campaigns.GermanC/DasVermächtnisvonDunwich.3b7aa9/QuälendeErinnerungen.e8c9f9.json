@@ -7,16 +7,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1831284047333080451/D1CA5B531A78962E94AD01F21206291D9CE83808/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\n  \"id\": \"02561\"\n}",
+  "GMNotes": "{\n  \"id\": \"51061\"\n}",
   "GUID": "e8c9f9",
   "Name": "Card",
   "Nickname": "Quälende Erinnerungen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

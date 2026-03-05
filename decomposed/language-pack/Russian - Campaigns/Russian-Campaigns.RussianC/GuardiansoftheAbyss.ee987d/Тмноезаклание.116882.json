@@ -14,11 +14,9 @@
   "Description": "Проклятие. Бездна.",
   "GMNotes": "{\n  \"id\": \"83052\"\n}",
   "GUID": "116882",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Тёмное заклание",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

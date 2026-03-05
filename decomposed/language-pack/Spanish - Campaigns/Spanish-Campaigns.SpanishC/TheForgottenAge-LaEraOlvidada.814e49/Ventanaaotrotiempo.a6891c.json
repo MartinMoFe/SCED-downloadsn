@@ -1,0 +1,22 @@
+{
+  "CardID": 876415,
+  "CustomDeck": {
+    "8764": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/K0KZc6F.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04189\"\n}",
+  "GUID": "a6891c",
+  "Name": "Card",
+  "Nickname": "Ventana a otro tiempo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Bloody Nexus",
   "GMNotes": "{\n  \"id\": \"09651\"\n}",
   "GUID": "a02a32",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Catacombs of Kom el Shoqafa",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

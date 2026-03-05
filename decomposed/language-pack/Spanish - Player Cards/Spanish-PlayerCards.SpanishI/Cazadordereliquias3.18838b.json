@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/9KwYOxj.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"01695\"}",
+  "GMNotes": "{\n  \"id\": \"01695\"\n}",
   "GUID": "18838b",
   "Name": "Card",
   "Nickname": "Cazador de reliquias (3)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

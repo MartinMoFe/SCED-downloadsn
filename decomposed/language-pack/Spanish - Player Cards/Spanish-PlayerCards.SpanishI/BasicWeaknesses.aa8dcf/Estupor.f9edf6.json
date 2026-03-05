@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/hiAcCCa.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"08133\"}",
+  "GMNotes": "{\n  \"id\": \"08133\"\n}",
   "GUID": "f9edf6",
   "Name": "Card",
   "Nickname": "Estupor",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

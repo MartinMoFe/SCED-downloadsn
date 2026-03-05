@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06120\"\n}",
   "GUID": "5ea185",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Путешествуя по миру грёз",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

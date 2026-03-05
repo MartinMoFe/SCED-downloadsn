@@ -1,0 +1,22 @@
+{
+  "CardID": 2704,
+  "CustomDeck": {
+    "27": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/UNI6uup.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03226\"\n}",
+  "GUID": "e5b183",
+  "Name": "Card",
+  "Nickname": "Paralizado por el miedo",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

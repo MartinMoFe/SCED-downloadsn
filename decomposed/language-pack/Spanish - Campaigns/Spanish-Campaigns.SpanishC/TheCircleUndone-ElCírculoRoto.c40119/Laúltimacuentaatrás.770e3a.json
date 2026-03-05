@@ -1,0 +1,24 @@
+{
+  "CardID": 44302,
+  "CustomDeck": {
+    "443": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ppcChf7.jpg",
+      "FaceURL": "https://i.imgur.com/3WkeUjZ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05328\"\n}",
+  "GUID": "770e3a",
+  "Name": "Card",
+  "Nickname": "La última cuenta atrás",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

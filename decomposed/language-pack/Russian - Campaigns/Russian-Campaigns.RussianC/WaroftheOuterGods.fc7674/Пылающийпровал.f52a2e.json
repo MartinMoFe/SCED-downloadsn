@@ -14,11 +14,9 @@
   "Description": "Место ритуала. Нью-Йорк.",
   "GMNotes": "{\n  \"id\": \"86022\"\n}",
   "GUID": "f52a2e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Пылающий провал",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

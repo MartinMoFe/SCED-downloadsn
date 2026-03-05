@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"11014-m\"\n}",
   "GUID": "abc014",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Глория Голдберг",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 0.6,
     "scaleY": 1,
     "scaleZ": 0.6

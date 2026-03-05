@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"54049\"\n}",
   "GUID": "b2a198",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "В когтях хаоса. Возвращение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

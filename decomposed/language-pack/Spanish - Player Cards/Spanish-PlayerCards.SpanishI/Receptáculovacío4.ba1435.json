@@ -7,17 +7,15 @@
       "FaceURL": "https://i.imgur.com/MDyVV7w.jpg",
       "NumHeight": 2,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Abandonado por los dioses",
-  "GMNotes": "{\"id\": \"06276\"}",
+  "GMNotes": "{\n  \"id\": \"06276\"\n}",
   "GUID": "ba1435",
   "Name": "Card",
   "Nickname": "Receptáculo vacío (4)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

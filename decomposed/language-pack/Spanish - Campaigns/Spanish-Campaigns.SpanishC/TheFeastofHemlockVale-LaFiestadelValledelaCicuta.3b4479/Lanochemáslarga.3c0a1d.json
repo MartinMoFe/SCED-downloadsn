@@ -1,0 +1,24 @@
+{
+  "CardID": 875700,
+  "CustomDeck": {
+    "8757": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/pW37Brn.jpg",
+      "FaceURL": "https://i.imgur.com/kx5zDz7.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10629\"\n}",
+  "GUID": "3c0a1d",
+  "Name": "CardCustom",
+  "Nickname": "La noche más larga",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "Description": "Threads of Fate",
   "GMNotes": "{\n  \"id\": \"04113\"\n}",
   "GUID": "bd51a7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

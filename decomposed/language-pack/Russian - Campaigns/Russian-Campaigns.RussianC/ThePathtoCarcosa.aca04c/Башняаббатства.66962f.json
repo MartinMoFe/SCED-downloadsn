@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03299\"\n}",
   "GUID": "66962f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Башня аббатства",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

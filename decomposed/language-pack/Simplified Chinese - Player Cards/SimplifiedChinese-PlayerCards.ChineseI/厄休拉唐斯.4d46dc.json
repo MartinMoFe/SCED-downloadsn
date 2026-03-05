@@ -1,5 +1,5 @@
 {
-  "CardID": "1159201",
+  "CardID": 1159201,
   "CustomDeck": {
     "11592": {
       "BackIsHidden": true,
@@ -11,13 +11,12 @@
       "UniqueBack": true
     }
   },
-  "GMNotes": "{\"id\": \"04002\"}",
+  "GMNotes": "{\n  \"id\": \"04002\"\n}",
   "GUID": "4d46dc",
   "Name": "Card",
   "Nickname": "厄休拉·唐斯",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

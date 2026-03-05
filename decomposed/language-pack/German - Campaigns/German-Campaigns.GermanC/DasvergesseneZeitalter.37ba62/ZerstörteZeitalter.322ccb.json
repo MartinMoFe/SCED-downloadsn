@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04314\"\n}",
   "GUID": "322ccb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zerstörte Zeitalter",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

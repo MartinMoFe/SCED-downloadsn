@@ -1,0 +1,23 @@
+{
+  "CardID": 862611,
+  "CustomDeck": {
+    "8626": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/sGrLY2C.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "La pesadilla ha acabado",
+  "GMNotes": "{\n  \"id\": \"05260\"\n}",
+  "GUID": "2bbb9c",
+  "Name": "Card",
+  "Nickname": "Penny White",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03044\"\n}",
   "GUID": "503f1c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der dritte Akt",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

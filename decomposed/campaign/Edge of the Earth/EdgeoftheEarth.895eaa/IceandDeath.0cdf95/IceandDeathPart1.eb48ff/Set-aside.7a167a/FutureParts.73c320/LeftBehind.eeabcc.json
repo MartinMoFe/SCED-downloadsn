@@ -1,10 +1,10 @@
 {
   "ContainedObjects_order": [
     "AbandonedtoMadness.9e6baf",
-    "AbandonedtoMadness.fd08f9",
-    "FrenziedExplorer.763cac",
+    "AbandonedtoMadness.9e6baf",
     "FrenziedExplorer.5c8ed5",
-    "LostResearcher.af979e",
+    "FrenziedExplorer.5c8ed5",
+    "LostResearcher.a78172",
     "LostResearcher.a78172"
   ],
   "ContainedObjects_path": "LeftBehind.eeabcc",
@@ -15,8 +15,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1858293462583844492/A3CE36420BC4AE8D863014F3F8B84C1A6047EBEB/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [

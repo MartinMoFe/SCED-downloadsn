@@ -8,9 +8,10 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
+  "GMNotes": "{\n  \"id\": \"DM092\"}",
   "GUID": "9d8c37",
   "Name": "CardCustom",
   "Nickname": "Quantum Zeno",

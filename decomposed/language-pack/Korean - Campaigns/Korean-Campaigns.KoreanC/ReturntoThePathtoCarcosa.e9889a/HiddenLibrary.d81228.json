@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03139\"\n}",
   "GUID": "d81228",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hidden Library",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

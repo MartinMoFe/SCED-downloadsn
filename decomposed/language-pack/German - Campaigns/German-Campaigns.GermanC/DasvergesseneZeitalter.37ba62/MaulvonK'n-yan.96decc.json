@@ -14,11 +14,9 @@
   "Description": "Der Schlund der Höhle",
   "GMNotes": "{\n  \"id\": \"04206\"\n}",
   "GUID": "96decc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Maul von K'n-yan",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Otherworld.",
   "GMNotes": "{\n  \"id\": \"09688\"\n}",
   "GUID": "061bfc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Court of the Outsiders",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

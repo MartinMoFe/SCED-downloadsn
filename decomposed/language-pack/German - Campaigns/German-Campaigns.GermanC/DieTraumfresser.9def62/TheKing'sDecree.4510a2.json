@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06126\"\n}",
   "GUID": "4510a2",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The King's Decree",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

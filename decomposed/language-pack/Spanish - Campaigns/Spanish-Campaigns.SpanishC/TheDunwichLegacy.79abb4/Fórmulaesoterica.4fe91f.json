@@ -1,0 +1,22 @@
+{
+  "CardID": 1600,
+  "CustomDeck": {
+    "16": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/RWH5bx8.jpg",
+      "FaceURL": "http://i.imgur.com/LwWeD3J.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02254\"\n}",
+  "GUID": "4fe91f",
+  "Name": "Card",
+  "Nickname": "Fórmula esoterica",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

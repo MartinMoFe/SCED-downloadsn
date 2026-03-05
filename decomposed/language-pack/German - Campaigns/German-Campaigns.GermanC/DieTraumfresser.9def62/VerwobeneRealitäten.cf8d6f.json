@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06336\"\n}",
   "GUID": "cf8d6f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verwobene Realitäten",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,23 @@
+{
+  "CardID": 456213,
+  "CustomDeck": {
+    "4562": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ApV6XqF.jpg",
+      "FaceURL": "https://i.imgur.com/M1EEJ5O.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07177b\"\n}",
+  "GUID": "5d7cc5",
+  "Name": "Card",
+  "Nickname": "Templo de la unión",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

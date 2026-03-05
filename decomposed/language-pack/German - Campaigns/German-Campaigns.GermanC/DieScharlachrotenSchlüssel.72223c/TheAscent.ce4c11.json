@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09702\"\n}",
   "GUID": "ce4c11",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Ascent",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

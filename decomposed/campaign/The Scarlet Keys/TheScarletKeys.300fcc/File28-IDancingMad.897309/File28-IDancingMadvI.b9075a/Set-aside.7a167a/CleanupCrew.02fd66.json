@@ -1,10 +1,10 @@
 {
   "ContainedObjects_order": [
-    "SwiftRetreat.44ac86",
-    "SwiftRetreat.170192",
     "CoterieAssassinB.c9d2e8",
-    "CoterieAssassinA.0d3306",
     "CoterieEnforcerB.13191b",
+    "SwiftRetreat.170192",
+    "SwiftRetreat.170192",
+    "CoterieAssassinA.0d3306",
     "CoterieEnforcerA.b6226d"
   ],
   "ContainedObjects_path": "CleanupCrew.02fd66",
@@ -15,8 +15,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387859732/1712285E81AF47EE85C90B49203E484D209B326F/",
       "NumHeight": 3,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5896": {
       "BackIsHidden": true,
@@ -24,16 +23,15 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093882877608/6F29B2960E3B1A761FDC3E232B17CF63DB4FF994/",
       "NumHeight": 2,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    589506,
-    589506,
     589601,
-    589505,
     589600,
+    589506,
+    589506,
+    589505,
     589504
   ],
   "GUID": "02fd66",

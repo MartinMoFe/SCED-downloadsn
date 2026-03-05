@@ -14,11 +14,9 @@
   "Description": "Dunwich. Sentinel Hill.",
   "GMNotes": "{\n  \"id\": \"02284\"\n}",
   "GUID": "d5b919",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sentinel Peak",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

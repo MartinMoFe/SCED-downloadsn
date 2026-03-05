@@ -1,0 +1,24 @@
+{
+  "CardID": 877616,
+  "CustomDeck": {
+    "8776": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/RnlUarC.jpg",
+      "FaceURL": "https://i.imgur.com/drjONHv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Gran templo de la Madre Hidra",
+  "GMNotes": "{\n  \"id\": \"07329\"\n}",
+  "GUID": "0d0d7f",
+  "Name": "Card",
+  "Nickname": "Guarida de Hidra",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

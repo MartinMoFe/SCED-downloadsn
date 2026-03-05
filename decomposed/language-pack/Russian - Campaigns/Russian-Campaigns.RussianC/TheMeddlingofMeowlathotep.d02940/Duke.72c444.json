@@ -14,12 +14,10 @@
   "Description": "Хороший мальчик",
   "GMNotes": "{\n  \"id\": \"80013\"\n}",
   "GUID": "72c444",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дюк",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

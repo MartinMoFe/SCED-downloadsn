@@ -1,0 +1,24 @@
+{
+  "CardID": 873508,
+  "CustomDeck": {
+    "8735": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/Jl1CtK4.jpg",
+      "FaceURL": "https://i.imgur.com/qLpIBw2.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Colinas desoladas",
+  "GMNotes": "{\n  \"id\": \"10637\"\n}",
+  "GUID": "550578",
+  "Name": "Card",
+  "Nickname": "Campo exterior",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

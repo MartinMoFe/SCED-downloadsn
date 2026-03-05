@@ -1,0 +1,24 @@
+{
+  "CardID": 44304,
+  "CustomDeck": {
+    "443": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/ppcChf7.jpg",
+      "FaceURL": "https://i.imgur.com/3WkeUjZ.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"05330\"\n}",
+  "GUID": "d468fd",
+  "Name": "Card",
+  "Nickname": "En los dominios de Azathoth",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

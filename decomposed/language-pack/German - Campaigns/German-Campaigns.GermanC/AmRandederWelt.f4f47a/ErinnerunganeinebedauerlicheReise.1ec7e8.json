@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08579\"\n}",
   "GUID": "1ec7e8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Erinnerung an eine bedauerliche Reise",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

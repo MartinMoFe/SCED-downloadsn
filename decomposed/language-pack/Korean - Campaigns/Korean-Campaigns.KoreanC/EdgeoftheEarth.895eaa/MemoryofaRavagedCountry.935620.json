@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08578\"\n}",
   "GUID": "935620",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Memory of a Ravaged Country",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 15,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04330\"\n}",
   "GUID": "e9ff00",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Hallen der Zeit",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

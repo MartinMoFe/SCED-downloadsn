@@ -14,11 +14,9 @@
   "Description": "Turm des urzeitlichen Lichts",
   "GMNotes": "{\n  \"id\": \"06305\"\n}",
   "GUID": "64b6ec",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verlassener Turm",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

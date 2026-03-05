@@ -1,0 +1,24 @@
+{
+  "CardID": 465400,
+  "CustomDeck": {
+    "4654": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/wSyHNN8.jpg",
+      "FaceURL": "https://i.imgur.com/qdTr0qZ.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07201\"\n}",
+  "GUID": "b2a800",
+  "Name": "CardCustom",
+  "Nickname": "Persecución implacable",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

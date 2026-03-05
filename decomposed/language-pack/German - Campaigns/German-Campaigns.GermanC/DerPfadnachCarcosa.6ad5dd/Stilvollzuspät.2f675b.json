@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03062\"\n}",
   "GUID": "2f675b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Stilvoll zu spät",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

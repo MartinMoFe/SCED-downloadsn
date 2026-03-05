@@ -14,11 +14,9 @@
   "Description": "Венеция. Мост.",
   "GMNotes": "{\n  \"id\": \"82015\"\n}",
   "GUID": "48d3db",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Мост Академии",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

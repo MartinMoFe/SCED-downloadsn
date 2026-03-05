@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09586a\"\n}",
   "GUID": "2b9bc8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Sinister Aspirant (A)",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

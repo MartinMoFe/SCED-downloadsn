@@ -1,0 +1,23 @@
+{
+  "CardID": 469601,
+  "CustomDeck": {
+    "4696": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/dg6BNUr.jpg",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0
+    }
+  },
+  "Description": "investigadora de la Fundación",
+  "GMNotes": "{\n  \"id\": \"09763\"\n}",
+  "GUID": "3fa525",
+  "Name": "Card",
+  "Nickname": "Agente Ari Quinn",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

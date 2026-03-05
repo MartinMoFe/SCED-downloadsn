@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
     "RiftWalker.63d601",
-    "DimensionalRift.4d228b",
+    "FluxStabilizer.b8cd97",
     "DimensionalStudy.2498e7",
-    "FluxStabilizer.b8cd97"
+    "DimensionalRift.4d228b"
   ],
   "ContainedObjects_path": "SignatureCards.5d6f06",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021608442565689821/729A76D94C8CABBC428D5D061371BE4C8DF012F9/",
       "NumHeight": 3,
       "NumWidth": 5,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
     113,
-    112,
+    110,
     111,
-    110
+    112
   ],
   "GUID": "5d6f06",
   "Hands": false,

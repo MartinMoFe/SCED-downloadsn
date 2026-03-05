@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04043\"\n}",
   "GUID": "a5e991",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дремучие джунгли",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

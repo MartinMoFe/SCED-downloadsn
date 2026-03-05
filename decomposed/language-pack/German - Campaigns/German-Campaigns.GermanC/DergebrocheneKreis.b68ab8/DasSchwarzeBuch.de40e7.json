@@ -14,11 +14,9 @@
   "Description": "Mit Blut unterschrieben",
   "GMNotes": "{\n  \"id\": \"05150\"\n}",
   "GUID": "de40e7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Das Schwarze Buch",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

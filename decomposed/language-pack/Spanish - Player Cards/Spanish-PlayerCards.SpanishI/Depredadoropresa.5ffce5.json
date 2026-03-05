@@ -7,17 +7,14 @@
       "FaceURL": "https://i.imgur.com/aKX9GKZ.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"09107\"}",
+  "GMNotes": "{\n  \"id\": \"09107\"\n}",
   "GUID": "5ffce5",
   "Name": "Card",
   "Nickname": "Depredador o presa",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

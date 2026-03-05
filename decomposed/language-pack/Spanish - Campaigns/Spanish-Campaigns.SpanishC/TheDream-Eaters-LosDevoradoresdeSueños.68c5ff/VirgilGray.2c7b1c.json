@@ -1,0 +1,23 @@
+{
+  "CardID": 863800,
+  "CustomDeck": {
+    "8638": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/uUU6S3X.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Escritor de relatos extraños",
+  "GMNotes": "{\n  \"id\": \"06144\"\n}",
+  "GUID": "2c7b1c",
+  "Name": "Card",
+  "Nickname": "Virgil Gray",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

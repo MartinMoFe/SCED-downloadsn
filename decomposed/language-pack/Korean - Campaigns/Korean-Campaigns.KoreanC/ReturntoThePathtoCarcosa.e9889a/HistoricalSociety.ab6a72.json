@@ -14,11 +14,9 @@
   "Description": "Second Floor.",
   "GMNotes": "{\n  \"id\": \"03134\"\n}",
   "GUID": "ab6a72",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Historical Society",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

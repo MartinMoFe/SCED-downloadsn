@@ -14,11 +14,9 @@
   "Description": "Потерянность и неуверенность",
   "GMNotes": "{\n  \"id\": \"11753a\"\n}",
   "GUID": "13c446",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Лучше дома места нет",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

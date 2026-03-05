@@ -14,11 +14,9 @@
   "Description": "Kuala Lumpur. Haunted.",
   "GMNotes": "{\n  \"id\": \"09672\"\n}",
   "GUID": "672189",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Wayang Kulit Theater",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

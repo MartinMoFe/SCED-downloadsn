@@ -1,0 +1,24 @@
+{
+  "CardID": 49106,
+  "CustomDeck": {
+    "491": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/W9rUN8O.jpg",
+      "FaceURL": "https://i.imgur.com/5af2Tau.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"85008\"\n}",
+  "GUID": "180053",
+  "Name": "Card",
+  "Nickname": "La perdición de Blackwater",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

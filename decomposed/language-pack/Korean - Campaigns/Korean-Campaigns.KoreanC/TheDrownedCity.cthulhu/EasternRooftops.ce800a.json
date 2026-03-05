@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"11700\"\n}",
   "GUID": "ce800a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Eastern Rooftops",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

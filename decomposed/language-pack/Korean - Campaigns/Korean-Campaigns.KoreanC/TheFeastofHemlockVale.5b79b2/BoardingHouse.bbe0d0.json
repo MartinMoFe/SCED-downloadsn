@@ -14,11 +14,9 @@
   "Description": "Hemlock Vale.",
   "GMNotes": "{\n  \"id\": \"10705\"\n}",
   "GUID": "bbe0d0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Boarding House",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Without a Trace",
   "GMNotes": "{\n  \"id\": \"09681\"\n}",
   "GUID": "c0d821",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

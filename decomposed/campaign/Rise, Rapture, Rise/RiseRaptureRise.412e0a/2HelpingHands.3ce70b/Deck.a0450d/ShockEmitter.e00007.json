@@ -1,5 +1,5 @@
 {
-  "CardID": 20268700,
+  "CardID": 100500,
   "CustomDeck": {
     "1005": {
       "BackIsHidden": true,
@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/2HelpingHands.3ce70b/Deck.a0450d/ShockEmitter.e00007.gmnotes",
   "GUID": "e00007",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Shock Emitter",
   "Tags": [

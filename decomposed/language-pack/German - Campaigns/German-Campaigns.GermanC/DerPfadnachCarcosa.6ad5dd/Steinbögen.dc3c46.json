@@ -13,12 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03248\"\n}",
   "GUID": "dc3c46",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Steinbögen",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

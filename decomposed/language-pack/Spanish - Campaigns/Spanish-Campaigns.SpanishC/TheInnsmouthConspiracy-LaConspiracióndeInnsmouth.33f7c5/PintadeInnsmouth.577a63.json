@@ -1,0 +1,22 @@
+{
+  "CardID": 456303,
+  "CustomDeck": {
+    "4563": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/adHhjQo.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07106\"\n}",
+  "GUID": "577a63",
+  "Name": "Card",
+  "Nickname": "Pinta de Innsmouth",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,12 +14,9 @@
   "Description": "Lesezimmer",
   "GMNotes": "{\n  \"id\": \"03134\"\n}",
   "GUID": "ad1de8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Gesellschaft für Geschichte",
   "Transform": {
-    "rotY": 180,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

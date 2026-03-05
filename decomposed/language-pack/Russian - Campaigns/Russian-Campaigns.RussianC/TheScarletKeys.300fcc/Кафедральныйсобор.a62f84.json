@@ -14,11 +14,9 @@
   "Description": "Буэнос-Айрес.",
   "GMNotes": "{\n  \"id\": \"09551\"\n}",
   "GUID": "a62f84",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Кафедральный собор",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

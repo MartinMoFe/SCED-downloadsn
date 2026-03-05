@@ -14,12 +14,10 @@
   "Description": "The Researcher",
   "GMNotes": "{\n  \"id\": \"06002-t\"\n}",
   "GUID": "4f3637",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Mandy Thompson (Taboo)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

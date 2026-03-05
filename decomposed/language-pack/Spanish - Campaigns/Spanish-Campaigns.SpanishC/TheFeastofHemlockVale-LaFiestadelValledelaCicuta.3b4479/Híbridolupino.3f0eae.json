@@ -1,0 +1,23 @@
+{
+  "CardID": 875300,
+  "CustomDeck": {
+    "8753": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/NVeJ0Dk.jpg",
+      "FaceURL": "https://i.imgur.com/zQBZVfv.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10645c\"\n}",
+  "GUID": "3f0eae",
+  "Name": "CardCustom",
+  "Nickname": "Híbrido lupino",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

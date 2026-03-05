@@ -1,0 +1,24 @@
+{
+  "CardID": 238400,
+  "CustomDeck": {
+    "2384": {
+      "BackIsHidden": true,
+      "BackURL": "https://res.cloudinary.com/dnyyxgsfq/image/upload/v1772027466/Carcosa_Campaign_Cards/03172_front.jpg",
+      "FaceURL": "https://res.cloudinary.com/dnyyxgsfq/image/upload/v1772027468/Carcosa_Campaign_Cards/03172_back.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03172\"\n}",
+  "GUID": "b7b459",
+  "HideWhenFaceDown": true,
+  "Name": "CardCustom",
+  "Nickname": "Kuchnia",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

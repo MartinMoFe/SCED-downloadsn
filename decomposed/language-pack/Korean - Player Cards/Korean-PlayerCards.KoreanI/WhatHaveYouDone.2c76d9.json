@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2495648990716321420/9D0763913CF3F33DA95C8224101D89F651057419/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Madness.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "What Have You Done?",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

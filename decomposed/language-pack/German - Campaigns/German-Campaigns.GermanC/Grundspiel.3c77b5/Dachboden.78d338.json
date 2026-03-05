@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"01113\"\n}",
   "GUID": "78d338",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Dachboden",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

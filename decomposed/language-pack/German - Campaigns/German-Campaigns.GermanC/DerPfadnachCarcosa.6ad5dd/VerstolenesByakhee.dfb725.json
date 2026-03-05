@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03222\"\n}",
   "GUID": "dfb725",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Verstolenes Byakhee",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

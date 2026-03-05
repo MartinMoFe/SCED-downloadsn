@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"07254\"\n}",
   "GUID": "04ec28",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kindermädchen der Tiefen Wesen",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

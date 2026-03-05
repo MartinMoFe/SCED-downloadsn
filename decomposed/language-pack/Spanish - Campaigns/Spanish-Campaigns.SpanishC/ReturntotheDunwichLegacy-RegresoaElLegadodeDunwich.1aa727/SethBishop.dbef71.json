@@ -1,0 +1,23 @@
+{
+  "CardID": 460512,
+  "CustomDeck": {
+    "4605": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XiXrtxk.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Esclavo de Yo-Sothoth",
+  "GMNotes": "{\n  \"id\": \"51056\"\n}",
+  "GUID": "dbef71",
+  "Name": "Card",
+  "Nickname": "Seth Bishop",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,12 +14,10 @@
   "Description": "Парапсихолог",
   "GMNotes": "{\n  \"id\": \"11007\"\n}",
   "GUID": "tdc007",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Агата Крейн",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

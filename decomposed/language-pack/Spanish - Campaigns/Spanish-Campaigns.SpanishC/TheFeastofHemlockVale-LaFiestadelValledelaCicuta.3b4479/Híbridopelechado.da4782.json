@@ -1,0 +1,22 @@
+{
+  "CardID": 875003,
+  "CustomDeck": {
+    "8750": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/NVeJ0Dk.jpg",
+      "FaceURL": "https://i.imgur.com/Q9hjrNv.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"10644c\"\n}",
+  "GUID": "da4782",
+  "Name": "Card",
+  "Nickname": "Híbrido pelechado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

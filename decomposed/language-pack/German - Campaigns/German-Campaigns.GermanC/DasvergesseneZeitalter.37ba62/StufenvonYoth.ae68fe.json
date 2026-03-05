@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"04286\"\n}",
   "GUID": "ae68fe",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Stufen von Yoth",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

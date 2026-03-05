@@ -7,12 +7,11 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2407823725609449730/C570E67837928FB374DF50F4AA7FA2039DA9633B/",
       "NumHeight": 5,
       "NumWidth": 8,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Humanoid. Lantern Club.",
-  "GMNotes_path": "TheMidwinterGala.074d4a/EncounterDeck.912e11/LanternClubMember.9b4c74.gmnotes",
+  "GMNotes": "{\n  \"id\": \"71053\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Lantern Club.\"\n}",
   "GUID": "9b4c74",
   "Name": "Card",
   "Nickname": "Lantern Club Member",

@@ -14,12 +14,10 @@
   "Description": "Пёс войны",
   "GMNotes": "{\n  \"id\": \"80001\"\n}",
   "GUID": "0c97f0",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Марк Гррр-риган",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

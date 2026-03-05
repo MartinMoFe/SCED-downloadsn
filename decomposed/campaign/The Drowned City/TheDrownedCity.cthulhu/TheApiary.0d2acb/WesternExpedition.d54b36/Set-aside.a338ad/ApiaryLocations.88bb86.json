@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
-    "ChurningChasm.d1b189",
-    "CorruptedVault.7a307a",
+    "LostCampsite.35de5b",
     "SpawningGrounds.09c80b",
-    "LostCampsite.35de5b"
+    "CorruptedVault.7a307a",
+    "ChurningChasm.d1b189"
   ],
   "ContainedObjects_path": "ApiaryLocations.88bb86",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/62595225072235388/CEDAE98319999B7BB3C3486D88D14A034CAE2312/",
       "NumHeight": 6,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    266913,
-    266914,
+    266917,
     266916,
-    266917
+    266914,
+    266913
   ],
   "GUID": "88bb86",
   "Hands": false,

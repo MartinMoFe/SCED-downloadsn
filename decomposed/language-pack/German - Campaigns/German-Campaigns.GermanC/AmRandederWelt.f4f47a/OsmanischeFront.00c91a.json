@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08573\"\n}",
   "GUID": "00c91a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Osmanische Front",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08613\"\n}",
   "GUID": "0c4841",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Unterkühlung",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

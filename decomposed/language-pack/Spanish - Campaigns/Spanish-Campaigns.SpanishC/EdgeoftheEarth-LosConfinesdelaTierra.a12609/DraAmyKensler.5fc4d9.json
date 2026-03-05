@@ -1,0 +1,23 @@
+{
+  "CardID": 458406,
+  "CustomDeck": {
+    "4584": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/QbfNIE7.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "Description": "Profesora de biología",
+  "GMNotes": "{\n  \"id\": \"08593\"\n}",
+  "GUID": "5fc4d9",
+  "Name": "Card",
+  "Nickname": "Dra. Amy Kensler",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

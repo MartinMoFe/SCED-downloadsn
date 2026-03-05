@@ -7,16 +7,14 @@
       "FaceURL": "https://i.imgur.com/lHJ2ABf.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
-  "GMNotes": "{\"id\": \"60104\"}",
+  "GMNotes": "{\n  \"id\": \"60104\"\n}",
   "GUID": "5b2f72",
   "Name": "Card",
   "Nickname": "Autodestructivo",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

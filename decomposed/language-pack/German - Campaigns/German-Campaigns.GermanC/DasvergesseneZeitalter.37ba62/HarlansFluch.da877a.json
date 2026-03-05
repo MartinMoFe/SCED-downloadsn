@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04122\"\n}",
   "GUID": "da877a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Harlans Fluch",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

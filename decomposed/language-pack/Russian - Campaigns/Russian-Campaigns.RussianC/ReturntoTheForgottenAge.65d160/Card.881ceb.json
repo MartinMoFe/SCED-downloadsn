@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"ES0416\"\n}",
   "GUID": "881ceb",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Загадочный скипетр",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

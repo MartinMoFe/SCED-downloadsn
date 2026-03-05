@@ -1,5 +1,5 @@
 {
-  "CardID": "535012",
+  "CardID": 535012,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Художник.",
   "GMNotes": "{\n  \"id\": \"03003\"\n}",
   "GUID": "90808c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Зефина Руссо",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

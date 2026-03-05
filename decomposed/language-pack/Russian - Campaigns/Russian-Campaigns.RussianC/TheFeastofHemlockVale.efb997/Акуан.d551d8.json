@@ -14,11 +14,9 @@
   "Description": "Прибрежная.",
   "GMNotes": "{\n  \"id\": \"10575\"\n}",
   "GUID": "d551d8",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Акуан",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"70031\"\n}",
   "GUID": "0712ba",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Камера яда",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

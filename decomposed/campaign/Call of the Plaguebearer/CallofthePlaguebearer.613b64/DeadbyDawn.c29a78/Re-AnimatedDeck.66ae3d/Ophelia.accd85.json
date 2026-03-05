@@ -1,5 +1,5 @@
 {
-  "CardID": 566910,
+  "CardID": 266310,
   "CustomDeck": {
     "2663": {
       "BackIsHidden": true,
@@ -13,7 +13,6 @@
   },
   "GMNotes_path": "CallofthePlaguebearer.613b64/DeadbyDawn.c29a78/Re-AnimatedDeck.66ae3d/Ophelia.accd85.gmnotes",
   "GUID": "accd85",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Ophelia",
   "Tags": [

@@ -14,11 +14,9 @@
   "Description": "Потусторонняя.",
   "GMNotes": "{\n  \"id\": \"54028\"\n}",
   "GUID": "9d0410",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Винный погреб",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08549\"\n}",
   "GUID": "f44d9d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Tödliches Trugbild",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

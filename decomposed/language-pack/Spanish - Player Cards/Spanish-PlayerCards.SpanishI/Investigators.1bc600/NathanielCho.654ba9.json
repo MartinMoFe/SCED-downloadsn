@@ -12,14 +12,12 @@
     }
   },
   "Description": "El boxeador",
-  "GMNotes": "{\"id\": \"60101\"}",
+  "GMNotes": "{\n  \"id\": \"60101\"\n}",
   "GUID": "654ba9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Nathaniel Cho",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

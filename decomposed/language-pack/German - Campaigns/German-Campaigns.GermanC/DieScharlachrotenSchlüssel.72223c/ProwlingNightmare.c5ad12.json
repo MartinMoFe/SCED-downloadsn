@@ -1,5 +1,5 @@
 {
-  "CardID": 853833,
+  "CardID": 278233,
   "CustomDeck": {
     "2782": {
       "BackIsHidden": true,
@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"09615\"\n}",
   "GUID": "c5ad12",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Prowling Nightmare",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

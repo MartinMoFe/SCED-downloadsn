@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04278\"\n}",
   "GUID": "30547c",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Abstieg beginnt",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

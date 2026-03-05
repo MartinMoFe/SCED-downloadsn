@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"04118a\"\n}",
   "GUID": "410c58",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Harlan ist in Gefahr!",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

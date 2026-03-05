@@ -14,11 +14,9 @@
   "Description": "Istanbul. Bazaar.",
   "GMNotes": "{\n  \"id\": \"09578\"\n}",
   "GUID": "56868b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Grand Bazaar",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

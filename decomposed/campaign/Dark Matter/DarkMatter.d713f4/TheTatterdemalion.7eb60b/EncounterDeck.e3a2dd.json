@@ -1,22 +1,22 @@
 {
   "ContainedObjects_order": [
-    "Anachronism.914935",
-    "Anachronism.914935",
-    "ArtificialGravityMalfunction.4856f5",
-    "ArtificialGravityMalfunction.4856f5",
-    "CabinPressure.f97067",
-    "CabinPressure.f97067",
-    "CoolantLeak.feba1e",
-    "CoolantLeak.feba1e",
-    "Decompression.34fc5e",
-    "Decompression.34fc5e",
-    "HauntingPast.03094a",
-    "HauntingPast.03094a",
-    "HighRadiationLevels.004e46",
-    "HighRadiationLevels.004e46",
-    "ReminiscenceCovenant.1f21fe",
+    "ReminiscenceSecrets.e13402",
     "ReminiscencePledge.914935",
-    "ReminiscenceSecrets.e13402"
+    "ReminiscenceCovenant.1f21fe",
+    "HighRadiationLevels.004e46",
+    "HighRadiationLevels.004e46",
+    "HauntingPast.03094a",
+    "HauntingPast.03094a",
+    "Decompression.34fc5e",
+    "Decompression.34fc5e",
+    "CoolantLeak.feba1e",
+    "CoolantLeak.feba1e",
+    "CabinPressure.f97067",
+    "CabinPressure.f97067",
+    "ArtificialGravityMalfunction.4856f5",
+    "ArtificialGravityMalfunction.4856f5",
+    "Anachronism.914935",
+    "Anachronism.914935"
   ],
   "ContainedObjects_path": "EncounterDeck.e3a2dd",
   "CustomDeck": {
@@ -27,7 +27,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5659": {
       "BackIsHidden": true,
@@ -36,7 +36,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5660": {
       "BackIsHidden": true,
@@ -45,7 +45,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5661": {
       "BackIsHidden": true,
@@ -54,7 +54,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5662": {
       "BackIsHidden": true,
@@ -63,7 +63,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5668": {
       "BackIsHidden": true,
@@ -72,7 +72,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5669": {
       "BackIsHidden": true,
@@ -81,7 +81,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5670": {
       "BackIsHidden": true,
@@ -90,7 +90,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5671": {
       "BackIsHidden": true,
@@ -99,7 +99,7 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     },
     "5672": {
       "BackIsHidden": true,
@@ -108,27 +108,27 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "DeckIDs": [
-    566800,
-    566800,
-    565800,
-    565800,
-    565900,
-    565900,
-    566000,
-    566000,
-    566100,
-    566100,
-    566900,
-    566900,
-    566200,
-    566200,
-    567200,
+    567100,
     567000,
-    567100
+    567200,
+    566200,
+    566200,
+    566900,
+    566900,
+    566100,
+    566100,
+    566000,
+    566000,
+    565900,
+    565900,
+    565800,
+    565800,
+    566800,
+    566800
   ],
   "GUID": "e3a2dd",
   "Hands": false,

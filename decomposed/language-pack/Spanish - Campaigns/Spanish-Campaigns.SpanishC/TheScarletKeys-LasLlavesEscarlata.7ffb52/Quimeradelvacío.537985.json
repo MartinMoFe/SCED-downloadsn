@@ -1,0 +1,23 @@
+{
+  "CardID": 470306,
+  "CustomDeck": {
+    "4703": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/PpAu3Ge.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Devoraentrañas",
+  "GMNotes": "{\n  \"id\": \"09629\"\n}",
+  "GUID": "537985",
+  "Name": "Card",
+  "Nickname": "Quimera del vacío",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

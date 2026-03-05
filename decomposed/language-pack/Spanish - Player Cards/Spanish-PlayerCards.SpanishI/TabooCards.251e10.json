@@ -60,11 +60,9 @@
   "ContainedObjects_path": "TabooCards.251e10",
   "GUID": "251e10",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Bag",
   "Nickname": "Taboo Cards",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

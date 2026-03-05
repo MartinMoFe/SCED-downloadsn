@@ -14,11 +14,9 @@
   "Description": "Возвращение.",
   "GMNotes": "{\n  \"id\": \"52014\"\n}",
   "GUID": "e2dab9",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дайте занавес. Возвращение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

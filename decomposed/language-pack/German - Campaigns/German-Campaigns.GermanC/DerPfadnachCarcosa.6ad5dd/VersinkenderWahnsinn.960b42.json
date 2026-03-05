@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03318\"\n}",
   "GUID": "960b42",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Versinkender Wahnsinn",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

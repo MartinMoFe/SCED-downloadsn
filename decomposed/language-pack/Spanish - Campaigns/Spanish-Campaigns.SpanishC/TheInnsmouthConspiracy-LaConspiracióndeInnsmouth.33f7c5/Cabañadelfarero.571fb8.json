@@ -1,0 +1,23 @@
+{
+  "CardID": 461505,
+  "CustomDeck": {
+    "4615": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/4TlFaLS.jpg",
+      "FaceURL": "https://i.imgur.com/RiBaRT5.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07243\"\n}",
+  "GUID": "571fb8",
+  "Name": "Card",
+  "Nickname": "Cabaña del farero",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "CardID": 469901,
+  "CustomDeck": {
+    "4699": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://i.imgur.com/nkHcMMC.jpg",
+      "NumHeight": 2,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "Description": "Seguridad del museo",
+  "GMNotes": "{\n  \"id\": \"02139\"\n}",
+  "GUID": "a5ba80",
+  "Name": "Card",
+  "Nickname": "Adam Lynch",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

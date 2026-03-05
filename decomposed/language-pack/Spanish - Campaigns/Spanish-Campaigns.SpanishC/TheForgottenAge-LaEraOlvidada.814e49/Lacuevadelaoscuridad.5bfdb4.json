@@ -1,0 +1,24 @@
+{
+  "CardID": 35222,
+  "CustomDeck": {
+    "352": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vsORDxB.jpg",
+      "FaceURL": "https://i.imgur.com/iioPWYS.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04136\"\n}",
+  "GUID": "5bfdb4",
+  "Name": "Card",
+  "Nickname": "La cueva de la oscuridad",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

@@ -14,11 +14,9 @@
   "ContainedObjects_path": "Weaknesses.eaddcd",
   "GUID": "eaddcd",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Bag",
   "Nickname": "Weaknesses",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

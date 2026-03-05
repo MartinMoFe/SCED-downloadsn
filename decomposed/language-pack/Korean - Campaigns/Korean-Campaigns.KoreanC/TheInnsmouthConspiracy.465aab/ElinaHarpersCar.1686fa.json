@@ -14,12 +14,10 @@
   "Description": "Vehicle.",
   "GMNotes": "{\n  \"id\": \"07212a\"\n}",
   "GUID": "1686fa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Elina Harper's Car",
   "Snap": false,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

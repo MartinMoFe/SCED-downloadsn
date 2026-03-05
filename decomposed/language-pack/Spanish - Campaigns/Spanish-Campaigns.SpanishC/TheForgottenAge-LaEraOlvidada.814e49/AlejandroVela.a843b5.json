@@ -1,0 +1,23 @@
+{
+  "CardID": 50505,
+  "CustomDeck": {
+    "505": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/8DYDe7Z.jpg",
+      "FaceURL": "https://i.imgur.com/LLffidA.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "Description": "Reputado historiador",
+  "GMNotes": "{\n  \"id\": \"04051\"\n}",
+  "GUID": "a843b5",
+  "Name": "Card",
+  "Nickname": "Alejandro Vela",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

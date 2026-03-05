@@ -8,18 +8,15 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "Mexico City. Present-Day.",
   "GMNotes": "{\n  \"id\": \"04168\"\n}",
   "GUID": "f37af1",
-  "HideWhenFaceDown": false,
   "Name": "CardCustom",
   "Nickname": "Temple Ruins",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

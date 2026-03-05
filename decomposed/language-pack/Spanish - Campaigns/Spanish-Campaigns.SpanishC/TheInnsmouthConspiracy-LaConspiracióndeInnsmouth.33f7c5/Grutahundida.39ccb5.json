@@ -1,0 +1,24 @@
+{
+  "CardID": 461507,
+  "CustomDeck": {
+    "4615": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/4TlFaLS.jpg",
+      "FaceURL": "https://i.imgur.com/RiBaRT5.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Profundidades inferiores",
+  "GMNotes": "{\n  \"id\": \"07245\"\n}",
+  "GUID": "39ccb5",
+  "Name": "Card",
+  "Nickname": "Gruta hundida",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

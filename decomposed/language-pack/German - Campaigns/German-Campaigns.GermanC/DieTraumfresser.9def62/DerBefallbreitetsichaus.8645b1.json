@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"06065\"\n}",
   "GUID": "8645b1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der Befall breitet sich aus",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

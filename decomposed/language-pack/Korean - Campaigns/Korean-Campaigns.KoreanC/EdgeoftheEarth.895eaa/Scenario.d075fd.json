@@ -14,11 +14,9 @@
   "Description": "Ice and Death",
   "GMNotes": "{\n  \"id\": \"08501\"\n}",
   "GUID": "d075fd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Scenario",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

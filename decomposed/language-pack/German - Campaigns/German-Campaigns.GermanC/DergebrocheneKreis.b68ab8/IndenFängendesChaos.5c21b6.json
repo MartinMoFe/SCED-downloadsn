@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"05284\"\n}",
   "GUID": "5c21b6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "In den Fängen des Chaos",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

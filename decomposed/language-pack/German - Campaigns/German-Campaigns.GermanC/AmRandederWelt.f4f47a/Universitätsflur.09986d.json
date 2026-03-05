@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08559\"\n}",
   "GUID": "09986d",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Universitätsflur",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

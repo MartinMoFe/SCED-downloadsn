@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"53016\"\n}",
   "GUID": "6c1985",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дремучие джунгли. Возвращение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

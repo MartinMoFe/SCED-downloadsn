@@ -1,0 +1,24 @@
+{
+  "CardID": 3506,
+  "CustomDeck": {
+    "35": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/7TURdWz.jpg",
+      "FaceURL": "https://i.imgur.com/h2ACvzf.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"03323a\"\n}",
+  "GUID": "e805d5",
+  "Name": "Card",
+  "Nickname": "En busca del Extranjero (v.III)",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

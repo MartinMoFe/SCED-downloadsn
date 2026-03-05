@@ -1,0 +1,24 @@
+{
+  "CardID": 876209,
+  "CustomDeck": {
+    "8762": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vsORDxB.jpg",
+      "FaceURL": "https://i.imgur.com/iioPWYS.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04123\"\n}",
+  "GUID": "a26e98",
+  "Name": "Card",
+  "Nickname": "Encontrar la reliquia",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

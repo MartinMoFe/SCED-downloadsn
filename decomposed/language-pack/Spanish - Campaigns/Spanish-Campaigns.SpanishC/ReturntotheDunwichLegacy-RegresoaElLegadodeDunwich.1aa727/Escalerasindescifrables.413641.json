@@ -1,0 +1,22 @@
+{
+  "CardID": 47914,
+  "CustomDeck": {
+    "479": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/XiXrtxk.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"51058\"\n}",
+  "GUID": "413641",
+  "Name": "Card",
+  "Nickname": "Escaleras indescifrables",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

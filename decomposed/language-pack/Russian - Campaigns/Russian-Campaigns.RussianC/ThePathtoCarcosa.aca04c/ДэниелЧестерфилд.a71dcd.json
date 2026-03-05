@@ -14,11 +14,9 @@
   "Description": "Гуманоид. Безумец. Элитный.",
   "GMNotes": "{\n  \"id\": \"03182b\"\n}",
   "GUID": "a71dcd",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Дэниел Честерфилд",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

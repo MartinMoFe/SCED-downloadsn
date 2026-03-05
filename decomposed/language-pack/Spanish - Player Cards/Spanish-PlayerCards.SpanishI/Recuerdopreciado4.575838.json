@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/zhTED59.jpg",
       "NumHeight": 3,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "De una vida futura",
-  "GMNotes": "{\"id\": \"08115\"}",
+  "GMNotes": "{\n  \"id\": \"08115\"\n}",
   "GUID": "575838",
   "Name": "Card",
   "Nickname": "Recuerdo preciado (4)",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

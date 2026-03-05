@@ -1,0 +1,24 @@
+{
+  "CardID": 876225,
+  "CustomDeck": {
+    "8762": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/vsORDxB.jpg",
+      "FaceURL": "https://i.imgur.com/iioPWYS.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"04139\"\n}",
+  "GUID": "51e3fb",
+  "Name": "Card",
+  "Nickname": "Sucesos extraños",
+  "SidewaysCard": true,
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

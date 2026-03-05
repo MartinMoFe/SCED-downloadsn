@@ -13,11 +13,9 @@
   "GMNotes": "{\n  \"id\": \"CG87\"\n}",
   "GUID": "4eaf63",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Custom_PDF",
   "Nickname": "Махинации сквозь время - Книга Сценария",
   "Transform": {
-    "rotY": 270,
     "scaleX": 2.2,
     "scaleY": 1,
     "scaleZ": 2.2

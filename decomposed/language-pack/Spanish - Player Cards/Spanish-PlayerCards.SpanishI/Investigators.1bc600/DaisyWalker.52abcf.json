@@ -8,17 +8,16 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "Description": "La bibliotecaria",
-  "GMNotes": "{\"id\": \"01002-p\"}",
+  "GMNotes": "{\n  \"id\": \"01002-p\"\n}",
   "GUID": "52abcf",
   "Name": "Card",
   "Nickname": "Daisy Walker",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

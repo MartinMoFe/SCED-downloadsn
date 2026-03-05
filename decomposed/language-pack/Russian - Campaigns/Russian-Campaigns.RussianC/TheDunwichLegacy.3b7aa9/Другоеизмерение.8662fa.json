@@ -14,11 +14,9 @@
   "Description": "Иной мир.",
   "GMNotes": "{\n  \"id\": \"02320\"\n}",
   "GUID": "8662fa",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Другое измерение",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

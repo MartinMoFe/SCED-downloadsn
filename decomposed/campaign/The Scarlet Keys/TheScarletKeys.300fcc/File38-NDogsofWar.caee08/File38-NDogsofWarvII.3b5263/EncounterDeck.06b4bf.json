@@ -1,34 +1,34 @@
 {
   "ContainedObjects_order": [
-    "CoterieEnforcerA.b6226d",
-    "CoterieEnforcerB.13191b",
-    "SwiftRetreat.170192",
-    "SwiftRetreat.44ac86",
     "CoterieAssassinB.c9d2e8",
+    "CoterieEnforcerB.13191b",
     "LocusPulse.a9b46e",
     "LocusPulse.a9b46e",
     "CoterieProvacateur.14bdaa",
-    "CoterieProvacateur.38720b",
+    "CoterieProvacateur.14bdaa",
     "ScarletBeast.32fbac",
-    "ScarletBeast.9b41b9",
+    "ScarletBeast.32fbac",
+    "SwiftRetreat.170192",
+    "SwiftRetreat.170192",
+    "CoterieEnforcerA.b6226d",
     "WarpedReality.2aa9cf",
-    "WarpedReality.3d4c6c",
-    "BeyondthePale.820aeb",
+    "WarpedReality.2aa9cf",
     "BeyondthePale.67041d",
-    "BeyondthePale.820aeb",
+    "BeyondthePale.67041d",
+    "BeyondthePale.67041d",
     "SplinteredSpace.502721",
-    "SplinteredSpace.c24a10",
     "SplinteredSpace.502721",
-    "KeyCharge.229d55",
-    "KeyCharge.90020b",
-    "BoundinRed.203a63",
-    "BoundinRed.4aaa13",
+    "SplinteredSpace.502721",
     "DistortedReasoning.6bb5e5",
-    "DistortedReasoning.a6ac1b",
+    "DistortedReasoning.6bb5e5",
     "Compulsion.1e8b5f",
-    "Compulsion.4fa5e5",
+    "Compulsion.1e8b5f",
     "TouchoftheBeyond.e44e58",
-    "TouchoftheBeyond.e44e58"
+    "TouchoftheBeyond.e44e58",
+    "KeyCharge.229d55",
+    "KeyCharge.229d55",
+    "BoundinRed.203a63",
+    "BoundinRed.203a63"
   ],
   "ContainedObjects_path": "EncounterDeck.06b4bf",
   "CustomDeck": {
@@ -38,8 +38,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387455831/D6086B61D4E449AB8A4C5C43D640A35AAD92DD71/",
       "NumHeight": 3,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5892": {
       "BackIsHidden": true,
@@ -47,8 +46,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387919505/4340DE4D787C4C023EDF48DE66B67F00C4E298AD/",
       "NumHeight": 3,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5895": {
       "BackIsHidden": true,
@@ -56,8 +54,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387859732/1712285E81AF47EE85C90B49203E484D209B326F/",
       "NumHeight": 3,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5902": {
       "BackIsHidden": true,
@@ -65,8 +62,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328388054046/1C954C9B41A6815C9FB6A759B2BF0DC0B0762FEB/",
       "NumHeight": 2,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     },
     "5904": {
       "BackIsHidden": true,
@@ -74,22 +70,21 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093882877608/6F29B2960E3B1A761FDC3E232B17CF63DB4FF994/",
       "NumHeight": 2,
       "NumWidth": 2,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    589504,
-    590400,
-    589506,
-    589506,
     590401,
+    590400,
     590202,
     590202,
     590201,
     590201,
     590200,
     590200,
+    589506,
+    589506,
+    589504,
     589210,
     589210,
     589209,
@@ -98,16 +93,16 @@
     589208,
     589208,
     589208,
-    588207,
-    588207,
-    588206,
-    588206,
     588210,
     588210,
     588209,
     588209,
     588208,
-    588208
+    588208,
+    588207,
+    588207,
+    588206,
+    588206
   ],
   "GUID": "06b4bf",
   "Hands": false,

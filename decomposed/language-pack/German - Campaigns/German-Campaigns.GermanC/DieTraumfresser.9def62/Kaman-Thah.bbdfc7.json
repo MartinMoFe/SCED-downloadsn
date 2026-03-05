@@ -14,11 +14,9 @@
   "Description": "Priester der Traumlande",
   "GMNotes": "{\n  \"id\": \"06057\"\n}",
   "GUID": "bbdfc7",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kaman-Thah",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

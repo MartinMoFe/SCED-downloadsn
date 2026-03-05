@@ -14,11 +14,9 @@
   "Description": "Мираж.",
   "GMNotes": "{\n  \"id\": \"08573\"\n}",
   "GUID": "9a98ed",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Турецкий фронт",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

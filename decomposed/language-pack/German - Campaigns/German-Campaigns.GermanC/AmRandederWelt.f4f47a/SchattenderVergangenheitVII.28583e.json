@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"08554\"\n}",
   "GUID": "28583e",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Schatten der Vergangenheit (V. II)",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

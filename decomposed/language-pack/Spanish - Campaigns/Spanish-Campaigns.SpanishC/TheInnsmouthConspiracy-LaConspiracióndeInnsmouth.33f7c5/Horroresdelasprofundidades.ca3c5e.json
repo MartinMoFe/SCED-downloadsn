@@ -1,0 +1,22 @@
+{
+  "CardID": 878108,
+  "CustomDeck": {
+    "8781": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/4pemhPU.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"07186\"\n}",
+  "GUID": "ca3c5e",
+  "Name": "Card",
+  "Nickname": "Horrores de las profundidades",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

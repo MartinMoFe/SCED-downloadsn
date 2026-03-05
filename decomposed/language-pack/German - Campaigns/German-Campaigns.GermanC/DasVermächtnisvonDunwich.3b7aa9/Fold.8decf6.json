@@ -13,12 +13,10 @@
   },
   "GMNotes": "{\n  \"id\": \"02069\"\n}",
   "GUID": "8decf6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Fold",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

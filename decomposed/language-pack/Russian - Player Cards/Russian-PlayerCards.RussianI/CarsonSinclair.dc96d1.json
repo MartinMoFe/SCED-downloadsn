@@ -15,7 +15,6 @@
   "Description": "Ассистент.",
   "GMNotes": "{\n  \"id\": \"09001\"\n}",
   "GUID": "dc96d1",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Карсон Синклер",
   "SidewaysCard": true,
@@ -23,7 +22,6 @@
     "2": "CarsonSinclair.ba22bf"
   },
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

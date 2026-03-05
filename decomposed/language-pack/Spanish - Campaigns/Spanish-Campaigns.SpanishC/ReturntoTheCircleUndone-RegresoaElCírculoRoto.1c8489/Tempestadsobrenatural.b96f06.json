@@ -1,0 +1,22 @@
+{
+  "CardID": 460115,
+  "CustomDeck": {
+    "4601": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/eZ52T70.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"54072\"\n}",
+  "GUID": "b96f06",
+  "Name": "Card",
+  "Nickname": "Tempestad sobrenatural",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

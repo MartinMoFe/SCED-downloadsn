@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
-    "LingeringFatigue.46e09d",
     "LingeringFatigue.aa71f0",
-    "LingeringFatigue.0b829e",
-    "LingeringFatigue.13491c"
+    "LingeringFatigue.46e09d",
+    "LingeringFatigue.13491c",
+    "LingeringFatigue.0b829e"
   ],
   "ContainedObjects_path": "CopiesofLingeringFatigue.d2159e",
   "CustomDeck": {
@@ -13,15 +13,14 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1746813422553080248/EE2B6C8F9875165ED47AE750376E961D8B674375/",
       "NumHeight": 2,
       "NumWidth": 4,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    564907,
     564906,
-    564905,
-    564904
+    564907,
+    564904,
+    564905
   ],
   "GUID": "d2159e",
   "Hands": false,

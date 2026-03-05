@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"90065\"\n}",
   "GUID": "d53eef",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Реликвии прошлого",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

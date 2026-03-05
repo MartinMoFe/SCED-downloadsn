@@ -7,14 +7,12 @@
       "FaceURL": "https://github.com/Forgotin/HLV/blob/main/HLV_06.jpg?raw=true",
       "NumHeight": 2,
       "NumWidth": 7,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Abomination. Mutated. Elite.",
   "GMNotes": "{\n  \"id\": \"10517\"\n}",
   "GUID": "5cda5b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Subterranean Beast",
   "Transform": {

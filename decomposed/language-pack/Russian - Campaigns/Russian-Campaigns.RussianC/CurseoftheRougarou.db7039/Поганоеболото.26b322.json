@@ -14,11 +14,9 @@
   "Description": "Нечистое место. Байу.",
   "GMNotes": "{\n  \"id\": \"81016\"\n}",
   "GUID": "26b322",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Поганое болото",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

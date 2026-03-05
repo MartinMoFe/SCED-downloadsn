@@ -1,5 +1,6 @@
 {
   "id": "17b9e205-0ee5-45fa-94ae-d359c11eeca3",
+  "TtsZoopGuid": "17b9e205-0ee5-45fa-94ae-d359c11eeca3",
   "type": "Location",
   "class": "Mythos",
   "traits": "Arboretum.",
@@ -17,7 +18,6 @@
   },
   "locationBack": {
     "icons": "Circle",
-    "connections": "Empty|Empty|Empty|Empty|Empty|Empty",
     "uses": [
       {
         "countPerInvestigator": 1,
@@ -25,6 +25,5 @@
         "token": "clue"
       }
     ]
-  },
-  "TtsZoopGuid": "17b9e205-0ee5-45fa-94ae-d359c11eeca3"
+  }
 }

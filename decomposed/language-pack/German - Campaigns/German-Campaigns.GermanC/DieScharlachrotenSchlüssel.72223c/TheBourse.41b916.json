@@ -14,11 +14,9 @@
   "Description": "Commercial Center",
   "GMNotes": "{\n  \"id\": \"09644\"\n}",
   "GUID": "41b916",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "The Bourse",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

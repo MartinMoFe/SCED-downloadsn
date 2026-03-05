@@ -1,7 +1,7 @@
 {
   "ContainedObjects_order": [
-    "MarkedPriorityThreat.9b5a0c",
-    "MarkedPriorityThreat.f87f35"
+    "MarkedPriorityThreat.f87f35",
+    "MarkedPriorityThreat.9b5a0c"
   ],
   "ContainedObjects_path": "CopiesofMarkedPriorityThreat.7737c9",
   "CustomDeck": {
@@ -11,13 +11,12 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1746813422553218186/31EA4924FA3B5ECEE918640CFAE755EC6BD288AC/",
       "NumHeight": 4,
       "NumWidth": 6,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "DeckIDs": [
-    565516,
-    565515
+    565515,
+    565516
   ],
   "GUID": "7737c9",
   "Hands": false,

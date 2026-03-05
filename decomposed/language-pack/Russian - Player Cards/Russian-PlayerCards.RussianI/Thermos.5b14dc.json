@@ -7,8 +7,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11071622639073319998/F752D4B9A38809E43AB80C34FA28514E3AF6DD48/",
       "NumHeight": 7,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "Вещь.",
@@ -17,7 +16,6 @@
   "Name": "Card",
   "Nickname": "Термос",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

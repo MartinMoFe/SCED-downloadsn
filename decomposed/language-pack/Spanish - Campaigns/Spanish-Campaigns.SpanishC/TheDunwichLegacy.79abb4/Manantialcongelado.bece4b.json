@@ -1,0 +1,23 @@
+{
+  "CardID": 50207,
+  "CustomDeck": {
+    "502": {
+      "BackIsHidden": true,
+      "BackURL": "http://i.imgur.com/3glZaEa.jpg",
+      "FaceURL": "http://i.imgur.com/tFdqDPC.jpg",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"02288\"\n}",
+  "GUID": "bece4b",
+  "Name": "Card",
+  "Nickname": "Manantial congelado",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

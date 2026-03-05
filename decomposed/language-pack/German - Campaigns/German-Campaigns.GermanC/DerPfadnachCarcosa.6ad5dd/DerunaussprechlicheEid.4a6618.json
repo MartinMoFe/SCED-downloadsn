@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03159\"\n}",
   "GUID": "4a6618",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Der unaussprechliche Eid",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

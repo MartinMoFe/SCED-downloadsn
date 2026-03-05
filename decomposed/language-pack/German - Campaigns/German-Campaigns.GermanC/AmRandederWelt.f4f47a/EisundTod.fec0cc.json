@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08501\"\n}",
   "GUID": "fec0cc",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Eis und Tod",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

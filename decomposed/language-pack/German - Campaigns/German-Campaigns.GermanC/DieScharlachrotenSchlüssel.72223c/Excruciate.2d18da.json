@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"09677\"\n}",
   "GUID": "2d18da",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Excruciate",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,0 +1,22 @@
+{
+  "CardID": 51102,
+  "CustomDeck": {
+    "511": {
+      "BackIsHidden": false,
+      "BackURL": "https://i.imgur.com/FftAtkg.jpg",
+      "FaceURL": "https://i.imgur.com/lx9qMSJ.jpg",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0
+    }
+  },
+  "GMNotes": "{\n  \"id\": \"70041\"\n}",
+  "GUID": "bd4d36",
+  "Name": "Card",
+  "Nickname": "Jeringuilla misteriosa",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

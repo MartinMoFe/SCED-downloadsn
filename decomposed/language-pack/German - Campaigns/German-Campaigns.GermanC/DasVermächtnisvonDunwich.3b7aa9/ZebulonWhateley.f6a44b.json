@@ -14,11 +14,9 @@
   "Description": "Erinnerungen an uralte Dinge",
   "GMNotes": "{\n  \"id\": \"02217\"\n}",
   "GUID": "f6a44b",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Zebulon Whateley",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

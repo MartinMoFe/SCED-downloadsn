@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"08563\"\n}",
   "GUID": "dab2c6",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Kammer der Alten",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

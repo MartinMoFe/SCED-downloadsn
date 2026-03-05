@@ -8,13 +8,12 @@
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
-      "UniqueBack": false
+      "UniqueBack": true
     }
   },
   "GMNotes_path": "RiseRaptureRise.412e0a/7TerrorintheDeep.041554/7TerrorintheDeepvI.a1c08b/Set-aside.814c14/DeepOneOffspring.f22f8e/DeepSeaOffspring.e00005.gmnotes",
   "GUID": "e00005",
   "Hands": false,
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Deep Sea Offspring",
   "Tags": [

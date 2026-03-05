@@ -21,13 +21,11 @@
   "Description": "Юрист",
   "GMNotes": "{\n  \"id\": \"11017\"\n}",
   "GUID": "tdc017",
-  "HideWhenFaceDown": false,
   "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "CardCustom",
   "Nickname": "Джордж Барнаби",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 270,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"02294\"\n}",
   "GUID": "51646a",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Anhänger des Schlüssels",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -14,11 +14,9 @@
   "Description": "Древняя. Руины.",
   "GMNotes": "{\n  \"id\": \"53019\"\n}",
   "GUID": "b05d7f",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Главный вход",
   "Transform": {
-    "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -1,5 +1,5 @@
 {
-  "CardID": "535041",
+  "CardID": 535041,
   "CustomDeck": {
     "5350": {
       "BackIsHidden": true,
@@ -14,12 +14,10 @@
   "Description": "Предприниматель.",
   "GMNotes": "{\n  \"id\": \"08016\"\n}",
   "GUID": "3360df",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Боб Дженкинс",
   "SidewaysCard": true,
   "Transform": {
-    "rotY": 180,
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15

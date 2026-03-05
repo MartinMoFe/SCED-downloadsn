@@ -1,30 +1,30 @@
 {
   "id": "c7678040-73b2-4b4c-b7a2-4da45e612a78",
+  "TtsZoopGuid": "c7678040-73b2-4b4c-b7a2-4da45e612a78",
   "type": "ScenarioReference",
   "class": "Mythos",
-  "TtsZoopGuid": "c7678040-73b2-4b4c-b7a2-4da45e612a78",
   "tokens": {
     "front": {
       "Skull": {
-        "description": "-X, where X is half the number of <t>Task</t> treacheries next to this card <i>(rounded up)</i>.",
+        "description": "-X, where X is half the number of Task treacheries next to this card <i>(rounded up)</i>.",
         "modifier": -999
       },
       "Cultist": {
-        "description": "Reveal another token. If you fail, place 1 doom on the scenario reference card <i>(it does not count towards the doom threshold)</i>.",
+        "description": "Reveal another token. If you fail, place 1 resource <i>(from the token pool)</i> on the scenario reference card.",
         "modifier": -999
       },
       "Tablet": {
-        "description": "-2. If you fail, rotate the nearest <t>Surveillance</t> treachery and trigger its targeted effect, if able.",
+        "description": "-2. If you fail, rotate the nearest Surveillance treachery and trigger its targeted effect, if able.",
         "modifier": -2
       },
       "Elder Thing": {
-        "description": "-2 (-4 if you are at a <t>Sunken</t> location).",
+        "description": "-2 (-4 if you are at a Sunken location).",
         "modifier": -2
       }
     },
     "back": {
       "Skull": {
-        "description": "-1 for each <t>Task</t> treachery next to this card.",
+        "description": "-1 for each Task treachery next to this card.",
         "modifier": -1
       },
       "Cultist": {
@@ -32,11 +32,11 @@
         "modifier": -1
       },
       "Tablet": {
-        "description": "-3. If you fail, rotate the nearest <t>Surveillance</t> treachery.",
+        "description": "-3. If you fail, rotate the nearest Surveillance treachery.",
         "modifier": -3
       },
       "Elder Thing": {
-        "description": "-3 (-5 if you are at a <t>Sunken</t> location).",
+        "description": "-3 (-5 if you are at a Sunken location).",
         "modifier": -3
       }
     }

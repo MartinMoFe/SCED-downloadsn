@@ -13,11 +13,9 @@
   },
   "GMNotes": "{\n  \"id\": \"03338\"\n}",
   "GUID": "391cc4",
-  "HideWhenFaceDown": false,
   "Name": "Card",
   "Nickname": "Reich des Wahnsinns",
   "Transform": {
-    "rotY": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

@@ -7,18 +7,15 @@
       "FaceURL": "https://i.imgur.com/Lwpp917.jpg",
       "NumHeight": 4,
       "NumWidth": 10,
-      "Type": 0,
-      "UniqueBack": false
+      "Type": 0
     }
   },
   "Description": "El libro de libros",
-  "GMNotes": "{\"id\": \"60206\"}",
+  "GMNotes": "{\n  \"id\": \"60206\"\n}",
   "GUID": "ef808d",
   "Name": "Card",
   "Nickname": "Fragmentos de Celeno",
   "Transform": {
-    "rotY": 270,
-    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
