@@ -10,6 +10,7 @@ local LocationLib             = require("LocationLib")
 local MythosAreaApi           = require("mythos/MythosAreaApi")
 local PlayAreaApi             = require("playarea/PlayAreaApi")
 local SearchLib               = require("util/SearchLib")
+local VictoryDisplayApi       = require("mythos/VictoryDisplayApi")
 
 local ANCIENT_DOME_ID         = "11652"
 local BAG_GUIDS               = {
@@ -19,6 +20,7 @@ local BAG_GUIDS               = {
 local CENTRAL_SPIRE_ID        = "11649"
 local FLOATING_SPIRE_ID       = "11650"
 local AERIAL_WATERFALL_ID     = "11660"
+local GLYPH_ORRERY_ID         = "11662"
 local HORIZONTAL_ROTATION     = { x = 0, y = 0, z = 0 }
 local INNESCAPABLE_DECK_GUID  = '3307b5'
 local INNESCAPABLE_ENEMY_GUID = "1acf22"
@@ -34,11 +36,11 @@ local WINDS_CARD_ID           = '11640'
 
 
 
--- ░█▀▀█ ░█─░█ ▀▀█▀▀ ▀▀█▀▀ ░█▀▀▀█ ░█▄─░█ 
--- ░█▀▀▄ ░█─░█ ─░█── ─░█── ░█──░█ ░█░█░█ 
+-- ░█▀▀█ ░█─░█ ▀▀█▀▀ ▀▀█▀▀ ░█▀▀▀█ ░█▄─░█
+-- ░█▀▀▄ ░█─░█ ─░█── ─░█── ░█──░█ ░█░█░█
 -- ░█▄▄█ ─▀▄▄▀ ─░█── ─░█── ░█▄▄▄█ ░█──▀█
 
-BUTTON_SETUP_1                          = {
+BUTTON_SETUP_1   = {
   label          = "The expedition headed west. (Setup v.I)",
   click_function = "act1SetupWest",
   function_owner = self,
@@ -50,7 +52,7 @@ BUTTON_SETUP_1                          = {
   color          = { r = 1, g = 1, b = 1 }
 }
 
-BUTTON_SETUP_2                          = {
+BUTTON_SETUP_2   = {
   label          = "The expedition headed east. (Setup v.II)",
   click_function = "act1SetupEast",
   function_owner = self,
@@ -62,7 +64,7 @@ BUTTON_SETUP_2                          = {
   color          = { r = 1, g = 1, b = 1 }
 }
 
-BUTTON_ADVANCE_1                        = {
+BUTTON_ADVANCE_2 = {
   label          = "Advance to act II",
   click_function = "act2Setup",
   function_owner = self,
@@ -71,10 +73,10 @@ BUTTON_ADVANCE_1                        = {
   width          = 1800,
   scale          = { x = 3, y = 3, z = 3 },
   font_color     = { r = 0, g = 0, b = 0 },
-  color          = { r = 1, g = 1, b = 1 }
+  color          = { r = 1, g = 0.7, b = 0.5 }
 }
 
-BUTTON_ADVANCE_2                        = {
+BUTTON_ADVANCE_3 = {
   label          = "Advance to act III.",
   click_function = "act3Setup",
   function_owner = self,
@@ -83,10 +85,10 @@ BUTTON_ADVANCE_2                        = {
   width          = 1800,
   scale          = { x = 2, y = 2, z = 2 },
   font_color     = { r = 0, g = 0, b = 0 },
-  color          = { r = 1, g = 1, b = 1 }
+  color          = { r = 1, g = 0.7, b = 0 }
 }
 
-BUTTON_END                              = {
+BUTTON_END       = {
   label          = "No more setup to do",
   click_function = "doNothing",
   function_owner = self,
@@ -99,8 +101,8 @@ BUTTON_END                              = {
 }
 
 
--- █▀▀█ █▀▀█ █▀▀ ─▀─ ▀▀█▀▀ ─▀─ █▀▀█ █▀▀▄ █▀▀ 
--- █──█ █──█ ▀▀█ ▀█▀ ──█── ▀█▀ █──█ █──█ ▀▀█ 
+-- █▀▀█ █▀▀█ █▀▀ ─▀─ ▀▀█▀▀ ─▀─ █▀▀█ █▀▀▄ █▀▀
+-- █──█ █──█ ▀▀█ ▀█▀ ──█── ▀█▀ █──█ █──█ ▀▀█
 -- █▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀▀ ──▀── ▀▀▀ ▀▀▀▀ ▀──▀ ▀▀▀
 
 local ACT1_LOCATION_POSITIONS           = {
@@ -307,7 +309,7 @@ function act1Setup(param)
     end
 
     -- Each investigator begins play at R’lyeh Streets
-    moveMiniCardSomewhere({ position = PlayAreaApi.gridToWorld({ x = -1.2, y = -1.2 }) })
+    findMoveMiniCardS({ position = PlayAreaApi.gridToWorld({ x = -1.2, y = -1.2 }) })
     makeSureIsFaceUp(rlyehStreets)
     printToAll('Each investigator begins play at R’lyeh Streets.')
 
@@ -343,14 +345,14 @@ function act1Setup(param)
     end
 
     -- Last lines of the page 34 setup
-    printToAll('Each player takes [FFFFAA]one Artifact[-] or Item from the expedition encounter set.')
+    printToAll('Each player takes [FFFFAA]one Artifact or Item[-] from the expedition encounter set.')
     printToAll('Shuffle the encounter deck. You are ready to begin.')
 
     -- Transform this objetct from Act 0 into Act I mode
     self.removeButton(0)
     self.removeButton(1)
     currentAct = 1
-    self.createButton(BUTTON_ADVANCE_1)
+    self.createButton(BUTTON_ADVANCE_2)
   end
 
   CoroutineLib.start(coroutineact1Setup)
@@ -410,33 +412,31 @@ function act2Setup(_, color)
     end
 
     -- Paragraph one. Remove R'lyeh Streets from the game, ignoring its text box.
-    -- Shuffle each open sky and Summit location in play except for Central Spire into the Summit deck.
-    -- Each card and token at those locations is discarded.
+  
     local rlyehStreets = getObjectById(RLYEH_STREETS_ID)
     if not rlyehStreets then
       printToAll("R'lyeh Streets was not found", 'Red')
       return
     end
-    cleanLocation(rlyehStreets)
+    cleanLocationTokens(rlyehStreets)
+    cleanLocationEncounter(rlyehStreets)
     rlyehStreets.setPosition(aboveTrash)
-    printToAll("R'lyeh Streets was removed")
+    printToAll("[FFFFAA]R'lyeh Streets[-] was removed")
 
-    -- Take almost all remaining locations and openskies and place them on the Summit deck
-    local locationsToMove = findLocationsToMoveExcept(ACT1_ALL_POSITIONS, CENTRAL_SPIRE_ID)
-    shuffleSafelyLocationsInDeck(locationsToMove, summitDeck)
-    printToAll('Locations shuffled into the Summit deck.')
-    printToAll('Make sure to clean manually any remaining token.')
+    -- Shuffle each open sky and Summit location in play except for Central Spire into the Summit deck.
+    -- Each card and token at those locations is discarded.
+    cleanUpLocationIntelligent(CENTRAL_SPIRE_ID, summitDeck)
 
     -- Place locations in the new shape
     -- Placing the Central Spire in the correct space
     local centralSpire = getObjectById(CENTRAL_SPIRE_ID)
-    transportSafelyToCoordinates(centralSpire, ACT2_INITIAL_SPIRE)
+    moveCardSafelyToCoordinates(centralSpire, ACT2_INITIAL_SPIRE)
     makeSureIsFaceUp(centralSpire)
 
     -- Step 3.2
     -- Move minicards to starting position
     local miniPosition = PlayAreaApi.gridToWorld(ACT2_INITIAL_SPIRE) + Vector(0.5, 0, 0)
-    moveMiniCardSomewhere({ position = miniPosition })
+    findMoveMiniCardS({ position = miniPosition })
 
     -- Step 3.3. Place five Open Skies
     for _, coords in ipairs(ACT2_OPEN_SKIES_INITIAL_POSITIONS) do
@@ -495,12 +495,7 @@ function act2Setup(_, color)
     currentAct = 2
 
     -- Transform this helper into Act II helper
-    self.removeButton(0)
-    if expeditionDirection == 'western' then
-      self.createButton(BUTTON_ADVANCE_2)
-    else
-      self.createButton(BUTTON_END)
-    end
+    refreshButtons()
   end
 
   CoroutineLib.start(coroutineAct2Setup)
@@ -545,31 +540,24 @@ function act3Setup(_, color)
       printToAll("Central Spire not found", 'Red')
       return
     end
-    cleanLocation(centralSpire)
+    cleanLocationTokens(centralSpire)
+    cleanLocationEncounter(centralSpire)
     centralSpire.setPosition(aboveTrash)
-    printToAll("Central Spire was removed")
-
+    printToAll("[FFFFAA]Central Spire[-] was removed")
 
     -- Step 2. Take almost all remaining locations and openskies and place them on the Summit deck.
-    local locationsToMove = findLocationsToMoveExcept(ACT2_ALL_POSITIONS, FLOATING_SPIRE_ID)
-    shuffleSafelyLocationsInDeck(locationsToMove, summitDeck)
-    CoroutineLib.yieldSeconds(0.22)
-    printToAll('Locations shuffled into the Summit deck.')
-    printToAll('Make sure to clean manually any remaining token or card.')
+    -- Each card and token at those locations is discarded.
+    cleanUpLocationIntelligent(FLOATING_SPIRE_ID, summitDeck)
 
     -- Step 3. Place locations in the new 4x5 rectangular shape.
     -- Step 3.1 Placing the Floating Spire in the correct space.
     local floatingSpire = getObjectById(FLOATING_SPIRE_ID)
-    transportSafelyToCoordinates(floatingSpire, ACT3_INITIAL_SPIRE)
+    moveCardSafelyToCoordinates(floatingSpire, ACT3_INITIAL_SPIRE)
     CoroutineLib.yieldSeconds(0.11)
-    if floatingSpire.is_face_down then
-      floatingSpire.flip()
-      CoroutineLib.yieldSeconds(0.11)
-    end
 
     -- Step 3.2. Move minicards to starting position, the Spire location.
     local position = PlayAreaApi.gridToWorld(ACT3_INITIAL_SPIRE) + Vector(0.6, 0, 0)
-    moveMiniCardSomewhere({ position = position })
+    findMoveMiniCardS({ position = position })
 
     -- Step 3.3. Place five Open Skies. This should leave the Open Skies deck empty and destroyed.
     for i, coords in ipairs(ACT3_OPEN_SKIES_INITIAL_POSITIONS) do
@@ -619,13 +607,30 @@ function doNothing(_, color)
 end
 
 ------------------
--- Deck handling helpers
+--- Button manipulation
+------------------
+
+function refreshButtons()
+  self.clearButtons()
+  if currentAct == 0 then
+    self.createButton(BUTTON_SETUP_1)
+    self.createButton(BUTTON_SETUP_2)
+  elseif currentAct == 1 then
+    self.createButton(BUTTON_ADVANCE_2)
+  elseif currentAct == 2 and expeditionDirection == 'eastern' then
+    self.createButton(BUTTON_END)
+  elseif currentAct == 2 and expeditionDirection == 'western' then
+    self.createButton(BUTTON_ADVANCE_3)
+  end
+end
+
+------------------
+-- generic functions>> Deck handling helpers
 ------------------
 
 ---@return tts__Object : returns either a deck or card
+-- This function makes deck.takeObject() work even if the deck was reduced to one element, which fails
 function takeObjectRobust(deck, params)
-  -- This function makes deck.takeObject() work even if the deck was reduced to one element, which fails
-
   if deck.tag == 'Deck' then
     deck.takeObject(params)
     if deck.remainder ~= nil then -- only one card remaining, return it
@@ -637,55 +642,215 @@ function takeObjectRobust(deck, params)
   return deck
 end
 
-function shuffleSafelyLocationsInDeck(tableo, deck)
-  -- This allows getting a lot of locations quickly into a deck, like the Summit Deck
-  local aboveDeck = deck.getPosition() + Vector(0, 0.8, 0)
-  for _, obj in ipairs(tableo) do
-    cleanLocation(obj)
-    CoroutineLib.yieldSeconds(0.02)
-    DeckLib.placeOrMergeIntoDeck(obj, aboveDeck, { x = 0, y = 270, z = 180 }, false, false, true)
-    CoroutineLib.yieldSeconds(0.02)
-  end
+------------------
+-- generic functions>> Single card manipulation
+------------------
 
-  CoroutineLib.yieldSeconds(0.10)
-  deck.shuffle()
-  CoroutineLib.yieldSeconds(0.10)
-end
-
--- Deck handling helpers
-
-function transportSafelyToCoordinates(card, coordinates)
-  -- This moves a card and the things on it, like clues to the coordinates in the objective
-  card.setLock(false)
-  CoroutineLib.yieldSeconds(0.10)
-  moveCardToCoordinates(card, coordinates)
-  CoroutineLib.yieldSeconds(0.19)
-end
-
-function moveMiniCardSomewhere(params)
-  local minis = getObjectsWithTag("Minicard")
-  local deltaV = params.delta or Vector(0.5, 0, 0.5)
-  local destination = params.position
-  if not destination or not minis then
-    return
-  end
-  for _, mini in ipairs(minis) do
-    destination = destination + deltaV
-    mini.setPosition(destination)
+---@param card tts__Object
+function makeSureIsFaceUp(card)
+  if card.is_face_down then
+    card.flip()
   end
 end
 
-function cleanLocation(location)
-  -- remove tokens from the card (does not remove chaos tokens)
-  local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
-  for _, obj in ipairs(SearchLib.onObject(location, "isTileOrToken")) do
-    if not obj.getLock() and obj.interactable then
-      trash.putObject(obj)
+---@param card tts__Object
+function makeSureIsFaceDown(card)
+  if not card.is_face_down then
+    card.flip()
+  end
+end
+
+
+
+------------------
+--- SCED generic functions>> generic getters or booleans
+------------------
+
+---@param name string
+---@return tts__Object|nil
+function getObjectByName(name)
+  for _, obj in ipairs(getObjects()) do
+    if obj.getName() == name then
+      return obj
     end
   end
 end
 
+---@param id string|number
+---@return tts__Object|nil
+function getObjectById(id)
+  local objects = getAllObjects()
+  for _, obj in ipairs(objects) do
+    local md = JSON.decode(obj.getGMNotes() or "{}")
+    if md then
+      local id2 = md['id']
+      if id2 == id then
+        return obj
+      end
+    end
+    -- continue
+  end
+  return nil
+end
+
+---@param obj tts__Object
+---@return string|nil
+function getId(obj)
+  if not obj then
+    return nil
+  elseif type(obj) ~= "userdata" then
+    log(obj)
+  end
+  local md = JSON.decode(obj.getGMNotes() or "{}") or {}
+  return md.id
+end
+
+---@param obj tts__Object
+---@return string|nil
+function getType(obj)
+  if not obj then
+    return nil
+  elseif type(obj) ~= "userdata" then
+    log(obj)
+  end
+  local md = JSON.decode(obj.getGMNotes() or "{}") or {}
+  return md.type or nil
+end
+
+-- Checks if a card has clues on it
+---@param card tts__Object Card to check for clues
+---@return boolean hasClues True if card has clues on it
+function cardHasClues(card)
+  local searchResult = SearchLib.onObject(card, "isClue")
+  return #searchResult > 0
+end
+
+------------------
+--- SCED generic functions>> Container manipulation
+------------------
+
+---@param container Bag
+---@param id string
+---@param params table
+---@return tts__Object|nil
+function takeObjectFromContainerById(container, id, params)
+  assert(container, 'Value error container')
+  assert(id)
+
+  params = params or {}
+
+  for _, el in ipairs(container.getObjects()) do
+    local md = JSON.decode(el.gm_notes or "{}")
+    if md and md.id == id then
+      params.guid = el.guid
+      return container.takeObject(params)
+    end
+  end
+
+  return nil
+end
+
+-- This allows getting a lot of cards quickly into a deck
+-- Make sure the cards were cleaned (no tokens, no attachements)
+---@param tableo tts__Object[]|nil   -- list of cards/objects to merge into the deck
+---@param deck tts__Object|nil       -- target deck
+function shuffleSafelyCardsInDeck(tableo, deck)
+  if type(tableo) ~= "table" then
+    log("shuffleSafelyCardsInDeck: tableo is not a table")
+    return
+  end
+
+  if not deck or type(deck) ~= "userdata" then
+    log("shuffleSafelyCardsInDeck: deck is not a valid object")
+    return
+  end
+
+  local aboveDeck = deck.getPosition() + Vector(0, 0.8, 0)
+
+  for _, obj in ipairs(tableo) do
+    if obj and type(obj) == "userdata" then
+      CoroutineLib.yieldSeconds(0.02)
+
+      DeckLib.placeOrMergeIntoDeck(
+        obj,
+        aboveDeck,
+        { x = 0, y = 270, z = 180 },
+        false, false, true
+      )
+
+      CoroutineLib.yieldSeconds(0.02)
+    end
+  end
+
+  if deck.shuffle then
+    deck.shuffle()
+  end
+
+  CoroutineLib.yieldSeconds(0.10)
+end
+
+------------------
+--- SCED generic functions>> single card moving
+------------------
+
+---@param card tts__Object|nil            -- card object to move
+---@param coordinates table|nil           -- target coordinates {x=..., y=..., z=...}
+function moveCardSafelyToCoordinates(card, coordinates)
+  -- type checks
+  if not card or type(card) ~= "userdata" then
+    log("transportCardSafelyToCoordinates: invalid card")
+    return
+  end
+
+  if card.Name ~= "Card" and card.Name ~= "CardCustom" then
+    log("transportCardSafelyToCoordinates: this is not a card")
+    return
+  end
+
+  if not coordinates or type(coordinates) ~= "table" then
+    log("transportCardSafelyToCoordinates: coordinates must be a table")
+    return
+  end
+
+  if not coordinates.x and not coordinates.y then
+    log("transportCardSafelyToCoordinates: coordinates must have x y components")
+    return
+  end
+
+  -- This moves a card and the things on it, like clues, to the coordinates in the objective
+  card.setLock(false)
+  CoroutineLib.yieldSeconds(0.02)
+  moveCardToCoordinates(card, coordinates)
+  CoroutineLib.yieldSeconds(0.19)
+end
+
+-- This function is copied
 function moveCardToCoordinates(card, coordinates)
+
+  function moveObjectsByOffset(objects, offset)
+    for _, obj in ipairs(objects) do
+      if obj ~= nil then
+        local pos = obj.getPosition() + offset
+        obj.setLock(true)
+
+        if obj.type == "Card" or obj.type == "Deck" then
+          -- move cards / decks + objects on them
+          GlobalApi.moveCardWithTokens(obj, pos)
+        else
+          -- move other objects
+          obj.setPosition(pos)
+        end
+
+        Wait.time(function()
+          if obj ~= nil then
+            obj.setLock(false)
+            obj.setPosition(pos)
+            obj.resting = true
+          end
+        end, 0.9)
+      end
+    end
+  end
   if currentlyMoving then return end
   currentlyMoving = true
   Wait.time(function() currentlyMoving = false end, 0.9)
@@ -698,31 +863,78 @@ function moveCardToCoordinates(card, coordinates)
   moveObjectsByOffset(LocationLib.getObjectsAt(currentGrid), moveVector)
 end
 
-function moveObjectsByOffset(objects, offset)
-  for _, obj in ipairs(objects) do
-    if obj ~= nil then
-      local pos = obj.getPosition() + offset
-      obj.setLock(true)
+-- Finds and moves minicards to a position, like the starting location
+function findMoveMiniCardS(params)
+  local minis = getObjectsWithTag("Minicard")
+  local deltaV = params.delta or Vector(0.5, 0, 0.5)
+  local destination = params.position
+  if not destination or not minis then
+    return
+  end
+  for _, mini in ipairs(minis) do
+    destination = destination + deltaV
+    mini.setPosition(destination)
+  end
+end
 
-      if obj.type == "Card" or obj.type == "Deck" then
-        -- move cards / decks + objects on them
-        GlobalApi.moveCardWithTokens(obj, pos)
-      else
-        -- move other objects
-        obj.setPosition(pos)
-      end
+------------------
+-- SCED location functions>> Clean location. This allows removing locations quickly 
+------------------
 
-      Wait.time(function()
-        if obj ~= nil then
-          obj.setLock(false)
-          obj.setPosition(pos)
-          obj.resting = true
-        end
-      end, 0.9)
+---@param location tts__Object|nil
+function cleanLocationTokens(location)
+  -- remove tokens from the card (does not remove chaos tokens)
+  local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
+  for _, obj in ipairs(SearchLib.onObject(location, "isTileOrToken")) do
+    if not obj.getLock() and obj.interactable then
+      trash.putObject(obj)
     end
   end
 end
 
+---@param location tts__Object|nil
+function cleanLocationEncounter(location)
+  -- silently exit if location is missing
+  if not location then return end
+
+  -- removes encounter cards from a location, to clean it cleanly
+  -- Like removing treacheries attached, or enemies
+  local objects = SearchLib.inArea(
+    location.getPosition(),
+    Vector(0, 270, 0),
+    1.6 * Vector(2.4, 2, 3.2),
+    "isInteractable"
+  )
+
+  for _, obj in ipairs(objects) do
+    if getType(obj) == "Treachery" or getType(obj) == "Enemy" then
+      DeckLib.placeOrMergeIntoDeck(
+        obj,
+        MythosAreaApi.getEncounterDiscardPosition() + Vector(1, 1, 0),
+        { x = 0, y = 270, z = 0 },
+        false, false, true
+      )
+
+      print(obj.getName() .. " was discarded.")
+    end
+  end
+end
+
+-- To be called inside a coroutine
+function cleanLocationsEncounter(locations)
+  for _, obj in ipairs(locations) do
+    if isLocationOrOpenSkies(obj) then
+      cleanLocationEncounter(obj)
+      CoroutineLib.yieldSeconds(0.05)
+    end
+  end
+end
+
+------------------
+-- Very specific functions for this setup
+------------------
+
+-- Part of setup
 function placeStarSpawnOnDeck()
   local starSpawnDeck = getObjectFromGUID(STAR_SPAWN_DECK_GUID)
   if not starSpawnDeck then
@@ -767,6 +979,48 @@ function findLocationsToMoveExcept(tableCoords, id)
     end
   end
   return locationsToMove
+end
+
+-- This function gathers all cards and places them onto the Summit Deck
+-- Or the Vp, or the set aside, accordingly
+function cleanUpLocationIntelligent(locationToExclude, summitDeck)
+  local locationsToCleanEncounters = findLocationsToMoveExcept(ACT1_ALL_POSITIONS, locationToExclude)
+  cleanLocationsEncounter(locationsToCleanEncounters)
+  CoroutineLib.yieldSeconds(0.05)
+  
+  local glyphOrrery = getObjectById(GLYPH_ORRERY_ID)
+  if glyphOrrery then
+    if not cardHasClues(glyphOrrery) then
+      --- The gliph Orrery goes to the VP
+      cleanLocationTokens(glyphOrrery)
+      printToAll('Moving the [FFFFAA]Glyph Orrery[-] to the VP display.')
+      VictoryDisplayApi.placeCard(glyphOrrery)
+    else
+      --- The gliph Orrery goes to the set aside
+      printToAll('Moving the [FFFFAA]Glyph Orrery[-] to the Set-Aside chest.')
+      cleanLocationTokens(glyphOrrery)
+      CoroutineLib.yieldSeconds(0.05)
+      local pos = MythosAreaApi.getSetAsideChest().getPosition() + Vector(0, 2, 0)
+      glyphOrrery.setPosition(pos)
+    end
+    CoroutineLib.yieldSeconds(0.20)
+  end
+
+  local locationsToCleanTokens = findLocationsToMoveExcept(ACT1_ALL_POSITIONS, locationToExclude)
+  for _, location in ipairs(locationsToCleanTokens) do
+    cleanLocationTokens(location)
+  end
+  CoroutineLib.yieldSeconds(0.20)
+
+  local locationsToMove = findLocationsToMoveExcept(ACT1_ALL_POSITIONS, locationToExclude)
+  for _, obj in ipairs(locationsToMove) do
+    if getId(obj) == GLYPH_ORRERY_ID then
+      log('This card cannot be legally shuffled in the Summit deck. This might be a players error.')
+    end
+  end
+  shuffleSafelyCardsInDeck(locationsToMove, summitDeck)
+  printToAll('Locations shuffled into the Summit deck.')
+  printToAll('Make sure to clean manually any remaining token or card attached.')
 end
 
 ------------------
@@ -895,48 +1149,6 @@ function informWindHelperExpeditionDirection(expeditionDirectionP)
   end
 end
 
-------------------
--- Generic getters
-------------------
-
----@param name string
----@return tts__Object|nil
-function getObjectByName(name)
-  for _, obj in ipairs(getObjects()) do
-    if obj.getName() == name then
-      return obj
-    end
-  end
-end
-
----@param id string|number
----@return tts__Object|nil
-function getObjectById(id)
-  local objects = getAllObjects()
-  for _, obj in ipairs(objects) do
-    local md = JSON.decode(obj.getGMNotes() or "{}")
-    if md then
-      local id2 = md['id']
-      if id2 == id then
-        return obj
-      end
-    end
-    -- continue
-  end
-  return nil
-end
-
----@param obj tts__Object
----@return string|nil
-function getId(obj)
-  if not obj then
-    return nil
-  elseif type(obj) ~= "userdata" then
-    log(obj)
-  end
-  local md = JSON.decode(obj.getGMNotes() or "{}") or {}
-  return md.id
-end
 
 ------------------
 --- Generic math operations
@@ -969,65 +1181,4 @@ function exclude_pairs(listA, listB)
   end
 
   return result
-end
-
-------------------
--- Single card manipulation
-------------------
-
----@param card tts__Object
-function makeSureIsFaceUp(card)
-  if card.is_face_down then
-    card.flip()
-  end
-end
-
----@param card tts__Object
-function makeSureIsFaceDown(card)
-  if not card.is_face_down then
-    card.flip()
-  end
-end
-
-------------------
---- Bag manipulation
-------------------
-
----@param container Bag
----@param id string
----@param params table
----@return tts__Object|nil
-function takeObjectFromContainerById(container, id, params)
-  assert(container, 'Value error container')
-  assert(id)
-
-  params = params or {}
-
-  for _, el in ipairs(container.getObjects()) do
-    local md = JSON.decode(el.gm_notes or "{}")
-    if md and md.id == id then
-      params.guid = el.guid
-      return container.takeObject(params)
-    end
-  end
-
-  return nil
-end
-
-------------------
---- Button manipulation
-------------------
-
-function refreshButtons()
-  self.clearButtons()
-  if currentAct == 0 then
-    self.createButton(BUTTON_SETUP_1)
-    self.createButton(BUTTON_SETUP_2)
-  elseif currentAct == 1 then
-    self.createButton(BUTTON_ADVANCE_1)
-  elseif currentAct == 2 then
-    self.createButton(BUTTON_ADVANCE_2)
-  else
-    self.createButton(BUTTON_END)
-  end
 end

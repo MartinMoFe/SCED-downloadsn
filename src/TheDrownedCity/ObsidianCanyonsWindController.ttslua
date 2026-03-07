@@ -23,6 +23,9 @@ local BUTTON_HEIGHT = 250
 local BUTTON_WIDTH = 720
 local SCALE                                = { x = 2, y = 2, z = 2 }
 
+---@class GridPos
+---@field x integer
+---@field y integer
 -----------
 -- Act 1
 -----------
@@ -540,13 +543,12 @@ function placeOnDeckOrVpDisplaySafelyCoroutine(locations, deckLocation)
     local location = locations[j]
     assert(location.tag == 'Card', 'For safety, this function should take as argument only a table of locations.')
     if isVisibleVPlocation(location) and not cardHasClues(location) then
-      location.highlightOn('Green', 4)
       VictoryDisplayApi.placeCard(location)
       makeSureIsFaceUp(location)
       CoroutineLib.yieldSeconds(0.05)
     else
       location.highlightOn({ r = 1, g = 1, b = 0 }, 0.1)
-      cleanLocation(location)
+      cleanLocationTokens(location)
       CoroutineLib.yieldSeconds(0.05)
       makeSureIsFaceDown(location)
       CoroutineLib.yieldSeconds(0.05)
@@ -555,8 +557,6 @@ function placeOnDeckOrVpDisplaySafelyCoroutine(locations, deckLocation)
     end
   end
 end
-
--- Location helpers
 
 -- Location helpers
 
@@ -586,39 +586,6 @@ function randomizeTwo(pairOrNot)
         return { pairOrNot[1], pairOrNot[2] }
     else
         return { pairOrNot[2], pairOrNot[1] }
-    end
-end
-
-function takeFromBottom(deck, params)
-    if deck.tag ~= "Deck" then return end
-
-    local objects = deck.getObjects()
-    if #objects == 0 then return end
-
-    local bottomIndex = #objects
-    local bottomCardGUID = objects[bottomIndex].guid
-
-
-    params['guid'] = bottomCardGUID
-
-    deck.takeObject(params)
-end
-
--- Checks if a card has clues on it
----@param card tts__Object Card to check for clues
----@return boolean hasClues True if card has clues on it
-function cardHasClues(card)
-    local searchResult = SearchLib.onObject(card, "isClue")
-    return #searchResult > 0
-end
-
----@param location tts__Object Card to check for tokens
-function cleanLocation(location)
-    local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
-    for _, obj in ipairs(SearchLib.onObject(location, "isTileOrToken")) do
-        if obj.memo and not obj.getLock() and obj.interactable then
-            trash.putObject(obj)
-        end
     end
 end
 
@@ -715,7 +682,7 @@ function cardHasClues(card)
 end
 
 ---@param location tts__Object Card to check for tokens
-function cleanLocation(location)
+function cleanLocationTokens(location)
   local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
   for _, obj in ipairs(SearchLib.onObject(location, "isTileOrToken")) do
     if obj.memo and not obj.getLock() and obj.interactable then
