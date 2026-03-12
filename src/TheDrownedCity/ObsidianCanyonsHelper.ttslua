@@ -412,7 +412,7 @@ function act2Setup(_, color)
     end
 
     -- Paragraph one. Remove R'lyeh Streets from the game, ignoring its text box.
-  
+
     local rlyehStreets = getObjectById(RLYEH_STREETS_ID)
     if not rlyehStreets then
       printToAll("R'lyeh Streets was not found", 'Red')
@@ -660,8 +660,6 @@ function makeSureIsFaceDown(card)
   end
 end
 
-
-
 ------------------
 --- SCED generic functions>> generic getters or booleans
 ------------------
@@ -826,7 +824,6 @@ end
 
 -- This function is copied
 function moveCardToCoordinates(card, coordinates)
-
   function moveObjectsByOffset(objects, offset)
     for _, obj in ipairs(objects) do
       if obj ~= nil then
@@ -851,6 +848,7 @@ function moveCardToCoordinates(card, coordinates)
       end
     end
   end
+
   if currentlyMoving then return end
   currentlyMoving = true
   Wait.time(function() currentlyMoving = false end, 0.9)
@@ -878,7 +876,7 @@ function findMoveMiniCardS(params)
 end
 
 ------------------
--- SCED location functions>> Clean location. This allows removing locations quickly 
+-- SCED location functions>> Clean location. This allows removing locations quickly
 ------------------
 
 ---@param location tts__Object|nil
@@ -965,7 +963,7 @@ end
 
 ---@param tableCoords table table of coords
 ---@param id string id of the card to make exception
-function findLocationsToMoveExcept(tableCoords, id)
+function findLocationsInGridExcept(tableCoords, id)
   local locationsToMove = {}
   for _, coords in ipairs(tableCoords) do
     local found = LocationLib.getObjectsAt(coords)
@@ -984,10 +982,10 @@ end
 -- This function gathers all cards and places them onto the Summit Deck
 -- Or the Vp, or the set aside, accordingly
 function cleanUpLocationIntelligent(locationToExclude, summitDeck)
-  local locationsToCleanEncounters = findLocationsToMoveExcept(ACT1_ALL_POSITIONS, locationToExclude)
+  local locationsToCleanEncounters = findLocationsInGridExcept(ACT1_ALL_POSITIONS, locationToExclude)
   cleanLocationsEncounter(locationsToCleanEncounters)
   CoroutineLib.yieldSeconds(0.05)
-  
+
   local glyphOrrery = getObjectById(GLYPH_ORRERY_ID)
   if glyphOrrery then
     if not cardHasClues(glyphOrrery) then
@@ -1006,13 +1004,13 @@ function cleanUpLocationIntelligent(locationToExclude, summitDeck)
     CoroutineLib.yieldSeconds(0.20)
   end
 
-  local locationsToCleanTokens = findLocationsToMoveExcept(ACT1_ALL_POSITIONS, locationToExclude)
+  local locationsToCleanTokens = findLocationsInGridExcept(ACT1_ALL_POSITIONS, locationToExclude)
   for _, location in ipairs(locationsToCleanTokens) do
     cleanLocationTokens(location)
   end
   CoroutineLib.yieldSeconds(0.20)
 
-  local locationsToMove = findLocationsToMoveExcept(ACT1_ALL_POSITIONS, locationToExclude)
+  local locationsToMove = findLocationsInGridExcept(ACT1_ALL_POSITIONS, locationToExclude)
   for _, obj in ipairs(locationsToMove) do
     if getId(obj) == GLYPH_ORRERY_ID then
       log('This card cannot be legally shuffled in the Summit deck. This might be a players error.')
@@ -1148,7 +1146,6 @@ function informWindHelperExpeditionDirection(expeditionDirectionP)
     printToAll('The Wind controller was not found. It will not work.')
   end
 end
-
 
 ------------------
 --- Generic math operations

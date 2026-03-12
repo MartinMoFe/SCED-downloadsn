@@ -19,8 +19,8 @@ local SUMMIT_DECK_NAME                     = "Summit Deck"
 local LIGHT_BLUE                           = { r = 0.7, g = 0.8, b = 1 }
 local LIGHT_GREEN                          = { r = 0.7, g = 1, b = 0.6 }
 local VERTICAL_ROTATION                    = { x = 0, y = 270, z = 180 }
-local BUTTON_HEIGHT = 250
-local BUTTON_WIDTH = 720
+local BUTTON_HEIGHT                        = 250
+local BUTTON_WIDTH                         = 720
 local SCALE                                = { x = 2, y = 2, z = 2 }
 
 ---@class GridPos
@@ -31,28 +31,28 @@ local SCALE                                = { x = 2, y = 2, z = 2 }
 -----------
 
 local ACT1_RIGHTMOST_POSITIONS             = {
-    { x = 2, y = 0 }
+  { x = 2, y = 0 }
 }
 local ACT1_LEFTMOST_POSITIONS              = {
-    { x = -1, y = 1 },
-    { x = 0,  y = -1 },
+  { x = -1, y = 1 },
+  { x = 0,  y = -1 },
 }
 
 local ACT1_NotRIGHTMOST_POSITIONS          = { -- this has to be sorted
-    { x = 1,  y = 0 },
-    { x = 0,  y = 0 },
-    { x = -1, y = 0 }
+  { x = 1,  y = 0 },
+  { x = 0,  y = 0 },
+  { x = -1, y = 0 }
 }
 
 local ACT1_NotLEFTMOST_POSITIONS_BOTTOMROW = { -- this has to be sorted
-    { x = 1, y = -1 },
-    { x = 2, y = -1 },
+  { x = 1, y = -1 },
+  { x = 2, y = -1 },
 }
 
 local ACT1_NotLEFTMOST_POSITIONS_TOPROW    = { -- this has to be sorted
-    { x = 0, y = 1 },
-    { x = 1, y = 1 },
-    { x = 2, y = 1 },
+  { x = 0, y = 1 },
+  { x = 1, y = 1 },
+  { x = 2, y = 1 },
 }
 
 local ACT1_POSSIBLE_EMPTY_SPACES_RIGHT     = {
@@ -70,28 +70,28 @@ local ACT1_POSSIBLE_EMPTY_SPACES_LEFT      = {
 local ACT2_RIGHTMOST_POSITIONS             = ACT1_RIGHTMOST_POSITIONS
 
 local ACT2_LEFTMOST_POSITIONS              = {
-    { x = -2, y = 1 },
-    { x = -2, y = -1 },
+  { x = -2, y = 1 },
+  { x = -2, y = -1 },
 }
 
 local ACT2_NotRIGHTMOST_POSITIONS          = { -- this has to be sorted
-    { x = 1,  y = 0 },
-    { x = 0,  y = 0 },
-    { x = -1, y = 0 }
+  { x = 1,  y = 0 },
+  { x = 0,  y = 0 },
+  { x = -1, y = 0 }
 }
 
 local ACT2_NotLEFTMOST_POSITIONS_BOTTOMROW = { -- this has to be sorted
-    { x = -1, y = -1 },
-    { x = 0,  y = -1 },
-    { x = 1,  y = -1 },
-    { x = 2,  y = -1 },
+  { x = -1, y = -1 },
+  { x = 0,  y = -1 },
+  { x = 1,  y = -1 },
+  { x = 2,  y = -1 },
 }
 
 local ACT2_NotLEFTMOST_POSITIONS_TOPROW    = { -- this has to be sorted
-    { x = -1, y = 1 },
-    { x = 0,  y = 1 },
-    { x = 1,  y = 1 },
-    { x = 2,  y = 1 },
+  { x = -1, y = 1 },
+  { x = 0,  y = 1 },
+  { x = 1,  y = 1 },
+  { x = 2,  y = 1 },
 }
 
 local ACT2_POSSIBLE_EMPTY_SPACES_RIGHT     = ACT1_POSSIBLE_EMPTY_SPACES_RIGHT
@@ -105,34 +105,34 @@ local ACT2_POSSIBLE_EMPTY_SPACES_LEFT      = {
 -----------
 
 local ACT3_RIGHTMOST_POSITIONS             = {
-    { x = 2, y = 0 },
-    { x = 2, y = -2 }
+  { x = 2, y = 0 },
+  { x = 2, y = -2 }
 }
 
 local ACT3_LEFTMOST_POSITIONS              = {
-    { x = -1, y = 1 },
-    { x = -2, y = -1 },
+  { x = -1, y = 1 },
+  { x = -2, y = -1 },
 }
 
 ACT3_NotRIGHTMOST_POSITIONS_BOTTOMROW      = {
-    { x = 1,  y = -2 },
-    { x = 0,  y = -2 },
-    { x = -1, y = -2 },
-    { x = -2, y = -2 }
+  { x = 1,  y = -2 },
+  { x = 0,  y = -2 },
+  { x = -1, y = -2 },
+  { x = -2, y = -2 }
 }
 
 ACT3_NotRIGHTMOST_POSITIONS_TOPROW         = {
-    { x = 1,  y = 0 },
-    { x = 0,  y = 0 },
-    { x = -1, y = 0 },
-    { x = -2, y = 0 }
+  { x = 1,  y = 0 },
+  { x = 0,  y = 0 },
+  { x = -1, y = 0 },
+  { x = -2, y = 0 }
 }
 
 ACT3_NotLEFTMOST_POSITIONS_BOTTOMROW       = {
-    { x = -1, y = -1 },
-    { x = 0,  y = -1 },
-    { x = 1,  y = -1 },
-    { x = 2,  y = -1 },
+  { x = -1, y = -1 },
+  { x = 0,  y = -1 },
+  { x = 1,  y = -1 },
+  { x = 2,  y = -1 },
 }
 
 ACT3_NotLEFTMOST_POSITIONS_TOPROW          = {
@@ -221,15 +221,15 @@ end
 -- Update information
 
 function updateToAct1()
-    currentAct = 1
+  currentAct = 1
 end
 
 function updateToAct2()
-    currentAct = 2
+  currentAct = 2
 end
 
 function updateToAct3()
-    currentAct = 3
+  currentAct = 3
 end
 
 -- Complex functions
@@ -255,13 +255,13 @@ function genericWindsBlow()
       aboveSummitDeck = summitDeck.getPosition() + Vector(0, 0.7, 0)
     end
 
-    
+
 
     -- Start of the program
     if windDirection == 'western' then
-        printToAll('Western Winds blow strongly.', LIGHT_BLUE)
+      printToAll('Western Winds blow strongly.', LIGHT_BLUE)
     elseif windDirection == 'eastern' then
-        printToAll('Eastern Winds blow strongly.', LIGHT_GREEN)
+      printToAll('Eastern Winds blow strongly.', LIGHT_GREEN)
     end
 
     -- Choose coordinates to remove.
@@ -271,35 +271,35 @@ function genericWindsBlow()
     local coordinatesToFill = {}
 
     if currentAct == 1 and windDirection == 'western' then
-        coordinatesToRemove = ACT1_RIGHTMOST_POSITIONS
-        rowNumbers = { 2 }
-        isFrozen = { false }
-        coordinatesToFill = ACT1_POSSIBLE_EMPTY_SPACES_LEFT
+      coordinatesToRemove = ACT1_RIGHTMOST_POSITIONS
+      rowNumbers = { 2 }
+      isFrozen = { false }
+      coordinatesToFill = ACT1_POSSIBLE_EMPTY_SPACES_LEFT
     elseif currentAct == 1 and windDirection == 'eastern' then
-        coordinatesToRemove = ACT1_LEFTMOST_POSITIONS
-        rowNumbers = { 1, 3 }
-        isFrozen = { false, false }
-        coordinatesToFill = ACT1_POSSIBLE_EMPTY_SPACES_RIGHT
+      coordinatesToRemove = ACT1_LEFTMOST_POSITIONS
+      rowNumbers = { 1, 3 }
+      isFrozen = { false, false }
+      coordinatesToFill = ACT1_POSSIBLE_EMPTY_SPACES_RIGHT
     elseif currentAct == 2 and windDirection == 'western' then
-        coordinatesToRemove = ACT2_RIGHTMOST_POSITIONS
-        rowNumbers = { 2 }
-        isFrozen = { false }
-        coordinatesToFill = ACT2_POSSIBLE_EMPTY_SPACES_LEFT
+      coordinatesToRemove = ACT2_RIGHTMOST_POSITIONS
+      rowNumbers = { 2 }
+      isFrozen = { false }
+      coordinatesToFill = ACT2_POSSIBLE_EMPTY_SPACES_LEFT
     elseif currentAct == 2 and windDirection == 'eastern' then
-        coordinatesToRemove = ACT2_LEFTMOST_POSITIONS
-        rowNumbers = { 1, 3 }
-        isFrozen = { false, false }
-        coordinatesToFill = ACT2_POSSIBLE_EMPTY_SPACES_RIGHT
+      coordinatesToRemove = ACT2_LEFTMOST_POSITIONS
+      rowNumbers = { 1, 3 }
+      isFrozen = { false, false }
+      coordinatesToFill = ACT2_POSSIBLE_EMPTY_SPACES_RIGHT
     elseif currentAct == 3 and windDirection == 'western' then
-        coordinatesToRemove = ACT3_RIGHTMOST_POSITIONS
-        rowNumbers = { 2, 4 }
-        isFrozen = { false, false }
-        coordinatesToFill = ACT3_POSSIBLE_EMPTY_SPACES_LEFT
+      coordinatesToRemove = ACT3_RIGHTMOST_POSITIONS
+      rowNumbers = { 2, 4 }
+      isFrozen = { false, false }
+      coordinatesToFill = ACT3_POSSIBLE_EMPTY_SPACES_LEFT
     elseif currentAct == 3 and windDirection == 'eastern' then
-        coordinatesToRemove = ACT3_LEFTMOST_POSITIONS
-        rowNumbers = { 1, 3 }
-        isFrozen = { false, false }
-        coordinatesToFill = ACT3_POSSIBLE_EMPTY_SPACES_RIGHT
+      coordinatesToRemove = ACT3_LEFTMOST_POSITIONS
+      rowNumbers = { 1, 3 }
+      isFrozen = { false, false }
+      coordinatesToFill = ACT3_POSSIBLE_EMPTY_SPACES_RIGHT
     end
 
     -- Step 2. Find if any of the to-remove locations freezes the row
@@ -316,44 +316,44 @@ function genericWindsBlow()
 
     -- Show message for user
     if #locationsToRemove == 2 then
-        printToAll('Two locations were placed on top of the summit deck. Don\'t shuffle it.')
+      printToAll('Two locations were placed on top of the summit deck. Don\'t shuffle it.')
     elseif #locationsToRemove == 1 then
-        printToAll('One location was placed on top of the summit deck. Don\'t shuffle it.')
+      printToAll('One location was placed on top of the summit deck. Don\'t shuffle it.')
     elseif #locationsToRemove == 0 then
-        printToAll('No location was placed on top of the summit deck. Don\'t shuffle it.', 'Red')
+      printToAll('No location was placed on top of the summit deck. Don\'t shuffle it.', 'Red')
     end
 
     -- Step 2.2. Choose what coordinates to move.
     -- Depending on the act and the windDirection, we will move some coordinates or others
     CoroutineLib.yieldSeconds(0.1)
     if windDirection == 'western' and currentAct == 1 then
-        someRows = { ACT1_NotRIGHTMOST_POSITIONS }
+      someRows = { ACT1_NotRIGHTMOST_POSITIONS }
     elseif windDirection == 'eastern' and currentAct == 1 then
-        someRows = { ACT1_NotLEFTMOST_POSITIONS_TOPROW, ACT1_NotLEFTMOST_POSITIONS_BOTTOMROW }
+      someRows = { ACT1_NotLEFTMOST_POSITIONS_TOPROW, ACT1_NotLEFTMOST_POSITIONS_BOTTOMROW }
     elseif windDirection == 'western' and currentAct == 2 then
-        someRows = { ACT2_NotRIGHTMOST_POSITIONS }
+      someRows = { ACT2_NotRIGHTMOST_POSITIONS }
     elseif windDirection == 'eastern' and currentAct == 2 then
-        someRows = { ACT2_NotLEFTMOST_POSITIONS_TOPROW, ACT2_NotLEFTMOST_POSITIONS_BOTTOMROW }
+      someRows = { ACT2_NotLEFTMOST_POSITIONS_TOPROW, ACT2_NotLEFTMOST_POSITIONS_BOTTOMROW }
     elseif windDirection == 'western' and currentAct == 3 then
-        someRows = { ACT3_NotRIGHTMOST_POSITIONS_TOPROW, ACT3_NotRIGHTMOST_POSITIONS_BOTTOMROW }
+      someRows = { ACT3_NotRIGHTMOST_POSITIONS_TOPROW, ACT3_NotRIGHTMOST_POSITIONS_BOTTOMROW }
     elseif windDirection == 'eastern' and currentAct == 3 then
-        someRows = { ACT2_NotLEFTMOST_POSITIONS_TOPROW, ACT2_NotLEFTMOST_POSITIONS_BOTTOMROW }
+      someRows = { ACT2_NotLEFTMOST_POSITIONS_TOPROW, ACT2_NotLEFTMOST_POSITIONS_BOTTOMROW }
     end
 
     -- Step 2.3 We have to find if any row is frozen because of the presence of a not movable object
     -- Double for loop, we run row by row, then right to left
     for i = 1, #coordinatesToRemove do
-        if not isFrozen[i] then
-            for _, coordinates in ipairs(someRows[i]) do
-                found = LocationLib.getObjectsAt(coordinates)
-                -- Studying a determinate coordinate
-                for _, obj in ipairs(found) do
-                    if isLocationOrOpenSkies(obj) and cannotBeMovedLocation(obj) then
-                        isFrozen[i] = true
-                    end
-                end
+      if not isFrozen[i] then
+        for _, coordinates in ipairs(someRows[i]) do
+          found = LocationLib.getObjectsAt(coordinates)
+          -- Studying a determinate coordinate
+          for _, obj in ipairs(found) do
+            if isLocationOrOpenSkies(obj) and cannotBeMovedLocation(obj) then
+              isFrozen[i] = true
             end
+          end
         end
+      end
     end
 
     -- Winds::Slide each open sky and Summit location in rows X and Y once to the direction
@@ -362,13 +362,13 @@ function genericWindsBlow()
 
     -- Place the bottom card of the summit Deck in each gap canRemoveLocationsToSummitDeck
     for i = 1, #someRows do
-        if isFrozen[i] == true then
-        elseif isFrozen[i] == false then
-            --place card in the space
-            local pos1 = PlayAreaApi.gridToWorld(coordinatesToFill[i])
-            takeFromBottom(summitDeck, { position = pos1 })
-            CoroutineLib.yieldSeconds(0.5)
-        end
+      if isFrozen[i] == true then
+      elseif isFrozen[i] == false then
+        --place card in the space
+        local pos1 = PlayAreaApi.gridToWorld(coordinatesToFill[i])
+        takeFromBottom(summitDeck, { position = pos1 })
+        CoroutineLib.yieldSeconds(0.5)
+      end
     end
 
     -- Winds:: Flip this card
@@ -378,15 +378,34 @@ function genericWindsBlow()
   CoroutineLib.start(coroutineGenericWindsBlow)
 end
 
--- HELPER, LOCATION IDENTIFICATION
+------------------
+-- generic functions>> Single card manipulation
+------------------
+
+---@param card tts__Object
+function makeSureIsFaceUp(card)
+  if card.is_face_down then
+    card.flip()
+  end
+end
+
+---@param card tts__Object
+function makeSureIsFaceDown(card)
+  if not card.is_face_down then
+    card.flip()
+  end
+end
+
+------------------
+-- Identify existence or types of cards
+------------------
+------------------
 
 function isLocationOrOpenSkies(obj)
   local rawNotes = obj.getGMNotes() or "{}"
   local md = JSON.decode(rawNotes) or {}
-  local type = md['type'] or ''
-  if type == 'Location' or obj.getName() == 'Open Sky' then
-    return true
-  end
+  local type_ = md['type'] or ''
+  return type_ == 'Location' or obj.getName() == 'Open Sky'
 end
 
 function isVisibleVPlocation(obj)
@@ -413,7 +432,7 @@ end
 
 function cannotBeMovedLocation(obj)
   if obj.is_face_down then
-    return false     -- It CAN be moved
+    return false -- It CAN be moved
   end
   if getId(obj) == RLYEH_STREETS_ID then
     return true
@@ -429,10 +448,7 @@ function cannotBeMovedLocation(obj)
   return false
 end
 
-
 -- HELPER DECK IDENTIFICATION
----@return tts__Object|nil
-
 ---@return tts__Object|nil
 function getSummitDeck()
   -- Very specific function
@@ -455,7 +471,6 @@ end
 -- This moves the rows, following the wind
 -- someRows is a table of tables
 function moveCardsSafely(someRows, isFrozen, rowNumbers)
-
   if #isFrozen ~= #someRows or #isFrozen ~= #rowNumbers or #someRows ~= #rowNumbers then
     error("moveCardsSafely::incorrect call", 2)
   end
@@ -474,7 +489,7 @@ function moveCardsSafely(someRows, isFrozen, rowNumbers)
     if frozen == false then
       printToAll('Moving row number ' .. tostring(rowNumber))
       for _, coordinates in ipairs(oneRow) do
-        found = LocationLib.getObjectsAt(coordinates)         -- The pair of coordinates is well defined
+        found = LocationLib.getObjectsAt(coordinates) -- The pair of coordinates is well defined
         for _, obj in ipairs(found) do
           if isLocationOrOpenSkies(obj) and not cannotBeMovedLocation(obj) then
             obj.highlightOn('Orange', 0.15)
@@ -499,7 +514,6 @@ function moveCardsSafely(someRows, isFrozen, rowNumbers)
 end
 
 function placeWindCardAccordingly()
-
   if windDirection == 'eastern' then
     makeSureIsFaceUp(self)
     printToAll('→→ Western winds will blow →→.', LIGHT_BLUE)
@@ -512,8 +526,8 @@ function placeWindCardAccordingly()
 end
 
 function canRemoveLocationsToSummitDeck(coordinatesToRemove, isFrozen)
-    -- This answers the question Which locations are going to be removed and
-    -- what rows are frozen
+  -- This answers the question Which locations are going to be removed and
+  -- what rows are frozen
 
   if #coordinatesToRemove ~= #isFrozen then
     error('canRemoveLocationsToSummitDeck::Implementation error in the relation toRemove-isFrozen.', 2)
@@ -558,141 +572,25 @@ function placeOnDeckOrVpDisplaySafelyCoroutine(locations, deckLocation)
   end
 end
 
--- Location helpers
-
-function makeSureIsFaceUp(card)
-    if card.is_face_down then
-        card.flip()
-    end
-end
-
-function makeSureIsFaceDown(card)
-    if not card.is_face_down then
-        card.flip()
-    end
-end
-
 function randomizeTwo(pairOrNot)
-    if #pairOrNot == 0 then
-        return pairOrNot
-    end
-    if #pairOrNot == 1 then
-        return pairOrNot
-    end
+  if #pairOrNot == 0 then
+    return pairOrNot
+  end
+  if #pairOrNot == 1 then
+    return pairOrNot
+  end
 
-    assert(#pairOrNot == 2, "Implementation error.")
+  assert(#pairOrNot == 2, "Implementation error.")
 
-    if math.random(2) == 1 then
-        return { pairOrNot[1], pairOrNot[2] }
-    else
-        return { pairOrNot[2], pairOrNot[1] }
-    end
-end
-
--- Generic getters
-
----@param name string
----@return tts__Object|nil
-function getObjectByName(name)
-    for _, obj in ipairs(getObjects()) do
-        if obj.getName() == name then
-            return obj
-        end
-    end
-end
-
----@param id string|number
----@return tts__Object|nil
-function getObjectById(id)
-    local objects = getAllObjects()
-    for _, obj in ipairs(objects) do
-        local md = JSON.decode(obj.getGMNotes() or "{}")
-        if md then
-            local id2 = md['id']
-            if id2 == id then
-                return obj
-            end
-        end
-        -- continue
-    end
-    return nil
-end
-
----@param obj tts__Object
----@return string|nil
-function getId(obj)
-    local md = JSON.decode(obj.getGMNotes() or "{}")
-    local id = nil
-    if md then
-        id = md['id'] or nil
-    end
-    return id
-end
-
----@param listA GridPos[]
----@param listB GridPos[]
----@return GridPos[]
-function exclude_pairs(listA, listB)
-    -- This function performs the exclusion operation on a set
-    -- And that set is made of pairs x,y
-
-    local function same_pos(a, b)
-        return a.x == b.x and a.y == b.y
-    end
-
-    local result = {}
-
-    for _, a in ipairs(listA) do
-        local found = false
-        for _, b in ipairs(listB) do
-            if same_pos(a, b) then
-                found = true
-                break
-            end
-        end
-        if not found then
-            table.insert(result, a)
-        end
-    end
-
-    return result
-end
-
-function takeFromBottom(deck, params)
-  if deck.tag ~= "Deck" then return end
-
-  local objects = deck.getObjects()
-  if #objects == 0 then return end
-
-  local bottomIndex = #objects
-  local bottomCardGUID = objects[bottomIndex].guid
-
-
-  params['guid'] = bottomCardGUID
-
-  deck.takeObject(params)
-end
-
--- Checks if a card has clues on it
----@param card tts__Object Card to check for clues
----@return boolean hasClues True if card has clues on it
-function cardHasClues(card)
-  local searchResult = SearchLib.onObject(card, "isClue")
-  return #searchResult > 0
-end
-
----@param location tts__Object Card to check for tokens
-function cleanLocationTokens(location)
-  local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
-  for _, obj in ipairs(SearchLib.onObject(location, "isTileOrToken")) do
-    if obj.memo and not obj.getLock() and obj.interactable then
-      trash.putObject(obj)
-    end
+  if math.random(2) == 1 then
+    return { pairOrNot[1], pairOrNot[2] }
+  else
+    return { pairOrNot[2], pairOrNot[1] }
   end
 end
 
 ------------------
--- Generic getters
+--- SCED generic functions>> generic getters or booleans
 ------------------
 
 ---@param name string
@@ -725,9 +623,87 @@ end
 ---@param obj tts__Object
 ---@return string|nil
 function getId(obj)
-  local md = JSON.decode(obj.getGMNotes() or "{}")
-  local id = md['id'] or nil
-  return id
+  if not obj then
+    return nil
+  elseif type(obj) ~= "userdata" then
+    log(obj)
+  end
+  local md = JSON.decode(obj.getGMNotes() or "{}") or {}
+  return md.id
+end
+
+---@param obj tts__Object
+---@return string|nil
+function getType(obj)
+  if not obj then
+    return nil
+  elseif type(obj) ~= "userdata" then
+    log(obj)
+  end
+  local md = JSON.decode(obj.getGMNotes() or "{}") or {}
+  return md.type or nil
+end
+
+-- Checks if a card has clues on it
+---@param card tts__Object Card to check for clues
+---@return boolean hasClues True if card has clues on it
+function cardHasClues(card)
+  local searchResult = SearchLib.onObject(card, "isClue")
+  return #searchResult > 0
+end
+
+---@param listA GridPos[]
+---@param listB GridPos[]
+---@return GridPos[]
+function exclude_pairs(listA, listB)
+  -- This function performs the exclusion operation on a set
+  -- And that set is made of pairs x,y
+
+  local function same_pos(a, b)
+    return a.x == b.x and a.y == b.y
+  end
+
+  local result = {}
+
+  for _, a in ipairs(listA) do
+    local found = false
+    for _, b in ipairs(listB) do
+      if same_pos(a, b) then
+        found = true
+        break
+      end
+    end
+    if not found then
+      table.insert(result, a)
+    end
+  end
+
+  return result
+end
+
+function takeFromBottom(deck, params)
+  if deck.tag ~= "Deck" then return end
+
+  local objects = deck.getObjects()
+  if #objects == 0 then return end
+
+  local bottomIndex = #objects
+  local bottomCardGUID = objects[bottomIndex].guid
+
+
+  params['guid'] = bottomCardGUID
+
+  deck.takeObject(params)
+end
+
+---@param location tts__Object Card to check for tokens
+function cleanLocationTokens(location)
+  local trash = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
+  for _, obj in ipairs(SearchLib.onObject(location, "isTileOrToken")) do
+    if obj.memo and not obj.getLock() and obj.interactable then
+      trash.putObject(obj)
+    end
+  end
 end
 
 ------------------
